@@ -23,9 +23,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Inject environment variables into Angular
-        env: # Step-level environment variables
-          PASSWORD_HASH: ${{ secrets.PASSWORD_HASH }} # Ensure this secret is set in your repository settings
+      # - name: Inject environment variables into Angular
+        # env: # Step-level environment variables
+          # PASSWORD_HASH: ${{ secrets.PASSWORD_HASH }} # Ensure this secret is set in your repository settings
         # run: |
           # Example: Inject environment variables into Angular's environment.ts
           # sed -i "s|PASSWORD_HASH_PLACEHOLDER|${{ env.PASSWORD_HASH }}|g" src/environments/environment.ts
