@@ -10,7 +10,7 @@
     "dev": "vite",
     "start": "npm run dev",
     "build": "vite build",
-    "build:gh": "ng build --base-href /artamizhsolai/",
+    "build:gh": "vite build --base=/artamizhsolai/",
     "watch": "vite build --watch",
     "test": "vitest",
     "preview": "node dist/analog/server/index.mjs",
