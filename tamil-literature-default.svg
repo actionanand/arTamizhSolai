@@ -1,0 +1,54 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#240046"></stop>
+      <stop offset="100%" stop-color="#5a189a"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"></rect>
+
+  <!-- Temple Pillars -->
+  <g fill="#cdb4db" opacity="0.25">
+    <rect x="60" y="150" width="80" height="380" rx="10"></rect>
+    <rect x="1060" y="150" width="80" height="380" rx="10"></rect>
+    <rect x="50" y="130" width="100" height="25"></rect>
+    <rect x="1050" y="130" width="100" height="25"></rect>
+  </g>
+
+  <!-- Big Background Tamil Letter 'ழ' (moved UP for masking) -->
+  <text x="600" y="210" text-anchor="middle" fill="#ffd166" font-size="260" opacity="0.25" font-family="Noto Serif Tamil, Latha, serif">
+    ழ
+  </text>
+
+  <!-- Main Tamil Title (masks the 'ழ') -->
+  <text x="600" y="310" text-anchor="middle" fill="#ffffff" font-size="92" font-weight="700" font-family="Noto Serif Tamil, Latha, serif">
+    தமிழ் இலக்கியம்
+  </text>
+
+  <!-- Subtitle in Tamil -->
+  <text x="600" y="360" text-anchor="middle" fill="#f1f1f1" font-size="36" font-family="Noto Serif Tamil, Latha, serif">
+    சங்கம் • பக்தி • நவீனம்
+  </text>
+
+  <!-- Divider -->
+  <line x1="360" y1="380" x2="840" y2="380" stroke="#ffd166" stroke-width="3"></line>
+
+  <!-- Thiruvalluvar (stylized) -->
+  <g transform="translate(550,400)">
+    <circle cx="50" cy="28" r="22" fill="#ffe5b4"></circle>
+    <rect x="30" y="55" width="40" height="80" rx="10" fill="#ffb703"></rect>
+    <rect x="18" y="80" width="22" height="34" rx="3" fill="#f4e1b5"></rect>
+    <line x1="22" y1="90" x2="36" y2="90" stroke="#8d6e63" stroke-width="2"></line>
+    <line x1="22" y1="102" x2="36" y2="102" stroke="#8d6e63" stroke-width="2"></line>
+  </g>
+
+  <!-- ஓலைச் சுவடி -->
+  <g transform="translate(250,520)">
+    <rect x="0" y="0" width="700" height="55" rx="12" fill="#f4e1b5"></rect>
+    <line x1="30" y1="18" x2="670" y2="18" stroke="#8d6e63" stroke-width="2"></line>
+    <line x1="30" y1="35" x2="670" y2="35" stroke="#8d6e63" stroke-width="2"></line>
+  </g>
+
+</svg>
