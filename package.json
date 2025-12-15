@@ -10,7 +10,7 @@
     "dev": "vite",
     "start": "npm run dev",
     "build": "vite build",
-    "build:gh": "vite build --base=/artamizhsolai/",
+    "build:gh": "GITHUB_PAGES=true vite build",
     "watch": "vite build --watch",
     "test": "vitest",
     "preview": "node dist/analog/server/index.mjs",
