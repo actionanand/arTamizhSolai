@@ -4,6 +4,8 @@ import { injectContentFiles } from '@analogjs/content';
 
 import PostAttributes from '../../post-attributes';
 
+const DEFAULT_COVER_IMAGE = '/tamil-literature-default.svg';
+
 @Component({
   selector: 'app-blog',
   imports: [RouterLink],
@@ -20,7 +22,7 @@ import PostAttributes from '../../post-attributes';
           <div class="post-preview__image-container">
             <img 
               class="post-preview__image" 
-              [src]="post.attributes.coverImage"
+              [src]="post.attributes.coverImage || defaultCoverImage"
               [alt]="post.attributes.title"
             />
           </div>
@@ -231,6 +233,7 @@ import PostAttributes from '../../post-attributes';
 export default class Blog {
   readonly posts = injectContentFiles<PostAttributes>();
   readonly pageSize = 15;
+  readonly defaultCoverImage = DEFAULT_COVER_IMAGE;
   currentPage = 1;
   totalPages = 1;
   pagedPosts: typeof this.posts = [];

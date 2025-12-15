@@ -22,6 +22,7 @@ import { HeadingLink } from '../utilities/markdown-utils';
               class="toc__link"
               [routerLink]="[]"
               [fragment]="heading.id"
+              (click)="scrollToElement(heading.id)"
             >
               {{ heading.text }}
             </a>
@@ -103,4 +104,14 @@ import { HeadingLink } from '../utilities/markdown-utils';
 })
 export class TableOfContentsComponent {
   @Input() headings: HeadingLink[] = [];
+
+  scrollToElement(elementId: string) {
+    // Add small delay to ensure the fragment navigation happens first
+    setTimeout(() => {
+      const element = document.getElementById(elementId);
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }, 0);
+  }
 }

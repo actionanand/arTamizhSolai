@@ -3,6 +3,8 @@ import { RouterLink } from '@angular/router';
 import { injectContentFiles } from '@analogjs/content';
 import PostAttributes from '../post-attributes';
 
+const DEFAULT_COVER_IMAGE = '/tamil-literature-default.svg';
+
 @Component({
   selector: 'app-home',
   standalone: true,
@@ -21,7 +23,7 @@ import PostAttributes from '../post-attributes';
         <article class="post-card">
           <img 
             class="post-card__image" 
-            [src]="post.attributes.coverImage" 
+            [src]="post.attributes.coverImage || defaultCoverImage" 
             [alt]="post.attributes.title"
           />
           <div class="post-card__content">
@@ -200,6 +202,7 @@ import PostAttributes from '../post-attributes';
 })
 export default class HomePage implements OnInit {
   posts = injectContentFiles<PostAttributes>();
+  readonly  defaultCoverImage = DEFAULT_COVER_IMAGE;
   recentPosts: typeof this.posts = [];
 
   ngOnInit() {

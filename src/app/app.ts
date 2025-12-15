@@ -11,7 +11,7 @@ import { NavbarComponent } from './components/navbar.component';
       <router-outlet />
     </main>
     <footer class="footer">
-      <p>&copy; 2025 AR Tamizh Solai. All rights reserved.</p>
+      <p>&copy; {{ copyrightYears }} AR Tamizh Solai. All rights reserved.</p>
     </footer>
   `,
   styles: `
@@ -53,4 +53,12 @@ import { NavbarComponent } from './components/navbar.component';
     }
   `,
 })
-export class App {}
+export class App {
+  readonly beginYear = 2025;
+  readonly currentYear = new Date().getFullYear();
+  get copyrightYears(): string {
+    return this.beginYear === this.currentYear
+      ? `${this.beginYear}`
+      : `${this.beginYear} - ${this.currentYear}`;
+  }
+}
