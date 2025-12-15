@@ -33,7 +33,7 @@ export default defineConfig(({ mode }) => {
           highlighter: 'shiki',
         },
         prerender: {
-          routes: ['/', '/blog', '/archive', '/blog/my-first-post-test', '/blog/2022-12-29-my-first-post-new', '/blog/2022-12-27-my-first-post'],
+          routes: ['/', '/blog', '/archive'],
         },
       }),
       htmlBasePlugin(),
