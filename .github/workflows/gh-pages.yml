@@ -40,12 +40,14 @@ jobs:
       - name: Copy error files to redirect to home
         run: npm run copy-error-page
 
+      - name: Create .nojekyll file
+        run: touch dist/analog/public/.nojekyll
+
       - name: Deploy
         if: success()
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          base_href: /${{ steps.package.outputs.name }}/ # make sure this corresponds to https://<your_username>.github.io/<base_href>/
           deploy_branch: gh-pages
           publish_dir: dist/analog/public
-          enable_jekyll: true
+          enable_jekyll: false
