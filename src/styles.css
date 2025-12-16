@@ -195,3 +195,158 @@ button:focus-visible {
 .analog-markdown p {
   text-align: left;
 }
+/* Admonitions/Callouts */
+.admonition {
+  border-left: 4px solid;
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  border-radius: 6px;
+  background-color: #f8f9fa;
+}
+
+.admonition__title {
+  font-weight: 600;
+  margin: 0 0 0.75rem 0;
+  font-size: 1.05rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.admonition__icon {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+.admonition__content {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.admonition__content p {
+  margin: 0.5rem 0;
+}
+
+.admonition__content p:first-child {
+  margin-top: 0;
+}
+
+.admonition__content p:last-child {
+  margin-bottom: 0;
+}
+
+/* Admonition color variants */
+.admonition--tip {
+  border-left-color: #17a2b8;
+  background-color: #e7f5f7;
+  color: #0c5460;
+}
+
+.admonition--tip .admonition__title {
+  color: #0a3d47;
+}
+
+.admonition--warning {
+  border-left-color: #ffc107;
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.admonition--warning .admonition__title {
+  color: #664d03;
+}
+
+.admonition--danger {
+  border-left-color: #dc3545;
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+.admonition--danger .admonition__title {
+  color: #491217;
+}
+
+.admonition--info {
+  border-left-color: #0d6efd;
+  background-color: #cfe2ff;
+  color: #084298;
+}
+
+.admonition--info .admonition__title {
+  color: #0a3622;
+}
+
+.admonition--note {
+  border-left-color: #6c757d;
+  background-color: #e2e3e5;
+  color: #383d41;
+}
+
+.admonition--note .admonition__title {
+  color: #262b2f;
+}
+
+.admonition--success {
+  border-left-color: #198754;
+  background-color: #d1e7dd;
+  color: #0f5132;
+}
+
+.admonition--success .admonition__title {
+  color: #0a3622;
+}
+
+.admonition--caution {
+  border-left-color: #ff6b6b;
+  background-color: #ffe0e0;
+  color: #d63031;
+}
+
+.admonition--caution .admonition__title {
+  color: #c92a2a;
+}
+
+.admonition--collapse {
+  border-left-color: #667eea;
+  background-color: #f0f2ff;
+  color: #3d3d9f;
+}
+
+.admonition--collapse summary {
+  cursor: pointer;
+  user-select: none;
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #3d3d9f;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.admonition--collapse summary::-webkit-details-marker {
+  display: none;
+}
+
+.admonition--collapse summary::marker {
+  display: none;
+}
+
+.admonition--collapse summary::before {
+  content: '▼';
+  font-size: 0.9rem;
+  transition: transform 0.2s ease;
+  display: inline-block;
+  width: 1em;
+  text-align: center;
+}
+
+.admonition--collapse[open] summary::before {
+  transform: rotate(0deg);
+  content: '▲';
+}
+
+.admonition--collapse summary:hover {
+  opacity: 0.8;
+}

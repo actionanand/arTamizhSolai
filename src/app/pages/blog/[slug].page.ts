@@ -1,10 +1,12 @@
 import { Component, OnInit, OnDestroy, AfterViewInit, AfterViewChecked, ViewChild, ElementRef, PLATFORM_ID, Inject, ChangeDetectorRef } from '@angular/core';
 import { isPlatformBrowser, AsyncPipe, CommonModule } from '@angular/common';
 import { RouterLink } from '@angular/router';
+import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { injectContent, injectContentFiles, MarkdownComponent } from '@analogjs/content';
 
 import PostAttributes from '../../post-attributes';
 import { extractHeadings, HeadingLink } from '../../utilities/markdown-utils';
+import { transformAdmonitions } from '../../utilities/marked-admonition-plugin';
 import { TableOfContentsComponent } from '../../components/table-of-contents.component';
 import { PostNavigationComponent } from '../../components/post-navigation.component';
 
@@ -368,7 +370,10 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
     // Run after view is fully initialized
     this.updateContentHeadings();
     if (this.isBrowser) {
-      setTimeout(() => this.initObserver(), 100);
+      setTimeout(() => {
+        this.transformAdmonitionsInContent();
+        this.initObserver();
+      }, 100);
     }
   }
 
@@ -419,6 +424,20 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
     if (extractedHeadings.length > 0 && !this.hasExtractedHeadings) {
       this.headings = extractedHeadings;
       this.hasExtractedHeadings = true;
+    }
+  }
+
+  private transformAdmonitionsInContent() {
+    if (!this.isBrowser || !this.contentRef?.nativeElement) {
+      return;
+    }
+    
+    const container = this.contentRef.nativeElement;
+    let html = container.innerHTML;
+    const transformed = transformAdmonitions(html);
+    
+    if (transformed !== html) {
+      container.innerHTML = transformed;
     }
   }
 
