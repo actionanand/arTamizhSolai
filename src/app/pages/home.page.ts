@@ -3,7 +3,7 @@ import { RouterLink } from '@angular/router';
 import { injectContentFiles } from '@analogjs/content';
 import PostAttributes from '../post-attributes';
 
-const DEFAULT_COVER_IMAGE = '/tamil-literature-default.svg';
+const DEFAULT_COVER_IMAGE = 'tamil-literature-default.svg';
 
 @Component({
   selector: 'app-home',

@@ -326,7 +326,7 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
 
   readonly post$ = injectContent<PostAttributes>('slug');
   readonly allPosts = injectContentFiles<PostAttributes>();
-  readonly defaultCoverImage = '/tamil-literature-default.svg';
+  readonly defaultCoverImage = 'tamil-literature-default.svg';
 
   headings: HeadingLink[] = [];
   recentPosts: any[] = [];
