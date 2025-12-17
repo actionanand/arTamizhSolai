@@ -6,9 +6,9 @@ import { injectContent, injectContentFiles, MarkdownComponent } from '@analogjs/
 
 import PostAttributes from '../../post-attributes';
 import { extractHeadings, HeadingLink } from '../../utilities/markdown-utils';
-import { transformAdmonitions } from '../../utilities/marked-admonition-plugin';
 import { TableOfContentsComponent } from '../../components/table-of-contents.component';
 import { PostNavigationComponent } from '../../components/post-navigation.component';
+import { AdmonitionTransformPipe } from '../../pipes/admonition-transform.pipe';
 
 @Component({
   selector: 'app-blog-post',
@@ -19,6 +19,7 @@ import { PostNavigationComponent } from '../../components/post-navigation.compon
     MarkdownComponent,
     TableOfContentsComponent,
     PostNavigationComponent,
+    AdmonitionTransformPipe,
   ],
   template: `
     @if (post$ | async; as post) {
@@ -46,7 +47,7 @@ import { PostNavigationComponent } from '../../components/post-navigation.compon
         }
 
         <div class="blog-post__content" #contentRef>
-          <analog-markdown [content]="post.content" />
+          <analog-markdown [content]="post.content | admonitionTransform" />
         </div>
       </div>
 
@@ -370,10 +371,7 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
     // Run after view is fully initialized
     this.updateContentHeadings();
     if (this.isBrowser) {
-      setTimeout(() => {
-        this.transformAdmonitionsInContent();
-        this.initObserver();
-      }, 100);
+      this.initObserver();
     }
   }
 
@@ -424,20 +422,6 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
     if (extractedHeadings.length > 0 && !this.hasExtractedHeadings) {
       this.headings = extractedHeadings;
       this.hasExtractedHeadings = true;
-    }
-  }
-
-  private transformAdmonitionsInContent() {
-    if (!this.isBrowser || !this.contentRef?.nativeElement) {
-      return;
-    }
-    
-    const container = this.contentRef.nativeElement;
-    let html = container.innerHTML;
-    const transformed = transformAdmonitions(html);
-    
-    if (transformed !== html) {
-      container.innerHTML = transformed;
     }
   }
 

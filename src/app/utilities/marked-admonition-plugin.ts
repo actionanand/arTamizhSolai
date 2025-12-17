@@ -13,11 +13,15 @@ const SVG_ICONS: Record<string, string> = {
   caution: 'data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiPg0KICA8cGF0aCBzdHJva2U9IiM1MzUzNTgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNMTUuMTIgNC42MjNhMSAxIDAgMDExLjc2IDBsMTEuMzIgMjAuOUExIDEgMCAwMTI3LjMyMSAyN0g0LjY3OWExIDEgMCAwMS0uODgtMS40NzZsMTEuMzIyLTIwLjl6TTE2IDE4di02Ii8+DQogIDxwYXRoIGZpbGw9IiM1MzUzNTgiIGQ9Ik0xNy41IDIyLjVhMS41IDEuNSAwIDExLTMgMCAxLjUgMS41IDAgMDEzIDB6Ii8+DQo8L3N2Zz4=',
 };
 
-export function transformAdmonitions(html: string): string {
-  // Pattern to match admonitions
+/**
+ * Transform admonitions in raw markdown content (before HTML conversion)
+ * Converts :::type content ::: blocks into HTML that will be embedded in markdown
+ */
+export function transformAdmonitions(markdown: string): string {
+  // Pattern to match admonitions in markdown
   const admonitionPattern = /:::(\w+)(?:\[(.*?)\])?\s*\n([\s\S]*?)\n:::/g;
 
-  return html.replace(admonitionPattern, (match, type, customTitle, content) => {
+  return markdown.replace(admonitionPattern, (match, type, customTitle, content) => {
     type = type.toLowerCase();
     const validTypes = ['tip', 'warning', 'danger', 'info', 'note', 'collapse', 'success', 'caution'];
 
@@ -43,25 +47,29 @@ export function transformAdmonitions(html: string): string {
 
     if (isCollapsible) {
       return `<details class="admonition admonition--collapse">
-        <summary class="admonition__title">
-          <span class="admonition__icon"></span>
-          ${title}
-        </summary>
-        <div class="admonition__content">
-          ${contentTrimmed}
-        </div>
-      </details>`;
+<summary class="admonition__title">
+<span class="admonition__icon"></span>
+${title}
+</summary>
+<div class="admonition__content">
+
+${contentTrimmed}
+
+</div>
+</details>`;
     }
 
     return `<div class="admonition admonition--${type}">
-      <div class="admonition__title">
-        <img class="admonition__icon" src="${icon}" alt="${type}" />
-        ${title}
-      </div>
-      <div class="admonition__content">
-        ${contentTrimmed}
-      </div>
-    </div>`;
+<div class="admonition__title">
+<img class="admonition__icon" src="${icon}" alt="${type}" />
+${title}
+</div>
+<div class="admonition__content">
+
+${contentTrimmed}
+
+</div>
+</div>`;
   });
 }
 
