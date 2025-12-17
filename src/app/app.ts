@@ -1,18 +1,17 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { NavbarComponent } from './components/navbar.component';
+import { FooterComponent } from './components/footer.component';
 
 @Component({
   selector: 'app-root',
-  imports: [NavbarComponent, RouterOutlet],
+  imports: [NavbarComponent, RouterOutlet, FooterComponent],
   template: `
     <app-navbar></app-navbar>
     <main class="main-container">
       <router-outlet />
     </main>
-    <footer class="footer">
-      <p>&copy; {{ copyrightYears }} AR Tamizh Solai. All rights reserved.</p>
-    </footer>
+    <app-footer></app-footer>
   `,
   styles: `
     :host {
@@ -29,36 +28,11 @@ import { NavbarComponent } from './components/navbar.component';
       width: 100%;
     }
 
-    .footer {
-      background-color: #f8f9fa;
-      border-top: 1px solid #dee2e6;
-      padding: 2rem;
-      text-align: center;
-      color: #6c757d;
-      margin-top: auto;
-    }
-
-    .footer p {
-      margin: 0;
-    }
-
     @media (max-width: 640px) {
       .main-container {
-        padding: 1rem;
-      }
-
-      .footer {
         padding: 1rem;
       }
     }
   `,
 })
-export class App {
-  readonly beginYear = 2025;
-  readonly currentYear = new Date().getFullYear();
-  get copyrightYears(): string {
-    return this.beginYear === this.currentYear
-      ? `${this.beginYear}`
-      : `${this.beginYear} - ${this.currentYear}`;
-  }
-}
+export class App {}

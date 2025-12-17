@@ -1,16 +1,23 @@
 import { Component } from '@angular/core';
 import { RouterLink, RouterLinkActive } from '@angular/router';
+import { CommonModule } from '@angular/common';
+import { SearchComponent } from './search.component';
 
 @Component({
   selector: 'app-navbar',
   standalone: true,
-  imports: [RouterLink, RouterLinkActive],
+  imports: [RouterLink, RouterLinkActive, CommonModule, SearchComponent],
   template: `
     <header class="navbar">
       <div class="navbar__container">
         <a routerLink="/" class="navbar__logo">
           <span class="navbar__logo-text">AR Tamizh Solai</span>
         </a>
+        
+        <div class="navbar__search-desktop">
+          <app-search />
+        </div>
+
         <nav class="navbar__nav">
           <a 
             routerLink="/" 
@@ -36,6 +43,10 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
           </a>
         </nav>
       </div>
+
+      <div class="navbar__search-mobile">
+        <app-search />
+      </div>
     </header>
   `,
   styles: `
@@ -54,6 +65,8 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
       display: flex;
       justify-content: space-between;
       align-items: center;
+      gap: 2rem;
+      flex-wrap: wrap;
     }
 
     .navbar__logo {
@@ -62,6 +75,7 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
       font-size: 1.25rem;
       color: #212529;
       transition: color 0.3s ease;
+      flex-shrink: 0;
     }
 
     .navbar__logo:hover {
@@ -75,6 +89,18 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
       background-clip: text;
     }
 
+    .navbar__search-desktop {
+      flex: 1;
+      max-width: 400px;
+      display: block;
+    }
+
+    .navbar__search-mobile {
+      display: none;
+      width: 100%;
+      padding: 0 2rem 1rem;
+    }
+
     .navbar__nav {
       display: flex;
       gap: 2rem;
@@ -86,6 +112,7 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
       font-weight: 500;
       transition: color 0.3s ease;
       position: relative;
+      white-space: nowrap;
     }
 
     .navbar__link:hover {
@@ -106,9 +133,32 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
       background-color: #0d6efd;
     }
 
-    @media (max-width: 640px) {
+    @media (max-width: 1024px) {
+      .navbar__container {
+        gap: 1rem;
+      }
+
+      .navbar__search-desktop {
+        max-width: 300px;
+      }
+
+      .navbar__nav {
+        gap: 1.5rem;
+      }
+    }
+
+    @media (max-width: 768px) {
       .navbar__container {
         padding: 0.75rem 1rem;
+      }
+
+      .navbar__search-desktop {
+        display: none;
+      }
+
+      .navbar__search-mobile {
+        display: block;
+        padding: 0 1rem 1rem;
       }
 
       .navbar__nav {
@@ -119,6 +169,19 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
         font-size: 1rem;
       }
     }
-  `,
+
+    @media (max-width: 640px) {
+      .navbar__container {
+        flex-direction: column;
+        gap: 1rem;
+      }
+
+      .navbar__nav {
+        order: 3;
+        width: 100%;
+        justify-content: center;
+      }
+    }
+  `
 })
 export class NavbarComponent {}
