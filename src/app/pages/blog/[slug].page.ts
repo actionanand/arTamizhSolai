@@ -703,8 +703,11 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
         const target = document.getElementById(targetId);
         if (target) {
           target.scrollIntoView({ behavior: 'smooth', block: 'center' });
-          // Update URL with full path including blog slug
-          const fullUrl = `/blog/${this.currentSlug}#${targetId}`;
+          // Get base href from document
+          const baseHref = document.querySelector('base')?.getAttribute('href') || '/';
+          const basePath = baseHref.endsWith('/') ? baseHref : `${baseHref}/`;
+          // Update URL with full path including base href and blog slug
+          const fullUrl = `${basePath}blog/${this.currentSlug}#${targetId}`;
           window.history.replaceState(null, '', fullUrl);
         }
       }
