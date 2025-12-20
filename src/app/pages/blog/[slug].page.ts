@@ -607,6 +607,13 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
         // Reset TOC state when navigating to a new post
         this.headings = [];
         this.hasExtractedHeadings = false;
+        
+        // Setup footnote navigation after content is loaded
+        if (this.isBrowser) {
+          setTimeout(() => {
+            this.setupFootnoteNavigation();
+          }, 100);
+        }
       }
     });
   }
@@ -692,6 +699,12 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
     const article = document.querySelector('article.blog-post');
     if (!article) return;
 
+    // Remove existing click listener by replacing the element (clone without listeners)
+    const newArticle = article.cloneNode(true) as HTMLElement;
+    if (article.parentNode) {
+      article.parentNode.replaceChild(newArticle, article);
+    }
+
     const handleFootnoteClick = (e: Event) => {
       const link = (e.target as HTMLElement);
       const dataFn = link.getAttribute('data-fn');
@@ -715,7 +728,7 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
     };
 
     // Use event delegation - attach single listener to article
-    article.addEventListener('click', (e: Event) => {
+    newArticle.addEventListener('click', (e: Event) => {
       const target = (e.target as HTMLElement);
       if (target.classList.contains('footnote-ref') || target.classList.contains('footnote-backref')) {
         handleFootnoteClick(e);
