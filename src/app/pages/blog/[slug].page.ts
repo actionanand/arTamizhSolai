@@ -708,6 +708,7 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
           const basePath = baseHref.endsWith('/') ? baseHref : `${baseHref}/`;
           // Update URL with full path including base href and blog slug
           const fullUrl = `${basePath}blog/${this.currentSlug}#${targetId}`;
+          console.log('Updating URL to:', fullUrl);
           window.history.replaceState(null, '', fullUrl);
         }
       }
