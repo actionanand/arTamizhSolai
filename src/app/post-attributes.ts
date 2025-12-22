@@ -19,5 +19,4 @@ export default interface PostAttributes {
   articleMetadata?: string;
   // Password protection
   enableLock?: boolean;
-  lockedPassword?: string; // SHA1 hash of the password
 }

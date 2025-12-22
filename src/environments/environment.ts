@@ -1,9 +1,7 @@
 export const environment = {
   production: false,
   googleFormId: '1FAIpQLSdd5maOire_u5ADq9ljlTQqy4LcYTrrZyoC8qHmGkDUaEXxMg',
-  // Default password for protected articles (SHA1 hash)
-  // Password: 'test123'
-  defaultProtectionPassword: '7288edd0fc3ffcbe93a0cf06e3568e28521687bc',
-  // Password expiration time in hours
-  passwordExpirationHours: 4,
+  // SHA1 hash of 'password123' - Change this to your desired password hash
+  // To generate: echo -n 'your_password' | shasum
+  passwordHash: 'cbfdac6008f9cab4083784cbd1874f76618d2a97'
 };
