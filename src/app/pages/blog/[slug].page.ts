@@ -1,6 +1,6 @@
-import { Component, OnInit, OnDestroy, AfterViewInit, AfterViewChecked, ViewChild, ElementRef, PLATFORM_ID, Inject, ChangeDetectorRef } from '@angular/core';
+import { Component, OnInit, OnDestroy, AfterViewInit, AfterViewChecked, ViewChild, ElementRef, PLATFORM_ID, Inject, ChangeDetectorRef, signal } from '@angular/core';
 import { isPlatformBrowser, AsyncPipe, CommonModule } from '@angular/common';
-import { RouterLink } from '@angular/router';
+import { RouterLink, Router } from '@angular/router';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { injectContent, injectContentFiles, MarkdownComponent } from '@analogjs/content';
 import { paginationConfig } from '../../config/pagination-config';
@@ -11,6 +11,8 @@ import { TableOfContentsComponent } from '../../components/table-of-contents.com
 import { PostNavigationComponent } from '../../components/post-navigation.component';
 import { AdmonitionTransformPipe } from '../../pipes/admonition-transform.pipe';
 import { ProcessFootnotesPipe } from '../../pipes/process-footnotes.pipe';
+import { PasswordModalComponent } from '../../components/password-modal.component';
+import { AuthService } from '../../services/auth.service';
 
 @Component({
   selector: 'app-blog-post',
@@ -23,9 +25,13 @@ import { ProcessFootnotesPipe } from '../../pipes/process-footnotes.pipe';
     PostNavigationComponent,
     AdmonitionTransformPipe,
     ProcessFootnotesPipe,
+    PasswordModalComponent,
   ],
   template: `
+    <app-password-modal></app-password-modal>
+    
     @if (post$ | async; as post) {
+    @if (isContentAccessible()) {
     <article class="blog-post">
       <header class="blog-post__header">
         <h1 class="blog-post__title">{{ post.attributes.title }}</h1>
@@ -164,8 +170,13 @@ import { ProcessFootnotesPipe } from '../../pipes/process-footnotes.pipe';
         [previousPost]="previousPost"
         [nextPost]="nextPost"
       ></app-post-navigation>
-    </article>
-    }
+    </article>    } @else {
+    <div class="locked-content">
+      <div class="locked-icon">🔒</div>
+      <h2>Protected Content</h2>
+      <p>This article is password protected. Please unlock to view.</p>
+    </div>
+    }    }
   `,
   styles: `
     .blog-post {
@@ -551,13 +562,43 @@ import { ProcessFootnotesPipe } from '../../pipes/process-footnotes.pipe';
       font-weight: 600;
       margin-right: 0.5rem;
     }
+
+    .locked-content {
+      max-width: 600px;
+      margin: 4rem auto;
+      padding: 3rem 2rem;
+      text-align: center;
+      background: #f8f9fa;
+      border: 2px dashed #dee2e6;
+      border-radius: 12px;
+    }
+
+    .locked-icon {
+      font-size: 4rem;
+      margin-bottom: 1.5rem;
+      opacity: 0.6;
+    }
+
+    .locked-content h2 {
+      margin: 0 0 1rem 0;
+      color: #495057;
+      font-size: 1.75rem;
+    }
+
+    .locked-content p {
+      margin: 0;
+      color: #6c757d;
+      font-size: 1.125rem;
+    }
   `,
 })
 export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked, OnDestroy {
   @ViewChild('contentRef') contentRef?: ElementRef;
+  @ViewChild(PasswordModalComponent) passwordModal?: PasswordModalComponent;
 
   readonly post$ = injectContent<PostAttributes>('slug');
   readonly defaultCoverImage = 'tamil-literature-default.svg';
+  isContentAccessible = signal(true);
   
   private allPostsData: any;
   allPosts: any[] = [];
@@ -577,7 +618,9 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
 
   constructor(
     @Inject(PLATFORM_ID) platformId: object,
-    private cdr: ChangeDetectorRef
+    private cdr: ChangeDetectorRef,
+    private authService: AuthService,
+    private router: Router
   ) {
     this.isBrowser = isPlatformBrowser(platformId);
     
@@ -592,10 +635,18 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
     });
   }
 
-  ngOnInit() {
-    this.post$.subscribe((post) => {
+  async ngOnInit() {
+    this.post$.subscribe(async (post) => {
       if (post) {
         this.currentSlug = post.attributes.slug;
+        
+        // Check if content is locked and handle authentication
+        if (post.attributes.enableLock) {
+          await this.handleAuthentication();
+        } else {
+          this.isContentAccessible.set(true);
+        }
+        
         // frontmatter overrides
         this.showToc = post.attributes.toc !== false; // default true
         this.showDisclaimer = post.attributes.disclaimerEnabled !== false; // default true
@@ -778,6 +829,34 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
         this.relatedPosts.push(post);
       }
     });
+  }
+
+  /**
+   * Handle authentication for password-protected content
+   */
+  private async handleAuthentication(): Promise<void> {
+    // Check if already authenticated
+    if (this.authService.isAuthenticated()) {
+      this.isContentAccessible.set(true);
+      return;
+    }
+
+    // Prompt for password
+    this.isContentAccessible.set(false);
+    
+    // Wait a bit for modal to be ready
+    setTimeout(async () => {
+      if (this.passwordModal) {
+        const authenticated = await this.passwordModal.show();
+        if (authenticated) {
+          this.isContentAccessible.set(true);
+          this.cdr.detectChanges();
+        } else {
+          // User cancelled - redirect to blog home
+          this.router.navigate(['/blog']);
+        }
+      }
+    }, 100);
   }
 }
 

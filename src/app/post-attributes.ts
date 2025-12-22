@@ -17,4 +17,6 @@ export default interface PostAttributes {
   epicName?: string;
   verseNumber?: string;
   articleMetadata?: string;
+  // Password protection
+  enableLock?: boolean;
 }
