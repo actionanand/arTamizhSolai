@@ -20,5 +20,5 @@ disclaimerText: This article is for informational purposes only.
 <p>More detailed content about the topic goes here. You can include code examples:</p><pre class="shiki github-dark" style="background-color:#24292e;color:#e1e4e8" tabindex="0"><code><span class="line"><span style="color:#F97583">function</span><span style="color:#B392F0"> greet</span><span style="color:#E1E4E8">(</span><span style="color:#FFAB70">name</span><span style="color:#F97583">:</span><span style="color:#79B8FF"> string</span><span style="color:#E1E4E8">)</span><span style="color:#F97583">:</span><span style="color:#79B8FF"> string</span><span style="color:#E1E4E8"> {</span></span>
 <span class="line"><span style="color:#F97583">  return</span><span style="color:#9ECBFF"> \`Hello, \${</span><span style="color:#E1E4E8">name</span><span style="color:#9ECBFF">}!\`</span><span style="color:#E1E4E8">;</span></span>
 <span class="line"><span style="color:#E1E4E8">}</span></span></code></pre>
-<h2 id="conclusion">Conclusion</h2>
+<h2 id="conclusion-1">Conclusion</h2>
 <p>This concludes the example blog post. You can create your own posts following this format!</p>`;export{n as default};
