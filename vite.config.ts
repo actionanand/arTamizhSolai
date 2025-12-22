@@ -4,7 +4,8 @@ import { defineConfig, Plugin } from 'vite';
 import analog from '@analogjs/platform';
 
 // https://vitejs.dev/config/
-export default defineConfig(({ mode }) => {
+export default defineConfig(({ mode, command }) => {
+  const isProduction = mode === 'production' || process.env['GITHUB_PAGES'] === 'true';
   const isGitHubPages = process.env['GITHUB_PAGES'] === 'true';
   const base = isGitHubPages ? '/artamizhsolai/' : '/';
 

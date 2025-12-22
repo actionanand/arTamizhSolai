@@ -1,4 +1,4 @@
-export const environment = {
+export default {
   production: true,
   googleFormId: '1FAIpQLSdd5maOire_u5ADq9ljlTQqy4LcYTrrZyoC8qHmGkDUaEXxMg',
   // SHA1 hash of 'password123' - Change this to your desired password hash

@@ -1,5 +1,11 @@
 import { Injectable } from '@angular/core';
-import { environment } from '../../environments/environment';
+
+// Import environment files conditionally based on build mode
+import devEnvironment from '../../environments/environment';
+import prodEnvironment from '../../environments/environment.prod';
+
+// Select environment based on production flag
+const environment = import.meta.env.PROD ? prodEnvironment : devEnvironment;
 
 interface PasswordCache {
   hash: string;
