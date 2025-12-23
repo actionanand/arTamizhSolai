@@ -1,0 +1,46 @@
+/* Text Formatting Styles */
+
+/* Text alignment classes */
+.text-align-left {
+  display: block;
+  text-align: left;
+}
+
+.text-align-center {
+  display: block;
+  text-align: center;
+}
+
+.text-align-right {
+  display: block;
+  text-align: right;
+}
+
+.text-align-justify {
+  display: block;
+  text-align: justify;
+}
+
+/* Utility classes for formatted text */
+.text-format-highlight {
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+/* Ensure inline formatting doesn't break layout */
+span[style*="background-color"],
+span[style*="color"],
+span[style*="font-weight"],
+span[style*="font-style"],
+span[style*="text-decoration"] {
+  padding: 1px 2px;
+}
+
+/* Block-level formatting for alignment */
+span.text-align-left,
+span.text-align-center,
+span.text-align-right,
+span.text-align-justify {
+  display: block;
+  padding: 0.5rem 0;
+}

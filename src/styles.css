@@ -1,6 +1,9 @@
 /* Import footnotes styling */
 @import './styles/footnotes.css';
 
+/* Import text formatting styling */
+@import './styles/text-format.css';
+
 /* Global Styles */
 :root {
   font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
