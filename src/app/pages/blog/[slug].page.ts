@@ -13,6 +13,7 @@ import { AdmonitionTransformPipe } from '../../pipes/admonition-transform.pipe';
 import { ProcessFootnotesPipe } from '../../pipes/process-footnotes.pipe';
 import { TextFormatPipe } from '../../pipes/text-format.pipe';
 import { CardFormatPipe } from '../../pipes/card-format.pipe';
+import { TabsPipe } from '../../pipes/tabs.pipe';
 import { PasswordModalComponent } from '../../components/password-modal.component';
 import { AuthService } from '../../services/auth.service';
 
@@ -29,6 +30,7 @@ import { AuthService } from '../../services/auth.service';
     ProcessFootnotesPipe,
     TextFormatPipe,
     CardFormatPipe,
+    TabsPipe,
     PasswordModalComponent,
   ],
   template: `
@@ -99,7 +101,7 @@ import { AuthService } from '../../services/auth.service';
 
         <div class="blog-post__content" #contentRef>
           @if (post.content) {
-          <analog-markdown [content]="(typeof post.content === 'string' ? post.content : '') | processFootnotes | admonitionTransform | textFormat | cardFormat" />
+          <analog-markdown [content]="(typeof post.content === 'string' ? post.content : '') | processFootnotes | admonitionTransform | textFormat | cardFormat | tabs" />
           }
         </div>
       </div>

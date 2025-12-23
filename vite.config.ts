@@ -2,6 +2,7 @@
 
 import { defineConfig, Plugin } from 'vite';
 import analog from '@analogjs/platform';
+import { bundledLanguages } from 'shiki';
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode, command }) => {
@@ -32,6 +33,28 @@ export default defineConfig(({ mode, command }) => {
       analog({
         content: {
           highlighter: 'shiki',
+        shikiOptions: {
+          highlight: {
+            // alternate theme
+            theme: 'ayu-dark'
+          },
+          highlighter: {
+             // add more languages
+            additionalLangs: [
+              'javascript',
+              'typescript',
+              'python',
+              'java',
+              'ruby',
+              'c',
+              'cpp',
+              'json',
+              'yaml',
+              'markdown',
+              'bash'
+            ],
+          },
+        },
         },
         prerender: {
           routes: ['/', '/blog', '/archive'],

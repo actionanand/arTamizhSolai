@@ -10,6 +10,9 @@
 /* Import card styling */
 @import './styles/cards.css';
 
+/* Import tabs styling */
+@import './styles/tabs.css';
+
 /* Global Styles */
 :root {
   font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
