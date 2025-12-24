@@ -42,12 +42,12 @@ export const donationPlatforms: DonationPlatform[] = [
     enabled: true,
     type: 'qr',
     qrData: 'upi://pay?pa=anand@oksbi&pn=Anand&am=&cu=INR&tn=Support%20Blog',
-    qrImage: 'gpay-anand.svg',
+    qrImage: 'gpay-anand.png',
     description: 'Pay via UPI using Google Pay or any UPI app'
   },
   {
     name: 'PayPal',
-    url: 'https://paypal.me/yourpaypallink',
+    url: 'https://paypal.me/actionanand',
     icon: 'paypal',
     enabled: true,
     type: 'redirect',
@@ -55,7 +55,7 @@ export const donationPlatforms: DonationPlatform[] = [
   },
   {
     name: 'Buy Me A Coffee',
-    url: 'https://buymeacoffee.com/yourusername',
+    url: 'https://buymeacoffee.com/actionanand',
     icon: 'buymeacoffee',
     enabled: true,
     type: 'redirect',
@@ -63,7 +63,7 @@ export const donationPlatforms: DonationPlatform[] = [
   },
   {
     name: 'GitHub Sponsors',
-    url: 'https://github.com/sponsors/yourusername',
+    url: 'https://github.com/sponsors/actionanand',
     icon: 'github-sponsors',
     enabled: false,
     type: 'redirect',
@@ -79,7 +79,7 @@ export const donationPlatforms: DonationPlatform[] = [
   },
   {
     name: 'Ko-fi',
-    url: 'https://ko-fi.com/yourusername',
+    url: 'https://ko-fi.com/actionanand',
     icon: 'kofi',
     enabled: false,
     type: 'redirect',
