@@ -15,6 +15,7 @@ import { TextFormatPipe } from '../../pipes/text-format.pipe';
 import { CardFormatPipe } from '../../pipes/card-format.pipe';
 import { TabsPipe } from '../../pipes/tabs.pipe';
 import { PasswordModalComponent } from '../../components/password-modal.component';
+import { DonationComponent } from '../../components/donation.component';
 import { AuthService } from '../../services/auth.service';
 
 @Component({
@@ -32,6 +33,7 @@ import { AuthService } from '../../services/auth.service';
     CardFormatPipe,
     TabsPipe,
     PasswordModalComponent,
+    DonationComponent,
   ],
   template: `
     <app-password-modal></app-password-modal>
@@ -119,6 +121,9 @@ import { AuthService } from '../../services/auth.service';
         <p>{{ disclaimerText }}</p>
       </section>
       }
+
+      <!-- Donation Section -->
+      <app-donation [postAttributes]="post.attributes"></app-donation>
 
       <section class="blog-post__related">
         @if (relatedPosts.length > 0) {

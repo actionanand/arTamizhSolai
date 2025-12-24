@@ -1,0 +1,88 @@
+export interface DonationPlatform {
+  name: string;
+  url: string;
+  icon: string;
+  enabled: boolean;
+  type: 'redirect' | 'qr' | 'modal';
+  qrData?: string; // For QR-based donations like GPay UPI
+  qrImage?: string; // Path to QR image file
+  description?: string; // For tooltips or additional info
+}
+
+/**
+ * Global donation configuration
+ * Controls whether donations are shown across the blog
+ */
+export const donationConfig = {
+  // Global toggle for donations
+  enabled: true,
+  
+  // Whether to show donations on all posts by default
+  showOnAllPosts: true,
+  
+  // Title displayed above donation section
+  sectionTitle: 'Support This Content',
+  
+  // Optional message to display with donations
+  message: 'If you found this content helpful, consider supporting the author.',
+  
+  // Position relative to disclaimer (if disclaimer is enabled)
+  showAfterDisclaimer: true
+};
+
+/**
+ * Available donation platforms
+ * Configure your donation methods here
+ */
+export const donationPlatforms: DonationPlatform[] = [
+  {
+    name: 'GPay',
+    url: '', // Not used for QR type
+    icon: 'gpay',
+    enabled: true,
+    type: 'qr',
+    qrData: 'upi://pay?pa=anand@oksbi&pn=Anand&am=&cu=INR&tn=Support%20Blog',
+    qrImage: 'gpay-anand.svg',
+    description: 'Pay via UPI using Google Pay or any UPI app'
+  },
+  {
+    name: 'PayPal',
+    url: 'https://paypal.me/yourpaypallink',
+    icon: 'paypal',
+    enabled: true,
+    type: 'redirect',
+    description: 'Support via PayPal'
+  },
+  {
+    name: 'Buy Me A Coffee',
+    url: 'https://buymeacoffee.com/yourusername',
+    icon: 'buymeacoffee',
+    enabled: true,
+    type: 'redirect',
+    description: 'Buy me a coffee to support my work'
+  },
+  {
+    name: 'GitHub Sponsors',
+    url: 'https://github.com/sponsors/yourusername',
+    icon: 'github-sponsors',
+    enabled: false,
+    type: 'redirect',
+    description: 'Become a GitHub sponsor'
+  },
+  {
+    name: 'Patreon',
+    url: 'https://patreon.com/yourusername',
+    icon: 'patreon',
+    enabled: false,
+    type: 'redirect',
+    description: 'Support via Patreon'
+  },
+  {
+    name: 'Ko-fi',
+    url: 'https://ko-fi.com/yourusername',
+    icon: 'kofi',
+    enabled: false,
+    type: 'redirect',
+    description: 'Support via Ko-fi'
+  }
+];
