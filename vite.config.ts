@@ -29,6 +29,10 @@ export default defineConfig(({ mode, command }) => {
     resolve: {
       mainFields: ['module'],
     },
+    define: {
+      // Expose Cloudflare environment variables to client-side code
+      __PASSWORD_HASH__: JSON.stringify(process.env['PASSWORD_HASH'] || process.env['VITE_PASSWORD_HASH']),
+    },
     plugins: [
       analog({
         content: {
