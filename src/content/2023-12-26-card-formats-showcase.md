@@ -4,11 +4,10 @@ slug: 'card-formats-showcase'
 description: 'Explore beautiful card formats for highlighting epic verses, quotes, and important content. Showcase includes quote cards, verse cards, epic cards, and more.'
 date: '2023-12-26'
 category: 'tutorial'
-tags: ['cards', 'formatting', 'verses', 'quotes', 'design']
+tags: ['guide']
 author: 'arTamizhSolai Team'
 articleMetadata: 'Complete guide to card formatting and highlighting'
-isPinned: true
-isDraft: false
+isDraft: true
 ---
 
 # Card Formats Showcase

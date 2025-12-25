@@ -3,12 +3,12 @@ title: 'Interactive Tabs - Organize Content Like Docusaurus'
 slug: 'interactive-tabs-showcase'
 description: 'Learn how to use interactive tabs to organize and present content in an engaging, user-friendly way. Perfect for code examples, comparisons, and step-by-step guides.'
 date: '2023-12-27'
-category: 'tutorial'
-tags: ['tabs', 'formatting', 'documentation', 'interactive', 'ui']
+category: tutorial
+tags:
+  - guide
 author: 'arTamizhSolai Team'
 articleMetadata: 'Complete guide to using tabs for better content organization'
-isPinned: true
-isDraft: false
+isDraft: true
 ---
 
 # Interactive Tabs - Organize Content Like Docusaurus

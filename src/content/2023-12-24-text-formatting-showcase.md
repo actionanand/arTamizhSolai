@@ -4,10 +4,10 @@ slug: 'text-formatting-showcase'
 description: 'Learn how to use advanced text formatting in your blog posts with colors, backgrounds, alignments, and more. This comprehensive guide demonstrates all available formatting options.'
 date: '2023-12-24'
 category: 'tutorial'
-tags: ['formatting', 'markdown', 'styling', 'guide']
+tags: ['guide']
 author: 'arTamizhSolai Team'
 articleMetadata: 'Complete guide to text formatting features'
-isPinned: true
+isDraft: true
 ---
 
 # Text Formatting Showcase

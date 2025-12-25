@@ -4,13 +4,16 @@ slug: my-first-post-test
 description: My First Post Description
 date: December 12, 2022
 toc: false
-category: "Technology"
-tags: ["angular", "typescript", "web-development"]
+category: tutorial
+tags:
+  - guide
 author: "Ilango Adigal"
 epicName: "Silappatikaram"
 verseNumber: "I (Book I)"
 articleMetadata: "Written during the Sangam period, 5,730 lines"
-isPinned: true
+isDraft: true
+enableDonation: true
+donationMessage: "This comprehensive guide took significant time to create. Your support helps me continue building useful features for the community!"
 ---
 
 # Example Blog Post
