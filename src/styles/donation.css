@@ -48,10 +48,64 @@
 
 .donation-platforms {
   display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+/* Rows inside donation-platforms */
+.donation-row {
+  display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 1rem;
-  margin-top: 1rem;
+}
+
+.donation-row-gpay {
+  justify-content: center;
+}
+
+/* GPay inline card */
+.gpay-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  background: white;
+  border-radius: 10px;
+  border: 2px solid #e9ecef;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  max-width: 260px;
+}
+
+.gpay-qr {
+  max-width: 250px;
+  max-height: 250px;
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid #dee2e6;
+  background: white;
+}
+
+.gpay-upi-id {
+  margin: 0 0 0.25rem 0;
+  font-size: .8rem;
+  color: #495057;
+  font-family: monospace;
+  background: #f8f9fa;
+  padding: 0.25rem 0.5rem;
+  border-radius: 8px;
+  border: 1px solid #dee2e6;
+  font-weight: 600;
+}
+
+.gpay-upi-label {
+  color: #6c757d;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 .donation-platform {
@@ -66,7 +120,7 @@
   cursor: pointer;
   transition: all 0.3s ease;
   min-width: 120px;
-  min-height: 80px;
+  min-height: 30px;
   text-decoration: none;
   position: relative;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
@@ -326,7 +380,7 @@
     padding: 1rem;
   }
 
-  .donation-platforms {
+  .donation-row {
     gap: 0.75rem;
   }
 
@@ -368,7 +422,7 @@
     font-size: 0.9rem;
   }
 
-  .donation-platforms {
+  .donation-row {
     gap: 0.5rem;
   }
 
@@ -444,6 +498,25 @@
   }
 
   .qr-upi-id small {
+    color: #a0aec0;
+  }
+  .gpay-card {
+    background: #2d3748;
+    border-color: #4a5568;
+  }
+
+  .gpay-qr {
+    border-color: #4a5568;
+    background: white;
+  }
+
+  .gpay-upi-id {
+    color: #e2e8f0;
+    background: #1a202c;
+    border-color: #4a5568;
+  }
+
+  .gpay-upi-label {
     color: #a0aec0;
   }
 }

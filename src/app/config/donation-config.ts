@@ -4,7 +4,7 @@ export interface DonationPlatform {
   icon: string;
   enabled: boolean;
   type: 'redirect' | 'qr' | 'modal';
-  qrData?: string; // For QR-based donations like GPay UPI
+  upiId?: string; // UPI ID for QR-based donations like GPay
   qrImage?: string; // Path to QR image file
   description?: string; // For tooltips or additional info
 }
@@ -41,7 +41,7 @@ export const donationPlatforms: DonationPlatform[] = [
     icon: 'gpay',
     enabled: true,
     type: 'qr',
-    qrData: 'upi://pay?pa=anandns@oksbi&pn=Anand&am=&cu=INR&tn=Support%20Blog',
+    upiId: 'anand@oksbi',
     qrImage: 'gpay-anand.png',
     description: 'Pay via UPI using Google Pay or any UPI app'
   },
@@ -65,7 +65,7 @@ export const donationPlatforms: DonationPlatform[] = [
     name: 'GitHub Sponsors',
     url: 'https://github.com/sponsors/actionanand',
     icon: 'github-sponsors',
-    enabled: false,
+    enabled: true,
     type: 'redirect',
     description: 'Become a GitHub sponsor'
   },
@@ -81,7 +81,7 @@ export const donationPlatforms: DonationPlatform[] = [
     name: 'Ko-fi',
     url: 'https://ko-fi.com/actionanand',
     icon: 'kofi',
-    enabled: false,
+    enabled: true,
     type: 'redirect',
     description: 'Support via Ko-fi'
   }
