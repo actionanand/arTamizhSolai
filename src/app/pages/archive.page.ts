@@ -72,12 +72,12 @@ import PostAttributes from '../post-attributes';
       </div>
       }
 
-      @for (year of years; track year) {
-      @if (getPostsForYear(year).length > 0) {
+      @for (year of filteredYears; track year) {
+      @if (getPagedPostsForYear(year).length > 0) {
       <section class="archive-year">
         <h2 class="archive-year__title">{{ year }}</h2>
         <ul class="archive-year__list">
-          @for (post of getPostsForYear(year); track post.attributes.slug) {
+          @for (post of getPagedPostsForYear(year); track post.attributes.slug) {
           <li class="archive-year__item">
             <div class="archive-year__post">
               <a [routerLink]="['/blog', post.attributes.slug]" class="archive-year__link">
@@ -113,6 +113,26 @@ import PostAttributes from '../post-attributes';
         <p>No posts found for the selected filters.</p>
         <button class="reset-btn" (click)="resetFilters()">Reset Filters</button>
       </div>
+      }
+
+      @if (filteredPosts.length > 0 && totalPages > 1) {
+      <nav class="pagination">
+        <button 
+          class="page-btn" 
+          [disabled]="currentPage === 1" 
+          (click)="goToPage(currentPage - 1)"
+        >
+          ← Prev
+        </button>
+        <span class="page-info">Page {{ currentPage }} of {{ totalPages }} ({{ filteredPosts.length }} posts)</span>
+        <button 
+          class="page-btn" 
+          [disabled]="currentPage === totalPages" 
+          (click)="goToPage(currentPage + 1)"
+        >
+          Next →
+        </button>
+      </nav>
       }
     </div>
   `,
@@ -280,6 +300,48 @@ import PostAttributes from '../post-attributes';
       font-weight: 600;
     }
 
+    /* Pagination */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 1rem;
+      margin: 3rem 0 2rem;
+      flex-wrap: wrap;
+    }
+
+    .page-btn {
+      padding: 0.5rem 1rem;
+      background: #0d6efd;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 0.9rem;
+      transition: all 0.2s ease;
+    }
+
+    .page-btn:hover:not(:disabled) {
+      background: #0b5ed7;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(13, 110, 253, 0.3);
+    }
+
+    .page-btn:disabled {
+      background: #dee2e6;
+      color: #6c757d;
+      cursor: not-allowed;
+      opacity: 0.6;
+    }
+
+    .page-info {
+      font-weight: 600;
+      color: #495057;
+      min-width: 200px;
+      text-align: center;
+    }
+
     .no-posts {
       text-align: center;
       padding: 2rem;
@@ -324,13 +386,18 @@ import PostAttributes from '../post-attributes';
 })
 export default class YearArchivePage {
   readonly posts = injectContentFiles<PostAttributes>();
+  readonly pageSize = paginationConfig.archivePageSize;
   grouped: Record<string, typeof this.posts> = {};
   years: string[] = [];
   filteredYears: string[] = [];
+  filteredPosts: typeof this.posts = [];
+  pagedPosts: typeof this.posts = [];
   availableCategories: string[] = [];
   availableTags: string[] = [];
   selectedCategory: string | null = null;
   selectedTags: string[] = [];
+  currentPage = 1;
+  totalPages = 1;
   readonly maxPerYear = paginationConfig.archivePageSize;
 
   constructor(private route: ActivatedRoute) {
@@ -414,6 +481,8 @@ export default class YearArchivePage {
       return matchesCategory && matchesTags;
     });
 
+    this.filteredPosts = filteredPosts;
+    
     const yearsWithPosts = new Set<string>();
     filteredPosts.forEach(post => {
       const dateStr = post.attributes.date || '';
@@ -423,10 +492,16 @@ export default class YearArchivePage {
     });
 
     this.filteredYears = this.years.filter(year => yearsWithPosts.has(year));
+    
+    // Calculate pagination
+    this.totalPages = Math.max(1, Math.ceil(this.filteredPosts.length / this.pageSize));
+    this.currentPage = 1;
+    this.updatePagedPosts();
   }
 
   setCategory(category: string | null) {
     this.selectedCategory = category;
+    this.currentPage = 1;
     this.applyFilters();
   }
 
@@ -436,11 +511,13 @@ export default class YearArchivePage {
     } else {
       this.selectedTags = [...this.selectedTags, tag];
     }
+    this.currentPage = 1;
     this.applyFilters();
   }
 
   clearTags() {
     this.selectedTags = [];
+    this.currentPage = 1;
     this.applyFilters();
   }
 
@@ -448,6 +525,28 @@ export default class YearArchivePage {
     this.selectedCategory = null;
     this.selectedTags = [];
     this.applyFilters();
+  }
+
+  private updatePagedPosts() {
+    const start = (this.currentPage - 1) * this.pageSize;
+    const end = start + this.pageSize;
+    this.pagedPosts = this.filteredPosts.slice(start, end);
+  }
+
+  goToPage(page: number) {
+    if (page < 1 || page > this.totalPages) return;
+    this.currentPage = page;
+    this.updatePagedPosts();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  getPagedPostsForYear(year: string): typeof this.posts {
+    return this.pagedPosts.filter(post => {
+      const dateStr = post.attributes.date || '';
+      const yearMatch = dateStr.match(/(\d{4})/);
+      const postYear = yearMatch ? yearMatch[1] : 'Unknown';
+      return postYear === year;
+    });
   }
 
   getPostsForYear(year: string): typeof this.posts {

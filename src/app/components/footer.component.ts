@@ -1,12 +1,13 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { RouterLink } from '@angular/router';
 import { ContactModalComponent } from './contact-modal.component';
 import { socialIcons, SocialIcon } from '../config/social-config';
 
 @Component({
   selector: 'app-footer',
   standalone: true,
-  imports: [CommonModule, ContactModalComponent],
+  imports: [CommonModule, RouterLink, ContactModalComponent],
   template: `
     <footer class="footer">
       <div class="footer__container">
@@ -18,10 +19,10 @@ import { socialIcons, SocialIcon } from '../config/social-config';
           <div class="footer__section">
             <h3>Quick Links</h3>
             <div class="footer__quick-links">
-              <a href="/">Home</a>
-              <a href="/blog">Blog</a>
-              <a href="/archive">Archive</a>
-              <a href="/about">About Author</a>
+              <a routerLink="/">Home</a>
+              <a routerLink="/blog">Blog</a>
+              <a routerLink="/archive">Archive</a>
+              <a routerLink="/about">About Author</a>
             </div>
           </div>
         </div>
