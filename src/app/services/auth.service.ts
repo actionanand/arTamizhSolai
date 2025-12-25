@@ -37,7 +37,20 @@ export class AuthService {
    */
   async validatePassword(password: string): Promise<boolean> {
     const hash = await this.sha1(password);
-    return hash === environment.passwordHash;
+    
+    // Try multiple sources for password hash (in priority order)
+    // 1. Cloudflare environment variable (exposed via Vite define) // I got output as undefined here
+    const cloudflareHash = (globalThis as any).__PASSWORD_HASH__;
+    // 2. Direct import.meta.env access (fallback)
+    const metaHash = import.meta.env['VITE_PASSWORD_HASH'] as string | undefined;
+    // 3. Environment file
+    const envHash = environment.passwordHash;
+    
+    return (
+      hash === cloudflareHash ||
+      hash === metaHash ||
+      hash === envHash
+    );
   }
 
   /**
