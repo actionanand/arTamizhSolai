@@ -62,6 +62,16 @@ For generating [SHA1](https://emn178.github.io/online-tools/sha1.html) online
 
 Run `npm run build` to build the client/server project. The client build artifacts are located in the `dist/analog/public` directory. The server for the API build artifacts are located in the `dist/analog/server` directory.
 
+## Deploymnet
+
+1. Merging with `main-github` will trigger GitHub Deployment
+2. Merging with `main-cloudflare` will trigger Cloudflare Deployment
+
+## Live URLs
+
+1. https://actionanand.github.io/artamizhsolai/
+2. https://artamizhsolai.pages.dev/
+
 ## Test
 
 Run `npm run test` to run unit tests with [Vitest](https://vitest.dev).
