@@ -24,8 +24,8 @@ import { aboutContent } from '../config/about-content.config';
       @if (isTamil()) {
         <div class="about-content tamil-content">
           <div class="hero-section">
-            <h1>பற்றி</h1>
-            <p class="tagline">தமிழ் இலக்கியம் மற்றும் சங்க பாடல்களின் ஆழமான உலகத்தில் உங்களை வரவேற்கிறோம்</p>
+            <h1>ஆசிரியரை பற்றி</h1>
+            <p class="tagline">தமிழ் இலக்கியம் மற்றும் சங்க பாடல்களின் ஆழமான உலகத்திற்கு உங்களை வரவேற்கிறோம்</p>
           </div>
 
           <div class="narrative-wrapper">
@@ -48,7 +48,7 @@ import { aboutContent } from '../config/about-content.config';
       @if (!isTamil()) {
         <div class="about-content english-content">
           <div class="hero-section">
-            <h1>About</h1>
+            <h1>About Author</h1>
             <p class="tagline">Welcome to a journey through Tamil literature and the timeless wisdom of Sangam poetry</p>
           </div>
 
