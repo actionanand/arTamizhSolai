@@ -8,6 +8,7 @@ tags: ['formatting', 'markdown', 'styling', 'guide']
 author: 'arTamizhSolai Team'
 articleMetadata: 'Complete guide to text formatting features'
 isPinned: true
+scrollToTop: true
 ---
 
 <h1 id="text-formatting-showcase">Text Formatting Showcase</h1>

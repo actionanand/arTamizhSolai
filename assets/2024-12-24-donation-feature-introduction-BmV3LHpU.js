@@ -9,6 +9,7 @@ tags: ["feature", "donations", "support", "monetization"]
 toc: true
 enableDonation: true
 donationMessage: "This comprehensive guide took significant time to create. Your support helps me continue building useful features for the community!"
+scrollToTop: true
 ---
 
 <h1 id="introducing-donation-support-help-support-quality-content">Introducing Donation Support: Help Support Quality Content</h1>
