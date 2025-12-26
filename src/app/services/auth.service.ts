@@ -34,12 +34,13 @@ export class AuthService {
 
   /**
    * Validate password against stored hash
+   * Returns the successful hash if valid, null otherwise
    */
-  async validatePassword(password: string): Promise<boolean> {
+  async validatePassword(password: string): Promise<string | null> {
     const hash = await this.sha1(password);
     
     // Try multiple sources for password hash (in priority order)
-    // 1. Cloudflare environment variable (exposed via Vite define) // I get output as undefined always here
+    // 1. Cloudflare environment variable (exposed via Vite define), I get undefined value always for this.
     const cloudflareHash = (globalThis as any).__PASSWORD_HASH__;
     // 2. Direct import.meta.env access (fallback)
     const metaHash = import.meta.env['VITE_PASSWORD_HASH'] as string | undefined;
@@ -48,12 +49,13 @@ export class AuthService {
     // 4. Environment file
     const envHash = environment.passwordHash;
    
-    return (
-      hash === cloudflareHash ||
-      hash === metaHash ||
-      hash === userPassHash ||
-      hash === envHash
-    );
+    // Return the hash that matches, or null if no match
+    if (hash === cloudflareHash && cloudflareHash) return cloudflareHash;
+    if (hash === metaHash && metaHash) return metaHash;
+    if (hash === userPassHash && userPassHash) return userPassHash;
+    if (hash === envHash && envHash) return envHash;
+    
+    return null;
   }
 
   /**
@@ -72,16 +74,27 @@ export class AuthService {
       return false;
     }
 
-    // Verify hash matches
-    return cached.hash === environment.passwordHash;
+    // Verify saved hash against all possible sources (same way validatePassword does)
+    const cloudflareHash = (globalThis as any).__PASSWORD_HASH__;
+    const metaHash = import.meta.env['VITE_PASSWORD_HASH'] as string | undefined;
+    const userPassHash = import.meta.env['VITE_USER_PASS_HASH'] as string | undefined;
+    const envHash = environment.passwordHash;
+
+    return (
+      cached.hash === cloudflareHash ||
+      cached.hash === metaHash ||
+      cached.hash === userPassHash ||
+      cached.hash === envHash
+    );
   }
 
   /**
    * Save successful authentication to localStorage
+   * @param authenticatedHash - The hash that was used for successful validation
    */
-  saveAuth(): void {
+  saveAuth(authenticatedHash: string): void {
     const cache: PasswordCache = {
-      hash: environment.passwordHash,
+      hash: authenticatedHash,
       timestamp: Date.now()
     };
     localStorage.setItem(this.STORAGE_KEY, JSON.stringify(cache));
