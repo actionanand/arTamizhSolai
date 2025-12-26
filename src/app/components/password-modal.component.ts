@@ -329,10 +329,10 @@ export class PasswordModalComponent {
     this.errorMessage.set('');
 
     try {
-      const isValid = await this.authService.validatePassword(this.password);
+      const validatedHash = await this.authService.validatePassword(this.password);
       
-      if (isValid) {
-        this.authService.saveAuth();
+      if (validatedHash) {
+        this.authService.saveAuth(validatedHash);
         this.hide();
         this.resolvePromise?.(true);
       } else {
