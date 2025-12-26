@@ -9,6 +9,7 @@ author: 'arTamizhSolai Team'
 articleMetadata: 'Complete guide to using tabs for better content organization'
 isPinned: true
 isDraft: false
+scrollToTop: true
 ---
 
 # Interactive Tabs - Organize Content Like Docusaurus

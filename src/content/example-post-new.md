@@ -11,6 +11,7 @@ epicName: "Silappatikaram"
 verseNumber: "I (Book I)"
 articleMetadata: "Written during the Sangam period, 5,730 lines"
 isPinned: true
+scrollToTop: true
 ---
 
 # Example Blog Post
