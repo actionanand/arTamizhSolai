@@ -9,6 +9,7 @@ author: 'arTamizhSolai Team'
 articleMetadata: 'Complete guide to card formatting and highlighting'
 isPinned: true
 isDraft: false
+scrollToTop: true
 ---
 
 # Card Formats Showcase

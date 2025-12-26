@@ -17,6 +17,7 @@ import { TabsPipe } from '../../pipes/tabs.pipe';
 import { FormatDatePipe } from '../../pipes/format-date.pipe';
 import { PasswordModalComponent } from '../../components/password-modal.component';
 import { DonationComponent } from '../../components/donation.component';
+import { ScrollToTopComponent } from '../../components/scroll-to-top.component';
 import { AuthService } from '../../services/auth.service';
 
 @Component({
@@ -36,11 +37,14 @@ import { AuthService } from '../../services/auth.service';
     FormatDatePipe,
     PasswordModalComponent,
     DonationComponent,
+    ScrollToTopComponent,
   ],
   template: `
     <app-password-modal></app-password-modal>
     
     @if (post$ | async; as post) {
+    <app-scroll-to-top *ngIf="post.attributes.scrollToTop"></app-scroll-to-top>
+    
     @if (isContentAccessible()) {
     <article class="blog-post">
       <header class="blog-post__header">
@@ -183,7 +187,8 @@ import { AuthService } from '../../services/auth.service';
         [previousPost]="previousPost"
         [nextPost]="nextPost"
       ></app-post-navigation>
-    </article>    } @else {
+    </article>
+    } @else {
     <div class="locked-content">
       <div class="locked-icon">🔒</div>
       <h2>Protected Content</h2>

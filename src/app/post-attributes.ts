@@ -22,4 +22,6 @@ export default interface PostAttributes {
   // Donation settings
   enableDonation?: boolean;
   donationMessage?: string;
+  // Scroll to top button
+  scrollToTop?: boolean;
 }
