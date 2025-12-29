@@ -4,11 +4,15 @@ slug: 'kuruntokai-verse-27'
 description: A Sangam poem where the heroine laments her wasted beauty during separation. She compares it to milk that serves no purpose - neither drunk by calves, nor stored, nor given to the good, just spilled on the ground. The verse explores the nuanced difference between திதலை (beauty marks of flourishing) and பசலை (pallor of withering).
 date: '2025-12-29'
 category: 'Tamil Literature'
-tags: ['tamil', 'sangam', 'kuruntokai', 'palai']
+tags:
+  - tamil
+  - sangam
+  - kuruntokai
+  - paalai
 author: 'Velliveethiyaar (வெள்ளிவீதியார்)'
 epicName: "Kurunthokai (குறுந்தொகை)"
 verseNumber: "27 (Total 401 Songs, With the invocation song)"
-articleMetadata: 'திணை (Landscape): Pālai – love in the wasteland; Theme: Separation and wasted beauty'
+articleMetadata: 'திணை (Landscape): Paalai – love in the wasteland; Theme: Separation and wasted beauty'
 coverImage: images/year-2025/kuruntokai-27.webp
 toc: false
 scrollToTop: true
@@ -16,7 +20,7 @@ scrollToTop: true
 
 சங்க இலக்கியத்தின் இந்தப் பாடல், தலைவன் பிரிந்து சென்ற காலத்தில் தலைவி தன் அழகு வீணாவதை வருந்தி கூறும் நுட்பமான உணர்வுகளைச் சித்தரிக்கிறது.
 
-::olai[கன்று முண்ணாது]{
+::olai[கன்றும் உண்ணாது கலத்தினும் படாது]{
   ::combo[color:#004080;weight:bold]{27. பாலை} - ::combo[color:#004080]{தலைவி கூற்று}
 
   ::align[center]{::combo[color:#006666]{
@@ -43,7 +47,7 @@ scrollToTop: true
   }
 }
 
-::combo[color:#531A02]{பிரிவிடை ஆற்றாள் எனக் கவன்ற தோழிக்குத் தலைவி உரைத்தது}
+::combo[color:#531A02]{தலைவியின் கூற்று – "பிரிவிடை ஆற்றாள்" எனக் கவன்ற தோழிக்குக் கிழத்தி[^1] உரைத்தது.}
 
 ::combo[bg:#25c2a0;color:white;weight:bold]{கருத்து:} தலைவன் பிரிந்து சென்றதால் புணர்ச்சிக்கு ஏங்கும் தலைவி, தன் அழகு எவருக்கும் பயன்படாமல் வீணாவதை ஒரு சக்திவாய்ந்த உவமையால் வெளிப்படுத்துகிறாள்.
 
@@ -56,7 +60,7 @@ scrollToTop: true
 **கன்று** - கன்றுக்குட்டி <br>
 **நல் ஆன் தீம்பால்** - நல்ல பசுவின் இனிய பால்,  'ஆன்' என்பதற்கு பதில் 'ஆண்' என்று எழுதி இருந்தால் பாடல் பிழையாகிப் போயிருந்து இருக்கும். 'ஆ' என்ற ஓரெழுத்துச் சொல்லுக்கு பசு என்று பொருள். அதனால்தான் ஆயர் என்பவர்கள் பசுக்களை மேய்ப்பவர். ஆயர்பாடி என்றால் ஆயர்கள் வாழும் இடம். தெலுங்கில் இன்றும் மாட்டுப்பாலுக்கு 'ஆவு பாலு (ఆవు పాలు)' என்று பெயர். <br>
 **கலத்தினும் படாது** - பாத்திரத்தில் சேர்க்கப்படாமல் <br>
-**நிலத்து உக்கா அங்கு** - தரையில் வீணே வழிந்து ஓடுவதைப் போல (உக்காங்கு என்று பாடலில் வரும்; உக்காஅங்கு என்று பாடலில் அளபெடுத்து வருவது தளை தட்டாமல் இருக்க) <br>
+**நிலத்து உக்கா அங்கு[^2]** - தரையில் வீணே வழிந்து ஓடுவதைப் போல (உக்காங்கு என்று பாடலில் வரும்; உக்காஅங்கு என்று பாடலில் அளபெடுத்து[^3] வருவது தளை தட்டாமல் இருக்க) <br>
 **எனக்கும் ஆகாது** - எனக்கும் பயன்படாது <br>
 **என் ஐக்கும் உதவாது** - 'ஐ' என்ற எழுத்துக்கு தலைவன், அரசன் என்ற பொருள் உண்டு. "என் ஐக்கும் உதவாது" என்றால் என் தலைவனுக்கும் உதவாது என்று பொருள் <br>
 **பசலை உணீஇயர் வேண்டும்** - 'பசலை என்னை உண்கிறது'. சங்ககாலப் பாடல்களில் 'பசலை' என்ற சொல் அதிகம் பயன்படுத்தப் படுகிறது. தமிழரின் முக்கனிகளில் முதன்மையானதான  மாம்பழத்தின், மரத்தின் இலைகள்,  கொழுந்தாக இருக்கும் போது சிகப்பும் பச்சையும் கலந்து இருக்கும். ஆனால் முற்றிப் போன பின், முதிர்ந்த பின் பச்சையாக மாறி விடும். காதலர்கள் பிரியும் போது பெண்ணுக்கு உடல் முதிர்ச்சி அடைவதையும், அவள் வாடுவதையும் 'பசலை' என்ற சொல் குறிப்பதாக தமிழாசிரியர்கள் தெரிவிக்கின்றனர். <br>
@@ -85,7 +89,7 @@ The heroine herself speaks here, using the powerful metaphor of wasted milk. The
 
 **Thithalai** refers to the golden, shimmering skin changes that occur when a woman's body flourishes with love and desire. These are beautiful marks that appear on the skin as it expands with happiness—on the breasts, shoulders, and lower abdomen. They are signs of feminine beauty and vitality, celebrated by lovers.
 
-**Pasalai**, in contrast, is the pallor that appears when the body withers from separation and longing. It's the pale discoloration that comes from emotional suffering, not from illness.
+**Pasalai**, in contrast, is the pallor[^4] that appears when the body withers from separation and longing. It's the pale discoloration that comes from emotional suffering, not from illness.
 
 The verse's profound sadness comes from this reversal: the beautiful marks of love's flourishing (thithalai) are now being consumed and covered by the pallor of separation (pasalai). The body that bloomed with union now withers in absence.
 
@@ -95,12 +99,12 @@ The verse's profound sadness comes from this reversal: the beautiful marks of lo
 
 #### ::combo[color:#0066cc]{திதலை - அழகின் அடையாளம்}
 
-**திதலை** என்பது உடல் மலர்ச்சியின் அடையாளம். பெண்ணின் உடல் காதலால், உவகையால் வளரும்போது தோலில் உருவாகும் பொன்நிறத் தகட்டைப் போன்ற மினுக்கமான நிறமாற்றங்கள். இவை குறிப்பாக மார்பு, தோள்கள், அடிவயிறு (அல்குல்) போன்ற இடங்களில் தோன்றும். இது நோயின் அறிகுறி அல்ல, பெண்மையின் அழகின் இயற்கையான வெளிப்பாடு.
+**திதலை[^5]** என்பது உடல் மலர்ச்சியின் அடையாளம். பெண்ணின் உடல் காதலால், உவகையால் வளரும்போது தோலில் உருவாகும் பொன்நிறத் தகட்டைப் போன்ற மினுக்கமான நிறமாற்றங்கள். இவை குறிப்பாக மார்பு, தோள்கள், அடிவயிறு (அல்குல்) போன்ற இடங்களில் தோன்றும். இது நோயின் அறிகுறி அல்ல, பெண்மையின் அழகின் இயற்கையான வெளிப்பாடு.
 
 அகநானூற்றில் பரணர் ::combo[bg:#e8f5e9;color:#2e7d32]{திதலை மாமை தளிர்வனப்பு} என்று தெளிவாகவே சொல்கிறார் - திதலை கொண்ட மேனியின் தளிர் போன்ற அழகு என்று.
 
 ::quote[திருப்புகழ்]{
-  திதலை உலாத்து பொற்களபம் விடா புதுத்
+  திதலை உலாத்து பொற்களபம் விடா புதுத் <br>
   திரிவித கடாக்களிற்று உரகோடு
 }
 
@@ -124,7 +128,7 @@ The verse's profound sadness comes from this reversal: the beautiful marks of lo
 ஆக, அல்கு-தல் → குறுகு-தல்/ கீழே <br>
 பெண்ணின் உடம்பிலே, கீழான, அல்கிய (குறுகிய) இடம் = அல்கு-ல்!
 
-**அல்குல்** என்பது இடை, அடிவயிறு, அதற்கும் கீழே, பெண்குறி ஆகிய பகுதியைக் குறிக்கும். இது பெண்மையின் மையமான இடம். காதலால் பெண்ணின் அல்குல் வளர்வது பற்றி பழம்பாடல்கள் நிறைய பாடியுள்ளன. கம்பன் ::combo[bg:#e8f5e9;color:#2e7d32]{வாம மேகலையுள் வளர்ந்தது அல்குலே} என்று குறிப்பிடுகிறார்.
+**அல்குல்[^6]** என்பது இடை, அடிவயிறு, அதற்கும் கீழே, பெண்குறி ஆகிய பகுதியைக் குறிக்கும். இது பெண்மையின் மையமான இடம். காதலால் பெண்ணின் அல்குல் வளர்வது பற்றி பழம்பாடல்கள் நிறைய பாடியுள்ளன. கம்பன் ::combo[bg:#e8f5e9;color:#2e7d32]{வாம மேகலையுள் வளர்ந்தது அல்குலே} என்று குறிப்பிடுகிறார்.
 
 இந்தப் பாடலில் மிக நுட்பமான எதிர்வு:
 
@@ -158,3 +162,12 @@ The verse's profound sadness comes from this reversal: the beautiful marks of lo
 ### ::combo[color:#0066cc]{வீடியோ இணைப்பு}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g5tS0RcK4VY?si=icm5tCY_Odu3GxEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+:::footnotes
+[^1]: **கிழத்தி** (Kilathi) என்பது தமிழில் உரிமையுடையவள், தலைவி, அல்லது இல்லக்கிழத்தி (இல்லத்தின் தலைவி) எனப் பொருள்படும்; சங்க இலக்கியங்களில், இது தலைவனுடன் தொடர்புடைய, உரிமை கொண்டவள் (Lady-love, mistress) என்ற பொருளிலும் பயன்படுத்தப்படுகிறது. **இலக்கியத்தில்**: சங்க இலக்கியங்களில் தலைவி தன் தலைவனுடன் ஊடல் கொள்ளும் போது பயன்படுத்தும் சொல்லாக இது வருகிறது (எ.கா., கிழத்தி கூற்றுப் பத்து). **தொல்காப்பியத்தில்**: "காமக்கிழத்தியர்" என்ற தொடரில், தலைவனால் உரிமை கொண்டாடப்பட்ட பெண்கள் (concubines) என்ற பொருளிலும் வருகிறது.
+[^2]: தொடர்ச்சி [கன்றும் உண்ணாது கலத்தினும் படாது](https://thodarchi.blogspot.com/2017/03/blog-post.html)
+[^3]: விக்கிப்பீடியா - [அளபெடை](https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B3%E0%AE%AA%E0%AF%86%E0%AE%9F%E0%AF%88)
+[^4]: Nandini Karky's [Kurunthogai 27 – Split milk and spoilt beauty](https://nandinikarky.com/2021/02/16/kurunthogai-27-split-milk-and-spoilt-beauty/)
+[^5]: ஜெய மோகனின் [திதலையும் பசலையும்](https://www.jeyamohan.in/93006/)
+[^6]: மாதவி பந்தலின் ["அல்குல்" என்றால் என்ன?](http://madhavipanthal.blogspot.com/2011/10/alkul.html)
+:::
