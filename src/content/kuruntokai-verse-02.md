@@ -5,8 +5,8 @@ description: It's a Sangam poem where a man asks a bee if it has ever found a sw
 date: '2025-10-13'
 category: 'Tamil Literature'
 tags: ['tamil', 'sangam', 'kuruntokai', 'thiruvilaiyadal']
-author: 'Iraiyanar'
-epicName: "Kurunthokai"
+author: 'Iraiyanar (இறையனார்)'
+epicName: "Kurunthokai (குறுந்தொகை)"
 verseNumber: "02 (Total 401 Songs, With the invocation song)"
 articleMetadata: 'திணை (Landscape): Kurinji – love in the hill region; Theme: Unspoken love & emotional intimacy'
 coverImage: images/year-2025/smell-in-girls-hair.webp
