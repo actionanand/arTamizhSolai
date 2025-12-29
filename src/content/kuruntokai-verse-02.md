@@ -35,15 +35,15 @@ scrollToTop: true
 ::combo[color:#531A02]{இயற்கைப் புணர்ச்சி புணர்ந்தவழி, தலைமகளை இயற்கைப் புணர்ச்சிக்கண் இடையீடுபட்டு நின்ற தலைமகன், நாணின் நீக்குதற்பொருட்டு, மெய் தொட்டுப் பயிறல் முதலாயின அவள்மாட்டு நிகழ்த்திக}
 
 
-::combo[bg:#25c2a0;color:white;weight:bold]{கருத்து[^1]:} இயற்கைப் புணர்ச்சிக்குப் (தலைவியைத் தலைவன் இயல்பாகப் பார்த்துக் காதல் கொள்ளுதல்) பின்னர் தலைவியைச் சந்திக்கும் தலைவன் அவளின் நாணத்தை நீக்குதல் பொருட்டு, மெய்தொட்டுப் பயின்று (தலைவியின் உடல் தொட்டு உரையாடல்) நலம் பாராட்டுதல் ( தலைவியின் அழகு நலத்தைப் பாடுதல்)
+::combo[bg:#25c2a0;color:white;weight:bold]{கருத்து:} தலைவன் தலைவியை இயல்பாகச் சந்தித்துக் காதல் கொண்ட பின்னர் (இயற்கைப் புணர்ச்சி), மீண்டும் அவளைச் சந்திக்கும்போது அவள் வெட்கத்தால் தயங்குவதைக் காண்கிறான். அவளது நாணத்தைப் போக்க, மென்மையாக அவளைத் தொட்டு உரையாடுகிறான். அதேநேரத்தில் அவளது அழகை மறைமுகமாகப் புகழ்ந்து பாடுகிறான்.
 
-தலைவி நாணத்தோடு இருப்பதை உணர்ந்த தலைவன் அவளின் நாணத்தை நீக்க தும்பியைப் பார்த்துப் பேசுகிறான்.
+தலைவியின் வெட்கம் நீங்காததைக் கண்ட தலைவன், நேரடியாக அவளிடம் பேசாமல், அருகில் உள்ள வண்டைப் பார்த்துப் பேசும் தந்திரத்தை மேற்கொள்கிறான்.
 
-பூக்களில் உள்ள மணத்தை ஆராய்ந்து தேனை உண்ணுகின்ற வாழ்கையினையும், அகத்தே சிறகுகளையும் கொண்ட வண்டே!
+"மலர்களின் மணத்தைத் தேடி அலைந்து, அவற்றின் தேனை உண்டு வாழும் வண்டே! உன் சிறகுகள் எவ்வளவு அழகானவை!
 
-எனக்கு இன்பம் தருவதற்காகப் பொய் கூறாமல், நீ உண்மையென அறிந்த ஒன்றை என் கேள்விக்கு விடையாகத் தருவாயாக,
+என்னை மகிழ்விக்க வேண்டும் என்பதற்காக பொய் சொல்லாதே. உனக்குத் தெரிந்த உண்மையை மட்டுமே கூறு.
 
-பழகுதற்கு இனிய, மயிலைப் போன்ற சாயலையும், செறிந்த பற்களையும் உடைய இவ்வரிவையின் கூந்தலைப் போன்ற மணம் நீ அறிந்த மலர்களுக்கு உண்டா..?
+பல பிறவிகளாகப் பழகி வரும் நட்பினள், மயில் போன்ற நடையுடையவள், அடர்ந்த பற்களையுடைய இந்தப் பெண்ணின் கூந்தலின் மணத்தைப் போன்ற நறுமணம் எந்த மலரிலாவது உண்டா? நீ எத்தனையோ பூக்களைச் சுற்றி அலைந்திருக்கிறாய் - சொல்!"
 
 ### ::combo[bg:yellow;color:darkred;weight:bold]{சொற்களஞ்சியம்}
 
@@ -65,7 +65,7 @@ scrollToTop: true
 ### ::combo[bg:yellow;color:darkred;weight:bold]{English Translation}
 
 ::verse[Translation]{
-  The man addresses a bee[^2], asking it to tell only the truth rather than words meant to please him. He asks:
+  The man addresses a bee[^1], asking it to tell only the truth rather than words meant to please him. He asks:
   ::align[center]{::combo[color:#006666]{
    Among all the flowers you know, <br> 
    could there be even one with the fragrance<br> 
@@ -86,7 +86,7 @@ The poem captures the romance of first encounter, where the maiden's modesty pre
 
 #### ::combo[color:#0066cc]{நக்கீரர் - சிவபெருமான் வாதம்}
 
-பாண்டியன் அவையில்[^3] 'கொங்குதேர் வாழ்க்கை' என்னும் செய்யுளின் பொருள் குறித்துச் சங்கப் புலவராக வந்த சிவபெருமானுக்கும், நக்கீரர்க்கும் ஒரு வாதம் நிகழ்ந்தது.
+பாண்டியன் அவையில்[^2] 'கொங்குதேர் வாழ்க்கை' என்னும் செய்யுளின் பொருள் குறித்துச் சங்கப் புலவராக வந்த சிவபெருமானுக்கும், நக்கீரர்க்கும் ஒரு வாதம் நிகழ்ந்தது.
 
 அப்போது சிவபெருமான் கூறியதாக வரும் வெண்பா:
 
@@ -111,7 +111,6 @@ The poem captures the romance of first encounter, where the maiden's modesty pre
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Bd_9aan9_4?si=WW_Nvx4obhI5CX18&amp;start=282" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 :::footnotes
-[^1]: பெண்களின் கூந்தல் மணம் இயற்கையானதா? - [UPSC EXAM TAMIL](https://www.gunathamizh.com/2010/01/blog-post_24.html)
-[^2]: Nandini Karky's – [Kurunthogai 2 – A drop of delicious honey](https://nandinikarky.com/2021/01/12/kurunthogai-2-a-drop-of-delicious-honey/)
-[^3]: எழுத்து - [தருமிக்குத் தண்ணருள் --திருவிளையாடல் --- மலரும் தமிழ்](https://eluthu.com/kavithai/287376.html)
+[^1]: Nandini Karky's – [Kurunthogai 2 – A drop of delicious honey](https://nandinikarky.com/2021/01/12/kurunthogai-2-a-drop-of-delicious-honey/)
+[^2]: எழுத்து - [தருமிக்குத் தண்ணருள் --திருவிளையாடல் --- மலரும் தமிழ்](https://eluthu.com/kavithai/287376.html)
 :::
