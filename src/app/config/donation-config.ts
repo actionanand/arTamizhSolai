@@ -41,7 +41,7 @@ export const donationPlatforms: DonationPlatform[] = [
     icon: 'gpay',
     enabled: true,
     type: 'qr',
-    upiId: 'anand@oksbi',
+    upiId: 'anandraja13@slc',
     qrImage: 'gpay-anand.png',
     description: 'Pay via UPI using Google Pay or any UPI app'
   },
