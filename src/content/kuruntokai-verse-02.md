@@ -43,11 +43,11 @@ scrollToTop: true
 
 எனக்கு இன்பம் தருவதற்காகப் பொய் கூறாமல், நீ உண்மையென அறிந்த ஒன்றை என் கேள்விக்கு விடையாகத் தருவாயாக,
 
-பழகுதற்கு இனிய, மயிலைப் போன்ற சாயலையும், செறிந்த பற்களையும் உடைய இவ்வரிவையின் கூந்தலைப் போன்ற மணம் நீ அறிந்த மலர்களுக்கு உண்டா[^2]..?
+பழகுதற்கு இனிய, மயிலைப் போன்ற சாயலையும், செறிந்த பற்களையும் உடைய இவ்வரிவையின் கூந்தலைப் போன்ற மணம் நீ அறிந்த மலர்களுக்கு உண்டா..?
 
 ### ::combo[bg:yellow;color:darkred;weight:bold]{சொற்களஞ்சியம்}
 
-**கொங்கு[^3]** - பூவின் மகரந்தம் <br>
+**கொங்கு** - பூவின் மகரந்தம் <br>
 **தேர்** - தேர்ந்தெடுக்கும் <br>
 **வாழ்க்கை** - வாழும் <br>
 **அஞ்சிறைத்தும்பி** - உள்ளே சிறகுகளை உடைய தும்பி(வண்டு) → (**அம் சிறை** - அழகிய சிறகுகள்) <br>
@@ -65,7 +65,7 @@ scrollToTop: true
 ### ::combo[bg:yellow;color:darkred;weight:bold]{English Translation}
 
 ::verse[Translation]{
-  The man addresses a bee[^4], asking it to tell only the truth rather than words meant to please him. He asks:
+  The man addresses a bee[^2], asking it to tell only the truth rather than words meant to please him. He asks:
   ::align[center]{::combo[color:#006666]{
    Among all the flowers you know, <br> 
    could there be even one with the fragrance<br> 
@@ -82,11 +82,11 @@ The poem captures the romance of first encounter, where the maiden's modesty pre
 
 ### ::combo[bg:yellow;color:darkred;weight:bold]{திருவிளையாடற் புராண இணைப்பு}
 
-திருவிளையாடற் புராணத்திலும்[^5] (::combo[color:#25c2a0]{தருமிக்குப் பொற்கிழி அளித்த படலம்}) இந்தப் பாடல் மேற்கோள் காட்டப்படுகிறது. செண்பகப் பாண்டியனுக்கு ஏற்பட்ட ஐயத்தைப் போக்க இறைவன் தருமி மூலம் கொடுத்தனுப்பிய பாடல்.
+திருவிளையாடற் புராணத்திலும் (::combo[color:#25c2a0]{தருமிக்குப் பொற்கிழி அளித்த படலம்}) இந்தப் பாடல் மேற்கோள் காட்டப்படுகிறது. செண்பகப் பாண்டியனுக்கு ஏற்பட்ட ஐயத்தைப் போக்க இறைவன் தருமி மூலம் கொடுத்தனுப்பிய பாடல்.
 
 #### ::combo[color:#0066cc]{நக்கீரர் - சிவபெருமான் வாதம்}
 
-பாண்டியன் அவையில்[^6] 'கொங்குதேர் வாழ்க்கை'[^7] என்னும் செய்யுளின் பொருள் குறித்துச் சங்கப் புலவராக வந்த சிவபெருமானுக்கும், நக்கீரர்க்கும் ஒரு வாதம் நிகழ்ந்தது.
+பாண்டியன் அவையில்[^3] 'கொங்குதேர் வாழ்க்கை' என்னும் செய்யுளின் பொருள் குறித்துச் சங்கப் புலவராக வந்த சிவபெருமானுக்கும், நக்கீரர்க்கும் ஒரு வாதம் நிகழ்ந்தது.
 
 அப்போது சிவபெருமான் கூறியதாக வரும் வெண்பா:
 
@@ -112,10 +112,6 @@ The poem captures the romance of first encounter, where the maiden's modesty pre
 
 :::footnotes
 [^1]: பெண்களின் கூந்தல் மணம் இயற்கையானதா? - [UPSC EXAM TAMIL](https://www.gunathamizh.com/2010/01/blog-post_24.html)
-[^2]: [பேராசிரியர் நினைவுகள்](http://www.tamilonline.com/thendral/article.aspx?aid=6481): நயமெனப் படுவது யாதெனின் - ஹரி கிருஷ்ணன்
-[^3]: மன வெளிப் பயணம் - கொங்குதேர் வாழ்க்கை செய்யுள் - [சொற்களஞ்சியம்](https://rampsychiatrist.blogspot.com/2011/03/blog-post_10.html)
-[^4]: Kurunthogai 2 – [A drop of delicious honey](https://nandinikarky.com/2021/01/12/kurunthogai-2-a-drop-of-delicious-honey/)
-[^5]: [திருவிளையாடற் புராணம் 52](https://ta.wikisource.org/wiki/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%BF%E0%AE%B3%E0%AF%88%E0%AE%AF%E0%AE%BE%E0%AE%9F%E0%AE%B1%E0%AF%8D_%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BE%E0%AE%A3%E0%AE%AE%E0%AF%8D/52)
-[^6]: தருமிக்குத் தண்ணருள் --திருவிளையாடல் --- [மலரும் தமிழ்](https://eluthu.com/kavithai/287376.html)
-[^7]: [நக்கீரர் பரதர்](https://bharathar.blogspot.com/2006/)
+[^2]: Nandini Karky's – [Kurunthogai 2 – A drop of delicious honey](https://nandinikarky.com/2021/01/12/kurunthogai-2-a-drop-of-delicious-honey/)
+[^3]: எழுத்து - [தருமிக்குத் தண்ணருள் --திருவிளையாடல் --- மலரும் தமிழ்](https://eluthu.com/kavithai/287376.html)
 :::
