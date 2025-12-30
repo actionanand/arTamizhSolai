@@ -9,6 +9,7 @@ tags:
   - sangam
   - kuruntokai
   - paalai
+  - film-featured
 author: 'Velliveethiyaar (வெள்ளிவீதியார்)'
 epicName: "Kurunthokai (குறுந்தொகை)"
 verseNumber: "27 (Total 401 Songs, With the invocation song)"
@@ -35,7 +36,7 @@ scrollToTop: true
   ::align[right]{::combo[color:#351C75]{பாடியவர் - வெள்ளிவீதியார்}}
 }
 
-### ::combo[bg:yellow;color:darkred;weight:bold]{எளிய நடை}
+### ::combo[bg:yellow;color:darkred;weight:bold]{சந்தி பிரித்து எழுதிய பாடல்}
 
 ::quote{
   ::align[center]{
@@ -190,4 +191,9 @@ The verse's profound sadness comes from this reversal: the beautiful marks of lo
 [^4]: Nandini Karky's [Kurunthogai 27 – Split milk and spoilt beauty](https://nandinikarky.com/2021/02/16/kurunthogai-27-split-milk-and-spoilt-beauty/)
 [^5]: ஜெய மோகனின் [திதலையும் பசலையும்](https://www.jeyamohan.in/93006/)
 [^6]: மாதவி பந்தலின் ["அல்குல்" என்றால் என்ன?](http://madhavipanthal.blogspot.com/2011/10/alkul.html)
+:::
+
+:::explore
+[>] Facebook [என் நாடுபடு தேறல் நீ - 1 (தலைவன், தலைவி கூடல் குறிப்புகள்)](https://www.facebook.com/photo/?fbid=25488842920727651)
+[>] யாழ் [பசலை நோய் - `கன்றும் உண்ணாது கலத்தினும் படாது’](https://yarl.com/forum3/topic/212060-%E0%AE%AA%E0%AE%9A%E0%AE%B2%E0%AF%88-%E0%AE%A8%E0%AF%8B%E0%AE%AF%E0%AF%8D-%E0%AE%95%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%89%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AE%BE%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B2%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%AA%E0%AE%9F%E0%AE%BE%E0%AE%A4%E0%AF%81%E2%80%99/#comment-1356434)
 :::
