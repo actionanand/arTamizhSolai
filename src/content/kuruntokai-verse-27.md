@@ -9,6 +9,7 @@ tags:
   - sangam
   - kuruntokai
   - paalai
+  - film-featured
 author: 'Velliveethiyaar (வெள்ளிவீதியார்)'
 epicName: "Kurunthokai (குறுந்தொகை)"
 verseNumber: "27 (Total 401 Songs, With the invocation song)"

@@ -4,7 +4,7 @@ slug: 'kuruntokai-verse-02'
 description: It's a Sangam poem where a man asks a bee if it has ever found a sweeter fragrance than his beloved’s hair. He urges the bee to be honest, not flattering, and admires the maiden’s beauty, her graceful movements, and lovely teeth. The verse captures the first meeting of lovers.
 date: '2025-10-13'
 category: 'Tamil Literature'
-tags: ['tamil', 'sangam', 'kuruntokai', 'thiruvilaiyadal', 'Kurinji']
+tags: ['tamil', 'sangam', 'kuruntokai', 'thiruvilaiyadal', 'Kurinji', 'film-featured']
 author: 'Iraiyanar (இறையனார்)'
 epicName: "Kurunthokai (குறுந்தொகை)"
 verseNumber: "02 (Total 401 Songs, With the invocation song)"
