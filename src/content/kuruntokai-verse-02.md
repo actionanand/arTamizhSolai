@@ -114,3 +114,11 @@ The poem captures the romance of first encounter, where the maiden's modesty pre
 [^1]: Nandini Karky's – [Kurunthogai 2 – A drop of delicious honey](https://nandinikarky.com/2021/01/12/kurunthogai-2-a-drop-of-delicious-honey/)
 [^2]: எழுத்து - [தருமிக்குத் தண்ணருள் --திருவிளையாடல் --- மலரும் தமிழ்](https://eluthu.com/kavithai/287376.html)
 :::
+
+:::explore
+[>] [நக்கீரர் பரதர்](https://bharathar.blogspot.com/2006/)
+[>] விக்கிமூலம் [திருவிளையாடற் புராணம்/52](https://ta.wikisource.org/wiki/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%BF%E0%AE%B3%E0%AF%88%E0%AE%AF%E0%AE%BE%E0%AE%9F%E0%AE%B1%E0%AF%8D_%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BE%E0%AE%A3%E0%AE%AE%E0%AF%8D/52)
+[>] தென்றல் [பேராசிரியர் நினைவுகள்: நயமெனப் படுவது யாதெனின்](https://www.tamilonline.com/thendral/article.aspx?aid=6481)
+[>] வேர்களைத்தேடி [பெண்களின் கூந்தல் மணம் இயற்கையானதா? - UPSC EXAM TAMIL - குறுந்தொகை - 02](https://www.gunathamizh.com/2010/01/blog-post_24.html#gsc.tab=0)
+[>] மன வெளிப் பயணம் [குறுந்தொகை- கொங்குதேர் வாழ்க்கை](https://rampsychiatrist.blogspot.com/2011/03/blog-post_10.html)
+:::
