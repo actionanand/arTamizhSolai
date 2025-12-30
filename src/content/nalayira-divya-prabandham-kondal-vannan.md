@@ -1,7 +1,7 @@
 ---
 title: 'நாலாயிர திவ்யப் பிரபந்தம் - கொண்டல் வண்ணன்'
 slug: 'nalayira-divya-prabandham-kondal-vannan'
-description: A deep analysis of the "Kondal Vannan" verse by Tiruppaanazhwar from the "Amalanaadhi Piraan" padhigam in Nalayira Divya Prabandham. This devotional hymn beautifully captures Krishna\'s divine names, childhood leelas, and the ultimate state of devotional absorption where the devotee\'s eyes, having seen the Lord, cannot perceive anything else.
+description: A deep analysis of the "Kondal Vannan" verse by Tiruppaanazhwar from the "Amalanaadhi Piraan" padhigam in Nalayira Divya Prabandham. This devotional hymn beautifully captures Krishna's divine names, childhood leelas, and the ultimate state of devotional absorption where the devotee's eyes, having seen the Lord, cannot perceive anything else.
 date: '2025-12-30'
 category: 'Devotional Literature'
 tags:
