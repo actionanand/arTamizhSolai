@@ -195,5 +195,5 @@ The verse's profound sadness comes from this reversal: the beautiful marks of lo
 
 :::explore
 [>] Facebook [என் நாடுபடு தேறல் நீ - 1 (தலைவன், தலைவி கூடல் குறிப்புகள்)](https://www.facebook.com/photo/?fbid=25488842920727651)
-[>] யாழ் [பசலை நோய் - `கன்றும் உண்ணாது கலத்தினும் படாது’](https://yarl.com/forum3/topic/212060-%E0%AE%AA%E0%AE%9A%E0%AE%B2%E0%AF%88-%E0%AE%A8%E0%AF%8B%E0%AE%AF%E0%AF%8D-%E0%AE%95%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%89%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AE%BE%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B2%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%AA%E0%AE%9F%E0%AE%BE%E0%AE%A4%E0%AF%81%E2%80%99/#comment-1356434)
+[>] யாழ் [பசலை நோய் - கன்றும் உண்ணாது கலத்தினும் படாது](https://yarl.com/forum3/topic/212060-%E0%AE%AA%E0%AE%9A%E0%AE%B2%E0%AF%88-%E0%AE%A8%E0%AF%8B%E0%AE%AF%E0%AF%8D-%E0%AE%95%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%89%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AE%BE%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B2%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%AA%E0%AE%9F%E0%AE%BE%E0%AE%A4%E0%AF%81%E2%80%99/#comment-1356434)
 :::
