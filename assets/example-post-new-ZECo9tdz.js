@@ -1,4 +1,4 @@
-const e=`---
+const i=`---
 title: My First Post Test
 slug: my-first-post-test
 description: My First Post Description
@@ -57,4 +57,9 @@ This content is hidden by default and can be clicked to show/hide. without custo
 <p>:::footnotes
 [^1]: Tamil literature has a history spanning over <a href="http://www.google.com">2000 years</a>
 [^2]: Also known as the &quot;Anklet Story&quot; or &quot;The Tale of the Anklet&quot;
-:::</p>`;export{e as default};
+:::</p><p>:::explore
+[&gt;] Tamil literature <a href="https://en.wikipedia.org/wiki/Tamil_literature">history</a>
+[&gt;] <a href="https://en.wikipedia.org/wiki/Sangam_period">Sangam period poetry</a>
+[&gt;] Silappatikaram <a href="https://en.wikipedia.org/wiki/Silappatikaram">analysis</a>
+[&gt;] <a href="https://www.britannica.com/topic/Tamil_literature">Ancient Tamil epics</a>
+:::</p>`;export{i as default};
