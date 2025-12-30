@@ -191,3 +191,7 @@ The verse's profound sadness comes from this reversal: the beautiful marks of lo
 [^5]: ஜெய மோகனின் [திதலையும் பசலையும்](https://www.jeyamohan.in/93006/)
 [^6]: மாதவி பந்தலின் ["அல்குல்" என்றால் என்ன?](http://madhavipanthal.blogspot.com/2011/10/alkul.html)
 :::
+
+:::explore
+[>] Facebook [என் நாடுபடு தேறல் நீ - 1 (தலைவன், தலைவி கூடல் குறிப்புகள்)](https://www.facebook.com/photo/?fbid=25488842920727651)
+:::
