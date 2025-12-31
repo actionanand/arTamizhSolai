@@ -9,12 +9,14 @@ author: 'arTamizhSolai Team'
 articleMetadata: 'Complete guide to text formatting features'
 isPinned: true
 scrollToTop: true
+font: '"Times New Roman", serif'
 ---
 
 # Text Formatting Showcase
 
 Welcome to the comprehensive guide on text formatting! This post demonstrates all the amazing text styling features available in our blog platform.
 
+::combo[bg:#e8f5e9;color:#2e7d32;weight:bold]{💡 Notice: This entire article uses Times New Roman font globally through the frontmatter 'font' property!}
 
 ## Introduction
 
@@ -152,6 +154,10 @@ Experiment with different fonts:
 
 * ::font[Tiro Tamil]{இது Tiro Tamil எழுத்துரு - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
 
+* ::font[Noto Sans Tamil]{இது Noto Sans Tamil எழுத்துரு - உலகில் நீங்கள் காண விரும்பும் மாற்றமாக இருங்கள்}
+
+* இது default எழுத்துரு - விதைத்தவன் உறங்கலாம். ஆனால் விதைகள் ஒருபோதும் உறங்குவதில்லை
+
 * ::font[Kavivanar]{இது Kavivanar எழுத்துரு - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
 
 * ::font[LohiTamilClassic]{இது LohiTamilClassic எழுத்துரு - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
@@ -214,7 +220,7 @@ Combine multiple styles for maximum impact:
 
 ::combo[font:SangathamizhClassicTamil;bg:#E6E6FA;color:#4B0082;weight:bold]{சங்க கால இலக்கியங்கள் - Sangathamizh Classic}
 
-::combo[font:Times New Roman;bg:#F0F8FF;color:#191970;italic:true]{Elegant serif font with italic styling}
+::combo[font:Times New Roman;bg:#F0F8FF;color:#191970;italic:true]{Elegant serif font with italic styling - italic Times New Roman}
 
 ::combo[font:Arial;bg:#F5F5F5;color:#333;weight:600;align:center]{Modern sans-serif centered text}
 
@@ -388,8 +394,56 @@ You've learned how to use all the text formatting features available in our blog
 ::align[center]{text}                  - Text alignment
 ::font[fontname]{text}                 - Font family
 ::combo[attr1:val1;attr2:val2]{text}  - Multiple styles
+
+Global Font (in frontmatter):
+font: "Times New Roman"               - Sets font for entire article
 ```
 
 For more details, check the [Text Formatting Guide](../readme/TEXT_FORMATTING_GUIDE.md) in the documentation.
 
 ::align[center]{::combo[bg:#fff3cd;color:#856404]{💡 Experiment and have fun with formatting!}}
+
+---
+
+## Global Font Feature
+
+### Setting Global Font in Frontmatter
+
+You can set a global font for the entire article by adding the `font` property to your frontmatter:
+
+```yaml
+---
+title: "Your Article Title"
+slug: "your-article-slug"
+description: "Your description"
+font: "SangathamizhClassicTamil"
+---
+```
+
+**Available Font Options:**
+- `"Times New Roman"` - Classic serif font
+- `"Arial"` - Modern sans-serif font  
+- `SangathamizhClassicTamil` - Classical Tamil font
+- `LohiTamilClassic` - Traditional Tamil font
+- `"Noto Sans Tamil"` - Noto Sans Tamil
+- `"Tiro Tamil"` - Modern Tamil font
+- `Kavivanar` - Artistic Tamil font
+
+**Examples:**
+
+**For Tamil Articles:**
+```yaml
+font: SangathamizhClassicTamil
+```
+
+**For English Articles:**
+```yaml
+font: "Times New Roman", serif
+```
+
+**With Fallbacks:**
+```yaml
+font: '"Tiro Tamil", "Tamil MN", serif'
+```
+
+::combo[bg:#fff3e0;color:#e65100;weight:bold]{⚠ Note: Global font affects the entire article content but not the website header/navigation.}
