@@ -48,7 +48,7 @@ import { AuthService } from '../../services/auth.service';
     <app-scroll-to-top *ngIf="post.attributes.scrollToTop"></app-scroll-to-top>
     
     @if (isContentAccessible()) {
-    <article class="blog-post">
+    <article class="blog-post" [style.font-family]="post.attributes.font || null">
       <header class="blog-post__header">
         <h1 class="blog-post__title">{{ post.attributes.title }}</h1>
         @if (post.attributes.date) {
