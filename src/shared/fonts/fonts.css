@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Kavivanar&family=Tiro+Tamil:ital@0;1&display=swap');
+
+@font-face {
+  font-family: 'LohiTamilClassic';
+  src: url('/fonts/lohi-tamil-classic/Lohit-Tamil-Classical.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SangathamizhClassicTamil';
+  src: url('/fonts/sangathamizh-classic/Sangathamizh-ClassicTamilRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Tamil font classes */
+.lohi-tamil-classic {
+  font-family: "LohiTamilClassic", "Tamil Sangam MN", "Latha", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sangathami-classic-tamil {
+  font-family: "SangathamizhClassicTamil", "Tamil Sangam MN", "Latha", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* kavivanar css */
+.kavivanar-regular {
+  font-family: "Kavivanar", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Tiro Tamil css */
+.tiro-tamil-regular {
+  font-family: "Tiro Tamil", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.tiro-tamil-regular-italic {
+  font-family: "Tiro Tamil", serif;
+  font-weight: 400;
+  font-style: italic;
+}
