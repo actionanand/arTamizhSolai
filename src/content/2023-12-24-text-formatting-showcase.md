@@ -140,13 +140,13 @@ Use special Tamil classical fonts for authentic Tamil literature:
 
 Experiment with different fonts:
 
-::font[Times New Roman]{This text uses Times New Roman (serif)}
+- ::font[Times New Roman]{This text uses Times New Roman (serif)}
 
-::font[Arial]{This text uses Arial (sans-serif)}
+- ::font[Arial]{This text uses Arial (sans-serif)}
 
-::font[Courier New]{This text uses Courier New (monospace)}
+- ::font[Courier New]{This text uses Courier New (monospace)}
 
-::combo[font:Verdana;color:blue]{This combines Verdana font with blue color}
+- ::combo[font:Verdana;color:blue]{This combines Verdana font with blue color}
 
 ### Tamil Fonts Showcase
 
@@ -159,7 +159,7 @@ Experiment with different fonts:
 * ::font[SangathamizhClassicTamil]{இது SangathamizhClassicTamil எழுத்துரு - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
 
 :::info
-::font['Tiro Tamil']{நவீன தமிழ் எழுத்துமுறையில் பயன்படுத்தப்பட்ட "னா," "ணா," "லை," "ளை," "னை," "ணை" மற்றும் "றா" எழுத்துக்கள்} ⇒ ::font[SangathamizhClassicTamil]{பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட "னா," "ணா," "லை," "ளை," "னை," "ணை" மற்றும் "றா" எழுத்துக்கள்}
+::font["Tiro Tamil"]{நவீன தமிழ் எழுத்துமுறையில் பயன்படுத்தப்பட்ட "னா," "ணா," "லை," "ளை," "னை," "ணை" மற்றும் "றா" எழுத்துக்கள்} ⇒ ::font[SangathamizhClassicTamil]{பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட "னா," "ணா," "லை," "ளை," "னை," "ணை" மற்றும் "றா" எழுத்துக்கள்}
 :::
 
 ## Text Alignment
@@ -214,7 +214,7 @@ Combine multiple styles for maximum impact:
 
 ::combo[font:SangathamizhClassicTamil;bg:#E6E6FA;color:#4B0082;weight:bold]{சங்க கால இலக்கியங்கள் - Sangathamizh Classic}
 
-::combo[font:Times New Roman;bg:#F0F8FF;color:#191970;italic:true]{Elegant serif font with italic styling}
+::combo[font:Times New Roman;bg:#F0F8FF;color:#191970;italic:true]{Elegant serif font with italic styling - italic Times New Roman}
 
 ::combo[font:Arial;bg:#F5F5F5;color:#333;weight:600;align:center]{Modern sans-serif centered text}
 

@@ -138,8 +138,20 @@ export class TextFormatPipe implements PipeTransform {
   private processFont(content: string): string {
     const regex = /::font\[([^\]]+)\]\{([^}]+)\}/g;
     return content.replace(regex, (match, font, text) => {
+      // Ensure we have valid inputs
+      if (!font || !text) {
+        return match; // Return original if invalid
+      }
+      
       const sanitizedFont = this.sanitizeFont(font);
-      return `<span style="font-family: ${sanitizedFont}">${text}</span>`;
+      
+      // Only apply font if sanitization succeeded
+      if (sanitizedFont && sanitizedFont !== 'inherit') {
+        return `<span style="font-family: ${sanitizedFont}">${text}</span>`;
+      }
+      
+      // Return text without font styling if font is invalid
+      return text;
     });
   }
 
@@ -235,37 +247,20 @@ export class TextFormatPipe implements PipeTransform {
    * Sanitize font family name
    */
   private sanitizeFont(font: string): string {
-    const trimmed = font.trim();
-    
-    // Predefined safe fonts
-    const safeFonts = [
-      'SangathamizhClassicTamil',
-      'Arial',
-      'Helvetica',
-      'Times New Roman',
-      'Times',
-      'Courier New',
-      'Courier',
-      'Verdana',
-      'Georgia',
-      'sans-serif',
-      'serif',
-      'monospace',
-      'cursive',
-      'fantasy',
-      'Tiro Tamil',
-      'Kavivanar'
-    ];
-    
-    // Check if it's a safe font
-    const matchedFont = safeFonts.find(f => f.toLowerCase() === trimmed.toLowerCase());
-    if (matchedFont) {
-      // Return with quotes if it contains spaces
-      return matchedFont.includes(' ') ? `"${matchedFont}"` : matchedFont;
+    if (!font || typeof font !== 'string') {
+      return 'inherit';
     }
     
-    // Allow CSS font families with fallbacks
-    if (/^[a-zA-Z0-9\s,"'-]+$/.test(trimmed)) {
+    // Just trim whitespace - no quote processing
+    const trimmed = font.trim();
+    
+    // Handle empty string after processing
+    if (!trimmed) {
+      return 'inherit';
+    }
+    
+    // Simple validation - allow letters, numbers, spaces, quotes, and common punctuation
+    if (/^[a-zA-Z0-9\s"'-]+$/.test(trimmed)) {
       return trimmed;
     }
     
