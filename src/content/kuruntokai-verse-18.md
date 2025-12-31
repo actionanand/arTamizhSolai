@@ -14,6 +14,7 @@ author: 'Kapilar (கபிலர்)'
 epicName: "Kurunthokai (குறுந்தொகை)"
 verseNumber: "18 (Total 401 Songs, With the invocation song)"
 articleMetadata: "திணை (Landscape): Kurinji – love in the hill region; Theme: The intensity of love versus life's suffering"
+coverImage: images/year-2025/kuruntokai-18.webp
 toc: false
 scrollToTop: true
 ---
