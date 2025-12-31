@@ -116,6 +116,52 @@ Control the thickness of your text:
 - ::weight[800]{Extra bold text (800)}
 - ::weight[900]{Black text (900)}
 
+## Font Families
+
+### Tamil Classical Fonts
+
+Use special Tamil classical fonts for authentic Tamil literature:
+
+**LohiTamilClassic Font:**
+::font[LohiTamilClassic]{உலகம் முழுவதும் தமிழ் மொழி பரவட்டும்}
+
+::font[LohiTamilClassic]{பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட "னா," "ணா," "லை," "ளை," "னை," "ணை" மற்றும் "றா" எழுத்துக்கள்}
+
+::combo[font:LohiTamilClassic;color:#8B4513;bg:#F5F5DC]{குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
+
+**SangathamizhClassicTamil Font:**
+::font[SangathamizhClassicTamil]{அகநானூறு, புறநானூறு, கலித்தொகை}
+
+::font[SangathamizhClassicTamil]{பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட "னா," "ணா," "லை," "ளை," "னை," "ணை" மற்றும் "றா" எழுத்துக்கள்}
+
+::combo[font:SangathamizhClassicTamil;color:#4B0082;bg:#E6E6FA]{தொல்காப்பியம் முதல் இலக்கண நூல்}
+
+### Other Font Options
+
+Experiment with different fonts:
+
+::font[Times New Roman]{This text uses Times New Roman (serif)}
+
+::font[Arial]{This text uses Arial (sans-serif)}
+
+::font[Courier New]{This text uses Courier New (monospace)}
+
+::combo[font:Verdana;color:blue]{This combines Verdana font with blue color}
+
+### Tamil Fonts Showcase
+
+* ::font[Tiro Tamil]{இது Tiro Tamil எழுத்துரு - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
+
+* ::font[Kavivanar]{இது Kavivanar எழுத்துரு - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
+
+* ::font[LohiTamilClassic]{இது LohiTamilClassic எழுத்துரு - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
+
+* ::font[SangathamizhClassicTamil]{இது SangathamizhClassicTamil எழுத்துரு - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
+
+:::info
+::font['Tiro Tamil']{நவீன தமிழ் எழுத்துமுறையில் பயன்படுத்தப்பட்ட "னா," "ணா," "லை," "ளை," "னை," "ணை" மற்றும் "றா" எழுத்துக்கள்} ⇒ ::font[SangathamizhClassicTamil]{பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட "னா," "ணா," "லை," "ளை," "னை," "ணை" மற்றும் "றா" எழுத்துக்கள்}
+:::
+
 ## Text Alignment
 
 ### Centered Text
@@ -161,6 +207,16 @@ Combine multiple styles for maximum impact:
 ::combo[bg:#fff3e0;color:#e65100]{⚠ This requires a premium subscription}
 
 ::combo[bg:#ffebee;color:#c62828]{✗ This feature is currently unavailable}
+
+### Font Combination Examples
+
+::combo[font:LohiTamilClassic;bg:#FFF8DC;color:#8B0000;weight:bold]{தமிழ் இலக்கியம் அழகானது - Lohi Tamil Classic}
+
+::combo[font:SangathamizhClassicTamil;bg:#E6E6FA;color:#4B0082;weight:bold]{சங்க கால இலக்கியங்கள் - Sangathamizh Classic}
+
+::combo[font:Times New Roman;bg:#F0F8FF;color:#191970;italic:true]{Elegant serif font with italic styling}
+
+::combo[font:Arial;bg:#F5F5F5;color:#333;weight:600;align:center]{Modern sans-serif centered text}
 
 ## Practical Examples
 
@@ -330,6 +386,7 @@ You've learned how to use all the text formatting features available in our blog
 ::bg[yellow]{text}                     - Background color
 ::weight[700]{text}                    - Font weight
 ::align[center]{text}                  - Text alignment
+::font[fontname]{text}                 - Font family
 ::combo[attr1:val1;attr2:val2]{text}  - Multiple styles
 ```
 

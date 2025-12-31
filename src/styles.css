@@ -1,3 +1,6 @@
+/* use custom font faces */
+@import './shared/fonts/fonts.css';
+
 /* Import footnotes styling */
 @import './styles/footnotes.css';
 
