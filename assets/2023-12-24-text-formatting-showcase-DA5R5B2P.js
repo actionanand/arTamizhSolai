@@ -9,11 +9,11 @@ author: 'arTamizhSolai Team'
 articleMetadata: 'Complete guide to text formatting features'
 isPinned: true
 scrollToTop: true
-# font: Times New Roman
+font: Helvetica
 ---
 
 <h1 id="text-formatting-showcase">Text Formatting Showcase</h1>
-<p>Welcome to the comprehensive guide on text formatting! This post demonstrates all the amazing text styling features available in our blog platform.</p><p>::combo[bg:#e8f5e9;color:#2e7d32;weight:bold]{💡 Notice: This entire article uses ChenetClassicTamil font globally through the frontmatter &#39;font&#39; property!}</p><h2 id="introduction-1">Introduction</h2>
+<p>Welcome to the comprehensive guide on text formatting! This post demonstrates all the amazing text styling features available in our blog platform.</p><p>::combo[bg:#e8f5e9;color:#2e7d32;weight:bold]{💡 Notice: This entire article uses Helvetica font globally through the frontmatter &#39;font&#39; property!}</p><h2 id="introduction-1">Introduction</h2>
 <p>::align[center]{::combo[bg:#e8f4f8;color:#0066cc;weight:bold]{🎨 Master Text Formatting 🎨}}</p><p>::align[center]{Learn how to make your blog posts more engaging with custom text styles}</p><p>In this guide, you&#39;ll learn how to use various formatting options to make your content stand out. Let&#39;s dive in!</p><h2 id="basic-text-styles">Basic Text Styles</h2>
 <h3 id="bold-text">Bold Text</h3>
 <p>Make your text stand out with ::bold{bold formatting}. This is perfect for emphasizing key points.</p><p><strong>Example usage:</strong></p><ul>
@@ -160,7 +160,7 @@ scrollToTop: true
 <h3 id="powerful-combos">Powerful Combos</h3>
 <p>Combine multiple styles for maximum impact:</p><p>::combo[bg:darkblue;color:white;weight:bold]{Dark blue background with bold white text}</p><p>::combo[bg:#f9f9f9;color:#333;weight:600]{Subtle gray box with semi-bold text}</p><p>::combo[bg:yellow;color:darkred;weight:bold]{Warning: High contrast alert!}</p><p>::combo[bg:lightgreen;color:darkgreen;italic:true]{Success: Operation completed successfully}</p><h3 id="advanced-combinations">Advanced Combinations</h3>
 <p>::combo[bg:#2c3e50;color:#ecf0f1;weight:bold;align:center]{Premium Feature Announcement}</p><p>::combo[bg:#e8f5e9;color:#2e7d32]{✓ This feature is available in the free tier}</p><p>::combo[bg:#fff3e0;color:#e65100]{⚠ This requires a premium subscription}</p><p>::combo[bg:#ffebee;color:#c62828]{✗ This feature is currently unavailable}</p><h3 id="font-combination-examples">Font Combination Examples</h3>
-<p>::combo[font:ChenetClassicTamil;bg:#FFF8DC;color:#8B0000;weight:bold]{தமிழ் இலக்கியம் அழகானது - Classic Tamil}</p><p>::combo[font:Times New Roman;bg:#F0F8FF;color:#191970;italic:true]{Elegant serif font with italic styling - italic Times New Roman}</p><p>::combo[font:Arial;bg:#F5F5F5;color:#333;weight:600;align:center]{Modern sans-serif centered text}</p><h2 id="practical-examples">Practical Examples</h2>
+<p>::combo[font:Chenet Classic Tamil;bg:#FFF8DC;color:#8B0000;weight:bold]{தமிழ் இலக்கியம் அழகானது - Classic Tamil}</p><p>::combo[font:Times New Roman;bg:#F0F8FF;color:#191970;italic:true]{Elegant serif font with italic styling - italic Times New Roman}</p><p>::combo[font:Arial;bg:#F5F5F5;color:#333;weight:600;align:center]{Modern sans-serif centered text}</p><h2 id="practical-examples">Practical Examples</h2>
 <h3 id="status-indicators">Status Indicators</h3>
 <p>Project Status: ::color[green]{Active} | Development: ::color[blue]{In Progress} | Testing: ::color[orange]{Pending} | Deployment: ::color[red]{Not Started}</p><h3 id="code-comparison">Code Comparison</h3>
 <p>::strike{Old Method} → ::color[green]{New Method}</p><p>::combo[bg:#ffebee;color:#c62828]{Deprecated API} vs ::combo[bg:#e8f5e9;color:#2e7d32]{Recommended API}</p><h3 id="highlighting-key-terms">Highlighting Key Terms</h3>
