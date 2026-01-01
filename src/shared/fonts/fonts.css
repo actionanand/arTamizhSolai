@@ -1,58 +1,106 @@
-@import url('https://fonts.googleapis.com/css2?family=Kavivanar&family=Tiro+Tamil:ital@0;1&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@100..900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@400;600;700&display=swap'); */
+
 
 @font-face {
-  font-family: 'LohiTamilClassic';
-  src: url('/fonts/lohi-tamil-classic/Lohit-Tamil-Classical.ttf') format('truetype');
+  font-family: 'Chenet Classic Tamil';
+  src: url('/fonts/chenet/chenet-classic-tamil/Tamilri_Chenet_Classic_Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chenet Classic Tamil';
+  src: url('/fonts/chenet/chenet-classic-tamil/Tamilri_Chenet_Classic_Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'SangathamizhClassicTamil';
-  src: url('/fonts/sangathamizh-classic/Sangathamizh-ClassicTamilRegular.ttf') format('truetype');
+  font-family: 'Chenet Tamili Brahmi';
+  src: url('/fonts/chenet/tamili-brahmi/Tamilri_Chenet__Thamili-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
-/* Tamil font classes */
-.lohi-tamil-classic {
-  font-family: "LohiTamilClassic", "Tamil Sangam MN", "Latha", sans-serif;
-  font-weight: 400;
+@font-face {
+  font-family: 'E Vatteluttu';
+  src: url('/fonts/e-vatteluttu-ot/vatteluttu.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
-.sangathami-classic-tamil {
-  font-family: "SangathamizhClassicTamil", "Tamil Sangam MN", "Latha", sans-serif;
-  font-weight: 400;
+@font-face {
+  font-family: 'Mukta Malar Tamil';
+  src: url('/fonts/mukta-malar/MuktaMalar-Regular.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
-/* kavivanar css */
-.kavivanar-regular {
-  font-family: "Kavivanar", cursive;
-  font-weight: 400;
+@font-face {
+  font-family: 'Mukta Malar Tamil';
+  src: url('/fonts/mukta-malar/MuktaMalar-Bold.ttf') format('truetype');
+  font-weight: bold;
   font-style: normal;
+  font-display: swap;
 }
 
-/* Tiro Tamil css */
-.tiro-tamil-regular {
-  font-family: "Tiro Tamil", serif;
-  font-weight: 400;
+@font-face {
+  font-family: 'Mukta Malar Tamil';
+  src: url('/fonts/mukta-malar/MuktaMalar-SemiBold.ttf') format('truetype');
+  font-weight: 600;
   font-style: normal;
+  font-display: swap;
 }
 
-.tiro-tamil-regular-italic {
-  font-family: "Tiro Tamil", serif;
-  font-weight: 400;
-  font-style: italic;
+@font-face {
+  font-family: 'Chenet Tamil Wide';
+  src: url('/fonts/chenet/tamil-other/TAMILlNG_010-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
-/* Noto Sans Tamil css */
-.noto-sans-tamil-light {
-  font-family: "Noto Sans Tamil", sans-serif;
-  font-weight: 300;
+@font-face {
+  font-family: 'Chenet Tamil Decorative';
+  src: url('/fonts/chenet/tamil-other/TAMILlNG_012-Regular.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chenet Tamil Strike Through';
+  src: url('/fonts/chenet/tamil-other/Tamingo_029-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chenet Tamil Handwritten';
+  src: url('/fonts/chenet/tamil-other/TAMILlNG_021-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chenet Tamil Cursive';
+  src: url('/fonts/chenet/tamil-other/Tamingo_001-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chenet Classic Tamil Cursive';
+  src: url('/fonts/chenet/tamil-other/Tamingo_001_CL-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }

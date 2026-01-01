@@ -9,14 +9,14 @@ author: 'arTamizhSolai Team'
 articleMetadata: 'Complete guide to text formatting features'
 isPinned: true
 scrollToTop: true
-font: '"Times New Roman", serif'
+# font: Times New Roman
 ---
 
 # Text Formatting Showcase
 
 Welcome to the comprehensive guide on text formatting! This post demonstrates all the amazing text styling features available in our blog platform.
 
-::combo[bg:#e8f5e9;color:#2e7d32;weight:bold]{💡 Notice: This entire article uses Times New Roman font globally through the frontmatter 'font' property!}
+::combo[bg:#e8f5e9;color:#2e7d32;weight:bold]{💡 Notice: This entire article uses ChenetClassicTamil font globally through the frontmatter 'font' property!}
 
 ## Introduction
 
@@ -120,23 +120,22 @@ Control the thickness of your text:
 
 ## Font Families
 
-### Tamil Classical Fonts
+### Tamil Font Collection
 
-Use special Tamil classical fonts for authentic Tamil literature:
+Use specialized Tamil fonts for authentic Tamil literature and modern designs:
 
-**LohiTamilClassic Font:**
-::font[LohiTamilClassic]{உலகம் முழுவதும் தமிழ் மொழி பரவட்டும்}
+**Chenet Classic Tamil Font (Classical):**
+::font[Chenet Classic Tamil]{உலகம் முழுவதும் தமிழ் மொழி பரவட்டும்}
 
-::font[LohiTamilClassic]{பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட "னா," "ணா," "லை," "ளை," "னை," "ணை" மற்றும் "றா" எழுத்துக்கள்}
+::font[Chenet Classic Tamil]{சங்க இலக்கியம் என்பது மிகவும் பழமையான தமிழ் இலக்கியம்}
 
-::combo[font:LohiTamilClassic;color:#8B4513;bg:#F5F5DC]{குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
+::combo[font:Chenet Classic Tamil;color:#8B4513;bg:#F5F5DC]{குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
 
-**SangathamizhClassicTamil Font:**
-::font[SangathamizhClassicTamil]{அகநானூறு, புறநானூறு, கலித்தொகை}
+**Chenet Classic Tamil Cursive Font (Classical):**
+::font[Chenet Classic Tamil Cursive]{சங்க தமிழ் எழுத்துரு - தெளிவான வடிவமைப்பு}
 
-::font[SangathamizhClassicTamil]{பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட "னா," "ணா," "லை," "ளை," "னை," "ணை" மற்றும் "றா" எழுத்துக்கள்}
+::combo[font:Chenet Classic Tamil Cursive;color:#2E8B57;bg:#F0FFF0]{இது சங்க காலத்திற்கு ஏற்ற எழுத்துரு}
 
-::combo[font:SangathamizhClassicTamil;color:#4B0082;bg:#E6E6FA]{தொல்காப்பியம் முதல் இலக்கண நூல்}
 
 ### Other Font Options
 
@@ -152,21 +151,120 @@ Experiment with different fonts:
 
 ### Tamil Fonts Showcase
 
-* ::font[Tiro Tamil]{இது Tiro Tamil எழுத்துரு - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
+* ::font[Mukta Malar Tamil]{இது Mukta Malar Tamil *சாய்ந்த* **தடித்த** எழுத்துரு 1 - உலகில் நீங்கள் காண விரும்பும் மாற்றமாக இருங்கள்}
 
-* ::font[Noto Sans Tamil]{இது Noto Sans Tamil எழுத்துரு - உலகில் நீங்கள் காண விரும்பும் மாற்றமாக இருங்கள்}
+* ::font[Chenet Classic Tamil]{இது Chenet Classic Tamil *சாய்ந்த* **தடித்த** எழுத்துரு 2 - நம்பிக்கையைத் துணையாகக் கொண்டு முன்னேறுங்கள்}
 
-* இது default எழுத்துரு - விதைத்தவன் உறங்கலாம். ஆனால் விதைகள் ஒருபோதும் உறங்குவதில்லை
+* ::font[Chenet Tamil Wide]{இது Chenet Tamil Wide *சாய்ந்த* **தடித்த** எழுத்துரு 3 - தோல்விநிலையென நினைத்தால் மனிதன் வாழ்வை இழப்பான்.}
 
-* ::font[Kavivanar]{இது Kavivanar எழுத்துரு - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
+* ::font[Chenet Tamil Strike Through]{இது Chenet Tamil Strike Through *சாய்ந்த* **தடித்த** எழுத்துரு 4 - உன்னை நீ செதுக்கிக்கொள், உலகம் உன்னை உற்று நோக்கும்.}
 
-* ::font[LohiTamilClassic]{இது LohiTamilClassic எழுத்துரு - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
+* இது default *சாய்ந்த* **தடித்த** எழுத்துரு 5 - விதைத்தவன் உறங்கலாம். ஆனால் விதைகள் ஒருபோதும் உறங்குவதில்லை
 
-* ::font[SangathamizhClassicTamil]{இது SangathamizhClassicTamil எழுத்துரு - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
+* ::font[Chenet Tamil Handwritten]{இது Chenet Tamil Handwritten சாய்ந்த தடித்த எழுத்துரு 6 - குறுந்தொகையும் நற்றிணையும் சிறந்த சங்க நூல்கள்}
 
-:::info
-::font[Tiro Tamil]{நவீன தமிழ் எழுத்துமுறையில் பயன்படுத்தப்பட்ட "னா," "ணா," "லை," "ளை," "னை," "ணை" மற்றும் "றா" எழுத்துக்கள்} ⇒ ::font[SangathamizhClassicTamil]{பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட "னா," "ணா," "லை," "ளை," "னை," "ணை" மற்றும் "றா" எழுத்துக்கள்}
-:::
+* ::font[Chenet Tamil Cursive]{இது Chenet Tamil Cursive *சாய்ந்த* **தடித்த** எழுத்துரு 7 - வெற்றி பெறாமல் திரும்பாது உன் முயற்சி}
+
+* ::font[Chenet Classic Tamil Cursive]{இது Chenet Classic Tamil Cursive *சாய்ந்த* **தடித்த** எழுத்துரு 8 - உன்னால் முடியும் என்று எண்ணுவதையோ அல்லது முடியும் என்று கனவு காண்பதையோ துணிந்து தொடங்கு}
+
+* ::font[Chenet Tamil Decorative]{இது Chenet Tamil Decorative *சாய்ந்த* **தடித்த** எழுத்துரு 9 - என்னால் முடியும் என்று சொல்வதே தன்னம்பிக்கை}
+
+* ::font[Chenet Tamili Brahmi]{இது Chenet Tamili Brahmi *சாய்ந்த* **தடித்த** எழுத்துரு 10 - என்னால் முடியும் என்று சொல்வதே தன்னம்பிக்கை}
+
+* ::font[E Vatteluttu]{இது E Vatteluttu *சாய்ந்த* **தடித்த** எழுத்துரு 11 - விதைத்துக்கொண்டே இரு. முளைத்தால் மரம்; இல்லையேல் உரம்}
+
+## Global Font Feature
+
+### Setting Global Font in Frontmatter
+
+You can set a global font for the entire article by adding the `font` property to your frontmatter:
+
+```yaml
+---
+title: "Your Article Title"
+slug: "your-article-slug"
+description: "Your description"
+font: Mukta Malar Tamil
+---
+```
+
+**Available Font Options:**
+
+- `Chenet Classic Tamil` - Chenet Classic Tamil
+- `Mukta Malar Tamil` - Mukta Malar Tamil
+- `Chenet Tamil Wide` - Chenet Tamil Wide
+- `Chenet Tamil Decorative` - Chenet Tamil Decorative
+- `Chenet Tamil Strike Through` - Chenet Tamil Strike Through
+- `Chenet Tamil Handwritten` - Chenet Tamil Handwritten
+- `Chenet Tamil Cursive` - Chenet Tamil Cursive
+- `Chenet Classic Tamil Cursive` - Chenet Classic Tamil Cursive
+- `Chenet Tamili Brahmi` - Chenet Tamili Brahmi
+- `E Vatteluttu` - Vatteluttu script
+- `Times New Roman` - Classic serif font
+- `Arial` - Modern sans-serif font  
+- `Helvetica` - Helvetica
+- `Courier` - Courier
+- `Georgia` - Georgia
+- `monospace` - monospace
+ and more
+
+**Examples:**
+
+**For Tamil Articles (Classical):**
+```yaml
+font: Chenet Classic Tamil
+```
+
+**For Tamil Articles (Ancient Scripts):**
+```yaml
+font: Chenet Tamili Brahmi  # For Tamili/Brahmi
+font: E Vatteluttu          # For Vatteluttu
+```
+
+**For English Articles:**
+```yaml
+font: Times New Roman, serif
+```
+
+::combo[bg:#fff3e0;color:#e65100;weight:bold]{⚠ Note: Global font affects the entire article content but not the website header/navigation.}
+
+---
+
+## Tamil Font Evolution Showcase
+
+### Same Text in Different Scripts
+
+See how the same Tamil text looks across different historical periods and modern designs:
+
+**பாரம்பரிய வடிவம் (Classical Form):**
+
+1. **Chenet Classic Tamil** - ::combo[font:Chenet Classic Tamil;bg:#FFF8DC;color:#8B4513;weight:bold]{Tamizh பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட னா, ணா, லை, ளை, னை, ணை மற்றும் றா எழுத்துக்கள்}
+
+2. **Chenet Classic Tamil Cursive** - ::combo[font:Chenet Classic Tamil Cursive;bg:#FFF8DC;color:#8B4513;weight:bold]{Tamizh பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட னா, ணா, லை, ளை, னை, ணை மற்றும் றா எழுத்துக்கள்}
+
+**நவீன வடிவம் (Modern Form):**
+
+1. **Mukta Malar Tamil** - ::combo[font:Mukta Malar Tamil;bg:#F0FFF0;color:#2E8B57;weight:bold]{Tamizh பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட னா, ணா, லை, ளை, னை, ணை மற்றும் றா எழுத்துக்கள்}
+
+2. **Chenet Tamil Cursive** - ::combo[font:Chenet Tamil Cursive;bg:#FFF8DC;color:#8B4513;weight:bold]{Tamizh பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட னா, ணா, லை, ளை, னை, ணை மற்றும் றா எழுத்துக்கள்}
+
+3. **Chenet Tamil Wide** - ::combo[font:Chenet Tamil Wide;bg:#FFF8DC;color:#8B4513;weight:bold]{Tamizh பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட னா, ணா, லை, ளை, னை, ணை மற்றும் றா எழுத்துக்கள்}
+
+4. **Chenet Tamil Decorative** - ::combo[font:Chenet Tamil Decorative;bg:#FFF8DC;color:#8B4513;weight:bold]{Tamizh பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட னா, ணா, லை, ளை, னை, ணை மற்றும் றா எழுத்துக்கள்}
+
+5. **Chenet Tamil Strike Through** - ::combo[font:Chenet Tamil Strike Through;bg:#FFF8DC;color:#8B4513;weight:bold]{Tamizh பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட னா, ணா, லை, ளை, னை, ணை மற்றும் றா எழுத்துக்கள்}
+
+6. **Chenet Tamil Handwritten** - ::combo[font:Chenet Tamil Handwritten;bg:#FFF8DC;color:#8B4513;weight:bold]{Tamizh பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட னா, ணா, லை, ளை, னை, ணை மற்றும் றா எழுத்துக்கள்}
+
+**தமிழி பிராமி (Tamili Brahmi - Ancient):**
+
+- **Chenet Tamili Brahmi** - ::combo[font:Chenet Tamili Brahmi;bg:#FFF0F5;color:#8B0000;weight:bold]{Tamizh பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட னா, ணா, லை, ளை, னை, ணை மற்றும் றா எழுத்துக்கள்}
+
+**வட்டெழுத்து (Vatteluttu - Historical):**
+
+- **E Vatteluttu** - ::combo[font:E Vatteluttu;bg:#F5F5DC;color:#4B0082;weight:bold]{Tamizh பழம் எழுத்துமுறையில் பயன்படுத்தப்பட்ட னா, ணா, லை, ளை, னை, ணை மற்றும் றா எழுத்துக்கள்}
+
+::align[center]{::combo[bg:#e8f5e9;color:#2e7d32;weight:bold]{🌟 Four Millennia of Tamil Script Evolution 🌟}}
 
 ## Text Alignment
 
@@ -216,9 +314,7 @@ Combine multiple styles for maximum impact:
 
 ### Font Combination Examples
 
-::combo[font:LohiTamilClassic;bg:#FFF8DC;color:#8B0000;weight:bold]{தமிழ் இலக்கியம் அழகானது - Lohi Tamil Classic}
-
-::combo[font:SangathamizhClassicTamil;bg:#E6E6FA;color:#4B0082;weight:bold]{சங்க கால இலக்கியங்கள் - Sangathamizh Classic}
+::combo[font:ChenetClassicTamil;bg:#FFF8DC;color:#8B0000;weight:bold]{தமிழ் இலக்கியம் அழகானது - Classic Tamil}
 
 ::combo[font:Times New Roman;bg:#F0F8FF;color:#191970;italic:true]{Elegant serif font with italic styling - italic Times New Roman}
 
@@ -393,57 +489,9 @@ You've learned how to use all the text formatting features available in our blog
 ::weight[700]{text}                    - Font weight
 ::align[center]{text}                  - Text alignment
 ::font[fontname]{text}                 - Font family
-::combo[attr1:val1;attr2:val2]{text}  - Multiple styles
+::combo[attr1:val1;attr2:val2]{text}   - Multiple styles
+::font[family]{text}                   - Font family
 
 Global Font (in frontmatter):
 font: "Times New Roman"               - Sets font for entire article
 ```
-
-For more details, check the [Text Formatting Guide](../readme/TEXT_FORMATTING_GUIDE.md) in the documentation.
-
-::align[center]{::combo[bg:#fff3cd;color:#856404]{💡 Experiment and have fun with formatting!}}
-
----
-
-## Global Font Feature
-
-### Setting Global Font in Frontmatter
-
-You can set a global font for the entire article by adding the `font` property to your frontmatter:
-
-```yaml
----
-title: "Your Article Title"
-slug: "your-article-slug"
-description: "Your description"
-font: "SangathamizhClassicTamil"
----
-```
-
-**Available Font Options:**
-- `"Times New Roman"` - Classic serif font
-- `"Arial"` - Modern sans-serif font  
-- `SangathamizhClassicTamil` - Classical Tamil font
-- `LohiTamilClassic` - Traditional Tamil font
-- `"Noto Sans Tamil"` - Noto Sans Tamil
-- `"Tiro Tamil"` - Modern Tamil font
-- `Kavivanar` - Artistic Tamil font
-
-**Examples:**
-
-**For Tamil Articles:**
-```yaml
-font: SangathamizhClassicTamil
-```
-
-**For English Articles:**
-```yaml
-font: "Times New Roman", serif
-```
-
-**With Fallbacks:**
-```yaml
-font: '"Tiro Tamil", "Tamil MN", serif'
-```
-
-::combo[bg:#fff3e0;color:#e65100;weight:bold]{⚠ Note: Global font affects the entire article content but not the website header/navigation.}
