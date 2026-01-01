@@ -1,31 +1,85 @@
-@import url('https://fonts.googleapis.com/css2?family=Kavivanar&family=Tiro+Tamil:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla+Tamil+Upright:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla+Tamil+Inclined:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kavivanar&display=swap');
+
 
 @font-face {
-  font-family: 'LohiTamilClassic';
-  src: url('/fonts/lohi-tamil-classic/Lohit-Tamil-Classical.ttf') format('truetype');
+  font-family: 'ChenetClassicTamil';
+  src: url('/fonts/chenet/chenet-classic-tamil/Tamilri_Chenet_Classic_Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ChenetClassicTamil';
+  src: url('/fonts/chenet/chenet-classic-tamil/Tamilri_Chenet_Classic_Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'SangathamizhClassicTamil';
-  src: url('/fonts/sangathamizh-classic/Sangathamizh-ClassicTamilRegular.ttf') format('truetype');
+  font-family: 'ChenetThamiliBrahmi';
+  src: url('/fonts/chenet/tamili-brahmi/Tamilri_Chenet__Thamili-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
-/* Tamil font classes */
-.lohi-tamil-classic {
-  font-family: "LohiTamilClassic", "Tamil Sangam MN", "Latha", sans-serif;
+@font-face {
+  font-family: 'EVatteluttu';
+  src: url('/fonts/e-vatteluttu-ot/vatteluttu.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+/* Karla Tamil Upright: CSS classes */
+.karla-tamil-upright-regular {
+  font-family: "Karla Tamil Upright", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
-.sangathami-classic-tamil {
-  font-family: "SangathamizhClassicTamil", "Tamil Sangam MN", "Latha", sans-serif;
+.karla-tamil-upright-bold {
+  font-family: "Karla Tamil Upright", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Karla Tamil Inclined: CSS classes */
+.karla-tamil-inclined-regular {
+  font-family: "Karla Tamil Inclined", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.karla-tamil-inclined-bold {
+  font-family: "Karla Tamil Inclined", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Noto Sans Tamil: CSS class for a variable style */
+.noto-sans-tamil-variable {
+  font-family: "Noto Sans Tamil", sans-serif;
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+.noto-sans-tamil-light {
+  font-family: "Noto Sans Tamil", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Oi: CSS class */
+.oi-regular {
+  font-family: "Oi", serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -37,22 +91,4 @@
   font-style: normal;
 }
 
-/* Tiro Tamil css */
-.tiro-tamil-regular {
-  font-family: "Tiro Tamil", serif;
-  font-weight: 400;
-  font-style: normal;
-}
 
-.tiro-tamil-regular-italic {
-  font-family: "Tiro Tamil", serif;
-  font-weight: 400;
-  font-style: italic;
-}
-
-/* Noto Sans Tamil css */
-.noto-sans-tamil-light {
-  font-family: "Noto Sans Tamil", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-}
