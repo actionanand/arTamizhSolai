@@ -9,14 +9,14 @@ author: 'arTamizhSolai Team'
 articleMetadata: 'Complete guide to text formatting features'
 isPinned: true
 scrollToTop: true
-# font: Times New Roman
+font: Helvetica
 ---
 
 # Text Formatting Showcase
 
 Welcome to the comprehensive guide on text formatting! This post demonstrates all the amazing text styling features available in our blog platform.
 
-::combo[bg:#e8f5e9;color:#2e7d32;weight:bold]{💡 Notice: This entire article uses ChenetClassicTamil font globally through the frontmatter 'font' property!}
+::combo[bg:#e8f5e9;color:#2e7d32;weight:bold]{💡 Notice: This entire article uses Helvetica font globally through the frontmatter 'font' property!}
 
 ## Introduction
 
@@ -314,7 +314,7 @@ Combine multiple styles for maximum impact:
 
 ### Font Combination Examples
 
-::combo[font:ChenetClassicTamil;bg:#FFF8DC;color:#8B0000;weight:bold]{தமிழ் இலக்கியம் அழகானது - Classic Tamil}
+::combo[font:Chenet Classic Tamil;bg:#FFF8DC;color:#8B0000;weight:bold]{தமிழ் இலக்கியம் அழகானது - Classic Tamil}
 
 ::combo[font:Times New Roman;bg:#F0F8FF;color:#191970;italic:true]{Elegant serif font with italic styling - italic Times New Roman}
 
