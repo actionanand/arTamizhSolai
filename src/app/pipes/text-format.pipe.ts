@@ -8,6 +8,7 @@ import { Pipe, PipeTransform } from '@angular/core';
  * ::color[value]{text}      - Text color
  * ::weight[value]{text}     - Font weight (normal, bold, 100-900)
  * ::align[value]{text}      - Text alignment (left, center, right, justify)
+ * ::font[family]{text}      - Font family
  * ::bold{text}              - Bold text
  * ::italic{text}            - Italic text
  * ::strike{text}            - Strikethrough text
@@ -31,6 +32,7 @@ export class TextFormatPipe implements PipeTransform {
     processed = this.processTextColor(processed);
     processed = this.processFontWeight(processed);
     processed = this.processAlignment(processed);
+    processed = this.processFont(processed);
     processed = this.processBold(processed);
     processed = this.processItalic(processed);
     processed = this.processStrikethrough(processed);
@@ -59,6 +61,9 @@ export class TextFormatPipe implements PipeTransform {
       }
       if (styles['align']) {
         classes.push(`text-align-${this.sanitizeAlign(styles['align'])}`);
+      }
+      if (styles['font']) {
+        inlineStyles.push(`font-family: ${this.sanitizeFont(styles['font'])}`);
       }
       if (styles['bold'] === 'true') {
         inlineStyles.push('font-weight: bold');
@@ -124,6 +129,29 @@ export class TextFormatPipe implements PipeTransform {
     return content.replace(regex, (match, weight, text) => {
       const sanitizedWeight = this.sanitizeWeight(weight);
       return `<span style="font-weight: ${sanitizedWeight}">${text}</span>`;
+    });
+  }
+
+  /**
+   * Process font family: ::font[SangathamizhClassicTamil]{text}
+   */
+  private processFont(content: string): string {
+    const regex = /::font\[([^\]]+)\]\{([^}]+)\}/g;
+    return content.replace(regex, (match, font, text) => {
+      // Ensure we have valid inputs
+      if (!font || !text) {
+        return match; // Return original if invalid
+      }
+      
+      const sanitizedFont = this.sanitizeFont(font);
+      
+      // Only apply font if sanitization succeeded
+      if (sanitizedFont && sanitizedFont !== 'inherit') {
+        return `<span style="font-family: ${sanitizedFont}">${text}</span>`;
+      }
+      
+      // Return text without font styling if font is invalid
+      return text;
     });
   }
 
@@ -213,6 +241,30 @@ export class TextFormatPipe implements PipeTransform {
     }
     
     return 'normal';
+  }
+
+  /**
+   * Sanitize font family name
+   */
+  private sanitizeFont(font: string): string {
+    if (!font || typeof font !== 'string') {
+      return 'inherit';
+    }
+    
+    // Just trim whitespace - no quote processing
+    const trimmed = font.trim();
+    
+    // Handle empty string after processing
+    if (!trimmed) {
+      return 'inherit';
+    }
+    
+    // Simple validation - allow letters, numbers, spaces, quotes, and common punctuation
+    if (/^[a-zA-Z0-9\s"'-]+$/.test(trimmed)) {
+      return trimmed;
+    }
+    
+    return 'inherit';
   }
 
   /**
