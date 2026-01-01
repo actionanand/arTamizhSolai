@@ -38,7 +38,7 @@ font: "Mukta Malar Tamil"
 ### ::combo[bg:yellow;color:darkred;weight:bold]{English Translation}
 
 ::verse[Translation]{
-  ::align[center]{::combo[color:#006666]{
+  ::align[center]{::combo[font:Helvetica;color:#006666]{
     The cloud-hued One, who as a cowherd boy ate butter, <br>
     Who captured my heart completely, <br>
     The Lord of Brahma, beautiful Srirangam's deity, my nectar divine—<br>
