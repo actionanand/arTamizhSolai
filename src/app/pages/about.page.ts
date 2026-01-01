@@ -168,6 +168,12 @@ import { aboutContent } from '../config/about-content.config';
       z-index: 10;
     }
 
+    .tamil-content h1,
+    .tamil-content h2,
+    .tamil-content p {
+      font-family: 'Chenet Classic Tamil', serif;
+    }
+
     .hero-section {
       text-align: center;
       color: white;
@@ -203,6 +209,7 @@ import { aboutContent } from '../config/about-content.config';
 
     .story-section {
       padding: 3.5rem 0;
+      padding-top: 0;
       border-left: 3px solid rgba(248, 113, 113, 0.3);
       padding-left: 3rem;
       position: relative;
@@ -227,6 +234,10 @@ import { aboutContent } from '../config/about-content.config';
     }
 
     .story-section:last-child {
+      padding-bottom: 0;
+    }
+
+    .story-section:nth-last-child(2) {
       padding-bottom: 0;
     }
 
@@ -320,6 +331,7 @@ import { aboutContent } from '../config/about-content.config';
       .story-section {
         padding: 2.5rem 0 2.5rem 2rem;
         border-left-width: 2px;
+       padding-top: 0;
       }
 
       .story-section::before {
