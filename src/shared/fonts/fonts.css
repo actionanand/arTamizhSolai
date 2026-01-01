@@ -1,12 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Karla+Tamil+Upright:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Karla+Tamil+Inclined:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Oi&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Kavivanar&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@400;600;700&display=swap'); */
 
 
 @font-face {
-  font-family: 'ChenetClassicTamil';
+  font-family: 'Chenet Classic Tamil';
   src: url('/fonts/chenet/chenet-classic-tamil/Tamilri_Chenet_Classic_Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
@@ -14,7 +10,7 @@
 }
 
 @font-face {
-  font-family: 'ChenetClassicTamil';
+  font-family: 'Chenet Classic Tamil';
   src: url('/fonts/chenet/chenet-classic-tamil/Tamilri_Chenet_Classic_Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
@@ -22,7 +18,7 @@
 }
 
 @font-face {
-  font-family: 'ChenetThamiliBrahmi';
+  font-family: 'Chenet Tamili Brahmi';
   src: url('/fonts/chenet/tamili-brahmi/Tamilri_Chenet__Thamili-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
@@ -30,65 +26,81 @@
 }
 
 @font-face {
-  font-family: 'EVatteluttu';
+  font-family: 'E Vatteluttu';
   src: url('/fonts/e-vatteluttu-ot/vatteluttu.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
-
-/* Karla Tamil Upright: CSS classes */
-.karla-tamil-upright-regular {
-  font-family: "Karla Tamil Upright", sans-serif;
-  font-weight: 400;
+@font-face {
+  font-family: 'Mukta Malar Tamil';
+  src: url('/fonts/mukta-malar/MuktaMalar-Regular.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
-.karla-tamil-upright-bold {
-  font-family: "Karla Tamil Upright", sans-serif;
-  font-weight: 700;
+@font-face {
+  font-family: 'Mukta Malar Tamil';
+  src: url('/fonts/mukta-malar/MuktaMalar-Bold.ttf') format('truetype');
+  font-weight: bold;
   font-style: normal;
+  font-display: swap;
 }
 
-/* Karla Tamil Inclined: CSS classes */
-.karla-tamil-inclined-regular {
-  font-family: "Karla Tamil Inclined", sans-serif;
-  font-weight: 400;
+@font-face {
+  font-family: 'Mukta Malar Tamil';
+  src: url('/fonts/mukta-malar/MuktaMalar-SemiBold.ttf') format('truetype');
+  font-weight: 600;
   font-style: normal;
+  font-display: swap;
 }
 
-.karla-tamil-inclined-bold {
-  font-family: "Karla Tamil Inclined", sans-serif;
-  font-weight: 700;
+@font-face {
+  font-family: 'Chenet Tamil Wide';
+  src: url('/fonts/chenet/tamil-other/TAMILlNG_010-Regular.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
-/* Noto Sans Tamil: CSS class for a variable style */
-.noto-sans-tamil-variable {
-  font-family: "Noto Sans Tamil", sans-serif;
-  font-weight: 100 900;
+@font-face {
+  font-family: 'Chenet Tamil Decorative';
+  src: url('/fonts/chenet/tamil-other/TAMILlNG_012-Regular.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
-.noto-sans-tamil-light {
-  font-family: "Noto Sans Tamil", sans-serif;
-  font-weight: 300;
+@font-face {
+  font-family: 'Chenet Tamil Strike Through';
+  src: url('/fonts/chenet/tamil-other/Tamingo_029-Regular.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
-/* Oi: CSS class */
-.oi-regular {
-  font-family: "Oi", serif;
-  font-weight: 400;
+@font-face {
+  font-family: 'Chenet Tamil Handwritten';
+  src: url('/fonts/chenet/tamil-other/TAMILlNG_021-Regular.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
-/* kavivanar css */
-.kavivanar-regular {
-  font-family: "Kavivanar", cursive;
-  font-weight: 400;
+@font-face {
+  font-family: 'Chenet Tamil Cursive';
+  src: url('/fonts/chenet/tamil-other/Tamingo_001-Regular.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
-
+@font-face {
+  font-family: 'Chenet Classic Tamil Cursive';
+  src: url('/fonts/chenet/tamil-other/Tamingo_001_CL-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

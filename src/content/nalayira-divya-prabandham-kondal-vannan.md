@@ -19,7 +19,7 @@ coverImage: images/year-2025/kondal-vannan-krishna.webp
 toc: false
 scrollToTop: true
 isPinned: true
-font: "Noto Sans Tamil"
+font: "Mukta Malar Tamil"
 ---
 
 நாலாயிர திவ்யப் பிரபந்தத்தில் மிகவும் அழகான மற்றும் பிரபலமான பாசுரங்களில்[^1] ஒன்று திருப்பாணாழ்வாரின் "கொண்டல் வண்ணன்" பாடலாகும். இப்பாடல் "அமலனாதி பிரான்" என்ற பதிகத்தின்[^2] பத்தாவது மற்றும் கடைசிப் பாசுரமாக அமைந்துள்ளது.

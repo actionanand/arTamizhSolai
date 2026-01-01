@@ -6,7 +6,7 @@ date: '2026-01-01'
 category: 'Science'
 tags: ['food-science', 'umami', 'tamil-heritage', 'taste']
 # coverImage: 'images/year-2025/arusuuvai-umami.webp'
-# font: 'ChenetClassicTamil'
+font: 'Mukta Malar Tamil'
 toc: true
 scrollToTop: true
 ---
