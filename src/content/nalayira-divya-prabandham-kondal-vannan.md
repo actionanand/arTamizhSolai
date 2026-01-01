@@ -19,6 +19,7 @@ coverImage: images/year-2025/kondal-vannan-krishna.webp
 toc: false
 scrollToTop: true
 isPinned: true
+font: "Mukta Malar Tamil"
 ---
 
 நாலாயிர திவ்யப் பிரபந்தத்தில் மிகவும் அழகான மற்றும் பிரபலமான பாசுரங்களில்[^1] ஒன்று திருப்பாணாழ்வாரின் "கொண்டல் வண்ணன்" பாடலாகும். இப்பாடல் "அமலனாதி பிரான்" என்ற பதிகத்தின்[^2] பத்தாவது மற்றும் கடைசிப் பாசுரமாக அமைந்துள்ளது.
@@ -37,7 +38,7 @@ isPinned: true
 ### ::combo[bg:yellow;color:darkred;weight:bold]{English Translation}
 
 ::verse[Translation]{
-  ::align[center]{::combo[color:#006666]{
+  ::align[center]{::combo[font:Helvetica;color:#006666]{
     The cloud-hued One, who as a cowherd boy ate butter, <br>
     Who captured my heart completely, <br>
     The Lord of Brahma, beautiful Srirangam's deity, my nectar divine—<br>
@@ -127,7 +128,7 @@ isPinned: true
 
 இந்தப் பாசுரம் இன்றும் திருக்கோயில்களில், பஜனை நிகழ்ச்சிகளில் மற்றும் இசை நிகழ்ச்சிகளில் பாடப்படுகிறது. இதன் இனிமையான சந்தமும் ஆழமான பொருளும் அனைத்து வயதினரையும் கவர்கிறது.
 
-### ::combo[bg:yellow;color:darkred;weight:bold]{முடிவுரை}
+### ::combo[bg:yellow;color:darkred;weight:bold]{நிறைவுரை}
 
 ::combo[bg:#f0f8ff;padding:15px;border-left:4px solid #4169e1]{
 "கொண்டல் வண்ணன்" பாசுரம் ஒரு மிகச்சிறந்த பக்தி இலக்கியமாக நிற்கிறது. திருப்பாணாழ்வாரின் இந்த அருமையான பாடல், கண்ணபிரானின் அழகையும் மகத்துவத்தையும் எளிமையான ஆனால் ஆழமான வார்த்தைகளில் வெளிப்படுத்துகிறது. இப்பாசுரத்தைப் படிப்பவர்களும் கேட்பவர்களும் பக்தி உணர்வில் ஆழ்ந்து போகாமல் இருக்க முடியாது.

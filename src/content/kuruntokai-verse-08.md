@@ -1,6 +1,6 @@
 ---
 title: 'குறுந்தொகை - பாடல் 8'
-slug: 'kuruntokai-verse-8'
+slug: 'kuruntokai-verse-08'
 description: "A Sangam poem by Alangudi Vanganar where a courtesan speaks about her lover who came to her irresistibly like a mango falling into a ribbon fish's mouth, but now follows his wife's every wish like a mirror reflection. Set in the fertile Marutham landscape, this verse explores complex emotions of love, jealousy, and changing loyalties."
 date: '2025-12-31'
 category: 'Tamil Literature'
@@ -17,14 +17,15 @@ articleMetadata: "திணை (Landscape): Marutham – love in the agricultura
 coverImage: images/year-2025/kuruntokai-8.webp
 toc: false
 scrollToTop: true
+font: "Chenet Classic Tamil"
 ---
 
 சங்க இலக்கியத்தின் சிக்கலான மனித உறவுகளையும் சமூக நுட்பங்களையும் ஆராயும் இந்தப் பாடல், ஆலங்குடி வங்கனாரின் கூர்மையான உளவியல் நுணுக்கத்தைக் காட்டுகிறது.
 
 ::olai[கழனி மாஅத்து விளைந்து உகு தீம்பழம்]{
-  ::combo[color:#004080;weight:bold]{8. மருதம்} - ::combo[color:#004080]{காதற் பரத்தை கூற்று}
+  ::combo[font:Mukta Malar Tamil;color:#004080;weight:bold]{8. மருதம்} - ::combo[font:Mukta Malar Tamil;color:#004080]{காதற் பரத்தை கூற்று}
 
-  ::align[center]{::combo[color:#006666]{
+  ::align[center]{::combo[font:Mukta Malar Tamil;color:#006666]{
   கழனி மாத்து விளைந்துகு தீம்பழம் <br>
   பழன வாளை கதூஉ மூரன் <br>
   எம்மிற் பெருமொழி கூறித் தம்மிற் <br>
@@ -33,27 +34,29 @@ scrollToTop: true
   மேவன செய்யுந்தன் புதல்வன் றாய்க்கே. <br>
   }}
 
-  ::align[right]{::combo[color:#351C75]{குறுந்தொகை - 8}}
-  ::align[right]{::combo[color:#351C75]{பாடியவர் - ஆலங்குடி வங்கனார்}}
+  ::align[right]{::combo[font:Mukta Malar Tamil;color:#351C75]{குறுந்தொகை - 8}}
+  ::align[right]{::combo[font:Mukta Malar Tamil;color:#351C75]{பாடியவர் - ஆலங்குடி வங்கனார்}}
 }
 
 ### ::combo[bg:yellow;color:darkred;weight:bold]{சந்தி பிரித்து எழுதிய பாடல்}
 
 ::quote{
   ::align[center]{
-    கழனி மாஅத்து விளைந்து உகு தீம்பழம் <br>
-    பழன வாளை கதூஉம் ஊரன் <br>
-    எம்மில் பெருமொழி கூறித் தம்மில் <br>
-    கையும் காலும் தூக்கத் தூக்கும் <br>
-    ஆடிப் பாவை போல <br>
-    மேவன செய்யும் தன் புதல்வன் தாய்க்கே <br>
+    ::font[Mukta Malar Tamil]{
+      கழனி மாஅத்து விளைந்து உகு தீம்பழம் <br>
+      பழன வாளை கதூஉம் ஊரன் <br>
+      எம்மில் பெருமொழி கூறித் தம்மில் <br>
+      கையும் காலும் தூக்கத் தூக்கும் <br>
+      ஆடிப் பாவை போல <br>
+      மேவன செய்யும் தன் புதல்வன் தாய்க்கே <br>
+    }
   }
 }
 
 ### ::combo[bg:yellow;color:darkred;weight:bold]{English Translation}
 
 ::verse[Translation]{
-  ::align[center]{::combo[color:#006666]{
+  ::align[center]{::combo[font:Helvetica;color:#006666]{
     From villages where ribbon fish <br>
     Feast on mangoes from rice fields— <br>
     When fruit falls in their mouth, <br>
@@ -72,23 +75,25 @@ scrollToTop: true
 
 ### ::combo[bg:yellow;color:darkred;weight:bold]{சொற்களஞ்சியம்}
 
-**கழனி** - வயல்கள், நெல் விளையும் நிலம் <br>
-**மாஅத்து** – மாமரம் <br>
-**விளைந்து உகு** - பழுத்து வந்து (தானாக விழும்) <br>
-**பழன** - பொய்கை / குளம் <br>
-**கழனிமா அத்து விளைந்து உகு தீம்பழம்** - கழனியருகே உள்ள மாமரத்திர்ல பழுத்து விழுகின்ற இனிய பழம் <br>
-**வாளை** - வாளை மீன் <br>
-**கதூஉம்** - கவ்வி உண்ணும் / கவ்விக் கடிக்கும் <br>
-**பழனவாளை கதூஉம்** - பக்கத்துப் பொய்கையில் உள்ள வாளைமீன் கவ்விக்கொள்ளும் <br>
-**ஊரன்** - ஊரைச்சார்ந்தவன் <br>
-**எம்மில்** - என்னுடைய இல்லத்தில் <br>
-**பெருமொழி கூறி** – பெரிய வார்த்தை கூறி <br>
-**தம்மில்** – தன்னுடைய இல்லத்தில் <br>
-**ஆடி** - முகம் பார்க்கும் கண்ணாடி <br>
-**ஆடிப்பாவை** - கண்ணாடியில் தோன்றும் உருவம் <br>
-**ஆடிப் பாவை போல்** - கண்ணாடியில் தோன்றும் விளிம்பம்/பிரதிபலிப்பு போல் <br>
-**மேவன** - விரும்பியவை <br>
-**தன் புதல்வன் தாய்க்கே** - தன் புதல்வனின் தாய்க்கு (மனைவிக்கு) <br>
+::font[Mukta Malar Tamil]{
+  **கழனி** - வயல்கள், நெல் விளையும் நிலம் <br>
+  **மாஅத்து** – மாமரம் <br>
+  **விளைந்து உகு** - பழுத்து வந்து (தானாக விழும்) <br>
+  **பழன** - பொய்கை / குளம் <br>
+  **கழனிமா அத்து விளைந்து உகு தீம்பழம்** - கழனியருகே உள்ள மாமரத்திர்ல பழுத்து விழுகின்ற இனிய பழம் <br>
+  **வாளை** - வாளை மீன் <br>
+  **கதூஉம்** - கவ்வி உண்ணும் / கவ்விக் கடிக்கும் <br>
+  **பழனவாளை கதூஉம்** - பக்கத்துப் பொய்கையில் உள்ள வாளைமீன் கவ்விக்கொள்ளும் <br>
+  **ஊரன்** - ஊரைச்சார்ந்தவன் <br>
+  **எம்மில்** - என்னுடைய இல்லத்தில் <br>
+  **பெருமொழி கூறி** – பெரிய வார்த்தை கூறி <br>
+  **தம்மில்** – தன்னுடைய இல்லத்தில் <br>
+  **ஆடி** - முகம் பார்க்கும் கண்ணாடி <br>
+  **ஆடிப்பாவை** - கண்ணாடியில் தோன்றும் உருவம் <br>
+  **ஆடிப் பாவை போல்** - கண்ணாடியில் தோன்றும் விளிம்பம்/பிரதிபலிப்பு போல் <br>
+  **மேவன** - விரும்பியவை <br>
+  **தன் புதல்வன் தாய்க்கே** - தன் புதல்வனின் தாய்க்கு (மனைவிக்கு) <br>
+}
 
 ### ::combo[bg:yellow;color:darkred;weight:bold]{பாடலின் பின்னணி மற்றும் சூழல்}
 

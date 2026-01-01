@@ -24,4 +24,6 @@ export default interface PostAttributes {
   donationMessage?: string;
   // Scroll to top button
   scrollToTop?: boolean;
+  // Global font for entire article
+  font?: string;
 }
