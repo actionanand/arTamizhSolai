@@ -224,6 +224,7 @@ const DEFAULT_COVER_IMAGE = 'tamil-literature-default.svg';
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
+      font-family: 'Chenet Classic Tamil', serif;
     }
 
     .hero__subtitle {
