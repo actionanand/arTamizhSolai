@@ -86,3 +86,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^1]: Tamil literature has a history spanning over [2000 years](http://www.google.com)
 [^2]: Also known as the "Anklet Story" or "The Tale of the Anklet"
 :::
+
+:::explore
+[>] Tamil literature [history](https://en.wikipedia.org/wiki/Tamil_literature)
+[>] [Sangam period poetry](https://en.wikipedia.org/wiki/Sangam_period)
+[>] Silappatikaram [analysis](https://en.wikipedia.org/wiki/Silappatikaram)
+[>] [Ancient Tamil epics](https://www.britannica.com/topic/Tamil_literature)
+:::

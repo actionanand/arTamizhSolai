@@ -1,5 +1,11 @@
+/* use custom font faces */
+@import './shared/fonts/fonts.css';
+
 /* Import footnotes styling */
 @import './styles/footnotes.css';
+
+/* Import explore styling */
+@import './styles/explore.css';
 
 /* Import text formatting styling */
 @import './styles/text-format.css';

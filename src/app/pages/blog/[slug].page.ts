@@ -11,6 +11,7 @@ import { TableOfContentsComponent } from '../../components/table-of-contents.com
 import { PostNavigationComponent } from '../../components/post-navigation.component';
 import { AdmonitionTransformPipe } from '../../pipes/admonition-transform.pipe';
 import { ProcessFootnotesPipe } from '../../pipes/process-footnotes.pipe';
+import { ProcessExplorePipe } from '../../pipes/process-explore.pipe';
 import { TextFormatPipe } from '../../pipes/text-format.pipe';
 import { CardFormatPipe } from '../../pipes/card-format.pipe';
 import { TabsPipe } from '../../pipes/tabs.pipe';
@@ -31,6 +32,7 @@ import { AuthService } from '../../services/auth.service';
     PostNavigationComponent,
     AdmonitionTransformPipe,
     ProcessFootnotesPipe,
+    ProcessExplorePipe,
     TextFormatPipe,
     CardFormatPipe,
     TabsPipe,
@@ -46,7 +48,7 @@ import { AuthService } from '../../services/auth.service';
     <app-scroll-to-top *ngIf="post.attributes.scrollToTop"></app-scroll-to-top>
     
     @if (isContentAccessible()) {
-    <article class="blog-post">
+    <article class="blog-post" [style.font-family]="post.attributes.font || null">
       <header class="blog-post__header">
         <h1 class="blog-post__title">{{ post.attributes.title }}</h1>
         @if (post.attributes.date) {
@@ -109,7 +111,7 @@ import { AuthService } from '../../services/auth.service';
 
         <div class="blog-post__content" #contentRef>
           @if (post.content) {
-          <analog-markdown [content]="(typeof post.content === 'string' ? post.content : '') | processFootnotes | admonitionTransform | textFormat | cardFormat | tabs" />
+          <analog-markdown [content]="(typeof post.content === 'string' ? post.content : '') | processFootnotes | processExplore | admonitionTransform | textFormat | cardFormat | tabs" />
           }
         </div>
       </div>
@@ -878,4 +880,3 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
     }, 100);
   }
 }
-
