@@ -1,7 +1,7 @@
 ---
 title: 'அறுசுவை முதல் உமாமி வரை - தமிழ் உணவு அறிவியல்'
 slug: 'arusuuvai-umami-tamil-food-science'
-description: From traditional Tamil Arusuvai theory to modern Umami taste - a scientific journey through food science. Detailed article on the role of glutamate and Kikunae Ikeda's groundbreaking discovery.
+description: "From traditional Tamil Arusuvai theory to modern Umami taste - a scientific journey through food science. Detailed article on the role of glutamate and Kikunae Ikeda's groundbreaking discovery."
 date: '2026-01-01'
 category: 'Science'
 tags: ['food-science', 'umami', 'tamil-heritage', 'taste']
