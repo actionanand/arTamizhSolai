@@ -20,7 +20,10 @@ font: "Chenet Classic Tamil"
 
 ## ::combo[bg:#ff6b35;color:white;weight:bold]{செய்யுள்}
 
-::olai[திருப்புகழ் - முத்தைத்தரு]{
+
+:::tabs
+::tab[செய்யுள்]{
+::olai[திருப்புகழ் - முத்தைத்தரு]{ 
   ::combo[font:Mukta Malar Tamil;color:#8B0000;weight:bold]{முத்தைத்தரு (திருவருணை)}
 
   ::align[center]{::combo[font:Mukta Malar Tamil;color:#006666;size:1.05em]{
@@ -50,19 +53,16 @@ font: "Chenet Classic Tamil"
   குத்திப்புதை புக்குப் பிடியென ...... முதுகூகை <br><br>
   கொட்புற்றெழ நட்பற் றவுணரை <br>
   வெட்டிப்பலி யிட்டுக் குலகிரி <br>
-  குத்துப்பட ஒத்துப் பொரவல ...... பெருமாளே. <br>
-  }}
+  குத்துப்பட ஒத்துப் பொரவல ...... பெருமாளே. <br>}}
 
   ::align[right]{::combo[font:Mukta Malar Tamil;color:#351C75]{திருப்புகழ்}}
   ::align[right]{::combo[font:Mukta Malar Tamil;color:#351C75]{இயற்றியவர் - அருணகிரிநாதர்}}
+ }
 }
 
----
-
-:::tabs
-::tab[Overview]{Tabs help you organize related content in a compact, interactive format. Click on any tab to see its content.}
-::tab[Benefits]{Tabs reduce scrolling, improve readability, and make it easy to compare different options side by side.}
-::tab[Use Cases]{Perfect for code examples, tutorials, comparisons, documentation, and any content that benefits from organization.}
+::tab[சாந்தி பிரித்து]{
+ cool
+}
 :::
 
 ## ::combo[bg:yellow;color:darkred;weight:bold]{சொல் விளக்கம்}
