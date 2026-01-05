@@ -178,7 +178,7 @@ The poem celebrates love as a force beyond explanation, beyond family ties, beyo
 
 இன்றும் இந்தப் பாடல் அதன் பொருளுடன் நம்மை தொடுகிறது. காதலில் விழுந்த இரு உள்ளங்கள் "எப்படி நாம் சந்தித்தோம்? ஏன் நாம் காதலில் விழுந்தோம்?" என்று கேட்கும்போது, இந்தப் பாடல்தான் பதில்: மழைநீர் போல, நம் இதயங்கள் தாமாகவே கலந்துவிட்டன.
 
-### ::combo[color:#0066cc]{வீடியோ இணைப்பு}
+### ::combo[color:#0066cc]{வலையொளி இணைப்பு}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UH0haOwkf3Q?si=-f6_ZbcPZ2F3hUbT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -136,7 +136,7 @@ font: "Mukta Malar Tamil"
 
 இந்தப் பாசுரம் எளிமையான தமிழில் இருந்தாலும், அதன் ஆன்மீகப் பொருள் மிக ஆழமானதாகும். இது நாலாயிர திவ்யப் பிரபந்தத்தின் பொக்கிஷத்தில் ஒரு அருமையான முத்தாகத் திகழ்கிறது.
 
-### ::combo[color:#0066cc]{வீடியோ இணைப்பு}
+### ::combo[color:#0066cc]{வலையொளி இணைப்பு}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V8zXLMIjlcw?si=4FDBpGuv_8t5rWSR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
