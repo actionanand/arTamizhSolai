@@ -10,6 +10,9 @@ tags:
   - thiruppugazh
   - murugan
 author: 'Saint Arunagirinathar (அருணகிரிநாதர்)'
+epicName: "Thiruppugazh (திருப்புகழ்)"
+verseNumber: "06 (Total 1,307 Songs)"
+articleMetadata: "This renowned Tiruppugazh hymn is believed to have been sung after Lord Murugan personally appeared and gave the opening word ‘Mutthu(முத்து)'"
 coverImage: images/year-2025/thiruppugazh-murugan.webp
 toc: false
 scrollToTop: true
@@ -249,4 +252,3 @@ font: "Chenet Classic Tamil"
 [^2]: **அஷ்ட பைரவர்கள்**: அசிதாங்கன், காபாலி, சண்டன், உருரு, குரோதன், சங்காரன்,
 பீடணன், உன்மத்தன்.
 :::
-
