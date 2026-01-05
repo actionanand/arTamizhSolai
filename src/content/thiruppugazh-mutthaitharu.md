@@ -27,35 +27,27 @@ font: "Chenet Classic Tamil"
   தத்தத்தன தத்தத் தனதன <br>
   தத்தத்தன தத்தத் தனதன <br>
   தத்தத்தன தத்தத் தனதன ...... தனதான <br><br>
-  
   முத்தைத்தரு பத்தித் திருநகை <br>
   அத்திக்கிறை சத்திச் சரவண <br>
   முத்திக்கொரு வித்துக் குருபர ...... எனவோதும் <br><br>
-  
   முக்கட்பர மற்குச் சுருதியின் <br>
   முற்பட்டது கற்பித் திருவரும் <br>
   முப்பத்துமு வர்க்கத் தமரரும் ...... அடிபேணப <br><br>
-  
   பத்துத்தலை தத்தக் கணைதொடு <br>
   ஒற்றைக்கிரி மத்தைப் பொருதொரு <br>
   பட்டப்பகல் வட்டத் திகிரியில் ...... இரவாகப் <br><br>
-  
   பத்தற்கிர தத்தைக் கடவிய <br>
   பச்சைப்புயல் மெச்சத் தகுபொருள் <br>
   பட்சத்தொடு ரட்சித் தருள்வதும் ...... ஒருநாளே <br><br>
-  
   தித்தித்தெய ஒத்தப் பரிபுர <br>
   நிர்த்தப்பதம் வைத்துப் பயிரவி <br>
   திக்கொட்கந டிக்கக் கழுகொடு ...... கழுதாடத் <br><br>
-  
   திக்குப்பரி அட்டப் பயிரவர் <br>
   தொக்குத்தொகு தொக்குத் தொகுதொகு <br>
   சித்ரப்பவு ரிக்குத் த்ரிகடக ...... எனவோதக் <br><br>
-  
   கொத்துப்பறை கொட்டக் களமிசை <br>
   குக்குக்குகு குக்குக் குகுகுகு <br>
   குத்திப்புதை புக்குப் பிடியென ...... முதுகூகை <br><br>
-  
   கொட்புற்றெழ நட்பற் றவுணரை <br>
   வெட்டிப்பலி யிட்டுக் குலகிரி <br>
   குத்துப்பட ஒத்துப் பொரவல ...... பெருமாளே. <br>
@@ -66,6 +58,12 @@ font: "Chenet Classic Tamil"
 }
 
 ---
+
+:::tabs
+::tab[Overview]{Tabs help you organize related content in a compact, interactive format. Click on any tab to see its content.}
+::tab[Benefits]{Tabs reduce scrolling, improve readability, and make it easy to compare different options side by side.}
+::tab[Use Cases]{Perfect for code examples, tutorials, comparisons, documentation, and any content that benefits from organization.}
+:::
 
 ## ::combo[bg:yellow;color:darkred;weight:bold]{சொல் விளக்கம்}
 
