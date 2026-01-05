@@ -4,6 +4,7 @@ slug: 'thiruppugazh-mutthaitharu'
 description: "A powerful Thiruppugazh hymn by Saint Arunagirinathar describing Lord Murugan's divine attributes, his role as the spiritual guru, and his victorious battles against demons. This sacred composition celebrates Murugan as the one who taught Pranava mantra to Lord Shiva himself."
 date: '2026-01-05'
 category: 'Devotional Literature'
+isPinned: true
 tags:
   - tamil
   - devotional
@@ -13,7 +14,7 @@ author: 'Saint Arunagirinathar (அருணகிரிநாதர்)'
 epicName: "Thiruppugazh (திருப்புகழ்)"
 verseNumber: "06 (Total 1,307 Songs)"
 articleMetadata: "This renowned Tiruppugazh hymn is believed to have been sung after Lord Murugan personally appeared and gave the opening word ‘Mutthu(முத்து)'"
-coverImage: images/year-2025/thiruppugazh-murugan.webp
+coverImage: images/year-2026/thiruppugazh-murugan.webp
 toc: false
 scrollToTop: true
 font: "Chenet Classic Tamil"
