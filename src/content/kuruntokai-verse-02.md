@@ -113,7 +113,7 @@ The poem captures the romance of first encounter, where the maiden's modesty pre
   }
 }
 
-#### ::combo[color:#0066cc]{வீடியோ இணைப்பு}
+#### ::combo[color:#0066cc]{வலையொளி இணைப்பு}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Bd_9aan9_4?si=WW_Nvx4obhI5CX18&amp;start=282" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

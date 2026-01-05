@@ -186,7 +186,7 @@ The verse's profound sadness comes from this reversal: the beautiful marks of lo
 
 வெள்ளிவீதியார் என்ற புலவர், ஈராயிரம் ஆண்டுகளுக்கு முன்பே, பெண்ணின் உடல் மற்றும் உணர்வுகளை இவ்வளவு நுட்பமாகவும், நேர்மையாகவும் வெளிப்படுத்தியிருப்பது சங்க இலக்கியத்தின் சிறப்புக்கு ஒரு சான்று.
 
-### ::combo[color:#0066cc]{வீடியோ இணைப்பு}
+### ::combo[color:#0066cc]{வலையொளி இணைப்பு}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g5tS0RcK4VY?si=icm5tCY_Odu3GxEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
