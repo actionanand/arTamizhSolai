@@ -11,7 +11,7 @@ tags:
 author: 'தேவராய சுவாமிகள் (Devaraya Swamigal)'
 epicName: 'கந்த ஷஷ்டி கவசம் (Kanda Sashti Kavasam)'
 articleMetadata: '19-ஆம் நூற்றாண்டில் தேவராய சுவாமிகளால் இயற்றப்பட்ட கந்த சஷ்டி கவசம், சென்னிமலையில் அரங்கேற்றப்பட்டாலும் இன்று திருச்செந்தூர் தலம் மீதான கவசமாகவே உலகெங்கும் மிகப்பிரபலமாகப் பாடப்படுகிறது'
-coverImage: images/year-2026/thiruppugazh-murugan.webp
+coverImage: images/year-2026/kanda-sashti-1.webp
 font: "Mukta Malar Tamil"
 toc: false
 scrollToTop: true
