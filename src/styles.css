@@ -19,6 +19,9 @@
 /* Import tabs styling */
 @import './styles/tabs.css';
 
+/* Import base64 images styling */
+@import './styles/base64-images.css';
+
 /* Global Styles */
 :root {
   font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;

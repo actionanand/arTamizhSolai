@@ -16,6 +16,7 @@ import { ProcessExplorePipe } from '../../pipes/process-explore.pipe';
 import { TextFormatPipe } from '../../pipes/text-format.pipe';
 import { CardFormatPipe } from '../../pipes/card-format.pipe';
 import { TabsPipe } from '../../pipes/tabs.pipe';
+import { Base64ImagePipe } from '../../pipes/base64-image.pipe';
 import { FormatDatePipe } from '../../pipes/format-date.pipe';
 import { PasswordModalComponent } from '../../components/password-modal.component';
 import { DonationComponent } from '../../components/donation.component';
@@ -37,6 +38,7 @@ import { AuthService } from '../../services/auth.service';
     TextFormatPipe,
     CardFormatPipe,
     TabsPipe,
+    Base64ImagePipe,
     FormatDatePipe,
     PasswordModalComponent,
     DonationComponent,
@@ -112,7 +114,7 @@ import { AuthService } from '../../services/auth.service';
 
         <div class="blog-post__content" #contentRef>
           @if (post.content) {
-          <analog-markdown [content]="(typeof post.content === 'string' ? post.content : '') | processFootnotes | processExplore | admonitionTransform | textFormat | cardFormat | tabs" />
+          <analog-markdown [content]="(typeof post.content === 'string' ? post.content : '') | processFootnotes | processExplore | admonitionTransform | textFormat | cardFormat | base64Image | tabs" />
           }
         </div>
       </div>
