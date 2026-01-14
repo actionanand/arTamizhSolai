@@ -7,6 +7,7 @@ import { paginationConfig } from '../../config/pagination-config';
 
 import PostAttributes from '../../post-attributes';
 import { extractHeadings, HeadingLink } from '../../utilities/markdown-utils';
+import { getCoverImageSrc } from '../../utilities/cover-image-helper';
 import { TableOfContentsComponent } from '../../components/table-of-contents.component';
 import { PostNavigationComponent } from '../../components/post-navigation.component';
 import { AdmonitionTransformPipe } from '../../pipes/admonition-transform.pipe';
@@ -97,7 +98,7 @@ import { AuthService } from '../../services/auth.service';
 
       <img 
         class="blog-post__image" 
-        [src]="post.attributes.coverImage || defaultCoverImage"
+        [src]="getCoverImage(post.attributes)"
         [alt]="post.attributes.title"
       />
 
@@ -140,10 +141,10 @@ import { AuthService } from '../../services/auth.service';
           <ul class="posts-list">
             @for (p of relatedPosts; track p.attributes.slug) {
             <li class="post-item">
-              @if (p.attributes.coverImage || defaultCoverImage) {
+              @if (getCoverImage(p.attributes)) {
               <img 
                 class="post-thumbnail" 
-                [src]="p.attributes.coverImage || defaultCoverImage"
+                [src]="getCoverImage(p.attributes)"
                 [alt]="p.attributes.title"
               />
               }
@@ -164,10 +165,10 @@ import { AuthService } from '../../services/auth.service';
             @for (p of recentPosts; track p.attributes.slug) {
             @if (p.attributes.slug !== currentSlug) {
             <li class="post-item">
-              @if (p.attributes.coverImage || defaultCoverImage) {
+              @if (getCoverImage(p.attributes)) {
               <img 
                 class="post-thumbnail" 
-                [src]="p.attributes.coverImage || defaultCoverImage"
+                [src]="getCoverImage(p.attributes)"
                 [alt]="p.attributes.title"
               />
               }
@@ -618,6 +619,7 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
 
   readonly post$ = injectContent<PostAttributes>('slug');
   readonly defaultCoverImage = 'tamil-literature-default.svg';
+  getCoverImage = getCoverImageSrc;
   isContentAccessible = signal(true);
   
   private allPostsData: any;

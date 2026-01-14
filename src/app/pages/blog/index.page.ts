@@ -6,6 +6,7 @@ import { paginationConfig } from '../../config/pagination-config';
 import { FormatDatePipe } from '../../pipes/format-date.pipe';
 
 import PostAttributes from '../../post-attributes';
+import { getCoverImageSrc } from '../../utilities/cover-image-helper';
 
 const DEFAULT_COVER_IMAGE = 'tamil-literature-default.svg';
 
@@ -105,7 +106,7 @@ const DEFAULT_COVER_IMAGE = 'tamil-literature-default.svg';
           <div class="post-preview__image-container">
             <img 
               class="post-preview__image" 
-              [src]="post.attributes.coverImage || defaultCoverImage"
+              [src]="getCoverImage(post.attributes)"
               [alt]="post.attributes.title"
             />
           </div>
@@ -508,6 +509,7 @@ export default class Blog implements OnInit {
   readonly posts = injectContentFiles<PostAttributes>();
   readonly pageSize = paginationConfig.blogPageSize;
   readonly defaultCoverImage = DEFAULT_COVER_IMAGE;
+  getCoverImage = getCoverImageSrc;
 
   availableCategories: string[] = [];
   availableTags: string[] = [];
