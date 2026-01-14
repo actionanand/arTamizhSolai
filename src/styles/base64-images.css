@@ -1,0 +1,54 @@
+/* Base64 Image Styles */
+.base64-image {
+  margin: 2rem 0;
+  display: block;
+}
+
+.base64-image--center {
+  text-align: center;
+}
+
+.base64-image__img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+}
+
+.base64-image__caption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #666;
+  font-style: italic;
+}
+
+.base64-image--center .base64-image__caption {
+  text-align: center;
+}
+
+.base64-image-error {
+  padding: 1rem;
+  background: #fff3cd;
+  border: 1px solid #ffc107;
+  border-radius: 4px;
+  color: #856404;
+  margin: 1rem 0;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .base64-image__img {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .base64-image__caption {
+    color: #aaa;
+  }
+  
+  .base64-image-error {
+    background: #664d03;
+    border-color: #997404;
+    color: #ffecb5;
+  }
+}
