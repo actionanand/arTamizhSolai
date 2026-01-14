@@ -6,10 +6,10 @@ This guide explains how to use base64 encoded images as cover images for blog po
 
 ## Architecture
 
-The implementation uses a **file-based constant approach** where:
-1. Base64 image data is stored as exported constants in organized files (e.g., `house.ts`, `nature.ts`, `icons.ts`)
+The implementation uses a **centralized registry approach** where:
+1. Base64 image data is stored as exported constants in organized files (e.g., `base64-images.ts`, `nature.ts`, `icons.ts`)
 2. Posts reference these constants using the format `"filename#CONSTANT_NAME"`
-3. A helper utility dynamically imports and resolves the image at runtime
+3. A centralized registry in [base64-images-registry.ts](../src/app/config/base64-images-registry.ts) manages all imports and resolution
 
 ## Priority System
 
@@ -27,12 +27,11 @@ The cover image resolution follows this priority order:
 
 Create files in `src/data/images/` directory:
 
-**Example: `house.ts`**
+**Example: `base64-images.ts`**
 ```typescript
-// House and building related images
+// General purpose images
 export const PLACEHOLDER_IMAGE = "data:image/png;base64,iVBORw0KGgo...";
-export const MODERN_HOUSE = "data:image/jpeg;base64,/9j/4AAQSkZJRg...";
-export const VILLA = "data:image/jpeg;base64,/9j/4AAQSkZJRg...";
+export const SAMPLE_LANDSCAPE = "data:image/jpeg;base64,/9j/4AAQSkZJRg...";
 ```
 
 **Example: `nature.ts`**
@@ -49,9 +48,9 @@ export const HOME_ICON = "data:image/svg+xml;base64,PHN2ZyB4bWxucz...";
 export const SEARCH_ICON = "data:image/svg+xml;base64,PHN2ZyB4bWxucz...";
 ```
 
-### 2. Register New Files in Helper
+### 2. Register New Files in Centralized Registry
 
-When you create a new image file, add it to [cover-image-helper.ts](../src/app/utilities/cover-image-helper.ts):
+When you create a new image file, add it to [base64-images-registry.ts](../src/app/config/base64-images-registry.ts):
 
 **Step 1: Import the file**
 ```typescript
@@ -60,13 +59,14 @@ import * as natureImages from '../../data/images/nature';
 
 **Step 2: Add to IMAGE_REGISTRY**
 ```typescript
-const IMAGE_REGISTRY: Record<string, any> = {
-  'house': houseImages,
+export const IMAGE_REGISTRY: Record<string, any> = {
   'base64-images': base64Images,
   'nature': natureImages,  // Add your new file here
   // ... more files
 };
 ```
+
+**That's it!** No need to edit any other files. Both cover images and inline images will automatically use the updated registry.
 
 ### 3. Reference in Post Frontmatter
 
@@ -77,7 +77,13 @@ Use the format `"filename#CONSTANT_NAME"`:
 title: "My Blog Post"
 slug: "my-blog-post"
 description: "A great post"
-coverImageId: "house#MODERN_HOUSE"
+
+```yaml
+---
+title: "My Blog Post"
+slug: "my-blog-post"
+description: "A great post"
+coverImageId: "base64-images#SAMPLE_LANDSCAPE"
 date: "2025-01-14"
 ---
 ```
@@ -85,30 +91,27 @@ date: "2025-01-14"
 **More Examples**:
 
 ```yaml
-# Using an image from house.ts
-coverImageId: "house#VILLA"
+# Using an image from base64-images.ts
+coverImageId: "base64-images#PLACEHOLDER_IMAGE"
 
 # Using an image from nature.ts
 coverImageId: "nature#FOREST_SCENE"
 
 # Using an icon from icons.ts
 coverImageId: "icons#HOME_ICON"
-
-# Using from base64-images.ts
-coverImageId: "base64-images#SAMPLE_LANDSCAPE"
 ```
 
 **Do NOT** use both properties:
 
 ```yaml
 # ✅ Good - using file-based constant
-coverImageId: "house#MODERN_HOUSE"
+coverImageId: "base64-images#SAMPLE_LANDSCAPE"
 
 # ✅ Good - using path
 coverImage: "images/my-photo.jpg"
 
 # ❌ Bad - using both (coverImageId will take precedence)
-coverImageId: "house#MODERN_HOUSE"
+coverImageId: "base64-images#SAMPLE_LANDSCAPE"
 coverImage: "images/my-photo.jpg"
 ```
 
@@ -121,9 +124,9 @@ The `coverImageId` format is: `"filename#CONSTANT_NAME"`
 - **CONSTANT_NAME**: The exported constant name in that file
 
 Examples:
-- `"house#PLACEHOLDER_IMAGE"` → imports from `house.ts`, uses `PLACEHOLDER_IMAGE`
+- `"base64-images#PLACEHOLDER_IMAGE"` → imports from `base64-images.ts`, uses `PLACEHOLDER_IMAGE`
 - `"nature#FOREST_SCENE"` → imports from `nature.ts`, uses `FOREST_SCENE`
-- `"base64-images#SAMPLE_LANDSCAPE"` → imports from `base64-images.ts`, uses `SAMPLE_LANDSCAPE`
+- `"icons#HOME_ICON"` → imports from `icons.ts`, uses `HOME_ICON`
 
 ### 5. Converting Images to Base64
 
@@ -151,13 +154,12 @@ Organize your base64 images by category for better management:
 
 ```
 src/data/images/
-├── house.ts          # Buildings, homes, architecture
+├── base64-images.ts  # General/miscellaneous images
 ├── nature.ts         # Landscapes, forests, mountains
 ├── icons.ts          # Small icons and symbols
 ├── people.ts         # People, portraits
 ├── food.ts           # Food and cuisine images
-├── culture.ts        # Cultural and traditional images
-└── base64-images.ts  # General/miscellaneous images
+└── culture.ts        # Cultural and traditional images
 ```
 
 **Naming Convention for Constants**:
