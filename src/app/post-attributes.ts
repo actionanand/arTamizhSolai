@@ -2,7 +2,8 @@ export default interface PostAttributes {
   title: string;
   slug: string;
   description: string;
-  coverImage: string;
+  coverImage?: string;
+  coverImageId?: string; // Format: "filename#CONSTANT_NAME" (e.g., "house#PLACEHOLDER_IMAGE")
   date?: string;
   category?: string;
   tags?: string[];
