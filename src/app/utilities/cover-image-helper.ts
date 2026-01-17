@@ -36,3 +36,35 @@ export function getCoverImageSrc(attrs: PostAttributes | Record<string, never>):
   // Priority 3: Return default cover image
   return DEFAULT_COVER_IMAGE;
 }
+
+/**
+ * Resolves the background image source for a blog post.
+ * Supports both regular image paths and base64 references.
+ * 
+ * @param attrs - Post attributes containing background image information
+ * @returns The resolved background image source URL or data URI, or null if not set
+ */
+export function getBackgroundImageSrc(attrs: PostAttributes | Record<string, never>): string | null {
+  // Handle empty attributes
+  if (!attrs || Object.keys(attrs).length === 0) {
+    return null;
+  }
+
+  // Check for bgImg property
+  if (!('bgImg' in attrs) || !attrs.bgImg) {
+    return null;
+  }
+
+  const bgImg = attrs.bgImg;
+
+  // Check if it's a base64 reference (format: "filename#CONSTANT_NAME")
+  if (bgImg.includes('#')) {
+    const base64Image = resolveBase64Image(bgImg);
+    if (base64Image) {
+      return base64Image;
+    }
+  }
+
+  // Otherwise, return as regular image path
+  return bgImg;
+}
