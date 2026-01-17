@@ -162,6 +162,35 @@ src/data/images/
 └── culture.ts        # Cultural and traditional images
 ```
 
+## Background Images
+
+You can also use base64 images as repeating background patterns:
+
+```yaml
+# Basic background
+bgImg: "base64-images#SAMPLE_LANDSCAPE"
+
+# With filters
+bgImg: "base64-images#SAMPLE_LANDSCAPE"
+bgImgBrightness: 40
+bgImgGrayscale: 80
+
+# Disable overlay for light backgrounds
+bgImg: "images/light-pattern.webp"
+bgImgDisableOverlay: true
+```
+
+**Background Properties:**
+- `bgImg` - Image path or base64 reference
+- `bgImgBrightness` - 0-100 (dim the background)
+- `bgImgGrayscale` - 0-100 (convert to grayscale)
+- `bgImgDisableOverlay` - `true` to disable white overlay (for very light backgrounds)
+
+**Features:**
+- Full-screen coverage (extends beyond article content)
+- Mobile-optimized with responsive background sizing
+- Automatic overlay for readability (can be disabled)
+
 **Naming Convention for Constants**:
 - Use UPPER_SNAKE_CASE for constant names
 - Use descriptive names (e.g., `MODERN_VILLA`, `FOREST_SUNRISE`)
