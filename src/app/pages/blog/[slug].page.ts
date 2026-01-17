@@ -7,6 +7,7 @@ import { paginationConfig } from '../../config/pagination-config';
 
 import PostAttributes from '../../post-attributes';
 import { extractHeadings, HeadingLink } from '../../utilities/markdown-utils';
+import { getCoverImageSrc, getBackgroundImageSrc } from '../../utilities/cover-image-helper';
 import { TableOfContentsComponent } from '../../components/table-of-contents.component';
 import { PostNavigationComponent } from '../../components/post-navigation.component';
 import { AdmonitionTransformPipe } from '../../pipes/admonition-transform.pipe';
@@ -15,6 +16,7 @@ import { ProcessExplorePipe } from '../../pipes/process-explore.pipe';
 import { TextFormatPipe } from '../../pipes/text-format.pipe';
 import { CardFormatPipe } from '../../pipes/card-format.pipe';
 import { TabsPipe } from '../../pipes/tabs.pipe';
+import { Base64ImagePipe } from '../../pipes/base64-image.pipe';
 import { FormatDatePipe } from '../../pipes/format-date.pipe';
 import { PasswordModalComponent } from '../../components/password-modal.component';
 import { DonationComponent } from '../../components/donation.component';
@@ -36,6 +38,7 @@ import { AuthService } from '../../services/auth.service';
     TextFormatPipe,
     CardFormatPipe,
     TabsPipe,
+    Base64ImagePipe,
     FormatDatePipe,
     PasswordModalComponent,
     DonationComponent,
@@ -47,8 +50,15 @@ import { AuthService } from '../../services/auth.service';
     @if (post$ | async; as post) {
     <app-scroll-to-top *ngIf="post.attributes.scrollToTop"></app-scroll-to-top>
     
+    <div class="bg-wrapper"
+         [style.background-image]="getBackgroundStyle(post.attributes)"
+         [style.filter]="getBackgroundFilter(post.attributes)"
+         [class.has-bg-image]="post.attributes.bgImg"
+         [class.has-bg-overlay]="post.attributes.bgImg && !post.attributes.bgImgDisableOverlay">
+    
     @if (isContentAccessible()) {
-    <article class="blog-post" [style.font-family]="post.attributes.font || null">
+    <article class="blog-post" 
+             [style.font-family]="post.attributes.font || null">
       <header class="blog-post__header">
         <h1 class="blog-post__title">{{ post.attributes.title }}</h1>
         @if (post.attributes.date) {
@@ -97,7 +107,7 @@ import { AuthService } from '../../services/auth.service';
 
       <img 
         class="blog-post__image" 
-        [src]="post.attributes.coverImage || defaultCoverImage"
+        [src]="getCoverImage(post.attributes)"
         [alt]="post.attributes.title"
       />
 
@@ -111,7 +121,7 @@ import { AuthService } from '../../services/auth.service';
 
         <div class="blog-post__content" #contentRef>
           @if (post.content) {
-          <analog-markdown [content]="(typeof post.content === 'string' ? post.content : '') | processFootnotes | processExplore | admonitionTransform | textFormat | cardFormat | tabs" />
+          <analog-markdown [content]="(typeof post.content === 'string' ? post.content : '') | processFootnotes | processExplore | admonitionTransform | textFormat | cardFormat | base64Image | tabs" />
           }
         </div>
       </div>
@@ -140,10 +150,10 @@ import { AuthService } from '../../services/auth.service';
           <ul class="posts-list">
             @for (p of relatedPosts; track p.attributes.slug) {
             <li class="post-item">
-              @if (p.attributes.coverImage || defaultCoverImage) {
+              @if (getCoverImage(p.attributes)) {
               <img 
                 class="post-thumbnail" 
-                [src]="p.attributes.coverImage || defaultCoverImage"
+                [src]="getCoverImage(p.attributes)"
                 [alt]="p.attributes.title"
               />
               }
@@ -164,10 +174,10 @@ import { AuthService } from '../../services/auth.service';
             @for (p of recentPosts; track p.attributes.slug) {
             @if (p.attributes.slug !== currentSlug) {
             <li class="post-item">
-              @if (p.attributes.coverImage || defaultCoverImage) {
+              @if (getCoverImage(p.attributes)) {
               <img 
                 class="post-thumbnail" 
-                [src]="p.attributes.coverImage || defaultCoverImage"
+                [src]="getCoverImage(p.attributes)"
                 [alt]="p.attributes.title"
               />
               }
@@ -196,9 +206,68 @@ import { AuthService } from '../../services/auth.service';
       <h2>Protected Content</h2>
       <p>This article is password protected. Please unlock to view.</p>
     </div>
-    }    }
+    }
+    
+    </div>
+    }
   `,
   styles: `
+    /* Full-screen background wrapper */
+    .bg-wrapper {
+      min-height: 100vh;
+      width: 100%;
+      margin: -2rem;
+      padding: 2rem;
+    }
+
+    /* Background image styling */
+    .bg-wrapper.has-bg-image {
+      background-repeat: repeat;
+      background-size: auto;
+      background-position: top left;
+      background-attachment: scroll;
+      position: relative;
+    }
+
+    /* Mobile-specific background adjustments */
+    @media (max-width: 768px) {
+      .bg-wrapper {
+        margin: -1rem;
+        padding: 1rem;
+        width: unset !important;
+      }
+
+      .bg-wrapper.has-bg-image {
+        background-size: 200px auto;
+        background-position: top left;
+      }
+    }
+
+    /* Tablet adjustments */
+    @media (min-width: 769px) and (max-width: 1024px) {
+      .bg-wrapper.has-bg-image {
+        background-size: 300px auto;
+      }
+    }
+
+    /* Optional: Add overlay for better text readability when bg image is used */
+    .bg-wrapper.has-bg-overlay::before {
+      content: '';
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(255, 255, 255, 0.92);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .bg-wrapper.has-bg-overlay > * {
+      position: relative;
+      z-index: 1;
+    }
+
     .blog-post {
       max-width: 900px;
       margin: 0 auto;
@@ -618,6 +687,7 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
 
   readonly post$ = injectContent<PostAttributes>('slug');
   readonly defaultCoverImage = 'tamil-literature-default.svg';
+  getCoverImage = getCoverImageSrc;
   isContentAccessible = signal(true);
   
   private allPostsData: any;
@@ -635,6 +705,42 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
   private mutationObserver?: MutationObserver;
   private hasExtractedHeadings = false;
   private isBrowser: boolean;
+
+  /**
+   * Get background image style for the article
+   */
+  getBackgroundStyle(attrs: PostAttributes | Record<string, never>): string | null {
+    const bgImageSrc = getBackgroundImageSrc(attrs);
+    if (bgImageSrc) {
+      return `url('${bgImageSrc}')`;
+    }
+    return null;
+  }
+
+  /**
+   * Get CSS filter for background image (brightness and grayscale)
+   */
+  getBackgroundFilter(attrs: PostAttributes | Record<string, never>): string | null {
+    if (!attrs || !('bgImg' in attrs) || !attrs.bgImg) {
+      return null;
+    }
+
+    const filters: string[] = [];
+
+    // Apply brightness filter (0-100, default 100)
+    if ('bgImgBrightness' in attrs && attrs.bgImgBrightness !== undefined) {
+      const brightness = Math.max(0, Math.min(100, attrs.bgImgBrightness));
+      filters.push(`brightness(${brightness}%)`);
+    }
+
+    // Apply grayscale filter (0-100, default 0)
+    if ('bgImgGrayscale' in attrs && attrs.bgImgGrayscale !== undefined) {
+      const grayscale = Math.max(0, Math.min(100, attrs.bgImgGrayscale));
+      filters.push(`grayscale(${grayscale}%)`);
+    }
+
+    return filters.length > 0 ? filters.join(' ') : null;
+  }
 
   constructor(
     @Inject(PLATFORM_ID) platformId: object,

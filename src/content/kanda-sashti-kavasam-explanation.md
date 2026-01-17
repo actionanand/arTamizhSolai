@@ -15,6 +15,8 @@ coverImage: images/year-2026/kanda-sashti-1.webp
 font: "Mukta Malar Tamil"
 toc: false
 scrollToTop: true
+bgImg: "base64-images#VEL_MAYIL"
+bgImgDisableOverlay: true
 ---
 
 # கந்த ஷஷ்டி கவசம் - வரிவரி விளக்கம்

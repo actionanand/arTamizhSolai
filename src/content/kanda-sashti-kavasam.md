@@ -15,6 +15,8 @@ coverImage: images/year-2026/thiruppugazh-murugan.webp
 font: "Chenet Classic Tamil"
 toc: false
 scrollToTop: true
+bgImg: "base64-images#VEL_MAYIL"
+bgImgDisableOverlay: true
 ---
 
 :::tabs

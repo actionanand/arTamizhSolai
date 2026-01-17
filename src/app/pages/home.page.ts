@@ -4,6 +4,7 @@ import { injectContentFiles } from '@analogjs/content';
 import { paginationConfig } from '../config/pagination-config';
 import { FormatDatePipe } from '../pipes/format-date.pipe';
 import PostAttributes from '../post-attributes';
+import { getCoverImageSrc } from '../utilities/cover-image-helper';
 
 const DEFAULT_COVER_IMAGE = 'tamil-literature-default.svg';
 
@@ -47,7 +48,7 @@ const DEFAULT_COVER_IMAGE = 'tamil-literature-default.svg';
         <article class="post-card">
           <img 
             class="post-card__image" 
-            [src]="post.attributes.coverImage || defaultCoverImage" 
+            [src]="getCoverImage(post.attributes)" 
             [alt]="post.attributes.title"
           />
           <div class="post-card__content">
@@ -485,6 +486,7 @@ export default class HomePage implements OnInit {
   posts = injectContentFiles<PostAttributes>();
   readonly  defaultCoverImage = DEFAULT_COVER_IMAGE;
   recentPosts: typeof this.posts = [];
+  getCoverImage = getCoverImageSrc;
 
   ngOnInit() {
     this.loadRecentPosts();

@@ -2,7 +2,8 @@ export default interface PostAttributes {
   title: string;
   slug: string;
   description: string;
-  coverImage: string;
+  coverImage?: string;
+  coverImageId?: string; // Format: "filename#CONSTANT_NAME" (e.g., "house#PLACEHOLDER_IMAGE")
   date?: string;
   category?: string;
   tags?: string[];
@@ -26,4 +27,9 @@ export default interface PostAttributes {
   scrollToTop?: boolean;
   // Global font for entire article
   font?: string;
+  // Background image (repeating pattern)
+  bgImg?: string; // Regular path or base64 reference ("filename#CONSTANT_NAME")
+  bgImgBrightness?: number; // 0-100, lower = darker (default: 100)
+  bgImgGrayscale?: number; // 0-100, higher = more gray (default: 0)
+  bgImgDisableOverlay?: boolean; // Disable white overlay for light backgrounds (default: false)
 }
