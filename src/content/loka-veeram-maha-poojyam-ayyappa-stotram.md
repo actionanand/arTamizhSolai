@@ -836,6 +836,9 @@ scrollToTop: true
 
 :::explore
 [>] சபரிமலை [ஐயப்பன் ஸ்தோத்திரங்கள்](https://sabarimala.kerala.gov.in/)
+[>] சாஸ்தா சதகம் -லோக வீரம் மஹா பூஜ்யம் – [Loka veeram Lyrics](https://aanmeegam.co.in/blogs/lyrics/lokaveeram-lyrics/)
+[>] Namaskara Slokam - [Loka Veeram](https://ayyappanalayamsengurichi.com/namaskara-slokam-loka-veeram)
+[>] [Loka Veeram Mahapoojyam Lyrics in Tamil](https://www.tamilbeatslyrics.com/loka-veeram-mahapoojyam-lyrics-in-tamil/#content)
 :::
 
 ---
