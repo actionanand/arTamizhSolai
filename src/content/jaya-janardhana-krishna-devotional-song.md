@@ -11,7 +11,7 @@ tags:
   - sanskrit
   - bhakti
 author: 'Gauthami S Moorthy'
-albumName: 'Ba Ba Krishna'
+epicName: 'Ba Ba Krishna'
 font: "Mukta Malar Tamil"
 coverImage: images/year-2026/radha-krishna.webp
 toc: true
