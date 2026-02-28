@@ -238,7 +238,7 @@ Krishna mounted on Garuda, Lord of Gopis! Enchanter of those who surrender, O Lo
 |----------|---------|-------|
 | **नील मोहन (Neela Mohana)** | Blue-hued enchanter | நீல நிறம் கொண்ட மயக்குபவர் |
 | **सुन्दराकृते (Sundarakruthe)** | Of beautiful form | அழகிய வடிவம் உடையவர் |
-| **तनुज नाशन (Thanuja Nashana)** = தनु (உடல்) + ஜ (பிறந்தவன்) + நாசன (அழிப்பவர்) | Destroyer of demons born from body | உடலில் பிறந்த அசுரர்களை அழிப்பவர் |
+| **तनुज नाशन (Thanuja Nashana)** = தனு (உடல்) + ஜ (பிறந்தவன்) + நாசன (அழிப்பவர்) | Destroyer of demons born from body | உடலில் பிறந்த அசுரர்களை அழிப்பவர் |
 | **हरे मुरारे (Hare Murare)** | O Hari, O slayer of Mura | ஹரியே, முர அசுரன் அழிப்பவனே |
 
 **English Translation:**
