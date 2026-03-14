@@ -6,7 +6,7 @@ coverImageId: "base64-images#SAMPLE_LANDSCAPE"
 date: "2025-01-14"
 category: "Demo"
 tags: ["demo", "images", "base64", "tutorial"]
-isDraft: true
+enableLock: true
 ---
 
 # Base64 Image Guide - Cover, Inline & Background Images
