@@ -9,7 +9,7 @@ tags:
   - vishnu
   - sanskrit
   - venkateshwara
-coverImage: './images/year-2026/venkateshwara-prapatti.webp'
+coverImage: './images/year-2026/venkateshwara.webp'
 font: 'Mukta Malar Tamil'
 articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ப்ரபத்தி என்பது பக்தன் முழு சரணாகதியை வெளிப்படுத்தும் 16 ஸ்லோகங்களைக் கொண்ட புனிதமான சமஸ்கிருத துதி. இதில் பெருமாளின் பாதம், லக்ஷ்மி, பக்தியின் பல்வேறு அம்சங்கள், மற்றும் சரணாகதி தத்துவம் விரிவாக விளக்கப்படுகிறது.'
 ---

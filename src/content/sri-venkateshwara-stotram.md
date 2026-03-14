@@ -12,7 +12,7 @@ tags:
   - stotram
   - venkateshwara
 author: 'அனந்தாழ்வார் (Ananthalwar)'
-coverImage: './images/year-2026/venkateshwara-stotram.webp'
+coverImage: './images/year-2026/venkateshwara.webp'
 font: 'Mukta Malar Tamil'
 articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத்ரம் 11 சுருக்கமான ஆனால் ஆழமான ஸ்லோகங்களைக் கொண்டது. இது சுப்ரபாதத்திற்குப் பிறகு பாடப்படும் துதியாகும். ஒவ்வொரு ஸ்லோகமும் பெருமாளின் அழகு, க்ஷேமம், காருண்யம், மற்றும் பக்தர்களின் சரணாகதி ஆகியவற்றை விவரிக்கிறது.'
 ---

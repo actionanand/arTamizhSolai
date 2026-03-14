@@ -11,7 +11,7 @@ tags:
   - tirumala
   - tirupati
   - venkateshwara
-coverImage: './images/year-2026/venkateshwara-prapatti.webp'
+coverImage: './images/year-2026/venkateshwara.webp'
 font: 'Mukta Malar Tamil'
 articleMetadata: 'ஸ்ரீ வேங்கடேச மங்கள சாசனம் என்பது திருமலை பெருமாளுக்கு மங்களாசாசனம் செய்யும் 14 ஸ்லோகங்களைக் கொண்ட புனிதமான சமஸ்கிருத துதி. இதில் பெருமாளின் திவ்ய குணங்கள், அழகு, கருணை, மங்கள சொரூபம் போற்றப்படுகிறது.'
 
