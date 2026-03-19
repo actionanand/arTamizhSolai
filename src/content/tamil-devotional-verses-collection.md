@@ -1,12 +1,13 @@
 ---
 title: 'தமிழ் பக்தி வெண்பாக்கள் - தெய்வீக போற்றி'
 slug: 'tamil-devotional-verses-collection'
-description: "A collection of timeless Tamil devotional verses praising Lord Ganesha, Lord Shiva, Goddess Shakti, and Lord Murugan. These sacred verses have been cherished across generations for their spiritual depth and poetic beauty."
+description: "A collection of timeless Tamil devotional verses praising Lord Ganesha / Ganpati / vinayaka / Pillayar, Lord Shiva, Goddess Shakti, and Lord Murugan. These sacred verses have been cherished across generations for their spiritual depth and poetic beauty."
 date: '2026-01-04'
 category: 'Devotional Literature'
 tags:
   - tamil
   - devotional
+  - verses
 toc: true
 scrollToTop: true
 font: "Chenet Classic Tamil"
@@ -75,7 +76,7 @@ font: "Chenet Classic Tamil"
 ### ::combo[bg:yellow;color:darkred;weight:bold]{பதவுரை}
 
 ::combo[bg:#f0f8ff;padding:15px;border-left:4px solid #4169e1]{
-எலியை வாகனமாகக் கொண்டவரே, கையில் மோதகம் (லட்டு) ஏந்தியவரே, முரசு போன்ற காதுகளை உடையவரே, நீண்ட பூணூல் அணிந்தவரே, சிறிய வடிவம் கொண்டவரே, மஹேஶ்வரன் (சிவபெருமான்) புத்திரனே, தடைகளை நீக்கும் விநாயகரே - உமது திருவடிகளுக்கு என் வணக்கம்.
+எலியை வாகனமாகக் கொண்டவரே, கையில் மோதகம் (லட்டு) ஏந்தியவரே, விசிறி போன்ற காதுகளை உடையவரே, (நீளமாக) தொங்கும் பூணூல் அணிந்தவரே, சிறிய வடிவம் கொண்டவரே, மஹேஶ்வரன் (சிவபெருமான்) புத்திரனே, தடைகளை நீக்கும் விநாயகரே - உமது திருவடிகளுக்கு என் வணக்கம்.
 }
 
 ::combo[bg:#f0f8ff;padding:15px;border-left:4px solid #4169e1]{
@@ -88,8 +89,8 @@ font: "Chenet Classic Tamil"
 |---------------|--------------|----------------|
 | **मूषिक-वाहन (Mooshika-Vaahana)** | மூஷிக-வாஹன | எலியை வாகனமாகக் கொண்டவர் |
 | **मोदक-हस्त (Modaka-Hasta)** | மோதக-ஹஸ்த | கையில் மோதகம் (இனிப்பு) ஏந்தியவர் |
-| **चामर-कर्ण (Chaamara-Karna)** | சாமர-கர்ண | சாமரம் (முரசு) போன்ற பெரிய காதுகளை உடையவர் |
-| **विलम्बित-सूत्र (Vilambita-Suutra)** | விலம்பித-ஸூத்ர | நீண்ட பூணூல் (உபநயனம்) அணிந்தவர் |
+| **चामर-कर्ण (Chaamara-Karna)** | சாமர-கர்ண | சாமரம் (விசிறி) போன்ற பெரிய காதுகளை உடையவர் |
+| **विलम्बित-सूत्र (Vilambita-Suutra)** | விலம்பித-ஸூத்ர | (நீளமாக) தொங்கும் பூணூல் (உபநயனம் / yajnopavita) அணிந்தவர் (One who has a hanging, meaning long thread) |
 | **वामन-रूप (Vaamana-Roopa)** | வாமன-ரூப | சிறிய வடிவம் உடையவர், குட்டையான உருவம் கொண்டவர் |
 | **महेश्वर-पुत्र (Maheshvara-Putra)** | மஹேஶ்வர-புத்ர | மஹேஶ்வரன் (சிவபெருமான்) புத்திரன் |
 | **विघ्न-विनायक (Vighna-Vinaayaka)** | விக்ந-விநாயக | தடைகளை நீக்குபவர், விக்னங்களின் தலைவர் |
@@ -103,9 +104,9 @@ font: "Chenet Classic Tamil"
   **வாஹனம்** - வாகனம், ஊர்தி <br>
   **மோதகம்** - லட்டு, இனிப்பு உண்டை (விநாயகருக்கு மிகவும் பிடித்தது) <br>
   **ஹஸ்த** - கை, கரம் <br>
-  **சாமரம்** - முரசு, சாமரை <br>
+  **சாமரம்** - விசிறி, சாமரை; yak-tail fan / fly-whisk (soft, bushy, white fan used in temples) <br>
   **கர்ண** - காது <br>
-  **விலம்பித** - நீண்ட, தொங்கும் <br>
+  **விலம்பித** - தொங்கும், கீழே விழுந்திருக்கும்; hanging down, suspended, lowered <br>
   **ஸூத்ரம்** - பூணூல் <br>
   **வாமன** - குறிய, சிறிய <br>
   **ரூபம்** - வடிவம், உருவம் <br>
