@@ -78,14 +78,20 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100]{
-🔸 **லோக வீரம்** - உலகங்கள் அனைத்திலும் வீரம் மிக்கவர் என்று பொருள். 14 லோகங்களிலும் ஐயப்பனின் பராக்கிரமம் புகழப்படுகிறது. அவர் தீமையை அழிக்கும் வீர சக்தியின் உருவம்.
+🔸 **லோக வீரம்** - உலகங்கள் அனைத்திலும் வீரம் மிக்கவர் என்று பொருள். 14 லோகங்களிலும் ஐயப்பனின் பராக்கிரமம் புகழப்படுகிறது. அவர் தீமையை அழிக்கும் வீர சக்தியின் உருவம்.}
 
-🔸 **மஹா பூஜ்யம்** - மிகவும் பூஜிக்கத்தக்கவர். தேவர்கள், மனிதர்கள், அசுரர்கள் என அனைத்து உலகங்களிலும் வணங்கப்படுபவர்.
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **மஹா பூஜ்யம்** - மிகவும் பூஜிக்கத்தக்கவர். தேவர்கள், மனிதர்கள், அசுரர்கள் என அனைத்து உலகங்களிலும் வணங்கப்படுபவர்.}
 
-🔸 **சர்வரக்ஷகரம் விபும்** - எல்லோரையும் காப்பாற்றும் சர்வ வல்லமை படைத்தவர். எங்கும் நிறைந்து அனைவரையும் பாதுகாக்கும் தெய்வம்.
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **சர்வரக்ஷகரம் விபும்** - எல்லோரையும் காப்பாற்றும் சர்வ வல்லமை படைத்தவர். எங்கும் நிறைந்து அனைவரையும் பாதுகாக்கும் தெய்வம்.}
 
-🔸 **பார்வதீ ஹ்ருதயாநந்தம்** - பார்வதி தேவியின் இதயத்தில் ஆனந்தத்தை அளிப்பவர். மோஹினி அவதாரத்தில் பிறந்த புத்திரன் என்ற உயர்ந்த பொருளையும் கொண்டது.
-}
+  - सर्व (Sarva) means "all / every / entire" — it is an adjective (விசேஷணம், viśeṣaṇam) that qualifies rakṣakaram, telling us the scope of his protection — not some, not most, but every single being without exception.
+  - रक्षकरम् (Rakṣakaram) is built from the root verb rakṣ (ரக்ஷ்) meaning "to protect, to guard." The suffix -ka turns it into a noun — rakṣaka (ரக்ஷக), "the protector." The final -ram is the accusative case ending (ஐ, இரண்டாம் வேற்றுமை உருபு, dvitīyā vibhakti), making it "him who is the protector" — the object of praṇamāmi ("I bow to him").
+  - विभुम् (Vibhum) comes from the prefix vi- (intensifier, "fully in all directions") + root bhū (பூ, "to be / to pervade"), giving vibhu — "the all-pervading, omnipotent one." Again the -m ending is the accusative case (ஐ, இரண்டாம் வேற்றுமை, dvitīyā), because the poet is bowing to him who is vibhu. Together, the phrase means: "Him who is the protector of all, and who is omnipresent and all-powerful" — he protects everyone (sarva) precisely because he is everywhere (vibhu); his protection has no boundary of place, time, or person
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **பார்வதீ ஹ்ருதயாநந்தம்** - பார்வதி தேவியின் இதயத்தில் ஆனந்தத்தை அளிப்பவர். மோஹினி அவதாரத்தில் பிறந்த புத்திரன் என்ற உயர்ந்த பொருளையும் கொண்டது.}
 
 ---
 
@@ -133,7 +139,7 @@ scrollToTop: true
 | **सुतम् (Sutham)** | சுதம் | மகன், புத்திரன் |
 | **क्षिप्र (Kshipra)** | க்ஷிப்ர | விரைவான, துரிதமான |
 | **प्रसाद (Prasaada)** | ப்ரசாத | அருள், அனுக்ரஹம், கருணை |
-| **निरतम् (Niratam)** | நிரதம் | எப்போதும், நிலையாக, தொடர்ந்து |
+| **निरतम् (Niratam)** | நிரதம் | தொடர்ந்து ஈடுபட்ட, முழுமையாக அர்ப்பணிக்கப்பட்ட, எப்போதும் செய்யும் (engaged in, devoted to) |
 
 ---
 
@@ -142,7 +148,7 @@ scrollToTop: true
 ::combo[bg:#fff3e0;color:#e65100]{
 🔸 **விப்ரபூஜ்யம்** - அந்தணர்களாலும், ஞானிகளாலும் பூஜிக்கப்படுபவர். வேத விற்பன்னர்கள் வணங்கும் தெய்வம்.
 
-🔸 **விஶ்வவந்த்யம்** - உலகம் முழுவதும் வணங்கப்படுபவர். அனைத்து மதங்களிலும், நாடுகளிலும் மதிக்கப்படும் தெய்வம்.
+🔸 **விஶ்வவந்த்யம்** - உலகம் முழுவதும் வணங்கப்படுபவர். அனைத்து மதங்களிலும், நாடுகளிலும் மதிக்கப்படும் தெய்வம். वन्द्यम् (Vandyam) is a Sanskrit word that acts as a future passive participle (gerundive) derived from the root vand (वन्द्), meaning **to praise**, **to worship**, or **to salute**. Primary meaning is **Worthy to be worshiped** or **Salutable**.
 
 🔸 **விஷ்ணு சம்போ ப்ரியம் சுதம்** - திருமாலுக்கும் சிவபெருமானுக்கும் பிரியமான புத்திரன். **ஹரிஹரபுத்திரன்** என்ற சிறப்புப் பெயருக்கான விளக்கம்.
 
@@ -185,9 +191,9 @@ scrollToTop: true
 
 | வடமொழிச் சொல் | எழுத்துருவில் | தமிழ் விளக்கம் |
 |---------------|--------------|----------------|
-| **मत्त (Mattha)** | மத்த | பெருமை கொண்ட, வலிமை வாய்ந்த |
+| **मत्त (Mattha)** | மத்த | பெருமை கொண்ட, வலிமை வாய்ந்த (majestic) |
 | **मातङ्ग (Maatanga)** | மாதங்க | யானை |
-| **गमनम् (Gamanam)** | கமனம் | நடை, நடக்கும் விதம் |
+| **गमनम् (Gamanam)** | கமனம் | நடை, நடக்கும் விதம் (the act of going, moving) |
 | **कारुण्य (Kaarunya)** | காருண்ய | கருணை, இரக்கம் |
 | **अमृत (Amrita)** | அம்ருத | அமிர்தம், தேவாமிர்தம் |
 | **पूरितम् (Pooritam)** | பூரிதம் | நிறைந்த, பரவியுள்ள |
