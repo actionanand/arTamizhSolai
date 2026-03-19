@@ -80,18 +80,47 @@ scrollToTop: true
 ::combo[bg:#fff3e0;color:#e65100]{
 🔸 **லோக வீரம்** - உலகங்கள் அனைத்திலும் வீரம் மிக்கவர் என்று பொருள். 14 லோகங்களிலும் ஐயப்பனின் பராக்கிரமம் புகழப்படுகிறது. அவர் தீமையை அழிக்கும் வீர சக்தியின் உருவம்.}
 
+  - लोक (Loka) comes from the root ruc / lok, meaning "to shine, to be seen, to be perceived" — a loka is literally "a world that can be perceived, a realm of existence." In classical cosmology there are 14 lokas (சதுர்தச பதினான்கு உலகங்கள்) spanning from the lowest to the highest planes of being. Using loka in the plural sense here means his heroism is not confined to any one plane — it shines and is witnessed across all realms of existence.
+  - वीरम् (Vīram) is the accusative form of vīra, derived from the root vī or vi ("to go with force, to pervade with energy, to be vigorous"). Vīra means "hero, the heroic one, one of outstanding valour." The -m ending is the accusative case (dvitīyā vibhakti, இரண்டாம் வேற்றுமை), because the whole phrase loka-vīram is one of the attributes the poet is bowing to. Together, loka-vīram means "the hero of all the worlds" — not a warrior in battle alone, but the one whose heroic nature pervades every realm.
+
 ::combo[bg:#fff3e0;color:#e65100]{
 🔸 **மஹா பூஜ்யம்** - மிகவும் பூஜிக்கத்தக்கவர். தேவர்கள், மனிதர்கள், அசுரர்கள் என அனைத்து உலகங்களிலும் வணங்கப்படுபவர்.}
+
+  - महा (Mahā) is an indeclinable prefix form of mahat ("great, vast, exceeding ordinary measure"), from the root mah ("to be great, to honour, to magnify"). As a prefix it is an intensifier of the highest order — not merely large but immeasurably great. It modifies what follows, making mahā-poojyam "supremely worthy of worship," far beyond the ordinary.
+  - पूज्यम् (Poojyam) is a gerundive (future passive participle, கர்மணி கிருதந்தம்) formed from the root pūj ("to honour, to revere, to worship with offerings"). The suffix -ya added to the root creates the gerundive meaning "that which ought to be, must be, deserves to be" — so pūjyam is not merely "worshipped" but "worthy of worship by right and by the very nature of who he is." The -m is again the accusative ending, keeping it as the object of praṇamāmi.
 
 ::combo[bg:#fff3e0;color:#e65100]{
 🔸 **சர்வரக்ஷகரம் விபும்** - எல்லோரையும் காப்பாற்றும் சர்வ வல்லமை படைத்தவர். எங்கும் நிறைந்து அனைவரையும் பாதுகாக்கும் தெய்வம்.}
 
   - सर्व (Sarva) means "all / every / entire" — it is an adjective (விசேஷணம், viśeṣaṇam) that qualifies rakṣakaram, telling us the scope of his protection — not some, not most, but every single being without exception.
   - रक्षकरम् (Rakṣakaram) is built from the root verb rakṣ (ரக்ஷ்) meaning "to protect, to guard." The suffix -ka turns it into a noun — rakṣaka (ரக்ஷக), "the protector." The final -ram is the accusative case ending (ஐ, இரண்டாம் வேற்றுமை உருபு, dvitīyā vibhakti), making it "him who is the protector" — the object of praṇamāmi ("I bow to him").
-  - विभुम् (Vibhum) comes from the prefix vi- (intensifier, "fully in all directions") + root bhū (பூ, "to be / to pervade"), giving vibhu — "the all-pervading, omnipotent one." Again the -m ending is the accusative case (ஐ, இரண்டாம் வேற்றுமை, dvitīyā), because the poet is bowing to him who is vibhu. Together, the phrase means: "Him who is the protector of all, and who is omnipresent and all-powerful" — he protects everyone (sarva) precisely because he is everywhere (vibhu); his protection has no boundary of place, time, or person
+  - विभुम् (Vibhum) comes from the prefix vi- (intensifier, "fully in all directions") + root bhū (பூ, "to be / to pervade"), giving vibhu — "the all-pervading, omnipotent one." Again the -m ending is the accusative case (ஐ, இரண்டாம் வேற்றுமை, dvitīyā), because the poet is bowing to him who is vibhu. Together, the phrase means: "Him who is the protector of all, and who is omnipresent and all-powerful" — he protects everyone (sarva) precisely because he is everywhere (vibhu); his protection has no boundary of place, time, or person.
 
 ::combo[bg:#fff3e0;color:#e65100]{
 🔸 **பார்வதீ ஹ்ருதயாநந்தம்** - பார்வதி தேவியின் இதயத்தில் ஆனந்தத்தை அளிப்பவர். மோஹினி அவதாரத்தில் பிறந்த புத்திரன் என்ற உயர்ந்த பொருளையும் கொண்டது.}
+
+  - पार्वती (Pārvatī) is the name of Śiva's divine consort, formed from parvata ("mountain") + the suffix -ī, meaning "daughter of the mountain (Himālaya)." In the compound pārvatī-hṛdayānandam, Pārvatī is in the genitive case (உடைமை வேற்றுமை, ṣaṣṭhī vibhakti) — meaning "of Pārvatī," "belonging to Pārvatī." She represents the ultimate mother's heart, whose joy becomes the measure of the child's greatness.
+  - हृदय (Hṛdaya) is one of Sanskrit's oldest and most beautiful words, possibly from the root hṛ ("to take, to seize") — hṛdaya is "that which takes and holds everything, the heart." It means not just the physical heart but the seat of feeling, memory, and love. Here it appears as part of a compound: pārvatī-hṛdaya = "the heart of Pārvatī."
+  - आनन्दम् (Ānandam) comes from the prefix ā- ("fully, completely") + the root nand ("to rejoice, to be delighted"), giving ānanda — "complete, unbounded joy, bliss." The -m ending is accusative. So pārvatī-hṛdayānandam means "the bliss of Pārvatī's heart" — he who fills the mother's heart with total joy. This is not incidental — a child who causes such joy in the divine mother's heart must himself be divine beyond measure.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **சாஸ்தாரம் ப்ரணமாம்யஹம்** - சாஸ்தாவை வணங்குகிறேன் நான்.
+}
+
+  - शास्तारम् (Śāstāram) is the accusative form of śāstṛ, from the root śās ("to teach, to govern, to instruct, to rule with wisdom and discipline"). The suffix -tṛ creates an agent noun — śāstṛ, "the one who governs, the teacher-ruler." The accusative -am makes it the direct object of praṇamāmi: "I bow to the śāstā." This title is the very name of Ayyappa — the one who governs all worlds through wisdom and dharma, not through force alone.
+  - प्रणमामि (Praṇamāmi) — the entire verse's verb, placed at the very end in Sanskrit's natural word order. It is first-person singular present tense of pra- + nam ("to bend, to bow") — praṇamāmi: "I bow, I salute with my entire being." The prefix pra- adds intensity — not a casual nod but a full, prostrate, wholehearted salutation. अहम् (Aham, "I") is the subject. The final shape of the verse: I (aham) bow (praṇamāmi) to him (śāstāram and all the accusatives before it) — the structure itself is an act of surrender.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **ஸ்வாமியே சரணம் ஐயப்பா** - ஐயப்பா, நீயே என் அடைக்கலம்.
+}
+
+  - स्वामी (Svāmī) comes from the root sva ("one's own, that which belongs to oneself") + the suffix -min (indicating possession) — svāmin literally means "one who is master of himself, one who owns himself completely, the self-possessed one." From this comes its devotional meaning: "the Lord, the Master, the one who has complete sovereignty over himself and thereby over all." The vocative ending -e (ஏ உருபு, sambodhana vibhakti) in Tamil rendering — Svāmiye — turns it into a direct address: "O Svāmī!" The poet is not describing him from a distance but calling out to him face to face.
+
+  - शरणम् (Śaraṇam) is one of Sanskrit's most ancient and profound words, from the root śṛ ("to crush, to break" — in the sense of one who is broken by suffering running to shelter) or from śar ("to move swiftly toward safety"). Śaraṇa is "refuge, shelter, the place or person one runs to for protection." Grammatically it functions here as a noun in the accusative-predicative sense — "I take you as refuge, I declare you my shelter." It is not a passive state but an active, deliberate act of surrender. In the Vaiṣṇava tradition this single act — śaraṇāgati, taking refuge — is considered the highest form of devotion, requiring no other qualification.
+
+  - ऐयप्पा (Ayyappā) — the name itself carries layers. The most widely accepted etymology joins Ayyan (ஐயன் — an ancient Tamil honorific meaning "father, lord, the noble one, the respected elder") + Appā (அப்பா — the intimate Tamil word for "father, my father," a child's word of love and closeness). Together Ayyappā means "my father who is the noble lord" — simultaneously the cosmic sovereign and the intimate parent. The long ā ending (ஆ) in Ayyappā is the vocative, the calling form — every time a devotee says "Ayyappā," the very grammar of the name is an act of calling out to one's own father.
+
+  - The full phrase **Svāmiye Śaraṇam Ayyappā** thus holds three movements in three words: *Svāmiye* — I recognise you as the self-sovereign Lord; *Śaraṇam* — I place myself entirely under your shelter; *Ayyappā* — and I call you by the name that means you are my own father. This is why the refrain does not feel like a closing line — it feels like the whole theology of the stotra compressed into six syllables.
 
 ---
 
@@ -146,17 +175,27 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100]{
-🔸 **விப்ரபூஜ்யம்** - அந்தணர்களாலும், ஞானிகளாலும் பூஜிக்கப்படுபவர். வேத விற்பன்னர்கள் வணங்கும் தெய்வம்.
+🔸 **விப்ரபூஜ்யம்** - அந்தணர்களாலும், ஞானிகளாலும் பூஜிக்கப்படுபவர். வேத விற்பன்னர்கள் வணங்கும் தெய்வம்.}
 
-🔸 **விஶ்வவந்த்யம்** - உலகம் முழுவதும் வணங்கப்படுபவர். அனைத்து மதங்களிலும், நாடுகளிலும் மதிக்கப்படும் தெய்வம். वन्द्यम् (Vandyam) is a Sanskrit word that acts as a future passive participle (gerundive) derived from the root vand (वन्द्), meaning **to praise**, **to worship**, or **to salute**. Primary meaning is **Worthy to be worshiped** or **Salutable**.
+  - विप्रपूज्यम् (Viprapoojyam) is a compound of विप्र (vipra — "the learned, the Brahmin, one purified by knowledge") + पूज्यम् (poojyam — gerundive of the root pūj, "to honour, to worship"), meaning "worthy to be worshipped by the learned." The -m ending is the accusative case (dvitīyā vibhakti), marking him as the object of praṇamāmi. The title does not limit his worship to one community; rather, it says that even those who know the most — the scholars and sages — bow before him.
 
-🔸 **விஷ்ணு சம்போ ப்ரியம் சுதம்** - திருமாலுக்கும் சிவபெருமானுக்கும் பிரியமான புத்திரன். **ஹரிஹரபுத்திரன்** என்ற சிறப்புப் பெயருக்கான விளக்கம்.
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **விஶ்வவந்த்யம்** - உலகம் முழுவதும் வணங்கப்படுபவர். அனைத்து மதங்களிலும், நாடுகளிலும் மதிக்கப்படும் தெய்வம். वन्द्यम् (Vandyam) is a Sanskrit word that acts as a future passive participle (gerundive) derived from the root vand (वन्द्), meaning **to praise**, **to worship**, or **to salute**. Primary meaning is **Worthy to be worshiped** or **Salutable**.}
 
+  - विश्ववन्द्यम् (Viswavandyam) joins विश्व (viśva — "the whole world, the entire universe") + वन्द्यम् (vandyam — future passive participle of vand, "to salute, to revere"), yielding "worthy of salutation by the entire world." While poojyam speaks of ritual veneration by the wise, vandyam speaks of universal reverence — every being in every corner of creation bows to him.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **விஷ்ணு சம்போ ப்ரியம் சுதம்** - திருமாலுக்கும் சிவபெருமானுக்கும் பிரியமான புத்திரன். **ஹரிஹரபுத்திரன்** என்ற சிறப்புப் பெயருக்கான விளக்கம்.}
+
+  - विष्णु (Viṣṇu) comes from the root viṣ ("to pervade, to spread through all things without remainder") — Viṣṇu is literally "the all-pervading one," the deity whose defining quality is that nothing in existence is outside him. In this compound, Viṣṇu appears in the genitive sense — "of Viṣṇu, belonging to Viṣṇu" — as the first of the two parents to whom Ayyappa is dear.
+  - शम्भो (Śambho) is the vocative form of Śambhu, one of Śiva's most beloved names — from śam ("auspiciousness, welfare, peace, that which brings goodness") + the causative suffix bhu ("one who produces, one who brings forth"), giving Śambhu: "the one who brings forth auspiciousness, the source of all welfare." The use of the vocative here is a subtle devotional touch — the poet is almost calling out to Śiva as a witness: "O Śambhu, this is your son."
+  - प्रियम् (Priyam) is the accusative form of priya, from the root prī ("to please, to make glad, to love") — priya means "beloved, dear, cherished, one who is held close to the heart." The -m is the accusative ending (dvitīyā vibhakti), keeping it as an attribute of Ayyappa — the one being bowed to. Importantly, priyam describes the relationship from the parents' side: he is not merely their son — he is their cherished, beloved son.
+  - सुतम् (Sutam) is the accusative of suta, the past passive participle of the root su or sū ("to beget, to bring forth, to generate") — suta literally means "one who has been brought forth, one who has been generated." It is a classical Sanskrit word for "son, offspring." The -m accusative aligns it with all the other attributes in the verse as what the poet is bowing toward. Together, viṣṇu-śambhoḥ priyam sutam means: "the beloved son brought forth of Viṣṇu and Śambhu" — every word earns its place: suta grounds him in divine parentage, priyam says that parentage is not distant but warmly loving, and the two divine names on either side frame him as the meeting point of Viṣṇu's all-pervading grace and Śiva's life-giving auspiciousness.
+
+::combo[bg:#fff3e0;color:#e65100]{
 🔸 **க்ஷிப்ரப்ரசாத நிரதம்** - விரைவில் அருள் செய்பவர். பக்தர்களின் வேண்டுதல்களை உடனுக்குடன் நிறைவேற்றுபவர்.
 }
 
-  - विप्रपूज्यम् (Viprapoojyam) is a compound of विप्र (vipra — "the learned, the Brahmin, one purified by knowledge") + पूज्यम् (poojyam — gerundive of the root pūj, "to honour, to worship"), meaning "worthy to be worshipped by the learned." The -m ending is the accusative case (dvitīyā vibhakti), marking him as the object of praṇamāmi. The title does not limit his worship to one community; rather, it says that even those who know the most — the scholars and sages — bow before him.
-  - विश्ववन्द्यम् (Viswavandyam) joins विश्व (viśva — "the whole world, the entire universe") + वन्द्यम् (vandyam — future passive participle of vand, "to salute, to revere"), yielding "worthy of salutation by the entire world." While poojyam speaks of ritual veneration by the wise, vandyam speaks of universal reverence — every being in every corner of creation bows to him.
   - क्षिप्रप्रसाद निरतम् (Kshipraprasaada Niratam) — क्षिप्र (kṣipra) means "swift, immediate"; प्रसाद (prasāda) comes from the root sad with prefix pra-, meaning "grace, clarity, cheerful favour"; निरतम् (niratam) is from the root ram with prefix ni-, meaning "constantly engaged in, fully devoted to." Together: "one who is perpetually engaged in bestowing swift grace." The construction is not merely that he gives grace quickly — it says this swiftness of grace is his constant, defining occupation.
 
 ---
@@ -210,18 +249,23 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100]{
-🔸 **மத்த மாதங்க கமனம்** - வலிமை வாய்ந்த யானை போன்ற மேன்மையான நடை. ஐயப்பனின் கம்பீரமான நடையைக் குறிக்கிறது.
-
-🔸 **காருண்யாம்ருத பூரிதம்** - கருணை என்னும் அமிர்தத்தால் நிறைந்தவர். ஐயப்பனின் இரக்கமே அமிர்தம் போல் இனிமையானது.
-
-🔸 **சர்வ விக்நஹரம்** - அனைத்து தடைகளையும், இடையூறுகளையும் போக்குபவர். **விக்னேஶ்வரன்** என்ற பெயருக்கு ஒப்பான குணம்.
-
-🔸 **தேவம்** - தெய்வ வடிவானவர்.
-}
+🔸 **மத்த மாதங்க கமனம்** - வலிமை வாய்ந்த யானை போன்ற மேன்மையான நடை. ஐயப்பனின் கம்பீரமான நடையைக் குறிக்கிறது.}
 
   - मत्त मातङ्ग गमनम् (Mattha Maatanga Gamanam) — मत्त (matta) comes from the root mad ("to be intoxicated, to be in rut"), describing an elephant in its mightiest, most majestic state; मातङ्ग (mātaṅga) is the classical Sanskrit word for "great elephant"; गमनम् (gamanam) is a verbal noun from gam ("to go"), meaning "the gait, the stride." The full phrase means "one whose gait resembles that of a mighty elephant in full rut" — the simile conveys not aggression but commanding, unhurried, royal power. The accusative -m connects it back to the poet's act of bowing to him who walks thus.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **காருண்யாம்ருத பூரிதம்** - கருணை என்னும் அமிர்தத்தால் நிறைந்தவர். ஐயப்பனின் இரக்கமே அமிர்தம் போல் இனிமையானது.}
+
   - कारुण्यामृत पूरितम् (Kaarunya-amrita-pooritam) is a layered compound: कारुण्य (kāruṇya — "compassion, the quality of being merciful") + अमृत (amṛta — "the nectar of immortality," a-mṛta = "not-death") + पूरितम् (pūritam — past passive participle of pūr, "to fill, to pervade"), yielding "one who is filled and overflowing with the nectar of compassion." The comparison of compassion to amṛta is deliberate — just as amṛta gives immortal life, his compassion heals and sustains all beings without ever being exhausted.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **சர்வ விக்நஹரம்** - அனைத்து தடைகளையும், இடையூறுகளையும் போக்குபவர். **விக்னேஶ்வரன்** என்ற பெயருக்கு ஒப்பான குணம்.}
+
   - सर्व विघ्नहरम् (Sarva Vighnaharam) — सर्व (sarva, "all, every") + विघ्न (vighna, "obstacle, impediment," from vi- + han, "that which strikes against progress") + हरम् (haram, from hṛ, "to take away, to remove"), giving "the remover of all obstacles." Sarva is the key intensifier — not some obstacles, not most, but every impediment, including the inner obstacles of ego, fear, and ignorance.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **தேவம்** - தெய்வ வடிவானவர்.
+}
 
 ---
 
@@ -274,15 +318,24 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100]{
-🔸 **அஸ்மத்குலேஶ்வரம் தேவம்** - எங்கள் குலத்திற்கு தலைவனான தெய்வம். குடும்ப தெய்வமாக, குல தெய்வமாக வணங்கப்படும் ஐயப்பனின் சிறப்பு.
-
-🔸 **அஸ்மத் சத்ரு விநாசனம்** - எங்களுடைய பகைவர்களை அழிப்பவர். உள்ளக பகைவர்களான காமம், குரோதம், லோபம், மோகம், மதம், மாத்சர்யம் ஆகிய ஆறு பகைவர்களையும் அழிப்பவர்.
-
-🔸 **அஸ்மதிஷ்ட ப்ரதாதாரம்** - எங்கள் விருப்பங்களை நிறைவேற்றுபவர். பக்தர்கள் வேண்டியதை அளிப்பவர்.
-}
+🔸 **அஸ்மத்குலேஶ்வரம் தேவம்** - எங்கள் குலத்திற்கு தலைவனான தெய்வம். குடும்ப தெய்வமாக, குல தெய்வமாக வணங்கப்படும் ஐயப்பனின் சிறப்பு.}
 
   - अस्मत् (Asmat) is the genitive/ablative form of the first-person plural pronoun asmad — "of us, belonging to us, our." It appears three times in this verse, creating a deliberate rhetorical pattern: our family's lord, our enemies' destroyer, our wishes' fulfiller. This repetition is not mere style — it is a bold theological statement that the cosmic deity is personally, intimately bound to each devotee's life.
   - अस्मत्कुलेश्वरम् (Asmatkuleśvaram) — अस्मत् (asmat, "our") + कुल (kula, "family, lineage, clan") + ईश्वर (īśvara, from the root iś, "to rule, to be master of"), giving "the lord (master) of our family." The -m accusative again marks him as the one bowed to. Kuladevatā worship — honouring a family deity — is one of the oldest forms of Hindu devotion; this title claims Ayyappa as that intimate ancestral protector.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **அஸ்மத் சத்ரு விநாசனம்** - எங்களுடைய பகைவர்களை அழிப்பவர். உள்ளக பகைவர்களான காமம், குரோதம், லோபம், மோகம், மதம், மாத்சர்யம் ஆகிய ஆறு பகைவர்களையும் அழிப்பவர்.}
+
+  - अस्मत् (Asmat) as established earlier in this verse, is the genitive-ablative form of the first-person plural pronoun asmad — "of us, from us, our." Here its force is ablative: "from us, away from our side" — our enemies, the ones who stand against us. The repetition of asmat for the third time in this verse is not accident; it builds an intimate three-part covenant — our family's lord, our enemies' destroyer, our wishes' fulfiller — binding the cosmic deity personally to every dimension of a devotee's life.
+
+  - शत्रु (Śatru) comes from the root śad or śhan ("to destroy, to cause to fall, to undermine") — śatru is literally "one who undermines, one who causes another to fall." It is the classical Sanskrit word for "enemy, adversary, foe." In devotional interpretation the śatrus are understood at two levels: the outer enemies — those who wish harm — and more profoundly the inner enemies (antaḥśatravaḥ): kāma (desire), krodha (anger), lobha (greed), moha (delusion), mada (pride), and mātsarya (envy) — the six forces within a person that destroy him more surely than any outer foe.
+
+  - विनाशनम् (Vināśanam) is built from the prefix vi- (indicating complete, thorough action, "utterly, in all directions") + the root naś ("to perish, to be destroyed, to disappear") used in its causative sense — nāśana, "causing to perish, bringing to complete destruction." The suffix -am makes it a verbal noun in the accusative. Vināśanam is therefore stronger than mere defeat — vi- ensures it is total, without remainder. Together, asmat-śatru-vināśanam means: "the one who brings about the complete and total destruction of our enemies" — outer and inner alike, leaving nothing of them standing.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **அஸ்மதிஷ்ட ப்ரதாதாரம்** - எங்கள் விருப்பங்களை நிறைவேற்றுபவர். பக்தர்கள் வேண்டியதை அளிப்பவர்.
+}
+
   - अस्मदिष्ट प्रदातारम् (Asmadiṣṭa Pradātāram) — अस्मत् (asmat, "our") + इष्ट (iṣṭa, past passive participle of iṣ, "to desire" — "what is desired, the cherished wish") + प्रदातारम् (pradātāram, accusative of pradātṛ, from pra- + dā, "to give forth, to bestow"), yielding "the one who bestows our desired wishes." प्रदातारम् uses the -tṛ agent suffix — he is not one who happens to give, but one whose very nature and role is to bestow.
 
 ---
@@ -339,15 +392,19 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100]{
-🔸 **பாண்ட்யேச வம்ச திலகம்** - பாண்டிய அரச வம்சத்தின் திலகம், அலங்காரம். பாண்டிய குலத்தில் பிறந்து அந்த வம்சத்தை மேன்மைப்படுத்தியவர்.
+🔸 **பாண்ட்யேச வம்ச திலகம்** - பாண்டிய அரச வம்சத்தின் திலகம், அலங்காரம். பாண்டிய குலத்தில் பிறந்து அந்த வம்சத்தை மேன்மைப்படுத்தியவர்.}
 
-🔸 **கேரளே கேளி விக்ரஹம்** - கேரளத்தில் திருவிளையாடல் புரியும் திருவுருவம். **சபரிமலையில்** வீற்றிருந்து பக்தர்களுக்கு அருள்பாலிக்கும் ஐயப்பன்.
+  - पाण्ड्येश वंश तिलकम् (Pāṇḍyeśa Vaṃśa Tilakam) — पाण्ड्य (pāṇḍya, "the Pandya kingdom of southern India") + ईश (īśa, "lord, king") + वंश (vaṃśa, "lineage, dynasty, bamboo — something tall and noble") + तिलकम् (tilakam, originally the decorative dot applied to the forehead as an auspicious mark, used figuratively for "the finest ornament, the crown jewel of"). The phrase thus means: "the ornamental jewel of the Pandya royal dynasty" — implying that he elevated and glorified that lineage simply by being born into it.
 
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **கேரளே கேளி விக்ரஹம்** - கேரளத்தில் திருவிளையாடல் புரியும் திருவுருவம். **சபரிமலையில்** வீற்றிருந்து பக்தர்களுக்கு அருள்பாலிக்கும் ஐயப்பன்.}
+
+  - केरले केलि विग्रहम् (Kerale Keli Vigraham) — केरले (kerale, locative case, "in Kerala, in the land of Kerala") + केलि (keli, from the root kīl, "to play, to sport" — "divine play, līlā") + विग्रहम् (vigraham, from vi- + grah, "to take a separate form, to embody," meaning "the form, the embodied manifestation"). Together: "the embodied form of divine sport in Kerala." The word keli carries the idea that his presence in Kerala — in Sabarimala — is not a random dwelling but a deliberate, joyful divine play for the benefit of devotees.
+
+::combo[bg:#fff3e0;color:#e65100]{
 🔸 **ஆர்த த்ராண பரம்** - துன்பப்படுபவர்களைக் காப்பாற்றுவதையே பரம நோக்கமாகக் கொண்டவர். **துக்கநிவாரணி** என்ற பெயருக்குரிய குணம்.
 }
 
-  - पाण्ड्येश वंश तिलकम् (Pāṇḍyeśa Vaṃśa Tilakam) — पाण्ड्य (pāṇḍya, "the Pandya kingdom of southern India") + ईश (īśa, "lord, king") + वंश (vaṃśa, "lineage, dynasty, bamboo — something tall and noble") + तिलकम् (tilakam, originally the decorative dot applied to the forehead as an auspicious mark, used figuratively for "the finest ornament, the crown jewel of"). The phrase thus means: "the ornamental jewel of the Pandya royal dynasty" — implying that he elevated and glorified that lineage simply by being born into it.
-  - केरले केलि विग्रहम् (Kerale Keli Vigraham) — केरले (kerale, locative case, "in Kerala, in the land of Kerala") + केलि (keli, from the root kīl, "to play, to sport" — "divine play, līlā") + विग्रहम् (vigraham, from vi- + grah, "to take a separate form, to embody," meaning "the form, the embodied manifestation"). Together: "the embodied form of divine sport in Kerala." The word keli carries the idea that his presence in Kerala — in Sabarimala — is not a random dwelling but a deliberate, joyful divine play for the benefit of devotees.
   - आर्त त्राण परम् (Ārta Trāṇa Param) — आर्त (ārta, past passive participle of ard, "to be distressed, to be afflicted" — hence "those in suffering, the afflicted") + त्राण (trāṇa, from the root trā, "to protect, to save, to rescue" — the very act of rescuing) + परम् (param, superlative form of para, "the highest, the supreme, the ultimate"). The full phrase: "one for whom rescuing the afflicted is the supreme purpose, the highest calling." Param is important — it is not one of his many functions; it is his paramount, defining mission.
 
 ---
@@ -407,18 +464,28 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100]{
-🔸 **பஞ்ச ரத்னாக்ய மேதத்யோ** - ஐந்து இரத்தினங்கள் என்று சொல்லப்படும் இந்த ஸ்தோத்திரத்தை. ஒவ்வொரு ஸ்லோகமும் ஓர் அரிய இரத்தினம் போன்றது.
-
-🔸 **நித்யம் சுத்த படேந்நரஹ** - தினமும் தூய்மையுடன் படிக்கும் மனிதருக்கு. மனதூய்மையுடன் பக்தியுடன் இதை ஓதுபவர்களுக்கு.
-
-🔸 **தஸ்ய ப்ரஸந்நோ பகவான்** - அவருக்கு பகவான் மகிழ்ச்சியுடன் அருள்புரிவார். ஐயப்பன் மிகவும் பிரசன்னமாக காட்சி தருவார்.
-
-🔸 **சாஸ்த வசதி மானஸே** - சாஸ்தா அவரது மனதில் வாசம் செய்வார். ஐயப்பன் பக்தரின் இதயத்தில் நிலையாக வீற்றிருப்பார்.
-}
+🔸 **பஞ்ச ரத்னாக்ய மேதத்யோ** - ஐந்து இரத்தினங்கள் என்று சொல்லப்படும் இந்த ஸ்தோத்திரத்தை. ஒவ்வொரு ஸ்லோகமும் ஓர் அரிய இரத்தினம் போன்றது.}
 
   - पञ्च रत्नाख्य (Pañca Ratnākhya) — पञ्च (pañca, "five") + रत्न (ratna, "jewel, gem, precious stone" — in Sanskrit usage, also anything of the highest value or rarity) + आख्य (ākhya, from the root khyā with prefix ā-, "to be named, to be called, to be known as"), giving "that which is known by the name of the five jewels." This phrase is a self-referential statement — the stotra names itself as a set of five (or six) precious verses, each as rare and valuable as a gemstone.
+
+  - एतद्यः (Etat + Yaḥ / Methadyo) — what sounds in recitation as a single word "Methadyo" is actually two Sanskrit words joined by sandhi (சந்தி இணைப்பு — the rule of euphonic combination where word-final and word-initial sounds merge in natural speech): **एतद्** (etat) + **यः** (yaḥ).
+  - एतद् (Etat) is a demonstrative pronoun built from the pointing particle e- ("this, here, right before you") combined with the pronoun base tat ("that"). While tat points to something distant or already known, etat points to something immediate and present — "this very one, this right here in front of you." In the phrase pañca-ratnākhya-etat, the word etat closes the distance between the stotra and the devotee. The poet is not speaking of some abstract collection of five jewels somewhere — he is pointing directly at what you are now holding and reciting: "this — these very verses — are the five jewels." Without etat the phrase is a general description; with etat it becomes a direct pointing gesture aimed at the devotee's own hands.
+  - यः (Yaḥ) is the nominative singular masculine form of the relative pronoun ya — "who, whosoever, the one who." It opens the relative clause that runs through the rest of the verse: yaḥ ... paṭhet naraḥ — "the person who recites." Yaḥ is the grammatical hinge of the entire phalasruti (பலஸ்ருதி — the verse declaring the fruits of recitation). The construction is a classical Sanskrit conditional relative: "whosoever [recites] this ... for that person [this result follows]." The choice of yaḥ rather than a simple imperative makes the promise universal and open — any person of any background who meets the one condition of śuddha daily recitation is included without exception.
+  - Together as **एतद्यः (Methadyo)**: etat does the pointing — "this stotra, specifically"; yaḥ does the opening — "to whosoever recites it." The two words side by side form the gateway of the phalasruti: precise about what is being recited (this stotra, not any other), and completely unrestricted about who may recite it.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **நித்யம் சுத்த படேந்நரஹ** - தினமும் தூய்மையுடன் படிக்கும் மனிதருக்கு. மனதூய்மையுடன் பக்தியுடன் இதை ஓதுபவர்களுக்கு.}
+
   - नित्यं शुद्धः पठेन्नरः (Nityaṃ Śuddhaḥ Paṭhen Naraḥ) — नित्यम् (nityam, adverb from nitya, "constant, eternal," here used as "daily, always"); शुद्धः (śuddhaḥ, nominative of śuddha, past passive participle of śudh, "to be purified, to be cleansed" — referring to inner purity, clean of pride, distraction, and ego); पठेत् (paṭhet, optative/potential mood of paṭh, "to recite, to read aloud" — the optative here means "should recite, let him recite"); नरः (naraḥ, nominative, "the person, the human being"). Together: "let a person who is pure recite this daily." The word śuddha comes first, before paṭhet — purity of heart is the prerequisite, not the reward.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **தஸ்ய ப்ரஸந்நோ பகவான்** - அவருக்கு பகவான் மகிழ்ச்சியுடன் அருள்புரிவார். ஐயப்பன் மிகவும் பிரசன்னமாக காட்சி தருவார்.}
+
   - तस्य प्रसन्नो भगवान् शास्ता वसति मानसे (Tasya Prasanno Bhagavān Śāstā Vasati Mānase) — तस्य (tasya, genitive, "of that person, in relation to that person"); प्रसन्नः (prasannaḥ, from pra- + sad, literally "settled, clear, bright" — meaning "pleased, gracious, serene"); भगवान् (bhagavān, "the Blessed One, the Lord, the one possessed of all divine qualities — bhaga"); वसति (vasati, present tense of vas, "to dwell, to reside, to inhabit"); मानसे (mānase, locative of mānasa, "in the mind, in the heart"). The grammar gives us a beautiful progression: recite purely → Lord is pleased → Lord dwells within. The fruit is not an external gift but the very presence of God inside one's own mind.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **சாஸ்த வசதி மானஸே** - சாஸ்தா அவரது மனதில் வாசம் செய்வார். ஐயப்பன் பக்தரின் இதயத்தில் நிலையாக வீற்றிருப்பார்.
+}
 
 ---
 
@@ -470,15 +537,19 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100]{
-🔸 **த்ரியம்பக புராதீசம்** - மூன்று கண்களை உடைய சிவபெருமான் போன்றவர். திருப்புரங்களை அழித்த சிவனைப் போல தீமைகளை அழிப்பவர்.
+🔸 **த்ரியம்பக புராதீசம்** - மூன்று கண்களை உடைய சிவபெருமான் போன்றவர். திருப்புரங்களை அழித்த சிவனைப் போல தீமைகளை அழிப்பவர்.}
 
-🔸 **கணாதீப சமன்விதம்** - கணங்களின் தலைவனான விநாயகருக்கு ஒப்பானவர். தடைகளை நீக்கும் குணத்தில் விநாயகரைப் போன்றவர்.
+  - त्र्यम्बक पुराधीशम् (Tryambaka Purādhīśam) — त्रि (tri, "three") + अम्बक (ambaka, "eye" — a poetic word for eye, related to ambā, "mother, source of light"), giving tryambaka: "the three-eyed one," a well-known epithet of Shiva whose third eye represents transcendent wisdom; पुर (pura, "city, fortress, stronghold") + अधीश (adhīśa, from adhi- + īśa, "the supreme lord over") = purādhīśa, "the lord supreme over the three strongholds (the three cities Tripura that Shiva destroyed)." By using this epithet, the verse places Ayyappa on the same plane of cosmic power as Shiva himself.
 
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **கணாதீப சமன்விதம்** - கணங்களின் தலைவனான விநாயகருக்கு ஒப்பானவர். தடைகளை நீக்கும் குணத்தில் விநாயகரைப் போன்றவர்.}
+
+  - गणाधीप समन्वितम् (Gaṇādhīpa Samanvitam) — गण (gaṇa, "a troop, a group, a host" — specifically Shiva's celestial attendants, the gaṇas, led by Gaṇeśa) + अधीप (adhīpa, from adhi- + pa from pā, "the one who rules over, the chief of") = gaṇādhīpa, "the chief of the gaṇas," which is Gaṇeśa's title; समन्वितम् (samanvitam, from sam- + anu- + i, "accompanied by, endowed with, equal to in quality"). So the phrase means: "one who is endowed with the qualities of, or is on par with, Gaṇeśa the lord of the gaṇas." He shares Gaṇeśa's power to clear obstacles.
+
+::combo[bg:#fff3e0;color:#e65100]{
 🔸 **கஜாடும்பஹம் வந்தே** - யானை முகத்தை உடைய விநாயகரை வணங்குவது போல் ஐயப்பனையும் வணங்குகிறேன்.
 }
 
-  - त्र्यम्बक पुराधीशम् (Tryambaka Purādhīśam) — त्रि (tri, "three") + अम्बक (ambaka, "eye" — a poetic word for eye, related to ambā, "mother, source of light"), giving tryambaka: "the three-eyed one," a well-known epithet of Shiva whose third eye represents transcendent wisdom; पुर (pura, "city, fortress, stronghold") + अधीश (adhīśa, from adhi- + īśa, "the supreme lord over") = purādhīśa, "the lord supreme over the three strongholds (the three cities Tripura that Shiva destroyed)." By using this epithet, the verse places Ayyappa on the same plane of cosmic power as Shiva himself.
-  - गणाधीप समन्वितम् (Gaṇādhīpa Samanvitam) — गण (gaṇa, "a troop, a group, a host" — specifically Shiva's celestial attendants, the gaṇas, led by Gaṇeśa) + अधीप (adhīpa, from adhi- + pa from pā, "the one who rules over, the chief of") = gaṇādhīpa, "the chief of the gaṇas," which is Gaṇeśa's title; समन्वितम् (samanvitam, from sam- + anu- + i, "accompanied by, endowed with, equal to in quality"). So the phrase means: "one who is endowed with the qualities of, or is on par with, Gaṇeśa the lord of the gaṇas." He shares Gaṇeśa's power to clear obstacles.
   - गजाटुम्बहम् वन्दे (Gajāṭumbham Vande) — गज (gaja, "elephant") + आटुम्ब / ṭumba here refers to a rounded protuberance — together an evocative compound for "elephant-faced," referring to Gaṇeśa; वन्दे (vande, first-person singular present of vand, "I bow to, I salute, I worship"). This is a shift in the verse's voice — the poet directly says "I bow to the elephant-faced one," using this as a bridge to express that bowing to Ayyappa is equivalent to bowing to both Śiva and Gaṇeśa.
 
 ---
@@ -533,15 +604,19 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100]{
-🔸 **சில வீர்ய சமுத்பூதம்** - சிவபெருமானின் வீரியத்திலிருந்து தோன்றியவர். சிவனின் தேஜஸ் சக்தியின் வெளிப்பாடு.
+🔸 **சில வீர்ய சமுத்பூதம்** - சிவபெருமானின் வீரியத்திலிருந்து தோன்றியவர். சிவனின் தேஜஸ் சக்தியின் வெளிப்பாடு.}
 
-🔸 **ஸ்ரீநிவாச தனுர்ப்பவம்** - திருமாலின் (மோஹினி) உடலில் இருந்து பிறந்தவர். **ஹரிஹரபுத்திரன்** என்ற உண்மையை மீண்டும் வலியுறுத்துகிறது.
+  - शिल वीर्य समुत्भूतम् (Śila Vīrya Samutbhūtam) — शिल here functions as a contracted form pointing to Śiva (śila/śila-ja, "born of the rock/Śiva's essence"); वीर्य (vīrya, from vīra, "hero, strength" — "heroic energy, vital power, the seed of greatness, potency"); समुत्भूतम् (samutbhūtam, from sam- + ud- + bhū, "to arise, to spring forth completely" — past passive participle meaning "completely arisen from, born entirely from"). Together: "one who has fully arisen from the potency of Śiva" — the word samut- (fully, completely) emphasises that he embodies all of Śiva's divine power, not just a part of it.
 
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **ஸ்ரீநிவாச தனுர்ப்பவம்** - திருமாலின் (மோஹினி) உடலில் இருந்து பிறந்தவர். **ஹரிஹரபுத்திரன்** என்ற உண்மையை மீண்டும் வலியுறுத்துகிறது.}
+
+  - श्रीनिवास धनुर्भवम् (Śrīnivāsa Dhanurbhavam) — श्रीनिवास (Śrīnivāsa, "in whom Śrī dwells," a celebrated name of Viṣṇu — Śrī + nivāsa = "the abode of Śrī / Lakṣmī") + धनुः (dhanus, "bow" — here used metaphorically for the body, the physical form, as the bow is the vessel from which the arrow (the child) is released) + भवम् (bhavam, from bhū, "being, arising from"). The phrase: "one born from the body of Śrīnivāsa (Viṣṇu in the Mohinī form)." Dhanus as a metaphor for the body is a classical Vedic usage.
+
+::combo[bg:#fff3e0;color:#e65100]{
 🔸 **சிகியாஹானுஜம்** - மயிலை வாகனமாகக் கொண்ட முருகப்பெருமானின் தம்பி என்ற பொருளில் வரும் சொல். ஐயப்பனையும் முருகனையும் இணைக்கும் குறிப்பு.
 }
 
-  - शिल वीर्य समुत्भूतम् (Śila Vīrya Samutbhūtam) — शिल here functions as a contracted form pointing to Śiva (śila/śila-ja, "born of the rock/Śiva's essence"); वीर्य (vīrya, from vīra, "hero, strength" — "heroic energy, vital power, the seed of greatness, potency"); समुत्भूतम् (samutbhūtam, from sam- + ud- + bhū, "to arise, to spring forth completely" — past passive participle meaning "completely arisen from, born entirely from"). Together: "one who has fully arisen from the potency of Śiva" — the word samut- (fully, completely) emphasises that he embodies all of Śiva's divine power, not just a part of it.
-  - श्रीनिवास धनुर्भवम् (Śrīnivāsa Dhanurbhavam) — श्रीनिवास (Śrīnivāsa, "in whom Śrī dwells," a celebrated name of Viṣṇu — Śrī + nivāsa = "the abode of Śrī / Lakṣmī") + धनुः (dhanus, "bow" — here used metaphorically for the body, the physical form, as the bow is the vessel from which the arrow (the child) is released) + भवम् (bhavam, from bhū, "being, arising from"). The phrase: "one born from the body of Śrīnivāsa (Viṣṇu in the Mohinī form)." Dhanus as a metaphor for the body is a classical Vedic usage.
   - शिखियाऽनुजम् (Śikhiyānujam) — शिखि (śikhi, "one who bears a crest / tuft of feathers," a classical Sanskrit kenning for the peacock, which sports a crown of feathers); अनुज (anuja, from anu-, "after, following" + ja from jan, "to be born" — "the one born after, the younger brother"). Śikhi refers to the peacock-mounted god Murugan (Skanda), and anuja means "younger brother." So the compound calls Ayyappa "the younger brother of Murugan," linking the two most beloved sons of Śiva in a single graceful word.
 
 ---
@@ -599,15 +674,19 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100]{
-🔸 **யஸ்ய தன்வந்தரி மாதா** - வைத்திய தெய்வமான தன்வந்தரி தாயைப் போன்றவர். வைத்தியம் மற்றும் குணப்படுத்தும் சக்தியின் சாரமானவர்.
+🔸 **யஸ்ய தன்வந்தரி மாதா** - வைத்திய தெய்வமான தன்வந்தரி தாயைப் போன்றவர். வைத்தியம் மற்றும் குணப்படுத்தும் சக்தியின் சாரமானவர்.}
 
-🔸 **பிதா தேவோ மஹேஸ்வரா** - தந்தையாக மஹேஸ்வரனான சிவபெருமானைக் கொண்டவர். சிவனின் வழி வந்தவர்.
+  - यस्य धन्वन्तरि माता (Yasya Dhanvantari Mātā) — यस्य (yasya, genitive of the relative pronoun ya, "whose, of whom"); धन्वन्तरि (Dhanvantari — the divine physician who emerged from the cosmic ocean during the churning of the milk-ocean, carrying the pot of amṛta, the deity of Āyurveda); माता (mātā, nominative, "mother"). The verse uses the relative clause structure (yasya ... tasya ...) — "of him whose mother is Dhanvantari ... to that Śāstā I bow." The logic is clear: if his mother is the goddess of healing, his very birth carries the power to cure.
 
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **பிதா தேவோ மஹேஸ்வரா** - தந்தையாக மஹேஸ்வரனான சிவபெருமானைக் கொண்டவர். சிவனின் வழி வந்தவர்.}
+
+  - पिता देवो महेश्वरः (Pitā Devo Maheśvaraḥ) — पिता (pitā, nominative, "father"); देवः (devaḥ, "the divine one, the god, the shining one" — from the root div, "to shine"); महेश्वरः (maheśvaraḥ, "the great lord" — mahā + īśvara, Śiva's title asserting his supremacy). Both pitā and devaḥ are predicate nominatives to Maheśvara, emphasising who the father is — not just a deity but the greatest of all lords. Through both parents, Ayyappa inherits the power to heal (Dhanvantari) and the power to transcend death (Maheśvara).
+
+::combo[bg:#fff3e0;color:#e65100]{
 🔸 **மஹா ரோக நிவாரணம்** - கொடிய நோய்களை நீக்குபவர். பெரிய வியாதிகளை தீர்க்கும் சக்தி படைத்தவர். **ரோகஹர** என்ற பெயருக்குரிய குணம்.
 }
 
-  - यस्य धन्वन्तरि माता (Yasya Dhanvantari Mātā) — यस्य (yasya, genitive of the relative pronoun ya, "whose, of whom"); धन्वन्तरि (Dhanvantari — the divine physician who emerged from the cosmic ocean during the churning of the milk-ocean, carrying the pot of amṛta, the deity of Āyurveda); माता (mātā, nominative, "mother"). The verse uses the relative clause structure (yasya ... tasya ...) — "of him whose mother is Dhanvantari ... to that Śāstā I bow." The logic is clear: if his mother is the goddess of healing, his very birth carries the power to cure.
-  - पिता देवो महेश्वरः (Pitā Devo Maheśvaraḥ) — पिता (pitā, nominative, "father"); देवः (devaḥ, "the divine one, the god, the shining one" — from the root div, "to shine"); महेश्वरः (maheśvaraḥ, "the great lord" — mahā + īśvara, Śiva's title asserting his supremacy). Both pitā and devaḥ are predicate nominatives to Maheśvara, emphasising who the father is — not just a deity but the greatest of all lords. Through both parents, Ayyappa inherits the power to heal (Dhanvantari) and the power to transcend death (Maheśvara).
   - महा रोग निवारणम् (Mahā Roga Nivāraṇam) — महा (mahā, "great, severe, formidable" — intensifier); रोग (roga, from the root ruj, "to break, to shatter" — roga is literally "that which breaks the body," the disease); निवारणम् (nivāraṇam, from ni- + vṛ, "to hold back, to ward off" — the verbal noun meaning "the warding off, the complete removal"). The compound nivāraṇam tells us his role is active and total removal, not mere palliation — he does not suppress illness temporarily but wards it off at its root.
 
 ---
@@ -664,18 +743,31 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100]{
-🔸 **ஸ்ரீ பூத நாத சதாநந்தா** - பூதங்களுக்கு நாதனாய், எப்போதும் ஆனந்தமாக இருப்பவர். சிவபெருமான் பூதநாதன் என்று அழைக்கப்படுவது போல ஐயப்பனும் அனைத்து உயிர்களுக்கும் தலைவன்.
+🔸 **ஸ்ரீ பூத நாத சதாநந்தா** - பூதங்களுக்கு நாதனாய், எப்போதும் ஆனந்தமாக இருப்பவர். சிவபெருமான் பூதநாதன் என்று அழைக்கப்படுவது போல ஐயப்பனும் அனைத்து உயிர்களுக்கும் தலைவன்.}
 
-🔸 **சர்வ பூத தயாபரா** - எல்லா உயிர்களிடமும் கருணை கொண்டவர். **சர்வ பூத ஹிதே ரத:** (அனைத்து உயிர்களின் நலனிலும் ஈடுபட்டவர்).
+  - श्री भूतनाथ सदानन्द (Śrī Bhūtanātha Sadānanda) — श्री (Śrī, an honorific prefix indicating auspiciousness, beauty, divine glory — the presence of Śrī itself is a benediction); भूत (bhūta, from bhū, "to be" — "beings, creatures, elements, all that exists"); नाथ (nātha, "lord, protector, refuge" — from the root nāth, "to seek refuge, to protect"); सदानन्द (sadānanda — sadā, "always, at all times" + ānanda, "bliss, joy, the highest state of consciousness" — "the eternally blissful one"). He is not occasionally joyful; his very nature is unbroken ānanda, unmoved by the suffering he witnesses and removes.
 
-🔸 **ரக்ஷ ரக்ஷ மஹோ பாஹோ** - பெரிய புஜங்களை உடையவரே! காப்பாற்றுங்கள்! காப்பாற்றுங்கள்! என்ற அவசர வேண்டுகோள். இது பக்தர்கள் தங்கள் துன்பங்களிலிருந்து உடனடி விடுதலையை வேண்டுவதைக் குறிக்கிறது.
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **சர்வ பூத தயாபரா** - எல்லா உயிர்களிடமும் கருணை கொண்டவர். **சர்வ பூத ஹிதே ரத:** (அனைத்து உயிர்களின் நலனிலும் ஈடுபட்டவர்).}
 
+  - सर्व भूत दयापर (Sarva Bhūta Dayāpara) — सर्व (sarva, "all, every without exception"); भूत (bhūta, "beings, living creatures, all that has come into existence"); दया (dayā, from the root day, "to have compassion, to feel with another" — a deeper word than karuṇā, dayā implies active involvement in another's pain); पर (para, here used as a suffix meaning "devoted to, deeply engaged in, making something one's highest concern"). Together: "one who is deeply, supremely devoted to showing compassion toward every living being." Dayāpara is stronger than simply "compassionate" — it says compassion is his ruling orientation.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **ரக்ஷ ரக்ஷ மஹோ பாஹோ** - பெரிய புஜங்களை உடையவரே! காப்பாற்றுங்கள்! காப்பாற்றுங்கள்! என்ற அவசர வேண்டுகோள். இது பக்தர்கள் தங்கள் துன்பங்களிலிருந்து உடனடி விடுதலையை வேண்டுவதைக் குறிக்கிறது.}
+
+  - रक्ष रक्ष महो बाहो (Rakṣa Rakṣa Maho Bāho) — रक्ष (rakṣa, imperative singular of rakṣ, "protect! guard! save!" — a direct command addressed to the deity); the repetition रक्ष रक्ष is not stylistic padding but a classical device of urgency in Sanskrit prayer — repeating the imperative intensifies the plea, as if saying "please, please save me!"; महो बाहो (maho bāho — mahā + bāhu, vocative case, "O great-armed one!" — bāhu, "arm, the instrument of action and protection"). Calling him "great-armed" is a reminder that he has the actual power to deliver what the devotee urgently begs for.
+
+::combo[bg:#fff3e0;color:#e65100]{
 🔸 **சாஸ்த்ரே துப்யம் நமோ நமஹ** - சாஸ்தாவாகிய உமக்கு மீண்டும் மீண்டும் நமஸ்காரம்.
 }
 
-  - श्री भूतनाथ सदानन्द (Śrī Bhūtanātha Sadānanda) — श्री (Śrī, an honorific prefix indicating auspiciousness, beauty, divine glory — the presence of Śrī itself is a benediction); भूत (bhūta, from bhū, "to be" — "beings, creatures, elements, all that exists"); नाथ (nātha, "lord, protector, refuge" — from the root nāth, "to seek refuge, to protect"); सदानन्द (sadānanda — sadā, "always, at all times" + ānanda, "bliss, joy, the highest state of consciousness" — "the eternally blissful one"). He is not occasionally joyful; his very nature is unbroken ānanda, unmoved by the suffering he witnesses and removes.
-  - सर्व भूत दयापर (Sarva Bhūta Dayāpara) — सर्व (sarva, "all, every without exception"); भूत (bhūta, "beings, living creatures, all that has come into existence"); दया (dayā, from the root day, "to have compassion, to feel with another" — a deeper word than karuṇā, dayā implies active involvement in another's pain); पर (para, here used as a suffix meaning "devoted to, deeply engaged in, making something one's highest concern"). Together: "one who is deeply, supremely devoted to showing compassion toward every living being." Dayāpara is stronger than simply "compassionate" — it says compassion is his ruling orientation.
-  - रक्ष रक्ष महो बाहो (Rakṣa Rakṣa Maho Bāho) — रक्ष (rakṣa, imperative singular of rakṣ, "protect! guard! save!" — a direct command addressed to the deity); the repetition रक्ष रक्ष is not stylistic padding but a classical device of urgency in Sanskrit prayer — repeating the imperative intensifies the plea, as if saying "please, please save me!"; महो बाहो (maho bāho — mahā + bāhu, vocative case, "O great-armed one!" — bāhu, "arm, the instrument of action and protection"). Calling him "great-armed" is a reminder that he has the actual power to deliver what the devotee urgently begs for.
+  - शास्त्रे (Śāstre) is the dative singular form of śāstṛ — the same root śās ("to teach, to govern, to rule with wisdom and discipline") that gives Ayyappa his very name Śāstā. The dative case (சதுர்த்தி வேற்றுமை, caturthī vibhakti) is the case of giving and offering — it answers the question "to whom?" or "for whom?" So śāstre does not mean "to the scripture" (that would be śāstra, a different word) — it means "to the Śāstā, unto the governing lord himself." Every bow, every word of this verse, is directed to him personally.
+
+  - तुभ्यम् (Tubhyam) is the dative singular of the second-person pronoun tvam ("you") — tubhyam means "to you, for you, unto you." It is one of Sanskrit's most direct and intimate words of address. Grammatically it reinforces śāstre — both are dative, both say "to you" — but tubhyam adds a layer of personal, face-to-face directness that śāstre alone does not carry. The poet first names him (śāstre — to the Śāstā) and then looks him in the eye (tubhyam — to you, personally). Together they create an address that is simultaneously reverential and intimate.
+
+  - नमः (Namaḥ) is one of the most ancient words in the Sanskrit devotional vocabulary, from the root nam ("to bend, to bow, to incline") — namaḥ is the act of bowing made into a noun: "salutation, reverence, the offering of oneself in a bow." The visarga ending (ḥ) is the classical sandhi form used in formal recitation. A single namaḥ is already a complete act of surrender.
+
+  - नमो नमः (Namo Namaḥ) — the repetition is the key. Namo is simply namaḥ in its sandhi form before the second namaḥ. In Sanskrit devotional poetry, doubling a word (āmreḍita, ஆம்ரேடிதம்) does not merely repeat — it intensifies beyond what a single word can express. A single namaḥ bows once; namo namaḥ bows again and again, without end, saying: my salutation to you is not a single gesture that concludes — it is continuous, inexhaustible, renewed with every breath. This is also why Verse 10 ends differently from all other verses — earlier verses end with praṇamāmi ("I bow"), a statement; this verse ends with namo namaḥ, a living, repeating act of surrender that refuses to stop.
 
 ---
 
@@ -730,17 +822,28 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100]{
-🔸 **ஆஸ்யம் கோமள விசாலம்** - மென்மையான மற்றும் விசாலமான முகத்தை உடையவர். அழகிய பெரிய முகம் கருணையை வெளிப்படுத்துகிறது.
+🔸 **ஆஸ்யம் கோமள விசாலம்** - மென்மையான மற்றும் விசாலமான முகத்தை உடையவர். அழகிய பெரிய முகம் கருணையை வெளிப்படுத்துகிறது.}
 
-🔸 **உதனும் விசித்ரம்** - விசித்திரமான அதிசயமான உடலை உடையவர். தெய்வீக அழகு நிறைந்த திருமேனி.
+  - आस्यम् कोमल विशालम् (Āsyam Komala Viśālam) — आस्यम् (āsyam, from the root ās, "to sit, to be present" — āsya is "the mouth, the face, the countenance," literally "that which sits before one, the front"); कोमल (komala, an ancient word meaning "tender, soft, gentle, pleasing to the senses" — opposite of harsh or rough); विशालम् (viśālam, from vi- + śāl, "to shine, to be expansive" — meaning "wide, vast, spacious, broad"). The face described is simultaneously soft (komala) and vast (viśālam) — an unusual combination suggesting gentle infinity, the kind of face in which a devotee can lose oneself.
 
-🔸 **வயோவசானம்** - என்றும் இளமையாக இருப்பவர். **சிரஞ்சீவி** என்ற நிலையை குறிக்கிறது. வயது முதிர்வில்லாத நித்திய இளமை.
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **உதனும் விசித்ரம்** - விசித்திரமான அதிசயமான உடலை உடையவர். தெய்வீக அழகு நிறைந்த திருமேனி.}
 
+  - उदनम् (Udanam) — this word carries some deliberate ambiguity that enriches the verse. Its primary form here points to उदर (udara, "the belly, the torso, the trunk of the body") or more broadly the entire bodily form, the physical presence — "the body, the frame, the physical manifestation." The root ud- ("upward, rising, prominent") underlies several related Sanskrit words, all carrying a sense of something rising, prominent, and full. Here udanam refers to his divine physical form — not merely the face (āsyam, described in the first line) but the whole body as a complete, standing, glorious presence. The -am ending is the accusative, keeping it as another attribute the poet is beholding and bowing toward.
+
+  - विचित्रम् (Vichitram) is built from the prefix vi- ("in all directions, completely, in a manner that exceeds the ordinary") + the root cit or citr ("to perceive clearly, to be brilliantly visible, to be variegated and striking to the eye") — vicitra means "wonderful, marvellous, astonishing, variegated beyond normal description, that which causes the eyes and mind to stop in amazement." The -m ending is accusative. Vicitra is specifically used in Sanskrit for something so visually extraordinary that ordinary descriptive language fails it — it is not merely beautiful (sundara) or pleasing (ramya) but bewildering in its splendour, something that makes the beholder's perception itself pause.
+
+  - Together **udanam vichitram** — "the body, marvellous beyond description" — sits between āsyam komala viśālam (the face, soft and vast) and vayovasānam (the eternal youth of his form), forming the central pillar of this verse's portrait. The face draws you in with its softness; the body stops you with its wonder; the eternal youth holds you there, unable to look away. The poet is not listing features — he is describing the experience of beholding Ayyappa's complete divine form from face to frame, and vicitra is his honest admission that the body defeats his words.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **வயோவசானம்** - என்றும் இளமையாக இருப்பவர். **சிரஞ்சீவி** என்ற நிலையை குறிக்கிறது. வயது முதிர்வில்லாத நித்திய இளமை.}
+
+  - वयोवसानम् (Vayovasānam) — वयः (vayaḥ, "age, the span of life, vitality") + वसान (vasāna, from vas, "to dress, to wear, to settle into" — used here as "the conclusion, the settled state, the prime") — literally "one who has settled into the prime of age." This is a way of saying he is forever at the peak of youth — not aging, not declining, eternally youthful. This eternal youthfulness (nityakaumāra) is central to his nature as a brahmacārī deity.
+
+::combo[bg:#fff3e0;color:#e65100]{
 🔸 **அருணோத்பவ தாம ஹஸ்தம்** - சிவந்த ஒளி மாலையை கையில் ஏந்தியவர். சூரிய ஒளி போன்ற தேஜஸ் கொண்ட மாலையை தரித்தவர்.
 }
 
-  - आस्यम् कोमल विशालम् (Āsyam Komala Viśālam) — आस्यम् (āsyam, from the root ās, "to sit, to be present" — āsya is "the mouth, the face, the countenance," literally "that which sits before one, the front"); कोमल (komala, an ancient word meaning "tender, soft, gentle, pleasing to the senses" — opposite of harsh or rough); विशालम् (viśālam, from vi- + śāl, "to shine, to be expansive" — meaning "wide, vast, spacious, broad"). The face described is simultaneously soft (komala) and vast (viśālam) — an unusual combination suggesting gentle infinity, the kind of face in which a devotee can lose oneself.
-  - वयोवसानम् (Vayovasānam) — वयः (vayaḥ, "age, the span of life, vitality") + वसान (vasāna, from vas, "to dress, to wear, to settle into" — used here as "the conclusion, the settled state, the prime") — literally "one who has settled into the prime of age." This is a way of saying he is forever at the peak of youth — not aging, not declining, eternally youthful. This eternal youthfulness (nityakaumāra) is central to his nature as a brahmacārī deity.
   - अरुणोद्भव दाम हस्तम् (Aruṇodbhava Dāma Hastam) — अरुण (aruṇa, "the reddish-gold hue of the rising sun, the colour of dawn" — Aruṇa is the charioteer of the Sun, representing the first light); उद्भव (udbhava, from ud- + bhū, "arising, born from, emanating from"); दाम (dāma, "a garland, a string of flowers or gems, a wreath" — one of the most ancient Sanskrit words for a festive garland); हस्तम् (hastam, "hand, the palm, the instrument of giving and holding"). Together: "his hand holds a garland born of / glowing like the reddish sunrise." The garland in his hand is not merely decorative — it glows with the warmth and life-giving energy of the rising sun.
 
 ---
@@ -797,17 +900,30 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100]{
-🔸 **உத்தராங்கரத்தனம் மகுடம்** - உத்தரீயத்தை அணிந்து, கரத்தில் (ஆயுதங்களை) ஏந்தி, கிரீடத்தை தரித்தவர். அரச வேடத்தில் விளங்கும் ஐயப்பன்.
+🔸 **உத்தராங்கரத்தனம் மகுடம்** - உத்தரீயத்தை அணிந்து, கரத்தில் (ஆயுதங்களை) ஏந்தி, கிரீடத்தை தரித்தவர். அரச வேடத்தில் விளங்கும் ஐயப்பன்.}
 
-🔸 **குடிலாக்ர கேசம்** - நுனியில் சுருண்ட கூந்தலை உடையவர். ஜடாமகுடம் போன்ற அழகிய கூந்தல். சிவபெருமான் போல் ஜடையை உடையவர்.
+  - उत्तरांग करत्नम् मकुटम् (Uttarāṅga Karatnnam Makuṭam) — उत्तर (uttara, "upper, the upper part of the body") + अंग (aṅga, "limb, part, body part") = uttarāṅga, "the upper garments, that which adorns the upper body"; कर (kara, "hand, the instrument of action") + रत्नम् (ratnam, "jewel, gem" — figuratively "something precious borne in the hand") — "the precious things borne in his hands," meaning his divine weapons and emblems; मकुटम् (makuṭam, "the crown, the diadem" — from maṭ, "to wear on the head" — a symbol of royal and divine sovereignty). The three together — upper garment, hand-emblems, crown — paint the complete image of a royal deity in full regalia.
 
-🔸 **சாஸ்தாரம் இஷ்ட வரதம்** - வேண்டிய வரங்களை அளிக்கும் சாஸ்தா. பக்தர்கள் கேட்கும் வரங்களை உடனே அளிப்பவர்.
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **குடிலாக்ர கேசம்** - நுனியில் சுருண்ட கூந்தலை உடையவர். ஜடாமகுடம் போன்ற அழகிய கூந்தல். சிவபெருமான் போல் ஜடையை உடையவர்.}
 
+  - कुटिलाग्र केशम् (Kuṭilāgra Keśam) — कुटिल (kuṭila, from kuṭ, "to bend, to curve" — "curling, winding, wavy"); अग्र (agra, "tip, front, topmost point"); केशम् (keśam, "hair, tresses, locks"). The phrase: "hair whose tips curl" — describing the spiral curls or matted locks (jaṭā) at the crown of his hair. This echoes Śiva's jaṭāmakuṭa (crown of matted locks), visually connecting father and son.
+
+::combo[bg:#fff3e0;color:#e65100]{
+🔸 **சாஸ்தாரம் இஷ்ட வரதம்** - வேண்டிய வரங்களை அளிக்கும் சாஸ்தா. பக்தர்கள் கேட்கும் வரங்களை உடனே அளிப்பவர்.}
+
+  - शास्तारम् (Śāstāram) — as established in Verse 1, this is the accusative singular of śāstṛ, from the root śās ("to teach, to govern, to rule with wisdom and righteous discipline"). The -tṛ suffix creates a permanent agent noun — not one who occasionally governs but one whose defining, unceasing nature is to govern. The accusative -am marks him as the object of prapadye ("I take refuge in him"). What is significant here is that śāstāram appears in the very last verse, in the very last line before the final surrender — the poet has spent eleven verses describing his attributes and now in the twelfth names him one final time by his title alone, as if to say: after all these words, this is who he is — the Śāstā, the wise governing lord, and it is to him I now surrender completely.
+
+  - इष्टम् (Iṣṭam) is the past passive participle of the root iṣ ("to desire, to seek, to long for with the whole heart") — iṣṭa means "that which is desired, that which is sought, the cherished wish, the heart's deepest want." In compound with varadam it becomes the adjective qualifying what kind of vara (boon) he gives — not random boons, not convenient boons, but precisely iṣṭa — the one thing the devotee most deeply desires. The word iṣṭa is also used in the phrase iṣṭadevatā (இஷ்ட தெய்வம்) — one's personally chosen, personally beloved deity. Its appearance here carries that resonance too: he gives you your iṣṭa because he himself is your iṣṭa.
+
+  - वरदम् (Varadam) is built from वर (vara, from the root vṛ, "to choose, to select, to prefer" — vara is "the chosen one, the best, the boon, the gift of grace") + दम् (dam, from the root dā, "to give, to bestow") — varada is "the giver of boons, the bestower of chosen gifts, the one who gives what is asked." The accusative -am aligns it with śāstāram as a second title the poet is surrendering to. Varada is one of the most classical of all Sanskrit divine epithets — a deity's hand held open in the varadamudrā (வரத முத்திரா, the gesture of bestowing) is the visual expression of this word.
+
+  - Together **śāstāram iṣṭa-varadam** — "the Śāstā, the giver of one's cherished boon" — is the final description before prapadye. The sequence is deeply intentional: he is first named as the governing lord (śāstāram — the one with authority and wisdom) and then immediately as the generous giver (iṣṭa-varadam — the one who uses that authority entirely for your benefit). Authority and generosity in the same breath, in the same compound — this is the deity the poet now runs to and declares: śaraṇam prapadye, I take refuge completely.
+  
+::combo[bg:#fff3e0;color:#e65100]{
 🔸 **சரணம் ப்ரபதமே** - உன்னையே சரணமாக அடைகிறேன். இதுவே இறுதி சரணாகதி. **சரணம் ஐயப்பா** என்ற மந்திரத்தின் ஆழமான அர்த்தம்.
 }
 
-  - उत्तरांग करत्नम् मकुटम् (Uttarāṅga Karatnnam Makuṭam) — उत्तर (uttara, "upper, the upper part of the body") + अंग (aṅga, "limb, part, body part") = uttarāṅga, "the upper garments, that which adorns the upper body"; कर (kara, "hand, the instrument of action") + रत्नम् (ratnam, "jewel, gem" — figuratively "something precious borne in the hand") — "the precious things borne in his hands," meaning his divine weapons and emblems; मकुटम् (makuṭam, "the crown, the diadem" — from maṭ, "to wear on the head" — a symbol of royal and divine sovereignty). The three together — upper garment, hand-emblems, crown — paint the complete image of a royal deity in full regalia.
-  - कुटिलाग्र केशम् (Kuṭilāgra Keśam) — कुटिल (kuṭila, from kuṭ, "to bend, to curve" — "curling, winding, wavy"); अग्र (agra, "tip, front, topmost point"); केशम् (keśam, "hair, tresses, locks"). The phrase: "hair whose tips curl" — describing the spiral curls or matted locks (jaṭā) at the crown of his hair. This echoes Śiva's jaṭāmakuṭa (crown of matted locks), visually connecting father and son.
   - शरणं प्रपद्ये (Śaraṇaṃ Prapadye) — शरणम् (śaraṇam, from śṛ, "to crush, to take shelter under" — "refuge, shelter, the place where one is crushed against for safety" — a profoundly physical word for complete surrender); प्रपद्ये (prapadye, first-person singular of pra- + pad, "to step forward, to take recourse to, to approach for refuge" — present tense: "I now take refuge"). This is the verse's most important phrase and the stotra's culmination — not merely "I bow" (praṇamāmi, used in all earlier verses), but "I surrender completely, I take refuge" (prapadye). This is the language of prapatti — complete, unconditional surrender — the highest form of devotion in the Śāstra tradition.
 
 ---
