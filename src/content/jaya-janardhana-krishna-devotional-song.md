@@ -182,6 +182,18 @@ scrollToTop: true
 - **ராதிகா பதே** = ராதையின் நாயகன், காதல் தெய்வம்
 - **ஜன விமோசன** = மக்களை விடுவிப்பவர்
 - **ஜன்ம மோசன** = பிறவி சுழற்சியிலிருந்து விடுதலை அளிப்பவர்
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - जय (Jaya) — from the root ji ("to conquer, to prevail, to be victorious") — jaya is a verbal noun in the **prathamā vibhakti** (முதல் வேற்றுமை, nominative) used as an exclamation of triumph: "Victory! Hail!" It is not a wish but a declaration — victory is already his, permanently and completely. Every time the devotee says jaya, they are not asking for it; they are recognising what already is.
+
+  - जनार्दन (Janārdana) — a **tatpuruṣa samāsa** (தத்புருஷ சமாசம்): जन (jana, "people, the human being, the community of persons" — warm, inclusive, referring to all of humanity) + अर्दन (ardana, from the root ard, "to trouble, to cause to suffer" used causatively — "the one who troubles the troubles of people, the one who destroys what afflicts them"). Janārdana: "he who destroys the afflictions of people." He is addressed first not by a cosmic title but by this intimate, person-centred one.
+
+  - राधिकापते (Rādhikāpate) — राधिका (Rādhikā, the diminutive-affectionate form of Rādhā — rādh, "to achieve, to be accomplished, to be perfected in love" — Rādhikā is "the little accomplished beloved, the one who has perfected devotion") + पते (pate, **vocative** of pati, "lord, husband, the one who protects" — from pā, "to protect"). The vocative ending addresses him directly: "O Lord of Rādhikā!" Placing this name first among his titles tells us that the poet's primary experience of him is through love.
+
+  - जन विमोचन (Jana Vimocana) — जन (jana, "people") + विमोचन (vimocana, from vi- + muc, "to release completely, to untie fully, to set absolutely free" — the vi- prefix indicates completeness and thoroughness). Vimocana is stronger than simple mocana (release) — it is total, thorough liberation. Together: "the one who completely liberates the people." While Janārdana removed suffering, Jana-vimocana goes further: he releases people entirely from the conditions that produce suffering.
+
+  - जन्म मोक्षण (Janma Mokṣaṇa) — जन्म (janma, from jan, "to be born" — janma is "birth, the fact of coming into embodied existence, the cycle of being born again and again") + मोक्षण (mokṣaṇa, from muc / mokṣ, "to release, to grant final liberation" — mokṣaṇa is "the granting of mokṣa, the act of giving final liberation"). Together: "the one who grants liberation from birth (the cycle of janma)." Janma-mokṣaṇa is the theological culmination of the pallavi line — Jana-vimocana freed people from current suffering; Janma-mokṣaṇa frees them from the very root of suffering: the cycle of rebirth itself.
 }
 
 ::combo[bg:#f0f8ff;padding:15px;border-left:4px solid #1565c0]{
@@ -203,6 +215,16 @@ scrollToTop: true
 - **நீரஜேக்ஷண (नीरजेक्षण - Neerajekshana)** = நீரஜ (தாமரை - நீரில் பிறப்பது) + ஈக்ஷண (கண்கள்) → தாமரைக் கண்கள் உடையவர்
   - *நீரஜ* = நீர் + ஜ (பிறப்பது) = நீரில் பிறக்கும் மலர் = தாமரை
   - *ஈக்ஷண (ईक्षण)* = பார்வை, கண்
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - गरुड वाहन (Garuḍa Vāhana) — गरुड (Garuḍa, the divine eagle-king and vehicle of Viṣṇu — his name from garuḍ, "the devourer, the one who consumes the serpents of ego and time") + वाहन (vāhana, from vah, "to carry, to convey" — vāhana is "the vehicle, the mount"). Each deity's vāhana in Sanskrit iconography carries symbolic depth — Garuḍa represents the speed of awakened prāṇa (vital breath), the soaring of the liberated mind above the serpents of karma and ego. He who rides Garuḍa commands all these forces.
+
+  - गोपिकापते (Gopikāpate) — गोपिका (gopikā, from go, "cow, earth, the Vedic word for consciousness and the senses" + -ikā, feminine suffix — gopikā is "the female cowherd of Vrindāvan, the women who tended the cows and abandoned all social obligation at the sound of his flute") + पते (pate, vocative of pati, "O lord!"). The Gopikās represent the summit of bhakti — their love was total, unconditional, and beyond all worldly calculation. Calling him Gopikāpate invokes the very quality of love that asks for nothing and gives everything.
+
+  - नयन मोहन (Nayana Mohana) — नयन (nayana, from the root nī, "to lead, to guide" — nayana is "the eye, the organ that leads the perceiver to what is seen, the guiding sense") + मोहन (mohana, from muh, "to bewilder, to enchant, to cause the mind to stop in fascination"). Together: "the one who enchants the eyes, whose form bewilders the very organ of seeing." Nayana is chosen over locana (eye) or cakṣus (eye) precisely because nayana carries the sense of guiding — his enchantment does not blind the devotee's eyes but guides them toward what is most worth seeing.
+
+  - नीरजेक्षण (Nīrajekṣaṇa) — a **sandhi** (சந்தி) compound: नीरज (nīraja — नीर, "water" + ज, ja from jan, "born" — nīraja is "born of water," the Sanskrit kenning for the lotus, which rises from water yet remains uncontaminated by it) + ईक्षण (īkṣaṇa, from the root īkṣ, "to see, to look with intention, to behold" — īkṣaṇa is "the beholding, the gaze, the eyes as organs of intentional seeing"). Together: "the one whose eyes are like the lotus" — eyes that see the world fully, are rooted in it, yet remain pure and uncontaminated by it. The lotus-eye gazes with complete presence and complete detachment simultaneously.
 }
 
 ---
@@ -226,6 +248,16 @@ scrollToTop: true
 - **ஸுந்தரக்ருதே (सुन्दरकृते - Sundarakruthe)** = ஸுந்தர (அழகு) + க்ருதே (வடிவம்) → அழகிய வடிவம் உடையவர்
 - **மதன கோமள (मदन कोमल - Madana Komala)** = மதன (மன்மதன்) + கோமள (மென்மை) → மன்மதனையும் விஞ்சும் மென்மையான அழகு
 - **மாதவ ஹரே** = லக்ஷ்மியின் நாதனே, துன்பம் நீக்குபவனே
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - सुजन बान्धव (Sujana Bāndhava) — सु (su, the intensifying prefix meaning "well, good, excellent, of the highest quality") + जन (jana, "people, persons") = sujana: "the good people, the virtuous ones, those of noble character"; + बान्धव (bāndhava, from bandh, "to bind, to tie together" — bāndhava is "the one who is bound to you by natural ties, the kinsman, the dear one, the relative by bond of love and loyalty"). Together: "the kinsman and beloved friend of the good." The word bāndhava is warmer than mitra (friend) — it carries the sense of family bond, of a relationship that is not chosen but inherent and unbreakable.
+
+  - सुन्दराकृते (Sundarākṛte) — सुन्दर (sundara, "beautiful, pleasing, harmonious") + आकृते (ākṛte, from ā + kṛ, "to make, to form, to fashion" — ākṛti is "the formed shape, the outer appearance as something deliberately made"). The **-e** ending is the **vocative case** (sambodhana vibhakti, விளி வேற்றுமை): "O one of beautiful form!" The word ākṛti specifically refers to form as something fashioned — his beautiful form is not accidental but divinely and perfectly made.
+
+  - मदन कोमल (Madana Komala) — मदन (Madana, "the intoxicating one" — Madana or Manmatha is the god of love and desire, the one who makes the mind drunk with longing; his name from mad, "to be intoxicated") + कोमल (komala, "soft, tender, delicate, pleasing to the senses" — a word for the finest, most delicate quality of softness). Together: "softer and more tender than Madana (the god of love himself)." This is the highest compliment in Sanskrit aesthetics — the god of beauty is surpassed. Where Madana enchants through desire, Krishna enchants through a tenderness that transcends desire entirely.
+
+  - माधव हरे (Mādhava Hare) — माधव (Mādhava — from Mādhavī, a name of Lakṣmī, + va suffix: "the lord/husband of Mādhavī-Lakṣmī"; or from Madhu the demon + ava: "the destroyer of Madhu") used as a **vocative**: "O Mādhava!"; + हरे (Hare, vocative of Hari — from hṛ, "to take away, to remove, to steal the heart" — Hari is "the remover of suffering, the one who steals your heart away from all else"). Both are vocatives — direct, personal calls. Mādhava names his relationship with divine abundance; Hare names his action on the devotee's heart.
 }
 
 ::combo[bg:#f0f8ff;padding:15px;border-left:4px solid #1565c0]{
@@ -245,6 +277,16 @@ scrollToTop: true
 - **வாஸவானுஜ (वासवानुज - Vasavanuja)** = வாஸவ (இந்திரன்) + அனுஜ (தம்பி) → இந்திரனின் தம்பி (வாமன அவதாரம்)
 - **வரகுணாகர (वरगुणाकर - Varagunaakara)** = வர (சிறந்த) + குண (குணம்) + ஆகர (இருப்பிடம்/அளிப்பவர்) → சிறந்த குணங்களின் இருப்பிடம்
 - **வைஷ்ணவக்ருதே (वैष्णवकृते - Vaishnavakruthe)** = வைஷ்ணவ + க்ருதே (வடிவம்) → வைஷ்ணவர்களின் வடிவம்
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - वसुमतिपते (Vasumati-pate) — वसुमति (vasumati, from vasu, "wealth, the good, the excellent, the Vedic vasus who are the gods of abundance" + matī, "the one who holds/contains, the earth as the container of all wealth" — vasumati is "the earth, she who holds all treasure and all life") + पते (pate, vocative of pati, "O lord!"). Together: "O Lord of the Earth!" The title is profound — to be lord of vasumati is to be master of all material wealth, all earthly life, and all the vasus (divine beings of abundance). He governs not just the spiritual realm but the very ground we stand on.
+
+  - वासवानुज (Vāsavānuja) — वासव (vāsava, "of Vāsava, belonging to Vāsava" — Vāsava is Indra, king of the gods, named from vasu + the suffix -ava) + अनुज (anuja, from anu-, "after, following" + ja from jan, "to be born" — anuja is "the younger brother, the one born after"). Together: "the younger brother of Indra (Vāsava)." This refers to the Vāmana avatāra — Viṣṇu's dwarf incarnation, who was born as the younger sibling in Indra's cosmic family. The title roots him in the Vedic divine hierarchy while placing him as the humble younger one who nevertheless surpasses them all.
+
+  - वरगुणाकर (Varaguṇākara) — वर (vara, "the best, the most excellent, the chosen" — from vṛ, "to choose, to prefer") + गुण (guṇa, "quality, virtue, the thread of excellence running through a person") + आकर (ākara, from ā + kṛ, "to make, to be a mine of, to be the source of" — ākara is "the mine, the source, the place from which the finest things originate"). Together: "the mine / source of the best qualities." He is not merely good in character — he is the very origin-point, the inexhaustible source from which all noble qualities flow into the world.
+
+  - वैष्णवकृते (Vaiṣṇavakṛte) — वैष्णव (vaiṣṇava, "of or pertaining to Viṣṇu, belonging to the Vaiṣṇava tradition" — the adjective derived from Viṣṇu) + कृते (kṛte, from kṛ, "to make, to be formed as" — kṛta as suffix means "fashioned as, having the nature of, made into"). The **-e** is the vocative: "O one fashioned of Vaiṣṇava nature!" He is not merely worshipped by Vaiṣṇavas — he is the very substance and embodiment of what Vaiṣṇava means. The tradition does not create him; he creates the tradition.
 }
 
 ---
@@ -268,6 +310,16 @@ scrollToTop: true
 - **சௌர்யவாரிதே (शौर्यवारिधे - Shouryavaridhe)** = சௌர்ய (வீரம்) + வாரிதி (கடல்) → வீரத்தின் கடல், வீரத்தில் சிறந்தவர்
 - **முரஹர (मुरहर - Murahara)** = முர (அசுரன்) + ஹர (அழிப்பவர்) → முர அசுரனை அழித்த பெருமானே
 - **முக்திதாயக (मुक्तिदायक - Mukthidayaka)** = முக்தி (மோட்சம்) + தாயக (அளிப்பவர்) → மோட்சத்தை அளிப்பவர்
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - सुरुचिरानन (Surucirānana) — सु (su, "well, exceedingly, of the finest quality") + रुचिर (rucira, from the root ruc, "to shine, to be pleasing, to be bright" — rucira is "bright, pleasing, shining with attractiveness") + आनन (ānana, from the root an, "to breathe, to live" + prefix ā — ānana is "the face, the living countenance, the breathing expression of the person within"). Together: "one whose face shines with exceedingly beautiful brightness." The word rucira specifically carries luminosity — his face does not just have pleasant features but shines from within, as a lamp illuminates from its own light.
+
+  - शौर्यवारिधे (Śauryavāridhe) — शौर्य (śaurya, from śūra, "the hero, the brave one" + the abstract suffix -ya — śaurya is "heroism, valour, the quality of being heroic") + वारिधि (vāridhi, from vāri, "water" + dhi from dhā, "to hold, to contain" — vāridhi is "the ocean, the container of all waters, the inexhaustible sea"). Together in the **vocative**: "O ocean of heroism!" He is not merely heroic — he is the inexhaustible source and container of all heroism, as the ocean is to water. Whatever bravery exists anywhere flows from him.
+
+  - मुरहर (Murahara) — मुर (Mura, the name of the demon who bound the Vedic knowledge with his thousand arms, the demon of ego's grip on consciousness) + हर (hara, from hṛ, "to take away, to remove, to destroy" — hara is "the remover, the destroyer, the one who takes away"). Together: "the remover / destroyer of Mura." Hara is Śiva's epithet for dissolution — using it for Krishna here connects his action to the very cosmic force of dissolution. He removes what Mura represents: the strangling grip of ego on sacred knowledge.
+
+  - मुक्तिदायक (Muktidāyaka) — मुक्ति (mukti, from muc, "to release, to untie, to let go" — mukti is "liberation, the final release from the cycle of birth-death-rebirth, freedom from saṃsāra") + दायक (dāyaka, from dā, "to give, to bestow" + -ka agent suffix — dāyaka is "the giver, the bestower"). Together: "the bestower of liberation." Dāyaka as an agent noun (கர்த்ரு வாசகம்) says this is not something he does occasionally — it is his defining characteristic role. He gives liberation as a mango tree gives mangoes: by nature, continuously, to all who come near.
 }
 
 ::combo[bg:#f0f8ff;padding:15px;border-left:4px solid #1565c0]{
@@ -288,6 +340,16 @@ scrollToTop: true
 - **கமலலோசன (कमललोचन - Kamalalochana)** = கமல (தாமரை) + லோசன (கண்கள்) → தாமரைக் கண்கள் உடையவர்
   - *லோசன (लोचन)* = பார்வை, கண்
 - **காம்யதாயக (काम्यदायक - Kamyadayaka)** = காம்ய (விரும்பத்தக்க) + தாயக (அளிப்பவர்) → விரும்பியவற்றை அளிப்பவர்
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - विमलपालक (Vimalapālaka) — विमल (vimala, from vi- + mala, "without impurity" — vi- is the negating prefix; mala is "dirt, impurity, the stain of wrong action or ignorance" — vimala is "spotless, pure, free from all stain") + पालक (pālaka, from the root pā, "to protect, to nourish, to sustain" + -ka agent suffix — pālaka is "the protector, the guardian, the nourishing keeper"). Together: "the spotlessly pure protector." His protection is not merely powerful — it is vimala, unstained. A protector's purity matters: only one who is themselves untainted can protect without corruption. His guardianship leaves the devotee cleaner, not more entangled.
+
+  - वल्लभीपते (Vallabhīpate) — वल्लभी (Vallabhī, another name for Dvārakā, Krishna's golden city built in the sea — from vallabha, "the beloved, the dear one, the favoured" — Vallabhī is "the beloved city, the city of his dearest ones") + पते (pate, vocative, "O lord!"). Together: "O Lord of Vallabhī (Dvārakā)!" This title connects him to his earthly sovereignty — after the pastoral Gokula of childhood and the royal Mathurā of youth, Dvārakā is his chosen realm as an adult king, the city he built as an act of love for his people.
+
+  - कमललोचन (Kamalalōcana) — कमल (kamala, "the lotus" — from kam, "to desire, to love, to be beautiful" — kamala emphasises the lotus's beauty and the desire it inspires, unlike padma which emphasises its sacredness) + लोचन (locana, from the root loc, "to perceive clearly, to see" — locana is "the eye, the organ of clear seeing, perception itself"). Together: "the lotus-eyed one." His eyes are compared to the kamala lotus not just for their shape but for their quality: beautiful, drawing the beholder's love, yet seeing everything with the clarity of one who is unstained by what they see.
+
+  - काम्यदायक (Kāmyadāyaka) — काम्य (kāmya, from kāma, "desire, love, longing" + -ya suffix forming a gerundive/adjective — kāmya is "desirable, worth longing for, that which should be desired" — used here as a noun: "the desired thing, the cherished wish") + दायक (dāyaka, "the giver, the bestower" — from dā). Together: "the giver of what is desired and desirable." Kāmya is more specific than iṣṭa (wished for) — it carries the warmth of desire, of something truly longed for. He gives not random gifts but the things most genuinely desired by the devotee's heart.
 }
 
 ---
@@ -311,6 +373,16 @@ scrollToTop: true
 - **பக்தவத்ஸல (भक्तवत्सल - Bhaktavatsala)** = பக்த (பக்தர்கள்) + வத்ஸல (அன்பு செலுத்துபவர்) → பக்தர்களை அன்புடன் நேசிப்பவர்
 - **சரணபல்லவம் (चरणपल्लव - Charanapallavam)** = சரண (திருவடி) + பல்லவம் (இளந்தளிர்) → இளந்தளிர் போன்ற மென்மையான திருவடிகள்
 - **கருணகோமளம் (करुणकोमल - Karunakomalam)** = கருண (இரக்கம்) + கோமளம் (மென்மை) → இரக்கத்தில் மிக மென்மையானவர்
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - विमलगात्रणे (Vimalagātraṇe) — விமல (vimala, "spotless, without impurity" — as explained in Verse 2: vi- + mala) + गात्र (gātra, from the root gā + tra, "that which carries, the body as the vehicle of the self" — gātra is "the body, the physical form, the limbs as the instruments of action"). The **-ṇe** ending is the **dative / vocative** case (நான்காம் வேற்றுமை / விளி வேற்றுமை): "O one of spotless body!" The phrase is more than physical purity — gātra is the instrument through which the divine acts in the world. A vimala-gātra is a body through which nothing impure passes: every act of this body is clean, every touch purifying.
+
+  - भक्तवत्सल (Bhaktavatsala) — भक्त (bhakta, past passive participle of bhaj, "to share oneself, to be devoted" — bhakta is "the devoted one, the one who has given their whole share to the deity") + वत्सल (vatsala, from vatsa, "the calf, the beloved child" + -la suffix of affection — vatsala is "tender toward one's young, affectionately loving as a cow toward her calf, the one who loves with the protective tenderness of a parent"). Together: "the one who loves his devotees with the tender, protective love of a parent for their child." Vatsala is not a word for equal friendship — it is the love that flows specifically from the more powerful to the more vulnerable, from protector to the protected.
+
+  - चरणपल्लव (Caraṇapallava) — चरण (caraṇa, from car, "to move, to go, to wander" — caraṇa is "the foot, the divine foot, the most accessible point of the deity's body") + पल्लव (pallava, "the young shoot, the tender new leaf, the first budding of a plant" — pallava is used in Sanskrit aesthetics for the extreme softness of new growth, the delicacy of the just-opened). Together: "the feet like tender young shoots." Worshipping the caraṇa is the most accessible form of devotion — the foot is the lowest and most approachable part of the deity. To compare these feet to pallava is to say that even the humblest point of approach to him is as tender and fresh as new life itself.
+
+  - करुणकोमल (Karuṇakomala) — करुण (karuṇa, from the root kṛ, "to do, to act" — but in devotional Sanskrit karuṇā is "compassion, the ache of the heart for another's suffering, the active movement of the heart toward one in pain") + कोमल (komala, "soft, tender, gentle"). Together: "one whose compassion is of the softest, most tender quality." Karuṇa alone says he feels with the suffering; komala says that feeling is not stern or duty-bound but genuinely, delicately, tenderly soft — as gentle as the new shoot whose tenderness can be felt even in a whisper of wind.
 }
 
 ::combo[bg:#f0f8ff;padding:15px;border-left:4px solid #1565c0]{
@@ -331,7 +403,17 @@ scrollToTop: true
 - **கோமளாக்ருதே (कोमलाकृते - Komalaakruthe)** = கோமள (மென்மை) + ஆக்ருதி (வடிவம்) → மென்மையான, அழகிய வடிவம்
 - **பதாம்புஜம் (पदाम्बुजम् - Padambujam)** = பத (பாதம்) + அம்புஜம் (தாமரை) → தாமரை போன்ற பாதங்கள்
   - *அம்புஜம் (अम्बुज)* = அம்பு (நீர்) + ஜ (பிறப்பது) = நீரில் பிறப்பது = தாமரை
-- **சரணாஸ்ரயே (शरणाश्रये - Sharanashraye)** = சரணம் (அடைக்கலம்) + ஆஸ்ரயே (புகுகிறேன்) → சரணடைகிறேன்
+- **சரணாஸ்ரயே (शरणमाश्रये - Sharanashraye)** = சரணம் (அடைக்கலம்) + ஆஸ்ரயே (புகுகிறேன்) → சரணடைகிறேன்
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - कुवलयेक्षण (Kuvalayekṣaṇa) — कुवलय (kuvalaya, the deep blue lotus whose colour mirrors Krishna's own nīla complexion — from ku, dark earth + valaya, encircling ring) + ईक्षण (īkṣaṇa, from īkṣ, to see with intention — the purposeful beholding gaze). Together: the one with eyes like the blue lotus — deep, dark, and beautiful, eyes that see with complete presence yet remain unstained by what they behold.
+
+  - कोमलाकृते (Komalākṛte) — कोमल (komala, the finest quality of softness and tenderness) + आकृते (ākṛte, vocative of ākṛti, the outer form as something deliberately fashioned): O one of tender, soft form! His entire ākṛti — not just individual features but the whole divine form — is komala. It is the quality of dawn light, the opening of a flower, the most delicate thing that is also the most vivid.
+
+  - पदाम्बुजम् (Padāmbujam) — पद (pada, the divine foot as the most accessible point of the deity) + अम्बुज (ambuja — water-born, the lotus). Tava padāmbujam — with tava (your, genitive of tvam, second-person singular) — makes this completely personal: your lotus-feet, yours specifically. Not a generic deity's feet but his, addressed directly by the devotee in the intimacy of surrender.
+
+  - शरणमाश्रये (Śaraṇam āśraye) — शरणम् (śaraṇam, refuge, shelter) + आश्रये (**uttama puruṣa** உத்தம புருஷன் — first person, **ekavacana** ஒருமை — singular, **vartamāna kāla** நிகழ்கால — present tense, of ā + śri: to lean upon, to cling to, to make someone one's entire support). Śaraṇam names the destination; āśraye names the action. The first-person present tense places the devotee fully inside the sentence: I, personally, lean upon your lotus-feet right now.
 }
 
 ---
@@ -356,6 +438,16 @@ scrollToTop: true
 - **குணகணோஜ்வல (गुणगणोज्ज्वल - GuNagaNojwala)** = குண (குணம்) + கண (கூட்டம்) + உஜ்வல (ஒளிர்பவர்) → பல நல்ல குணங்களால் ஒளிர்பவர்
 - **நளினலோசன (नलिनलोचन - Nalinalochana)** = நளின (தாமரை) + லோசன (கண்கள்) → தாமரைக் கண்கள் உடையவர்
   - *லோசன (लोचन)* = பார்வை, கண்
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - भुवननायक (Bhuvanānāyaka) — भुवन (bhuvana, from bhū, "to be, to exist, to come into being" — bhuvana is "a world, a realm of existence, a plane of conscious being") + नायक (nāyaka, from the root nī, "to lead, to guide, to carry forward" — nāyaka is "the leader, the guide, the one who leads by going before"). Together: "the leader and guide of all the worlds." Nāyaka is subtly more intimate than nātha (lord by sovereignty) — nāyaka leads by example, by going in front, by showing the way. He does not rule the worlds from above but leads them forward from within.
+
+  - पावनकृते (Pāvanakṛte) — पावन (pāvana, from the root pū, "to purify, to cleanse" — pāvana is "the purifier, the one who purifies by contact, the wind that carries impurity away") + कृते (kṛte, vocative of kṛta, "made of, fashioned as, whose actions are" — from kṛ, "to do, to make"). Together, in the vocative: "O one whose very actions are purifying!" Pāvana-kṛta says more than that he is pure — it says his deeds themselves are the instruments of purification. Every action he performs purifies the world around the action.
+
+  - गुणगणोज्वल (Guṇagaṇojvala) — गुण (guṇa, "quality, virtue, the thread of excellence that runs through character" — from the root guṇ, "to multiply, to thread together") + गण (gaṇa, "a group, a host, a multitude, a gathered company") + उज्वल (ujvala, from ud- + val, "to shine upward, to blaze brilliantly, to flame" — ujvala is "blazing, brilliantly luminous, shining with full intensity"). Together: "blazing brilliantly with a multitude of virtues." He does not have a few good qualities — he has a gaṇa (a host) of them, and from that host he ujvala: blazes upward with the combined light of all of them together.
+
+  - नलिनलोचन (Nalinalocana) — नलिन (nalina, "the lotus" — from nal or nalina, a word of uncertain but ancient origin referring specifically to the delicate, floating lotus of the lake; nalina emphasises the lotus as it sits upon still water, perfectly poised) + लोचन (locana, from loc, "to perceive clearly" — locana is "the eye, clear-seeing perception"). Together: "the lotus-eyed one." Three lotus-eye compounds appear in this song — nīrajekṣaṇa (born-of-water eyes), kamalalōcana (desire-beauty eyes), and nalinalocana (still-water-poised eyes). Each emphasises a different quality of the lotus: nalina most specifically evokes the lotus floating in perfect stillness — his eyes have the quality of perfect, undisturbed equanimity.
 }
 
 ::combo[bg:#f0f8ff;padding:15px;border-left:4px solid #1565c0]{
@@ -376,6 +468,16 @@ scrollToTop: true
 - **தாமோதர (दामोदर - Damasodara)** = தாம (கயிறு) + உதர (வயிறு) → வயிற்றில் கயிறு கட்டப்பட்டவர் (பலராமன்/கிருஷ்ணன்)
   - பாலகிருஷ்ணனை யசோதை கயிற்றால் கட்டிய கதையிலிருந்து
 - **தீனவத்ஸல (दीनवत्सल - Deenavatsala)** = தீன (ஏழை) + வத்ஸல (அன்பு செலுத்துபவர்) → ஏழைகளை நேசிப்பவர்
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - प्रणयवारिधे (Praṇayavāridhe) — प्रणय (praṇaya, from pra- + the root nī, "to lead toward, to draw near" — praṇaya is "the natural drawing of one being toward another, heartfelt love, the affection that seeks closeness and cannot be explained by reason") + वारिधि (vāridhi, from vāri, "water" + dhi from dhā, "to hold, to contain" — vāridhi is "the ocean, the container of all waters"). The **-e** is the **vocative case** (sambodhana, விளி வேற்றுமை): "O ocean of love!" He is not merely loving — he is the inexhaustible ocean in which all love originates and to which all love returns. Every drop of affection anywhere in existence is a particle of his praṇaya-vāridhi.
+
+  - गुणगणाकर (Guṇagaṇākara) — गुण (guṇa, "quality, virtue, the thread of excellence") + गण (gaṇa, "a multitude, a gathered host") + आकर (ākara, from ā + kṛ, "to make, to be a mine of" — ākara is "the mine, the originating source, the place from which the finest things come forth"). Together: "the mine / originating source of a multitude of virtues." Compare with guṇagaṇojvala in the previous line — there the guṇas blazed outward from him; here ākara says those guṇas originated from him. He is both their source (ākara) and their light (ujvala).
+
+  - दामोदर (Dāmodara) — दाम (dāma, "rope, cord, the binding string" — from the root dam, "to bind, to restrain") + उदर (udara, "the belly, the stomach, the centre of the body"). Together: "the one whose belly was bound with a rope." This is the beloved story of Yaśodā tying the child Krishna to the grinding stone (ulukhala) because he kept stealing butter — the infinite lord of the universe allowed himself to be bound by a mother's love. Dāmodara carries the entire theology of Krishna's svādhīnatā (his willing submission to love) in a single compound. He who holds the universe chose to let a rope hold him.
+
+  - दीनवत्सल (Dīnavatsala) — दीन (dīna, from dī, "to waste away, to be diminished" — dīna is "the humble, the lowly, the one reduced by poverty, helplessness, or suffering") + वत्सल (vatsala, from vatsa, "the beloved calf, the young one" — vatsala is "tenderly loving as a cow toward her calf, the one who loves with protective parental warmth"). Together: "the one who loves the humble with the tender warmth of a parent for their young." Dīna-vatsala is one of Krishna's most intimate titles — it says his parental tenderness flows specifically toward the least, the most vulnerable, the ones the world overlooks. His vatsala love is not distributed equally; it concentrates on the dīna.
 }
 
 ---
@@ -399,6 +501,16 @@ scrollToTop: true
 - **பாஹி ஸர்வதா (पाहि सर्वदा - Pahi Sarvada)** = பாஹி (காப்பாற்று) + ஸர்வதா (எப்போதும்) → எப்போதும் காப்பாற்றுவாயாக
 - **நரகநாசன (नरकनाशन - Narakanashana)** = நரக (நரகாசுரன்) + நாசன (அழிப்பவர்) → நரகாசுரனை அழித்தவர்
 - **நரஸஹாயக (नरसहायक - Narasahayaka)** = நர (மனிதர்கள்) + ஸஹாயக (உதவுபவர்) → மனிதர்களுக்கு உதவுபவர்
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - कामसुन्दर (Kāmasundara) — काम (kāma, "desire, love, the longing that draws one being toward another" — Kāma is also the god of love, the divine personification of desire and beauty) + सुन्दर (sundara, "beautiful, pleasing, harmonious"). Together: "the one who is more beautiful than Kāma (the god of beauty and desire) himself." The compound does not merely say he is beautiful — it says beauty itself, in its divine form, is surpassed by him. Where Kāma enchants through the heat of desire, Krishna's beauty goes deeper: it enchants through love that is beyond desire.
+
+  - पाहि सर्वदा (Pāhi Sarvadā) — पाहि (pāhi, **ājna-artha** (ஆஜ்ஞார்த்தம் — imperative mood) second-person singular of pā, "protect! nourish! guard!" — a direct command addressed to the deity as the urgent request of the devotee) + सर्वदा (sarvadā, from sarva, "all" + dā, "time" — sarvadā is "at all times, always, without any gap or interruption"). Together: "protect always, without ceasing." The imperative pāhi places the devotee in complete need; sarvadā says that need has no end and no gap — there is no moment when protection is not needed and no moment when he is not being asked for it.
+
+  - नरकनाशन (Narakanāśana) — नरक (Naraka, the name of the demon Narakāsura — from nara, "human" + ka, suffix — Naraka who terrorised the earth and imprisoned sixteen thousand women, representing the demon of earthly bondage and exploitation) + नाशन (nāśana, from naś used causatively — "the destroyer, the one who causes complete annihilation"). Together: "the destroyer of Naraka." The theological significance is layered: Naraka also means "hell" in Sanskrit. Narakanāśana is simultaneously the destroyer of the demon Naraka and the one who destroys naraka (hell) for the devotee.
+
+  - नरसहायक (Narasahāyaka) — नर (nara, "the human being, the person" — from the root nṛ, "to lead, to guide" — nara is "the human as the led being, the one being guided through existence") + सहायक (sahāyaka, from saha, "together with" + āya from ā + i, "to come" — sahāya is "the one who comes alongside, the companion, the helper who walks with you"). Together: "the companion and helper of the human being." Sahāyaka is warmer than merely "helper" — it says he comes alongside the person, walks with them, stands beside them. He does not help from above but beside.
 }
 
 ::combo[bg:#f0f8ff;padding:15px;border-left:4px solid #1565c0]{
@@ -418,6 +530,16 @@ scrollToTop: true
 - **கருண்யாம்புதே** = கருணையின் கடல், இரக்கக் கடல்
 - **கம்ஸ நாசன** = கம்ஸனை வதைத்தவர்
 - **த்வாரகாஸ்திதன்** = துவாரகையில் வசிப்பவர்
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - देवकीसुत (Devakīsuta) — देवकी (Devakī, Krishna's birth mother, a princess imprisoned by Kaṃsa who killed her first six children — her name from deva, "divine, the shining one" + -kī, a feminine suffix: "the divine one, the goddess-like one") + सुत (suta, past passive participle of su or sū, "to beget, to bring forth" — suta is "the one who has been brought forth, the son"). Together: "the son brought forth by Devakī." The use of suta (born of) rather than ātmaja (self-born) or putra (cherished son) is precise — suta emphasises the act of birth itself, the miracle that he chose to be born into imprisonment and suffering rather than appearing in glory. He entered the world through Devakī's captivity.
+
+  - कारुण्याम्बुधे (Kāruṇyāmbudhe) — कारुण्य (kāruṇya, from karuṇā — "compassion, the quality of being merciful" — kāruṇya is the abstract noun: "compassion-ness, the quality of compassion itself, the state of being compassionate") + अम्बुधि (ambudhi, from ambu, "water" + dhi from dhā, "that which holds water" — ambudhi is "the ocean, the holder of all waters"). The **-e** ending is **vocative**: "O ocean of compassion!" Kāruṇya is an abstract noun made into an ocean — this says his compassion is not a feeling he experiences but a substance as vast and deep as the ocean, which holds all things, never dries up, and from which all nourishment ultimately comes.
+
+  - कंसनाशन (Kaṃsanāśana) — कंस (Kaṃsa, the tyrannical king of Mathurā who imprisoned his own sister Devakī and slaughtered her children out of terror of prophecy — Kaṃsa represents political tyranny, fear-driven cruelty, and the ego that destroys what it loves most out of possessive fear) + नाशन (nāśana, "the destroyer, the one who causes complete annihilation"). Together: "the destroyer of Kaṃsa." Kaṃsa is not merely a historical villain — he is the archetype of tyrannical ego, and his destroyer is the one who removes every form of that tyranny from the devotee's life.
+
+  - द्वारकास्थित (Dvārakāsthita) — द्वारका (Dvārakā, "the city of gates" — from dvāra, "gate, door, opening, the place of entrance" — the golden city Krishna built in the sea with its many gates symbolising the many paths to his presence) + स्थित (sthita, past passive participle of sthā, "to stand, to remain, to be established" — sthita is "established, dwelling, the one who has taken a permanent position"). Together: "the one permanently established / dwelling in Dvārakā." Sthita says more than "living there" — it says he has permanently taken his stand there, made it his definitive abode, rooted himself in it as a tree roots itself in the earth.
 }
 
 ---
@@ -441,6 +563,16 @@ scrollToTop: true
 - **தேஹி மங்கலம்** = நலம், மங்களம் அளிப்பாயாக
 - **த்வத் பதாம்புஜம்** = உன் தாமரை திருவடிகள்
 - **ஶ்யாம கோமளம்** = மேக நிறம் கொண்ட மென்மையானது
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - पावनात्मक (Pāvanātmaka) — पावन (pāvana, from the root pū, "to purify, to cleanse, to make holy" — pāvana is "the purifying one, the one whose very presence purifies" — pāvana also means "the wind," the element that purifies by movement and breath) + आत्मक (ātmaka, from ātman, "the self, the soul, the essential nature" + -ka adjective suffix — ātmaka is "having the nature of, whose self is constituted by, whose essential being is"). Together: "one whose very self and essential nature is purity and purification." He is not pure as a quality he possesses — pāvana is his ātmaka, his very nature itself. There is no layer of him that is not purifying.
+
+  - देहि मङ्गलम् (Dehi Maṅgalam) — देहि (dehi, **ājna-artha** (ஆஜ்ஞார்த்தம் — imperative mood) second-person singular of dā, "give! bestow! grant!" — a direct imperative addressed to the deity) + मङ्गलम् (maṅgalam, from maṅg or maṅgala — "auspiciousness, well-being, the state of things going well, the blessing that ensures good outcomes, prosperity, and welfare"). Together: "Grant auspiciousness! Give well-being!" Maṅgala is one of the richest words in Sanskrit devotional vocabulary — it encompasses health, prosperity, happiness, protection from evil, and the general state of life flourishing as it should. The imperative dehi makes the request direct and personal.
+
+  - त्वत्पदाम्बुजम् (Tvatpadāmbujam) — त्वत् (tvat, the ablative/genitive stem of tvam, "you, your, belonging to you" — tvat is the contracted form of tava meaning "yours, of you") + पद (pada, "the divine foot, the accessible point of the Lord's presence") + अम्बुज (ambuja, "born of water, the lotus"). Together: "your lotus-feet" — with the emphatic tvat-prefix drawing attention to the personal pronoun. The tvat is important: not "the" lotus-feet of some deity but "your" lotus-feet — the devotee addresses him directly in the second person, collapsing all distance. The entire next phrase (**śyāma komalam**) describes these feet directly.
+
+  - श्याम कोमलम् (Śyāma Komalam) — श्याम (śyāma, "the dark blue-black, the colour of the rain cloud, the colour of deep water, the hue of the evening sky before night" — śyāma is Krishna's own colour, the colour of the infinite, of that which is beyond the visible spectrum's end) + कोमलम् (komalam, "soft, tender, gentle, the finest quality of delicacy"). Together: "dark-blue and tender, śyāma-coloured and soft." This is the direct description of his lotus-feet: they carry his characteristic dark colour and the extreme tenderness of komala. The pairing of śyāma (depth and infinity) with komala (tenderness and gentleness) is the essence of Krishna — the infinite made tender, the vast made soft enough for the devotee to touch.
 }
 
 ::combo[bg:#f0f8ff;padding:15px;border-left:4px solid #1565c0]{
@@ -460,6 +592,16 @@ scrollToTop: true
 - **காம்ய தாயக** = விரும்பியவற்றை அளிப்பவர்
 - **பாலிஸென்னானு** = காப்பாற்று (கன்னட மொழி)
 - **ஸ்ரீஹரி நமோ** = செல்வத்தின் தலைவனே, உனக்கு வணக்கம்
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - भक्तवत्सल (Bhaktavatsala) — भक्त (bhakta, past passive participle of bhaj, "to share oneself with devotion, to be devoted" — bhakta is "the devoted one, the one who has given their entire share of themselves to the deity") + वत्सल (vatsala, from vatsa, "the calf, the beloved young one" — vatsala is "tender and loving as a cow toward her newborn calf, the protective parental warmth that flows from the powerful to the vulnerable"). Together: "the one who loves his devotees with the tender, protective warmth of a parent for their young." This title reappears from Verse 3 — its second appearance here at the close of the song is not repetition but resolution: the entire stotra was framed from the beginning by this quality of his love, and it closes with it again as the final assurance.
+
+  - काम्यदायक (Kāmyadāyaka) — काम्य (kāmya, from kāma, "desire, longing, that which is most genuinely wished for" + -ya suffix forming a gerundive/adjective — kāmya is "what is worth desiring, the truly desirable thing, the cherished wish of the heart") + दायक (dāyaka, from dā, "to give, to bestow" + -ka agent suffix — dāyaka is "the permanent giver, the one whose defining role is to bestow"). Together: "the giver of what is truly desired." This also reappears from Verse 2's kamyadāyaka — its recurrence at the song's end creates a structural completion. The song opened asking who he is; it closes reasserting what he does: gives the heart's cherished wish.
+
+  - पालिसेन्नानु (Pālisennānu) — this is a **Kannada** compound, not Sanskrit: ಪಾಲಿಸು (pālisu, "to protect, to take care of, to nurture" — from the Dravidian root pāl, related to Tamil pāl, "milk, to nourish") + ಎನ್ನನು (ennanu, "me, myself" — the first-person accusative in Kannada, enna + the accusative suffix -nu). Together: "protect me!" The shift into Kannada at this point in the song is a devotional gesture — it shows that the longing for protection transcends any single language. The Sanskrit pāhi said "protect!"; the Kannada pālisennanu says "protect me!" — in both cases, first-person, direct, urgent.
+
+  - श्रीहरि नमो (Śrī Hari Namo) — श्री (Śrī, the auspicious one, Lakṣmī herself as an honorific prefix — where Śrī is, beauty, abundance, and divine grace are present) + हरि (Hari, from hṛ, "to remove, to take away, to steal the heart" — Hari is "the remover of suffering, the golden-green one") + नमो (namo, the sandhi form of namaḥ, from nam, "to bow, to bend in reverence" — namaḥ is "salutation, the act of bowing, the offering of oneself in complete reverence"). Together: "Salutation to Śrī Hari!" Namo at the close is the song's final grammatical act — having praised, described, requested, surrendered, and called out to him throughout every verse, the poet ends simply: namaḥ. The most complete thing that can be said after everything else has been said is a bow.
 }
 
 ---
@@ -485,6 +627,16 @@ scrollToTop: true
 - **ஸலஹேய விபோ** = புகழத்தக்க பெருமானே (கன்னட)
 
 இந்த வரிகள் கன்னட மொழியில், கிருஷ்ண பக்தியை தாஸ பக்தி மரபில் வெளிப்படுத்துகின்றன.
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - भक्तदास ना (Bhaktadāsa Nā) — भक्त (bhakta, "the devoted one") + दास (dāsa, from the root dās or das, "to be exhausted in service, to give oneself completely" — dāsa is "the servant, the one who has no self-will separate from the master's, the one wholly given over to another's service") + ना (nā, Kannada first-person pronoun: "I, me, myself"). Together: "I am the servant of the devotee" — a remarkable declaration of humility: the poet does not even claim to be Krishna's own servant but the servant of Krishna's devotee, placing themselves at the very bottom of the devotional hierarchy. This is the purest expression of **dāsa-bhakti** (தாஸ பக்தி — the path of servanthood) — the devotee considers themselves unworthy of direct relationship with the deity and approaches through the mediation of other devotees.
+
+  - हरसु नी सदा (Harasu Nī Sadā) — ಹರಸು (harasu, Kannada verb: "to bless, to make joyful, to cause happiness, to bestow gladness" — from a Dravidian root related to the spreading of happiness) + ನೀ (nī, Kannada second-person singular pronoun: "you, thou") + सदा (sadā, from sa- + dā, an ancient adverb meaning "always, at all times, perpetually without interruption" — shared between Sanskrit and Kannada). Together: "You bless always, you are always the source of joy." The Kannada nī placed between a Kannada verb and a Sanskrit adverb shows the naturalness with which bhakti poetry moves between languages — the grammar of devotion needs no single tongue.
+
+  - काडु निन्तेन (Kāḍu Nintena) — ಕಾಡು (kāḍu, Kannada: "harshness, roughness, intense difficulty, the forest-like wildness of trouble" — used figuratively for intense anger, suffering, or difficult circumstances) + ನಿಂತೆನ (nintena, Kannada past tense of nilt/nint, "even though I stood in / even though I remained in, even though I was in that state"). Together: "even though I stood in / remained in harshness and difficulty." This is the most theologically honest line in the entire song — the devotee does not claim to have been always faithful or peaceful. They admit: even when I was harsh, even when I was in the dark forest of my own anger and difficulty — even then, you were the same.
+
+  - सलहेय विभो (Salāheya Vibho) — ಸಲಹೆಯ (salāheya, Kannada: from salahu, "to protect, to take care of, to sustain and nurture" + the gerundive/oblique form -eya: "the protecting one, the one who nurtures") + विभो (vibho, vocative of vibhu — from vi-, "fully in all directions" + bhū, "to be, to pervade" — vibhu is "the all-pervading, the omnipotent, the one whose being fills all directions and all moments"). Together: "O all-pervading, nurturing one!" Salāheya says he protects and cares; vibho says his presence doing so is unlimited. The Kannada word for the caring action meets the Sanskrit word for the unlimited being: care without boundary, nurturing that pervades all of existence.
 }
 
 ::combo[bg:#fff0f5;color:#c71585;padding:15px]{
