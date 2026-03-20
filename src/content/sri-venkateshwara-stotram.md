@@ -2,7 +2,7 @@
 title: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத்ரம் (11 ஸ்லோகங்கள்)'
 slug: 'sri-venkateshwara-stotram'
 description: 'Sri Venkateshwara Stotram consists of 11 powerful Sanskrit verses praising Lord Venkateshwara of Tirumala. Complete explanations in Tamil with word-by-word meanings, philosophical insights, and devotional significance.'
-date: '2026-02-28'
+date: '2026-03-01'
 category: 'Devotional Literature'
 tags:
   - devotional

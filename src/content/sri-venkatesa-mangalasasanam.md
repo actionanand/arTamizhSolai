@@ -2,7 +2,7 @@
 title: 'ஸ்ரீ வேங்கடேச மங்கள சாசனம் (வரிக்கு வரி விளக்கம்)'
 slug: 'sri-venkatesa-mangalasasanam'
 description: 'Sri Venkatesa Mangalasasanam is a beautiful Sanskrit hymn of auspicious blessings (Mangalaasaasanam) composed in praise of Lord Venkateswara of Tirumala. This blog provides all 14 verses with detailed Tamil word meanings and devotional explanations.'
-date: '2026-02-28'
+date: '2026-03-03'
 category: 'Devotional Literature'
 tags:
   - tamil

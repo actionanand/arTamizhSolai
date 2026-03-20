@@ -2,7 +2,7 @@
 title: 'ஶ்ரீ வேங்கடேஶ்வர ப்ரபத்தி (வரிக்கு வரி விளக்கம்)'
 slug: 'sri-venkateshwara-prapatti'
 description: 'Sri Venkateshwara Prapatti is a profound Sanskrit hymn of complete surrender at the feet of Lord Venkateshwara. This blog provides all 16 verses with detailed Tamil explanations, word meanings, and devotional insights.'
-date: '2026-02-28'
+date: '2026-03-02'
 category: 'Devotional Literature'
 tags:
   - devotional
