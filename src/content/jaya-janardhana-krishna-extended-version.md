@@ -10,7 +10,7 @@ tags:
   - krishna
   - sanskrit
   - bhakti
-author: 'Traditional'
+author: 'Unknown'
 font: "Mukta Malar Tamil"
 toc: true
 scrollToTop: true
@@ -188,6 +188,18 @@ Nandanandana krishna rukminipathe
 | **नन्दनन्दन (Nandanandana)** | Son of Nanda | நந்த கோபரின் மகன் |
 | **रुक्मिणीपते (Rukmini Pathe)** | Lord of Rukmini | ருக்மிணியின் கணவன் |
 
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - जय (Jaya) — from the root ji ("to conquer, to be victorious, to prevail") — jaya is a verbal noun in the nominative case (முதல் வேற்றுமை, prathamā vibhakti) meaning "victory, conquest, the state of prevailing." In devotional usage it functions as an exclamation — "Victory to!" or "Hail!" — the poet's declaration that this deity has already prevailed over all that opposes the devotee. It is not a wish but an assertion: victory is his permanent nature.
+
+  - जनार्दन (Janardhana) — a **tatpuruṣa samāsa** (தத்புருஷ சமாசம்): जन (jana, "people, the common human being" — warm and inclusive) + अर्दन (ardana, from the root ard, "to trouble, to afflict, to press hard upon" — but used here causatively: "one who troubles / destroys the troubles of"). Janardhana: "the one who destroys the troubles of people." He is not addressed by a cosmic title first but by this intimate one — the remover of ordinary human suffering.
+
+  - राधिकापते (Rādhikāpate) — राधिका (Rādhikā, the diminutive-affectionate form of Rādhā — the "beloved little Rādhā," the primary devotee whose love for Krishna is the model of all bhakti) + पते (pate, vocative of pati, "lord, husband, the one who protects and governs" — from the root pā, "to protect"). The vocative -e signals direct address: "O Lord of Rādhikā!" The compound places the devotee's relationship at the very start — he is first named through love before he is named through power.
+
+  - नन्दनन्दन (Nandanandana) — नन्द (Nanda, the name of Krishna's foster father, the cowherd chief of Gokula — from nand, "to rejoice, to be delighted") + नन्दन (nandana, "the one who brings delight, the son who causes joy" — from the same root nand). Together: "the one who is the delight-son of Nanda, the joy of Nanda's heart." Nandana is specifically a son understood through the joy he brings the parent — not merely a biological offspring but the cause of the parent's greatest happiness.
+
+  - रुक्मिणीपते (Rukmīṇīpate) — रुक्मिणी (Rukmīṇī, Krishna's principal queen at Dvārakā — her name from rukma, "gold, the golden one") + पते (pate, vocative of pati, "lord, husband"). "O Lord/husband of Rukmīṇī." The pairing of Rādhikāpate and Rukmīṇīpate in the same verse is a theological statement — Rādhā represents the love of Vrindāvan (pure, selfless, beyond all social form); Rukmīṇī represents the love of Dvārakā (devoted, chosen, expressed through the fullness of dharmic relationship). He is lord of both — transcendent love and expressed love.
+
 **English Translation:**
 Victory to Janardhana Krishna, Lord of Radhika! Son of Nanda, Lord of Rukmini!
 
@@ -212,6 +224,16 @@ Victory to Janardhana Krishna, Lord of Radhika! Son of Nanda, Lord of Rukmini!
 | **शरणु मोहन (Sharanu Mohana)** | Enchanter of those who surrender | சரணடைபவரை மயக்குபவர் |
 | **प्रभो (Prabho)** | O Lord | ப்ரபுவே |
 | **सत्गते (Sathgathe)** | In good state/refuge | நல்ல நிலையில், நல்வழியில் |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - गरुड वाहन (Garuḍa Vāhana) — गरुड (Garuḍa, the divine eagle-king, the vehicle of Viṣṇu — his name from garuḍ, "the devourer, the one who swallows the serpents of ignorance and time") + वाहन (vāhana, from vah, "to carry, to bear, to convey" — vāhana is "the vehicle, the mount"). In Sanskrit iconography, each deity's vāhana is not merely transport but a philosophical symbol — Garuḍa represents the speed of the mind, the power of prāṇa (vital breath), and the liberation from the serpent of ego. He who rides Garuḍa is lord of all these.
+
+  - गोपिकापते (Gopikāpate) — गोपिका (gopikā, from go, "cow" + the feminine suffix -ikā — gopikā is "the female cowherd, the women of Vrindāvan who tended the cows and who loved Krishna with absolute abandon") + पते (pate, vocative of pati). "O Lord of the Gopikās!" The Gopikās represent the pinnacle of bhakti — their love was so total that they abandoned all social obligation at the sound of his flute. To call him Gopikāpate is to invoke that quality of love that transcends every boundary.
+
+  - शरणु मोहन (Śaraṇu Mohana) — शरणु (śaraṇu, a variant form of śaraṇa — "refuge, shelter, the one who gives protection" — here used as an adjective: "the refuge-giving, the sheltering one") + मोहन (mohana, from muh, "to enchant, to bewitch, to cause the mind to stop in fascination"). Together: "the enchanting one who gives refuge" — or, read the other way, "the one who enchants those who take refuge." Both readings are true: he draws the devotee with his enchanting beauty, and once they surrender, he becomes their refuge. The draw and the shelter are the same person.
+
+  - सत्गते (Satgate) — सत् (sat, from the root as, "to be, to exist truly" — sat is "truth, the truly existent, the real, the good") + गते (gate, locative/dative of gati, from gam, "to go, to move, to attain a state" — gati is "movement, destination, the final state one reaches, refuge, the ultimate goal"). Together: "the one in whom good refuge / true destination is found" — or "the one who is the true and righteous path." Sattgathe is the resting point of the whole pallavi: after joy (jaya), after removal of suffering (janardhana), after love (rādhikāpate, gopikāpate), after enchantment (mohana) — at the end of all of it, he is sat-gati: the true destination itself.
 
 **English Translation:**
 Krishna mounted on Garuda, Lord of Gopis! Enchanter of those who surrender, O Lord of righteous refuge!
@@ -241,6 +263,16 @@ Krishna mounted on Garuda, Lord of Gopis! Enchanter of those who surrender, O Lo
 | **तनुज नाशन (Thanuja Nashana)** = தனு (உடல்) + ஜ (பிறந்தவன்) + நாசன (அழிப்பவர்) | Destroyer of demons born from body | உடலில் பிறந்த அசுரர்களை அழிப்பவர் |
 | **हरे मुरारे (Hare Murare)** | O Hari, O slayer of Mura | ஹரியே, முர அசுரன் அழிப்பவனே |
 
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - नील मोहन (Nīla Mohana) — नील (nīla, "blue, the deep blue of the sky and the ocean" — the colour of infinite depth, of that which cannot be measured, of consciousness itself) + मोहन (mohana, "the enchanting, the mind-captivating" — from muh). Krishna's blue is not incidental — nīla is the colour of the infinite sky and the limitless ocean; to call him nīla-mohana is to say his enchantment is as vast and immeasurable as the sky. He does not enchant with a limited charm but with the pull of the infinite itself.
+
+  - सुन्दराकृते (Sundarākṛte) — सुन्दर (sundara, "beautiful, pleasing in the fullest sense") + आकृते (ākṛte, from ā + kṛ, "to make, to form" — ākṛti is "the form, the shape, the outer appearance as a made thing"). The -e ending is the dative/vocative case (நான்காம் வேற்றுமை, caturthī / sambodhana). Together: "O one of beautiful form!" The word ākṛti specifically means form as something deliberately made — his beautiful form is not accidental but divinely fashioned, as a sculptor makes a masterwork.
+
+  - तनुज नाशन (Tanuja Nāśana) — तनु (tanu, "the body, the physical form, the subtle embodiment") + ज (ja, from jan, "born of, arising from") = tanuja: "born of the body, born of physical existence" — referring to the demons (asuras) who arose from the ego of physical existence; नाशन (nāśana, from naś, "to perish" used causatively — nāśana is "the destroyer, the one who causes perishing"). Together: "the destroyer of those born of bodily/demonic existence." The phrase is a sophisticated way of naming the asuras — they are defined not by their names but by their origin in the distorted ego of embodied existence.
+
+  - हरे मुरारे (Hare Murāre) — हरे (hare, vocative of hari — "O Hari! O the golden-green one! O the remover!" — from hṛ, "to take away, to remove, to steal away the heart") + मुरारे (murāre, vocative of murāri — मुर (Mura, the demon of ego and binding illusion) + अरि (ari, "enemy, the one who opposes") — Murāri: "the enemy and destroyer of Mura." Both are vocatives — direct calls to the deity. Hare calls him by his nature (the remover); Murāre calls him by his deed (the slayer of Mura). Together they form a double address: what he is and what he has done.
+
 **English Translation:**
 Blue-hued enchanting Krishna of beautiful form! O destroyer of embodied demons, O Hari, O slayer of Mura!
 
@@ -266,6 +298,16 @@ Blue-hued enchanting Krishna of beautiful form! O destroyer of embodied demons, 
 | **गुरो (Guro)** | O Guru | குருவே |
 | **जगन्नायक (Jagannayaka)** = जगत् (Jagat - world) + नायक (Nayaka - leader) | Lord of the Universe | உலக நாயகன் |
 
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - द्वारकापते (Dvārakāpate) — द्वारका (Dvārakā, "the city of gates" — from dvāra, "gate, door" — the legendary golden city Krishna built in the sea, with its many gates symbolising the many entrances to liberation) + पते (pate, vocative of pati, "lord, the one who governs and protects"). "O Lord of Dvārakā!" Dvārakā was Krishna's kingdom as an adult — the city he built for his people after defeating Kaṃsa, representing the fullness of his royal, protective aspect.
+
+  - यादवोन्नत (Yādavonnata) — यादव (yādava, "of the Yādava clan" — descendants of Yadu, one of the great lunar dynasty lineages of ancient India) + उन्नत (unnata, from ud- + nam, "to rise, to be elevated above" — unnata means "elevated, exalted, the one standing highest among"). Together: "the most exalted one among the Yādavas." He was born into this clan but transcends it — like a mountain peak that belongs to a range yet rises above all the others.
+
+  - वैष्णवकृते (Vaiṣṇavakṛte) — वैष्णव (vaiṣṇava, "of or belonging to Viṣṇu, pertaining to the Vaiṣṇava tradition" — the adjective form of Viṣṇu) + कृते (kṛte, from kṛ, "to make, to do, to create" — kṛta as a suffix means "made of, having the form of, fashioned as"). Together: "one who is made of / has the form of Vaiṣṇava nature" — he is not merely worshipped by Vaiṣṇavas; he is the very embodiment of what Vaiṣṇava means.
+
+  - जगन्नायक (Jagannāyaka) — जगत् (jagat, from the root gam, "to go, to be in constant motion" — jagat is "the world, the moving universe, all that is in constant change and flow") + नायक (nāyaka, from nī, "to lead, to guide, to carry forward" — nāyaka is "the leader, the one who guides"). Together: "the leader and guide of the moving universe." Jagannāyaka is distinct from jagannātha (lord of the world) — nātha rules by sovereignty; nāyaka leads by going before and showing the path.
+
 **English Translation:**
 Lord of Dwaraka Krishna, exalted among Yadavas! Of Vaishnava form, O Guru, Lord of the Universe!
 
@@ -290,6 +332,16 @@ Lord of Dwaraka Krishna, exalted among Yadavas! Of Vaishnava form, O Guru, Lord 
 | **चाणूरान्तक (Chanuranthaka)** = चाणूर (Chanura) + अन्तक (Anthaka - destroyer) | Slayer of Chanura | சாணூரனை அழித்தவர் |
 | **दीन रक्षक (Deena Rakshaka)** | Protector of the humble | ஏழைகளின் காவலர் |
 
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - गुरुवायुरप्पा (Guruvāyurappā) — गुरुवायुर् (Guruvāyur, the sacred temple town in Kerala — from guru, "the heavy, the weighty teacher" + vāyu, "wind, the vital breath" + ūr, "town, settlement" — literally "the town of the guru-wind," where Vāyu and Bṛhaspati are said to have installed the deity) + अप्पा (appā, from Tamil/Malayalam appā — "father, my father, the intimate parental address"). The joining of Sanskrit Guruvāyur with the intimate Tamil appā is itself a devotional act — the great cosmic deity of the ancient shrine is also "my father," personally mine.
+
+  - विश्वनायक (Viśvanāyaka) — विश्व (viśva, from viś, "to pervade, to enter everywhere without remainder" — viśva is "the all, the complete universe, everything that exists") + नायक (nāyaka, "the leader, the guide"). Compare with jagannāyaka two lines earlier — jagat is the moving, changing world; viśva is the all-inclusive totality. Viśvanāyaka therefore leads not just the world in motion but the entire complete universe in its fullness.
+
+  - चाणूरान्तक (Cāṇūrāntaka) — चाणूर (Cāṇūra, the name of the great wrestler sent by Kaṃsa to kill the young Krishna — his name suggests extraordinary bodily strength) + अन्तक (antaka, from anta, "end, conclusion, death" + -ka suffix — antaka is "the ender, the one who brings to an end, the death-bringer"). Together: "the one who brought Cāṇūra to his end." The use of antaka rather than nāśaka (destroyer) is precise — antaka carries the finality of conclusion, not just destruction. Krishna did not merely defeat Cāṇūra; he ended him.
+
+  - दीन रक्षक (Dīna Rakṣaka) — दीन (dīna, from the root dī, "to waste away, to be diminished" — dīna is "the humble, the lowly, the one who has been reduced by poverty, suffering, or helplessness") + रक्षक (rakṣaka, from rakṣ, "to protect, to guard" — rakṣaka is "the protector, the guardian, the one whose nature is to protect"). Together: "the protector of the humble and the helpless." Dīna-rakṣaka is one of Krishna's most beloved titles — it says his protection is specifically directed toward those the world overlooks. His power flows downward, toward the least.
+
 **English Translation:**
 Lord of Guruvayur, O Lord, Leader of the Universe! Slayer of Chanura, O Hari, protector of the humble!
 
@@ -313,6 +365,16 @@ Lord of Guruvayur, O Lord, Leader of the Universe! Slayer of Chanura, O Hari, pr
 | **कंसनाशक (Kamsanasaka)** = कंस (Kamsa) + नाशक (destroyer) | Slayer of Kamsa | கம்சனை அழித்தவர் |
 | **कमललोचन (Kamalalochana)** = कमल (Kamala - lotus) + लोचन (eyes) | Lotus-eyed | தாமரைக் கண்ணன் |
 | **पापमोचन (Papamochana)** = पाप (Papa - sin) + मोचन (liberator) | Liberator from sins | பாவங்களை நீக்குபவர் |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - दुर्मदान्तक (Durmadāntaka) — दुर् (dur-, a prefix meaning "bad, wrong, distorted, that which has gone in the wrong direction") + मद (mada, from mad, "to be intoxicated, to be drunk with pride, to be swollen with conceit" — mada is "intoxication, pride, arrogance, the delusion of self-importance") = durmada: "evil pride, the toxic arrogance that destroys its bearer"; + अन्तक (antaka, "the ender, the one who brings to conclusion"). Together: "the ender of evil pride." Durmada is a specific kind of pride — not healthy confidence but the intoxicated, bloated self-importance that makes a person dangerous to others and destructive to themselves. He ends this at its root.
+
+  - कंसनाशक (Kaṃsanāśaka) — कंस (Kaṃsa, the tyrannical king of Mathurā, Krishna's maternal uncle who imprisoned his own sister Devakī and slaughtered her children in fear of prophecy — Kaṃsa represents political tyranny, fear-driven cruelty, and the ego that destroys what it loves most) + नाशक (nāśaka, from naś with causative suffix — "the destroyer, the one who causes complete annihilation"). Together: "the destroyer of Kaṃsa." The significance is not merely biographical — Kaṃsa represents any tyrannical force, internal or external, that imprisons the soul out of fear.
+
+  - कमललोचन (Kamalalōcana) — कमल (kamala, "the lotus flower" — from kam, "to desire, to be beautiful" — kamala is beautiful precisely because it rises from mud yet remains unstained, the symbol of spiritual purity in the world) + लोचन (locana, from the root loc, "to see, to perceive clearly" — locana is "the eye, the organ of clear seeing"). Together: "the lotus-eyed one." His eyes are compared to the lotus not merely for shape but for quality — the lotus opens toward light, floats on water without being wet, and sees the world without being stained by it. His gaze has all these qualities: open, luminous, and unstained.
+
+  - पापमोचन (Pāpamocana) — पाप (pāpa, "sin, wrongdoing, that which weighs one down" — from a root meaning "bad, evil, the opposite of puṇya") + मोचन (mocana, from the root muc, "to release, to let go, to set free" — mocana is "the releasing, the setting free, liberation from bondage"). Together: "the liberator from sin." Mocana is importantly different from nāśana (destruction) — sin is not destroyed but released, like a knot that is untied. The devotee is not punished or annihilated but freed.
 
 **English Translation:**
 Destroyer of evil pride Krishna, slayer of Kamsa! Lotus-eyed Krishna, liberator from sins!
@@ -342,6 +404,16 @@ Destroyer of evil pride Krishna, slayer of Kamsa! Lotus-eyed Krishna, liberator 
 | **मुरली मोहन (Murali Mohana)** = मुरली (flute) + मोहन (enchanter) | Enchanter with flute | புல்லாங்குழலால் மயக்குபவர் |
 | **घन घन (Ghana Ghana)** | Dark as rain clouds | மேக நிறம் கொண்டவர் |
 
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - सुधा चन्दन (Sudhā Candana) — सुधा (sudhā, from su-, "well, excellent" + dhā from dhā, "to place, to hold" — sudhā is "the nectar of immortality, amṛta, that which perfectly nourishes and sustains" — also "whitewash, pure white lime, the perfectly white") + चन्दन (candana, "sandalwood" — from cand, "to shine, to glow" — candana is the fragrant wood whose paste cools the body and mind, used in worship as the offering of purity and cooling grace). Together: "pure as nectar and sandalwood" — the simile layers two kinds of purity: sudhā is the purity that nourishes from within; candana is the purity that cools and purifies from without.
+
+  - शेष वाहन (Śeṣa Vāhana) — शेष (Śeṣa, "the remainder, the residual" — Śeṣa is the cosmic serpent who remains after each dissolution of the universe, carrying all the seeds of future creation in his thousand hoods — he is both the bed and the canopy of Viṣṇu in his cosmic rest) + वाहन (vāhana, "vehicle, mount, the one who carries"). Together: "the one who rests upon / is carried by Śeṣa." In cosmic iconography Viṣṇu / Krishna reclines on Śeṣa in the primordial ocean between creations — it is the image of divine rest from which all creation will again emerge.
+
+  - मुरली मोहन (Muralī Mohana) — मुरली (muralī, "the flute, the bamboo flute" — from mur, possibly related to the sound the instrument makes; the flute is hollow — it makes music only by becoming empty of itself, the perfect symbol of the ego-less devotee) + मोहन (mohana, "the enchanter, the fascinator"). Together: "the enchanter through the flute." The flute's symbolism is layered: it is hollow (like the emptied ego), it is made of bamboo (a plant that is rooted yet flexible), and its sound travels far beyond where the player stands. His enchantment through the flute is a teaching as much as it is music.
+
+  - घन घन (Ghana Ghana) — घन (ghana, from han, "to strike" — ghana means "dense, thick, compact, the rain-cloud heavy with water" — also, by the striking of the drum, "the sound of thunder"). The repetition घन घन is an āmreḍita (ஆம்ரேடிதம் — the Sanskrit device of doubling a word to intensify it): "dense dense, cloud-dark cloud-dark." The double ghana evokes not just colour but the very quality of the rain cloud — its density, its promise of abundant downpour, the rumbling depth of its presence. His darkness is not absence of light but the dense fullness of the monsoon sky.
+
 **English Translation:**
 Pure as sandalwood Krishna, reclining on Shesha! Enchanter with the flute Krishna, O dark-hued as rain clouds!
 
@@ -365,6 +437,16 @@ Pure as sandalwood Krishna, reclining on Shesha! Enchanter with the flute Krishn
 | **सत्य जीवन (Satya Jeevana)** = सत्य (Satya - truth) + जीवन (life) | True life, embodiment of truth | சத்திய உயிர் |
 | **परम पावन (Parama Pavana)** = परम (Parama - supreme) + पावन (pure) | Supremely pure | மிகத் தூய்மையானவர் |
 | **पद्म लोचन (Padma Lochana)** = पद्म (Padma - lotus) + लोचन (eyes) | Lotus-eyed | தாமரைக் கண்ணன் |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - पूतनान्तक (Pūtanāntaka) — पूतना (Pūtanā, the demoness sent by Kaṃsa to poison the infant Krishna by offering her poisoned breast — her name from pūta, "putrid, foul-smelling," and nā, feminine suffix — she represents the false nourisher, the one who appears to give life but gives death) + अन्तक (antaka, "the ender, the one who brings to conclusion"). The theological depth here is extraordinary: the infant Krishna did not merely survive Pūtanā — he drew out her poison along with her life, and tradition says she attained liberation because Krishna's mouth touched her. He ended her evil and freed her soul simultaneously.
+
+  - सत्य जीवन (Satya Jīvana) — सत्य (satya, from sat + the suffix -ya — sat is "that which truly exists, the real, the true" — satya is "truth itself, the quality of being in accordance with what truly is") + जीवन (jīvana, from the root jīv, "to live, to be alive" — jīvana is "life, the life-breath, the animating force of existence"). Together: "truth as life, the one whose life is truth" — or "the life that is truth itself." He does not merely speak truth; his very existence is satya, his very living is jīvana — the two are fused.
+
+  - परम पावन (Parama Pāvana) — परम (parama, superlative of para, "beyond, the farthest, the highest" — parama means "the supreme, the uttermost, that which exceeds all comparison") + पावन (pāvana, from the root pū, "to purify, to cleanse" with the causative suffix -ana — pāvana is "the purifier, the one who purifies by contact, whose very presence cleanses"). Together: "the supremely pure purifier." The compound moves in two directions: he is himself supremely pure (parama pāvana as adjective) and he purifies supremely (parama pāvana as agent). The two meanings are inseparable.
+
+  - पद्म लोचन (Padma Locana) — पद्म (padma, "the lotus" — padma specifically refers to the pink/red lotus, symbol of beauty, spiritual awakening, and the pure heart that blooms in the world without being sullied by it — padma is also associated with Lakṣmī, goddess of abundance) + लोचन (locana, "the eye, the organ of seeing clearly"). Compare with kamalalōcana in Verse 1 — kamala and padma both mean lotus but have subtly different tones: kamala emphasises beauty and desire; padma emphasises sacredness and the awakened heart. His eyes are compared to padma — they see the world with the clarity and purity of the fully awakened lotus.
 
 **English Translation:**
 Slayer of Puthana Krishna, embodiment of truth and life! Supremely pure Krishna, lotus-eyed one!
@@ -390,6 +472,16 @@ Slayer of Puthana Krishna, embodiment of truth and life! Supremely pure Krishna,
 | **जनावन (Janavana)** = जन (people) + आवन (protector) | Protector of people | மக்களைக் காப்பவர் |
 | **श्री जनार्दन (Shree Janardhana)** | Glorious reliever of suffering | ஸ்ரீ ஜனார்த்தன |
 
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - भक्त तोषण (Bhakta Toṣaṇa) — भक्त (bhakta, past passive participle of bhaj, "to divide, to share, to be devoted" — bhakta is "the devoted one, the one who has given their entire share of themselves to the deity") + तोषण (toṣaṇa, from the root tuṣ, "to be pleased, to be satisfied, to feel contentment" — toṣaṇa is "the pleasing, the satisfying, the act of making content"). Together: "the one who pleases and satisfies his devotees." The direction of the giving is important — it is he who pleases them, not the other way. The devotee gives devotion; he gives satisfaction in return. The exchange is equal and loving.
+
+  - दैत्य शोषण (Daitya Śoṣaṇa) — दैत्य (daitya, "the sons of Diti" — Diti is the mother of the asuras in Vedic mythology; daitya means "born of Diti, the demon class, those who oppose the devas and the order of dharma") + शोषण (śoṣaṇa, from the root śuṣ, "to dry up, to drain, to wither" — śoṣaṇa is "the drying up, the draining of power from, the withering away of"). Together: "the one who dries up and drains the power of the daityas." Śoṣaṇa is more subtle than nāśana (destruction) — he does not always destroy the asuras outright; often he drains them of their power, their arrogance, their substance, leaving them unable to continue.
+
+  - जनावन (Janāvana) — जन (jana, "people, the human being, the community of persons") + आवन (āvana, from ā + van, "to protect, to shelter, to cover and guard" — āvana is "the protecting, the sheltering, the guardian action"). Together: "the protector of the people." While dīna-rakṣaka (Verse 1) specifically protected the humble and lowly, janāvana is broader — it protects jana, all people, the entire human community without discrimination of status.
+
+  - श्री जनार्दन (Śrī Janārdana) — श्री (Śrī, the auspicious one, the one in whom Lakṣmī — abundance, beauty, and divine grace — permanently resides; Śrī as a prefix elevates everything it precedes to the most exalted level) + जनार्दन (Janārdana, as explained in the pallavi — "the remover of the people's suffering"). The addition of Śrī before Janārdana is not mere formality — it declares that his removal of suffering is not just a deed but an expression of his glorious nature. He removes suffering because Śrī, divine grace and abundance, flows through him toward all people.
+
 **English Translation:**
 Pleaser of devotees Krishna, destroyer of demons! O protector of people Krishna, glorious Janardhana!
 
@@ -413,6 +505,16 @@ Pleaser of devotees Krishna, destroyer of demons! O protector of people Krishna,
 | **शिष्ट रक्षण (Shishta Rakshana)** = शिष्ट (righteous) + रक्षण (protector) | Protector of righteous | நல்லோரைக் காப்பவர் |
 | **सर्व कारण (Sarva Karana)** = सर्व (all) + कारण (cause) | Cause of all | எல்லாவற்றிற்கும் காரணம் |
 | **साधु पोषण (Sadhu Poshana)** = साधु (saint) + पोषण (nourisher) | Nourisher of saints | ஸாதுக்களை வளர்ப்பவர் |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - दुष्ट शिक्षण (Duṣṭa Śikṣaṇa) — दुष्ट (duṣṭa, past passive participle of duṣ, "to be corrupted, to be spoiled, to turn bad" — duṣṭa is "the wicked, the corrupted, the one who has gone morally wrong") + शिक्षण (śikṣaṇa, from the root śikṣ, "to learn, to teach, to discipline" — śikṣaṇa is "the disciplining, the correction, the teaching by consequence"). Together: "the discipliner of the wicked." Śikṣaṇa is a more nuanced word than punishment — it carries the sense of correction and teaching. Even in punishing the wicked, he is teaching — every consequence he delivers is a lesson embedded in it.
+
+  - शिष्ट रक्षण (Śiṣṭa Rakṣaṇa) — शिष्ट (śiṣṭa, past passive participle of śās, "to teach, to govern, to instruct" — śiṣṭa is "the instructed one, the well-disciplined, the righteous person who has internalised right conduct") + रक्षण (rakṣaṇa, from rakṣ, "to protect" — rakṣaṇa is "the act of protecting, the protection"). The pairing of duṣṭa-śikṣaṇa and śiṣṭa-rakṣaṇa is the Bhagavad Gītā's promise made into a devotional couplet — "paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām" (for the protection of the good and the destruction of the wicked — BG 4.8). The song compresses the entire theology of divine intervention into two paired compounds.
+
+  - सर्व कारण (Sarva Kāraṇa) — सर्व (sarva, "all, every, the complete totality") + कारण (kāraṇa, from the root kṛ, "to do, to make, to cause" — kāraṇa is "the cause, the reason, the originating principle, that from which something arises"). Together: "the cause of all, the originating principle of everything that exists." This is one of the most philosophically profound titles in the song — sarva-kāraṇa says he is not one cause among many but the cause behind all causes. Every event, every existence, every moment traces back to him as its ultimate originating principle.
+
+  - साधु पोषण (Sādhu Poṣaṇa) — साधु (sādhu, from sādh, "to go straight to the goal, to accomplish rightly" — sādhu is "the good person, the saint, the one who walks straight on the path of dharma") + पोषण (poṣaṇa, from the root puṣ, "to nourish, to make thrive, to cause to flourish" — poṣaṇa is "the nourishing, the nurturing, the causing to grow and flourish"). Together: "the nourisher of the righteous." Where rakṣaṇa protects, poṣaṇa nourishes — he does not merely keep the sādhus safe but actively causes them to grow, to flourish, to become more than they were.
 
 **English Translation:**
 Punisher of wicked Krishna, protector of righteous! Cause of all Krishna, nourisher of saints!
@@ -443,6 +545,18 @@ Punisher of wicked Krishna, protector of righteous! Cause of all Krishna, nouris
 | **मुकुन्द (Mukunda)** | Giver of liberation | மோட்சம் அளிப்பவன் |
 | **गोविन्द (Govinda)** | Protector of cows, finder of Vedas | பசுக்களைக் காப்பவன், வேதங்களைக் கண்டவன் |
 
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - पाहि (Pāhi) — the second-person singular imperative of the root pā ("to protect, to guard, to nourish, to preserve from harm") — pāhi means "protect! guard! save me!" It is a **laṭ-lōṭ** (லோட் லகார — imperative mood, ājna-artha, ஆஜ்ஞார்த்தம்) form, the mood of direct command and urgent request. The entire third verse is built on the repetition of this single imperative — pāhi appears no fewer than ten times. In Sanskrit devotional poetry, the repetition of an imperative is the device of urgency — the āmreḍita of command. Each repetition does not add desperation but deepens sincerity: I ask again not because you did not hear but because I mean it more completely each time.
+
+  - केशव (Keśava) — from keśa ("hair, the beautiful locks") + the suffix -va, or alternatively from Ka (Brahmā) + Īśa (Śiva) + va (he who) — "the one who governs both Brahmā and Śiva." The popular etymology is from Keśin, the horse-demon Krishna slew — Keśava: "the slayer of Keśin." All three readings coexist: the beautiful-haired one, the supreme lord of the trinity, the slayer of the ego-demon. In the vocative (sambodhana, sambodhana vibhakti, விளி வேற்றுமை), Keśava becomes "O Keśava!" — a direct personal call.
+
+  - माधव (Mādhava) — from Madhu (the demon Madhu, whom Viṣṇu slew) + ava (suffix of lordship) — "the slayer of Madhu"; or from Madhū (the spring season, sweetness) + va — "the lord of sweetness and spring"; or from Mādhavī (Lakṣmī's name meaning "of the Mādhava dynasty") + va — "husband of Mādhavī, lord of Lakṣmī." The richest reading holds all three: he who destroys what intoxicates and deludes (Madhu the demon), he who brings the sweetness of spring and grace, and he in whom Lakṣmī permanently dwells.
+
+  - मुकुन्द (Mukunda) — from the root muc ("to release, to liberate, to set free") + the suffix -unda or from mukti ("liberation") + da ("the giver") — Mukunda: "the giver of mukti (liberation)." In a song filled with names celebrating his power, his beauty, and his protective deeds, Mukunda is the most theologically ultimate — he gives not temporary relief or worldly boons but mukti itself, the final freedom from the cycle of birth and death.
+
+  - गोविन्द (Govinda) — गो (go, "cow, the earth, the Vedic word for divine knowledge") + विन्द (vinda, from vid, "to find, to know, to discover") — Govinda: "the finder of the cows (rescuer of the divine knowledge / the earth), the one who recovered the Vedas." Also popularly: "the one who gives joy to the cows and cowherds, the beloved of Gokula." The title spans his cosmic deed (recovering sacred knowledge) and his intimate pastoral identity (the cowherd beloved).
+
 **English Translation:**
 Protect me Keshava, O Lord, protect me Madhava! Protect me Mukunda Krishna, protect me Govinda!
 
@@ -466,6 +580,16 @@ Protect me Keshava, O Lord, protect me Madhava! Protect me Mukunda Krishna, prot
 | **महेश (Mahesha)** = महा (Maha - great) + ईश (lord) | Great Lord | மகேஷ்வரன் |
 | **श्री विष्णु (Shree Vishnu)** | Glorious Vishnu | ஸ்ரீ விஷ்ணு |
 | **वैकुन्त (Vaikunta)** | Lord of Vaikuntha | வைகுந்தத்தின் அதிபதி |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - सुरेश (Sureśa) — सुर (sura, "the divine, the luminous ones, the gods" — from the root svar, "to shine, to sound" — sura are those who shine with divine light) + ईश (īśa, from iś, "to rule, to be master" — īśa is "the lord, the master, the one with sovereign power"). Together: "the lord of the divine beings, the sovereign of the gods." This title places him above the entire divine hierarchy — he is not one deity among many but the lord of all the other devas.
+
+  - महेश (Maheśa) — महा (mahā, "the great, the vast, beyond ordinary measure") + ईश (īśa, "the lord"). Together: "the Great Lord, the supreme sovereign." Maheśa is also one of Śiva's titles — its use here for Krishna is a deliberate theological statement: he encompasses what Śiva represents as well. He is not in opposition to Maheśvara but inclusive of the quality of mahā-lordship that the name represents.
+
+  - श्री विष्णु (Śrī Viṣṇu) — श्री (Śrī, the auspicious divine presence, Lakṣmī herself as a prefix — where Śrī is, abundance, beauty, and grace are) + विष्णु (Viṣṇu, from viṣ, "to pervade, to enter everywhere" — Viṣṇu is "the all-pervading one, the one who is present in every atom of existence without exception"). Together: "the glorious all-pervading one." The Śrī prefix does not merely honor Viṣṇu — it declares that his all-pervasiveness is itself auspicious, itself grace. He pervades not as an empty presence but as a grace-filled one.
+
+  - वैकुन्त (Vaikuṇṭha) — from vi- (prefix of completeness) + kuṇṭha ("dullness, obstruction, the state of being blocked or limited") — Vaikuṇṭha: "the one in whom there is no kuṇṭha (no obstruction, no limitation, no dulling of consciousness)" and also the name of his transcendent abode. To call him Vaikuṇṭha is to call him "the limitless one" and simultaneously to invoke his eternal home — the realm beyond birth and death where liberated souls dwell with him. The word itself is a promise of the destination.
 
 **English Translation:**
 Protect me Suresha Krishna, protect me Mahesha! Protect me Shree Vishnu Krishna, protect me Vaikunta!
@@ -492,6 +616,18 @@ Protect me Suresha Krishna, protect me Mahesha! Protect me Shree Vishnu Krishna,
 | **रक्षमाम् (Rakshamam)** = रक्ष (protect) + माम् (me) | Protect me | என்னைக் காப்பாற்று |
 | **विभो (Vibho)** | O Lord, O Mighty One | வல்லமை மிக்கவனே |
 
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - परेश (Pareśa) — पर (para, "beyond, the farther side, the supreme, that which exceeds all limits") + ईश (īśa, "the lord"). Together: "the lord who is beyond, the supreme lord who transcends even the highest categories." Para means not just "great" but "beyond the beyond" — pareśa is the lord who stands on the farther side of every concept of lordship we can form. He exceeds our highest idea of what a lord is.
+
+  - पाहिमाम् (Pāhimām) — पाहि (pāhi, imperative "protect!") + माम् (mām, accusative of the first-person singular pronoun aham — "me, myself"). The addition of mām makes the plea suddenly and completely personal. Earlier pāhi was directed at the deity by name; now the devotee steps into the prayer as its object: pāhimām — "protect me — this specific person, this vulnerable 'me' standing before you." It is one of the most intimate grammatical moves in devotional Sanskrit — the accusative mām places the self completely in the hands of the deity.
+
+  - पावन (Pāvana) — from the root pū ("to purify, to cleanse, the wind that carries away impurity" — pāvana is both "the wind" and "the purifier"). The wind purifies by moving — it carries away stagnation, impurity, and the old. To call him pāvana is to say his very presence moves through the devotee like a wind, carrying away every impurity without the devotee needing to do anything other than receive him.
+
+  - विभो (Vibho) — vocative of vibhu, from vi- (intensifier, "in all directions fully") + bhū ("to be, to pervade") — vibhu is "the all-pervading, the omnipotent, the one whose being fills all directions." In the vocative: "O Vibhu! O all-pervading, all-powerful one!" Used alongside mām (the small, vulnerable "me"), Vibho creates a powerful contrast: the infinitely vast addresses the infinitely small; the all-pervading bends toward the one individual asking for shelter.
+
+  - रक्षमाम् (Rakṣamām) — रक्ष (rakṣa, imperative of rakṣ, "protect! guard!") + माम् (mām, "me"). The same grammatical structure as pāhimām — the imperative of protection joined to the accusative of the self. The song uses two different imperatives: pāhi (from pā — nourishing, sustaining protection) and rakṣa (from rakṣ — guarding, shielding protection). Together they ask for both kinds of divine care: sustain me and shield me.
+
 **English Translation:**
 Protect me Paresha Krishna, protect me O Lord! Protect me Pavana Krishna, save me O Mighty One!
 
@@ -513,6 +649,14 @@ Protect me Paresha Krishna, protect me O Lord! Protect me Pavana Krishna, save m
 |----------|---------|-------|
 | **श्रीधर (Sreedhara)** = श्री (Shree - Lakshmi) + धर (Dhara - bearer) | Bearer of Lakshmi | லக்ஷ்மியை ஏந்துபவன் |
 | **गुरुवायुर्पते (Guruvayur Pathe)** | Lord of Guruvayur | குருவாயூரின் அதிபதி |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - श्रीधर (Śrīdhara) — श्री (Śrī, Lakṣmī herself — goddess of beauty, abundance, and divine grace) + धर (dhara, from the root dhṛ, "to hold, to bear, to carry, to sustain" — dhara is "the bearer, the one who holds and sustains"). Together: "the bearer / sustainer of Śrī (Lakṣmī)." This title says something more than that Lakṣmī dwells with him — dhara implies he actively holds and sustains her. The relationship is not passive co-residence but active, sustaining embrace. Where he is, Śrī is held secure — and therefore where his devotees are, abundance and grace are held secure.
+
+  - गुरुवायुर्पते (Guruvāyurpate) — गुरुवायुर् (Guruvāyur, the celebrated temple town in Kerala — as explained in the Harivārāsanam commentary: guru, the weighty teacher + vāyu, the vital wind/breath + ūr, the town) + पते (pate, vocative of pati, "O lord! O master!"). Together: "O Lord of Guruvāyur!" This is the song's most geographically specific title — and its placement at the very end of Verse 3, the verse of protection, is deliberate. After invoking all the cosmic, transcendent, and universal names (Sureśa, Viṣṇu, Vaikuṇṭha, Pareśa, Vibhu), the verse ends by naming the specific, local, accessible deity — the Krishna who stands in the Guruvāyur temple, available to any devotee who arrives at those gates. The universal becomes local; the infinite becomes approachable.
+
+  - The grammatical structure of the entire Verse 3 — **pāhi + [divine name] + (pāhimām / rakṣamām)** — is a **litany** (stava-rūpa, ஸ்தவ ரூபம்), a form of devotional poetry where the repetition of the same grammatical frame with changing names creates cumulative intensity. Each pāhi is not a new request but the same request deepened — "I am still asking, still here, still yours." The verse does not escalate in desperation but in surrender, ending not with the most cosmic name but with the most intimate one: Guruvāyurpate.
 
 **English Translation:**
 Protect me Sreedhara Krishna, protect me O Lord! Lord of Guruvayur Krishna, protect me O Mighty One!
@@ -542,6 +686,16 @@ Protect me Sreedhara Krishna, protect me O Lord! Lord of Guruvayur Krishna, prot
 | **अघमेश्वर (Aghameshwara)** = अघम (Agha - sin) + ईश्वर (destroyer) | Destroyer of sins | பாவங்களை அழிப்பவன் |
 | **वेद गोचर (Veda Gochara)** = वेद (Veda) + गोचर (accessible) | Accessible through Vedas | வேதங்களில் அறியக்கூடியவன் |
 
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - यादवेश्वर (Yādaveśvara) — यादव (yādava, "of the Yādava clan, descended from Yadu" — Yadu was a great king of the lunar dynasty; his descendants the Yādavas were Krishna's own people, his kin and his community) + ईश्वर (īśvara, from iś, "to rule, to have sovereign power" — īśvara is "the lord, the sovereign, the one who has complete mastery"). Together: "the sovereign lord of the Yādavas." The title roots him in his human family and clan — he is not an abstract cosmic force but the lord of a specific, named people who were his own kin.
+
+  - गोकुलेश्वर (Gokulēśvara) — गोकुल (Gokula, "the community of cows" — go, "cow" + kula, "community, family, group" — Gokula was the pastoral settlement of cowherds where Krishna spent his childhood, the place of his most intimate divine play) + ईश्वर (īśvara, "the lord"). Together: "the lord of Gokula." If Yādaveśvara named him by his clan, Gokulēśvara names him by his childhood home — the most tender and beloved chapter of his story. The compound brings him from the royal court of the Yādavas back to the mud paths and cowpens of his first years.
+
+  - अघमेश्वर (Aghamēśvara) — अघ (agha, "sin, evil, harm, that which causes suffering and moral pollution" — from a root meaning "bad, harmful") + ईश्वर (īśvara — but here used in the sense of "the one who is lord over, the one who has complete mastery over and destroys"). Together: "the lord over / destroyer of agha (sin)." The name has a beautiful resonance — Agha was also the name of a serpent-demon Krishna destroyed in his childhood by walking into its open mouth with all of Gokula's children. He is thus simultaneously the destroyer of the demon Agha and the destroyer of agha (sin itself).
+
+  - वेद गोचर (Veda Gocara) — वेद (veda, from vid, "to know" — the Veda is "knowledge, the revealed scripture, the seen and heard wisdom") + गोचर (gocara, from go, "cow, the senses, the range of perception" + cara from car, "to move, to range" — gocara is "within the range of perception, accessible, reachable, that which can be known and experienced"). Together: "the one who is within the range of / accessible through the Vedas." He is not hidden from knowledge — the Vedas are the pathway through which he can be known and reached. The Vedas do not merely describe him; they are the means of accessing him.
+
 **English Translation:**
 Lord of Yadavas Krishna, Lord of Gokula! Destroyer of sins Krishna, accessible through Vedas!
 
@@ -565,6 +719,16 @@ Lord of Yadavas Krishna, Lord of Gokula! Destroyer of sins Krishna, accessible t
 | **राम सोदर (Rama Sodhara)** = राम (Rama) + सोदर (sibling) | Brother of Balarama | பலராமனின் சகோதரன் |
 | **सुधा सागर (Sudha Sagara)** = सुधा (Sudha - nectar) + सागर (ocean) | Ocean of nectar | அமுதக் கடல் |
 | **महा गुरुवर (Maha Guruvara)** = महा (great) + गुरुवर (supreme teacher) | Supreme great guru | மகா குருவரன் |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - महासुन्दर (Mahāsundara) — महा (mahā, "the great, the supremely vast, beyond all ordinary measure" — the intensifying prefix that lifts everything after it to the highest level) + सुन्दर (sundara, "beautiful, pleasing, harmonious, delightful to the senses and the heart"). Together: "the supremely beautiful one, the one whose beauty exceeds all ordinary measure." By combining mahā with sundara, the poet is not merely saying he is very beautiful — mahā-sundara means his beauty is of a different order entirely, beyond the scale on which we measure beauty.
+
+  - राम सोदर (Rāma Sōdara) — राम (Rāma, here referring to Balarāma / Balarama, Krishna's elder brother — also known as Halāyudha, Saṅkarṣaṇa, and Rāma; not Rāma of the Rāmāyaṇa — the context of sōdara makes clear this is the brother-Rāma) + सोदर (sōdara, from sa-, "together with, sharing" + udara, "the womb, the belly" — sōdara literally means "from the same womb," the Sanskrit word for a full biological sibling). Together: "the one who shares a womb with Rāma, the brother of Balarāma." Sōdara is one of the most intimate of Sanskrit words for relationship — not merely "brother" (bhrātā) but specifically "from the same womb," emphasising the shared origin, the deepest bond.
+
+  - सुधा सागर (Sudhā Sāgara) — सुधा (sudhā, "the nectar of immortality, amṛta, the divine elixir that sustains and confers deathlessness" — sudhā also means "pure, excellently placed") + सागर (sāgara, "the ocean, the vast sea" — from sa-, "with" + āgara, "the abode of water" — the ocean is understood as the ultimate repository, the source from which all rivers come and to which they return). Together: "the ocean of nectar / immortality." He is not a drop or a river of sudhā but the ocean — inexhaustible, the source from which all nourishing grace flows and to which all seeking returns.
+
+  - महा गुरुवर (Mahā Guruvara) — महा (mahā, the supreme intensifier) + गुरु (guru, "the weighty, the one whose wisdom gives weight and substance" — the teacher who bears the responsibility of guiding another toward liberation) + वर (vara, "the best, the chosen, the most excellent of its kind" — from vṛ, "to choose"). Together: "the most excellent and supreme guru, the great teacher above all teachers." Guruvara — the best of gurus — is further elevated by mahā. He is the ādiguру (the primordial teacher), the one whose teaching encompasses all other teachings, whose grace makes all other gurus possible.
 
 **English Translation:**
 Supremely beautiful Krishna, brother of Balarama! Ocean of nectar Krishna, supreme great guru!
