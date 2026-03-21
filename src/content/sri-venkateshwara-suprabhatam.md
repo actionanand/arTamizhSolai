@@ -2576,54 +2576,83 @@ scrollToTop: true
 
 இந்த ஸ்லோகங்களில் விஷ்ணுவின் பல புனித நாமங்கள் வருகின்றன:
 
-:::info[விஷ்ணுவின் புனித நாமங்கள்]
-🔸**ராம** - ராமாவதாரம் <br>
-🔸**கோவிந்தா (गोविन्द)** - பசுக்களையும் பூமியையும் காப்பவர் (गो - பசு/பூமி; विन्द (vinda) = கண்டுபிடிப்பவன் / காப்பவன் / அறிந்தவன்) <br>
-🔸**நரஸார்தூல (नरसार्दूल)** - மனிதர்களில் சிறந்தவர் (नर (nara) = மனிதன்; सार्दूल (sārdūla) = புலி; नरसार्दूल = மனிதர்களில் புலி போன்றவன்) <br>
-🔸**கருடத்வஜ (गरुडध्वज — garuḍa-dhvaja)** - கருட கொடி உடையவர் (गरुड (garuḍa) = கருடன்; ध्वज (dhvaja) = கொடி / பதாகை) <br>
-🔸**கமலாகாந்த** - லக்ஷ்மியின் நாயகர் <br>
-🔸**அரவிந்தலோசன** - தாமரை கண்கள் உடையவர் <br>
-🔸**திரிவிக்ரம** - மூன்று அடிகளால் உலகளந்தவர் <br>
-🔸**வெங்கடேஸ்வர** - வெங்கட மலையின் தேவர் <br>
-🔸**சேஷாத்ரிசேகர** - சேஷகிரி சிகரத்தவர் <br>
-🔸**ஸ்ரீனிவாச** - லக்ஷ்மியின் வாசஸ்தானம் <br>
-🔸**நாராயண** - எல்லா உயிர்களின் ஆதாரம் <br>
-🔸**தேவாதிதேவ** - தேவர்களுக்கும் தேவர் <br>
-🔸**பத்மனாப** - தொப்புளில் தாமரை மலர்ந்தவர் <br>
-🔸**புருஷோத்தம** - புருஷர்களில் உயர்ந்தவர் <br>
-🔸**வாஸுதேவ** - வசுதேவரின் புத்திரன் <br>
-🔸**வைகுண்ட** - வைகுண்ட லோக நாதன் <br>
-🔸**மாதவ** - லக்ஷ்மியின் நாதன் <br>
-🔸**ஜனார்தன** - மக்களின் பிரார்த்தனை நிறைவேற்றுபவர் <br>
-🔸**சக்ரபாணி (चक्रपाणि)** - கையில் சக்கரம் ஏந்தியவர் (चक्र (cakra) = சக்கரம் / திரிவாளம் (divine discus); पाणि (pāṇi) = கை) <br>
+:::tip[விஷ்ணுவின் புனித நாமங்கள்]
+🔸**ராம (राम)** - ராமாவதாரம். राम = ram (to delight, to be pleasing) — "the one in whom all delight, the most pleasing one." கௌசல்யையின் மகன், ஸ்லோகம் 1 இல் வெங்கடேஸ்வரனுடன் ஒன்றாக அழைக்கப்படுகிறார். <br>
+
+🔸**கோவிந்தா (गोविन्द)** - பசுக்களையும் பூமியையும் காப்பவர். गो (go) = பசு / பூமி / இந்திரியங்கள் / வேத ஞானம் என பல பொருள்கள்; विन्द (vinda) = vid என்ற வேரிலிருந்து — "to find, to know, to recover." Govinda = "the one who finds/recovers the go" — பசுக்களைக் கோகுலத்தில் மேய்த்தவர், வராஹ அவதாரத்தில் பூமியை மீட்டவர், வேதங்களை அறிந்தவர் — மூன்று பொருள்களும் ஒரே நாமத்தில். <br>
+
+🔸**நரஸார்தூல (नरशार्दूल)** - மனிதர்களில் சிறந்தவர். नर (nara) = "the led one, the human being" (from nṛ, to lead); शार्दूल (śārdūla) = "the tiger" — Sanskrit's classic device of the superlative by animal simile. The tiger is named not for aggression but for being the finest of its kind. நரசார்தூல = the one who among humans is what the tiger is among animals: the noblest. <br>
+
+🔸**கருடத்வஜ (गरुडध्वज)** - கருட கொடி உடையவர். गरुड (garuḍa) = "the devourer" (from garuḍ — he who devours the serpents of ego and ignorance); ध्वज (dhvaja) = "the flag, the banner, the public identity-mark" (from dhvaj, to wave). A deity's dhvaja announces from afar who dwells within — Tirumala's flag bears Garuḍa, making Garuḍadhvaja the Lord's own declaration of identity. <br>
+
+🔸**கமலாகாந்த (कमलाकान्त)** - லக்ஷ்மியின் நாயகர். कमला (kamalā) = Lakṣmī, named from kamala (lotus) — she who is as beautiful and pure as the lotus; कान्त (kānta) = "the beloved, the one who shines with love" (from kam, to love, to shine). Together: "the beloved of Kamalā." <br>
+
+🔸**அரவிந்தலோசன (अरविन्दलोचन)** - தாமரை கண்கள் உடையவர். अरविन्द (aravinda) = the lotus whose petals radiate outward like wheel-spokes (ara + vinda), the most perfectly-formed lotus; लोचन (locana) = "the eye, the guiding organ" (from loc, to see clearly). His eyes see the world as the lotus does — fully, yet unstained. <br>
+
+🔸**திரிவிக்ரம (त्रिविक्रम)** - மூன்று அடிகளால் உலகளந்தவர். त्रि (tri) = three; विक्रम (vikrama) = "the heroic stride" (from vi + kram, to step powerfully forward). The Vāmana avatāra's three strides covered earth, sky, and the netherworld — one stride per world, the most cosmically comprehensive of all avatāra deeds. <br>
+
+🔸**வெங்கடேஸ்வர (वेङ्कटेश्वर)** - வெங்கட மலையின் தேவர். वेङ्कट (veṅkaṭa) = the sacred hill — from vi + kaṭa: "that which burns away (vi) sins (kaṭa)"; ईश्वर (īśvara) = "the lord, the sovereign" (from iś, to rule). Veṅkaṭeśvara: "the sovereign of the sin-destroying hill." <br>
+
+🔸**சேஷாத்ரிசேகர (शेषाद्रिशेखर)** - சேஷகிரி சிகரத்தவர். शेष (Śeṣa) = "the remainder, the residual" — Ādiśeṣa, the cosmic serpent who remains after each dissolution; अद्रि (adri) = mountain; शेखर (śekhara) = "the crest, the topmost" (from śikh, to be at the summit). The hill is Śeṣa himself in mountain-form, and the Lord stands at its crown. <br>
+
+🔸**ஸ்ரீனிவாச (श्रीनिवास)** - லக்ஷ்மியின் வாசஸ்தானம். श्री (Śrī) = Lakṣmī, the goddess of divine grace and beauty; निवास (nivāsa) = "the permanent dwelling" (from ni + vas, to dwell permanently). Śrīnivāsa says she does not merely visit — she permanently resides in him. Tirupati's principal name. <br>
+
+🔸**நாராயண (नारायण)** - எல்லா உயிர்களின் ஆதாரம். नार (nāra) = "the waters of consciousness, the totality of created beings" (from nṛ, people + the collective -ā); अयन (ayana) = "the resting place, the refuge, the one who moves through" (from i, to go). Nārāyaṇa: "the one who is the refuge of all beings, who moves through the waters of creation." <br>
+
+🔸**தேவாதிதேவ (देवाधिदेव)** - தேவர்களுக்கும் தேவர். देव (deva) = "the shining one, the divine being" (from div, to shine); अधि (adhi) = "above, supreme over" + देव (deva) again. Devādideva: "the deva above all devas." Even Brahmā and Śiva bow to him — his divinity is of a different order entirely. <br>
+
+🔸**பத்மனாப (पद्मनाभ)** - தொப்புளில் தாமரை மலர்ந்தவர். पद्म (padma) = the sacred lotus; नाभि (nābhi) = "the navel, the originating hub, the center from which life flows" (from nabh, to burst forth). Padmanābha names the cosmic vision: Viṣṇu reclining on Ādiśeṣa, a lotus rising from his navel bearing Brahmā — all creation originating from his center. <br>
+
+🔸**புருஷோத்தம (पुरुषोत्तम)** - புருஷர்களில் உயர்ந்தவர். पुरुष (puruṣa) = "the one who dwells in the city of the body, the conscious person" (from pur, city + uṣa, dweller); उत्तम (uttama) = "the highest, the most excellent" (superlative of ud, upward). Bhagavad Gītā 15.18's own supreme designation for the Lord. <br>
+
+🔸**வாஸுதேவ (वासुदेव)** - வசுதேவரின் புத்திரன். वसुदेव (Vasudeva) = Kṛṣṇa's earthly father; the -a suffix = "son of." Also: वसु (vasu) = "the excellent, the good, wealth" + देव (deva) = the divine — Vāsudeva as "the divine excellent one who pervades all." <br>
+
+🔸**வைகுண்ட (वैकुण्ठ)** - வைகுண்ட லோக நாதன். वि (vi) = negating prefix + कुण्ठ (kuṇṭha) = "dullness, obstruction, the state of being blocked." Vaikuṇṭha: "the one in whom there is no obstruction to consciousness" — simultaneously his quality (limitless) and his eternal abode (the limitless realm). <br>
+
+🔸**மாதவ (माधव)** - லக்ஷ்மியின் நாதன். माधवी (Mādhavī) = one of Lakṣmī's names, "the spring-born one, the sweet one"; -va suffix = "lord of." Also: मधु (madhu) = the demon Madhu whom Viṣṇu slew + ava (lordship). Both meanings coexist: lord of sweetness and beauty, and destroyer of intoxicating delusion. <br>
+
+🔸**ஜனார்தன (जनार्दन)** - மக்களின் பிரார்த்தனை நிறைவேற்றுபவர். जन (jana) = "the people, the human community" (warm and inclusive); अर्दन (ardana) = from ard, "to trouble, to afflict" used causatively — "the one who destroys the troubles of." Janārdana: "the destroyer of the people's afflictions." He is named first through ordinary human suffering — the most intimate of all his titles. <br>
+
+🔸**சக்ரபாணி (चक्रपाणि)** - கையில் சக்கரம் ஏந்தியவர். चक्र (cakra) = "the wheel, the divine discus (Sudarśana)" — from car, "to move" — the wheel that moves and returns, representing dharmic order and the removal of adharma; पाणि (pāṇi) = "the hand, the open palm" (one of Sanskrit's oldest body-part words). Cakrapāṇi: "the hand that holds the wheel" — power in service of dharma. <br>
 :::
 
 ### தாபம் 2: திருமலையின் ஏழு பெயர்கள்
 
 திருமலை **சப்தகிரி** (ஏழு மலைகள்) என்று அழைக்கப்படுகிறது. ஸ்லோகம் 15 இல் வரும் பெயர்கள்:
 
-::font[Mukta Malar Tamil]{
-🔸 **சேஷசைல** - சேஷனின் மலை (ஆதிசேஷன் சுருண்ட மலை) <br>
-🔸 **கருடாசல** - கருடனின் மலை <br>
-🔸 **வெங்கடாத்ரி** - வெங்கட மலை (பாவங்களை அழிக்கும் மலை) <br>
-🔸 **நாராயணாத்ரி** - நாராயணனின் மலை <br>
-🔸 **வ்ருஷபாத்ரி** - காளையின் மலை, தர்ம மலை <br>
-🔸 **வ்ருஷாத்ரி** - புனித மலை <br>
-🔸 **மற்ற பெயர்கள்** - வெங்கடாசலம், சேஷாத்ரி <br>
-}
+:::info[சப்தகிரி (ஏழு மலைகள்)]
+🔸 **சேஷசைல (शेषशैल — Śeṣaśaila)** - சேஷனின் மலை. शेष (Śeṣa) = "the remainder, the one who remains after all else dissolves" — Ādiśeṣa, the cosmic serpent who persists through each dissolution bearing the seeds of the next creation; शैल (śaila) = "the rocky mass, the mountain" (from śilā, rock). The hill is Ādiśeṣa himself, coiled into mountain-form as the Lord's eternal resting place. <br>
+
+🔸 **கருடாசல (गरुडाचल — Garuḍācala)** - கருடனின் மலை. गरुड (Garuḍa) = "the devourer of serpents, the eagle-king, Viṣṇu's vehicle" (from garuḍ, to devour — he who consumes the serpents of karma and ego); अचल (acala) = "the immovable, the mountain that does not move" (a + cal, without movement). The mountain where the Lord's divine vehicle dwells. <br>
+
+🔸 **வெங்கடாத்ரி (वेङ्कटाद्रि — Veṅkaṭādri)** - வெங்கட மலை. वेङ्कट (veṅkaṭa) = from vi + kaṭa — "that which fully (vi) burns away sins (kaṭa), the destroyer of karma"; अद्रि (adri) = "the mountain, the rocky mass" (from ad, to eat/consume — the mountain that consumes enemies). The name of the hill itself, giving Veṅkaṭeśvara his primary identity. <br>
+
+🔸 **நாராயணாத்ரி (नारायणाद्रि — Nārāyaṇādri)** - நாராயணனின் மலை. नारायण (Nārāyaṇa) = "the one who is the refuge of all nāra (beings)" — as explained in the divine names section; + अद्रि (adri). The mountain as Nārāyaṇa's own abode, his chosen resting-place among the hills of the earth. <br>
+
+🔸 **வ்ருஷபாத்ரி (वृषभाद्रि — Vṛṣabhādri)** - தர்ம மலை. वृषभ (vṛṣabha) = "the bull, the strong one, the one who rains blessings" (from vṛṣ, to rain — the bull as the symbol of dharma, since dharma in its fullness rains blessings upon all); + अद्रि. The hill of dharma, where righteousness rains down upon all who climb it. <br>
+
+🔸 **வ்ருஷாத்ரி (वृषाद्रि — Vṛṣādri)** - புனித மலை. वृष (vṛṣa) = "the auspicious, the rain-giving, the holy" (from vṛṣ, to rain — vṛṣa as an adjective means "the auspicious one that gives abundantly"); + अद्रि. The hill that showers spiritual blessings abundantly upon all devotees. <br>
+
+🔸 These seven names together form the **சப்தகிரி (Saptāgiri)** — सप्त (sapta) = seven + गिरि (giri) = "the mountain, the hill" (from gṝ, to swallow — the mountain as that which swallows/absorbs pilgrims into its sacred presence). Each name reveals a different facet: the cosmic serpent's body, the eagle's mountain, the sin-burner, Nārāyaṇa's home, dharma's hill, and the rain of blessings. Together they say: this one hill is all things at once. <br>
+:::
 
 ### தாபம் 3: வானியல் குறிப்புகள்
 
 ஸுப்ரபாதத்தில் பல வானியல் மற்றும் இயற்கை குறிப்புகள்:
 
-::font[Mukta Malar Tamil]{
-🔸**பூர்வா ஸந்த்யா** - காலை சந்தி காலம் (சூரிய உதயத்திற்கு முன்) <br>
-🔸**ஸப்த ரிஷிகள்** - வானில் ஏழு நட்சத்திரங்களாக ஒளிரும் மகான்கள் <br>
-🔸**நவக்கிரகங்கள்** - சூரியன், சந்திரன், செவ்வாய், புதன், குரு, சுக்ரன், சனி, ராகு, கேது <br>
-🔸**சந்யாவந்தனம்** - சூரிய உதயத்தின் போது செய்யும் வேத கர்மம் <br>
-🔸**வாஸர ஸுத்தி** - பஞ்சாங்கம் (நக்ஷத்திரம், திதி அடிப்படையில்) <br>
-🔸**ஆகாஸ ஸிந்து** - வான் மண்டலம் <br>
-}
+:::note[வானியல் குறிப்புகள்]
+🔸**பூர்வா ஸந்த்யா (पूर्वा सन्ध्या — Pūrvā Sandhyā)** - காலை சந்தி காலம். पूर्वा (pūrvā) = "the eastern, the earlier, the first" (from pūrva, "before, the front, the east" — the direction of all beginnings); सन्ध्या (sandhyā) = "the junction-time, the joining-moment" (from sam + dhā, "to hold together" — sandhyā is the moment that holds night and day together). This sacred junction is when the Suprabhātam is sung — the precise moment between darkness and light, when both still exist and the transition belongs to the devotee's voice. <br>
+
+🔸**ஸப்த ரிஷிகள் (सप्तर्षि — Saptarṣi)** - வானில் ஏழு நட்சத்திரங்களாக ஒளிரும் மகான்கள். सप्त (sapta) = seven; ऋषि (ṛṣi) = "the seer, the one who has directly seen" (from dṛś, to see — the ṛṣi is specifically one who has seen truth directly, not merely heard or reasoned it). The seven ṛṣis (the Great Bear / Ursa Major constellation) are simultaneously celestial beings, ancient teachers, and the stars that mark direction for navigators — their dual existence as stars and sages is an ancient Vedic cosmological statement. <br>
+
+🔸**நவக்கிரகங்கள் (नवग्रह — Navagraha)** - ஒன்பது கோள்கள். नव (nava) = nine; ग्रह (graha) = "the one who seizes, the planet" (from grah, to seize, to grasp — the planets are understood as those who grasp and influence human life). The nine: சூரியன் (Sūrya/Sun), சந்திரன் (Candra/Moon), செவ்வாய் (Maṅgala/Mars), புதன் (Budha/Mercury), குரு (Guru/Jupiter), சுக்ரன் (Śukra/Venus), சனி (Śani/Saturn), ராகு (Rāhu — the ascending lunar node), கேது (Ketu — the descending lunar node). <br>
+
+🔸**சந்யாவந்தனம் (सन्ध्यावन्दनम् — Sandhyāvandanam)** - சூரிய உதயத்தின் போது செய்யும் வேத கர்மம். सन्ध्या (sandhyā) = the junction-time (as above); वन्दनम् (vandanam) = "the salutation, the honouring" (from vand, "to praise, to revere, to salute"). Sandhyāvandana is literally "the salutation of the junction" — the daily Vedic ritual of honouring the precise moment when the cosmic powers are in transition. Performed three times daily: at dawn (prātaḥ), midday (mādhyāhna), and dusk (sāyam). <br>
+
+🔸**வாஸர ஸுத்தி (वासरशुद्धि — Vāsaraśuddhi)** - பஞ்சாங்கம். वासर (vāsara) = "the day" (from vas, to dwell — vāsara is the span in which the sun dwells at its station); शुद्धि (śuddhi) = "the purification, the determination of auspiciousness, the clearing" (from śudh, to be purified). Vāsaraśuddhi: "the purification/determination of the day" — the pañcāṅga reading that declares the five limbs (pañca-aṅga) of the day: tithi (lunar day), vara (weekday), nakṣatra (star), yoga (planetary combination), karaṇa (half-day). <br>
+
+🔸**ஆகாஸ ஸிந்து (आकाशसिन्धु — Ākāśasindhu)** - வான் மண்டலம். आकाश (ākāśa) = "the sky, the luminous ether, the space that shines" (from ā + kāś, to shine forth completely — ākāśa is space understood as intrinsically luminous, not empty); सिन्धु (sindhu) = "the ocean, the great flowing expanse" (from syand, to flow). Ākāśasindhu: "the ocean of the sky" — the celestial realm conceived as a vast sea in which the stars are islands and the divine lotuses float. <br>
+:::
 
 ### தாபம் 4: திருமலையின் இயற்கை
 
@@ -2643,35 +2672,53 @@ scrollToTop: true
 
 எத்தனை பேர் வெங்கடேஸ்வரனை வணங்க வருகிறார்கள்:
 
-::font[Mukta Malar Tamil]{
-🔸**சப்த ரிஷிகள்** - அத்ரி முதலான ஏழு மகான்கள் <br>
-🔸**திரிமூர்த்திகள்** - பிரம்மா, சிவன், விஷ்ணு <br>
-🔸**திரிதேவியர்** - சரஸ்வதி, பார்வதி, இந்திராணி <br>
-🔸**அஷ்ட திக்பாலகர்கள்** - எட்டு திசைகளின் காவலர்கள் <br>
-🔸**நவக்கிரகங்கள்** - ஒன்பது கோள்கள் <br>
-🔸**பஞ்ச வாகனங்கள்** - கருடன், சிங்கம், ஆதிசேஷன், ஐராவதம் (ऐरावत - airāvata), உச்சைஸ்ரவஸ் <br>
-🔸**நாரத ரிஷி** - வீணை வாசித்து பாடுதல் <br>
-🔸**சனகாதி முனிவர்கள்** - சனகன், சனந்தனன், சனாதனன், சனத்குமாரன் <br>
-🔸**மனிதர்கள்** - பக்தர்கள் <br>
-}
+:::danger[வழிபட வருபவர்கள்]
+🔸**சப்த ரிஷிகள் (सप्तर्षि)** - அத்ரி முதலான ஏழு மகான்கள். அத்ரி (Atri) = "the consumer, the one who consumed the three demons through tapas" (from ad, to eat); பரத்வாஜ (Bharadvāja) = "the one who bears the thunderbolt" (bharad + vāja); விஸ்வாமித்ர (Viśvāmitra) = "friend of all the world" (viśva + mitra); கௌதம (Gautama) = "the one of the Gotama clan, the most light-filled" (from go + tama); ஜமதக்னி (Jamadagni) = "the one who devours fire" (jama + agni); வசிஷ்ட (Vasiṣṭha) = "the most excellent, the best-dwelling" (vasi + ṣṭha); காஸ்யப (Kāśyapa) = "the one who sees like a tortoise" (kāśya + pa). These seven, though celestial, arrive at Veṅkaṭeśvara's feet — even the stars bow. <br>
+
+🔸**திரிமூர்த்திகள் (त्रिमूर्ति — Trimūrti)** - பிரம்மா, சிவன், விஷ்ணு. त्रि (tri) = three; मूर्ति (mūrti) = "the embodied form, the physical presence" (from mūrch, to solidify, to take solid form). The three are Brahmā (the creator — from bṛh, to be great/expand), Śiva (the dissolver — from śiv, the auspicious, the one who brings welfare through dissolution), and Viṣṇu (the sustainer — from viṣ, to pervade). ஸ்லோகம் 14 இல் அவர்கள் ஸ்வாமி புஷ்கரிணியில் குளித்து வாசலில் காத்திருக்கிறார்கள். <br>
+
+🔸**திரிதேவியர் (त्रिदेवी — Trīdevī)** - சரஸ்வதி, பார்வதி, இந்திராணி. சரஸ்வதி (Sarasvatī) = "the one who flows, the river-goddess of speech and learning" (from saras + vatī); பார்வதி (Pārvatī) = "daughter of the mountain" (pārvata + ī); இந்திராணி (Indrāṇī) = "the queen of Indra, the wife of the powerful one" (-āṇī is the Sanskrit suffix creating the feminine consort form). ஸ்லோகம் 4 இல் இவர்கள் லக்ஷ்மி தேவியை வழிபடுவதாக கூறப்படுகிறது. <br>
+
+🔸**அஷ்ட திக்பாலகர்கள் (अष्टदिक्पाल — Aṣṭadikpāla)** - எட்டு திசைகளின் காவலர்கள். अष्ट (aṣṭa) = eight; दिक् (dik) = "direction, the quarters of space" (from diś, to point); पाल (pāla) = "the guardian, the protector" (from pā, to protect). The eight: இந்திரன் (east), அக்னி (southeast), யமன் (south), நிர்ருதி (southwest), வருணன் (west), வாயு (northwest), குபேரன் (north), சிவன்/ஈசானன் (northeast). ஸ்லோகம் 16 இல் இவர்கள் கை கூப்பி தலை வணங்கி நிற்கிறார்கள். <br>
+
+🔸**நவக்கிரகங்கள் (नवग्रह)** - ஒன்பது கோள்கள். As explained in the astronomy section. ஸ்லோகம் 18 இல் இவர்கள் தங்களை "உமது தாசனின் தாசனின் தாசர்கள்" என்று அழைத்துக்கொள்கிறார்கள் — the planets that govern all human life declaring themselves the servants of servants of the Lord's servants. <br>
+
+🔸**பஞ்ச வாகனங்கள் (पञ्चवाहन — Pañcavāhana)** - ஐந்து தெய்வீக வாகனங்கள். पञ्च (pañca) = five; वाहन (vāhana) = "the vehicle, the mount" (from vah, to carry). கருடன் (Garuḍa) = the eagle-king (vihagarāja); சிங்கம் (siṃha) = the lion, king of animals (mṛgādhirāja); ஆதிசேஷன் (Ādiśeṣa) = king of serpents (nāgādhirāja); ஐராவதம் (Airāvata) = Indra's divine elephant, king of elephants (gajarāja) — from Irā (the water-goddess) + vata (born of); உச்சைஸ்ரவஸ் (Uccaiḥśravas) = the divine horse that emerged at the churning of the milk-ocean (hayādhirāja) — uccaiḥ (aloud, high) + śravas (fame, the heard-one). ஸ்லோகம் 17 இல் இவை பெருமாளுக்கு மலர் சமர்ப்பிக்க வருகின்றன. <br>
+
+🔸**நாரத ரிஷி (नारद — Nārada)** - வீணை வாசித்து பாடுதல். नारद (Nārada) = "the one who gives nāra (the waters of divine wisdom)" (nāra + da, from dā, to give) — the divine sage whose purpose is to transmit divine wisdom from realm to realm. ஸ்லோகம் 9 இல் அவர் தன் வீணையுடன் (vīṇā — from a root related to the vibration of strings) அனந்தசரிதம் பாடுகிறார் — the infinite deeds, which can never fully be sung. <br>
+
+🔸**சனகாதி முனிவர்கள் (सनकादि — Sanakādi)** - சனகன், சனந்தனன், சனாதனன், சனத்குமாரன். These four are the eternal kumāras — born from Brahmā's mind yet refusing to participate in creation, remaining eternally young and celibate. சனக (Sanaka) = "the ancient one" (from sana, ancient); சனந்தன (Sanandana) = "the joyful ancient" (sana + nandana, joy); சனாதன (Sanātana) = "the eternally ancient" (sana + tana, extended time); சனத்குமார (Sanatkumāra) = "the eternally youthful" (sanat + kumāra, youth). Their eternal youth represents the liberation that transcends the aging of the body. ஸ்லோகம் 14 இல் வாசலில் காத்திருக்கிறார்கள். <br>
+
+🔸**மனிதர்கள் (मानव — Mānava)** - பக்தர்கள். मानव (Mānava) = "the descendants of Manu, the humans" (from Manu, the progenitor — himself from man, "to think, to reflect"). Mānava identifies humans through their defining capacity: the ability to think and reflect. In the Suprabhātam's vision, after all the cosmic beings — stars, planets, gods, sages, animals — have been named, the ordinary human devotees arrive last, and their arrival completes the dawn. Every order of existence participates; none is excluded. <br>
+:::
 
 ### தாபம் 6: தஸாவதாரங்கள்
 
 ஸ்லோகம் 24 விஷ்ணுவின் பத்து அவதாரங்களை விளக்குகிறது:
 
-::font[Mukta Malar Tamil]{
-🔸 **மத்ஸ்ய** - மீன் அவதாரம் (வேதங்களை காப்பாற்றியது) <br>
-🔸 **கூர்ம** - ஆமை அவதாரம் (மந்தர மலை தாங்கியது) <br>
-🔸 **வராஹ** - பன்றி அவதாரம் (பூமியை மீட்டது) <br>
-🔸 **நரசிம்ஹ** - மனித சிங்க அவதாரம் (ஹிரண்யன் வதம்) <br>
-🔸 **வாமன** - குள்ள பிராமணர் அவதாரம் (திரிவிக்ரம) <br>
-🔸 **பரசுராம** - கோடாலி உடைய ராமர் (க்ஷத்திரிய சம்ஹாரம்) <br>
-🔸 **ராமசந்திர** - ஸ்ரீ ராம அவதாரம் (ராவண வதம்) <br>
-🔸 **பலராம** - பலராமர் (ஆதிசேஷனின் அம்சம்) <br>
-🔸 **கிருஷ்ண** - யதுநந்தன் (கம்ச வதம்) <br>
-🔸 **கல்கி** - எதிர்கால அவதாரம் (கலியுக முடிவில்) <br>
-}
+:::tip[தஸாவதாரங்கள் (பத்துஅவதாரங்கள்)]
+🔸 **மத்ஸ்ய (मत्स्य — Matsya)** - மீன் அவதாரம். मत्स्य (matsya) = "the fish, the swimmer" (from mats, to swim or move through water). வேதங்களை வெள்ளப் பிரளயத்திலிருந்து காப்பாற்றிய அவதாரம். Water represents the unconscious primordial state — the fish alone can navigate the depths. The first avatāra saves sacred knowledge from the flood of ignorance. <br>
 
+🔸 **கூர்ம (कूर्म — Kūrma)** - ஆமை அவதாரம். कूर्म (kūrma) = "the tortoise, the one who withdraws into itself" (from kur, to hold firmly). பால் கடல் கடையும்போது மந்தர மலையை கீழ்பகுதியில் தாங்கியது. The tortoise withdraws its limbs — an image of the withdrawn, stabilizing consciousness that sustains the churning of creation without being disturbed by it. <br>
+
+🔸 **வராஹ (वराह — Varāha)** - பன்றி அவதாரம். वराह (varāha) = "the boar, the tusked one who digs" (from var, to choose + āha, to go — or from a root meaning to dig). பூமியை ஹிரண்யாக்ஷனிடமிருந்து மீட்டது. The boar's tusk lifts the earth from the cosmic ocean — his act moves creation from the unconscious depths into the light of embodied existence. <br>
+
+🔸 **நரசிம்ஹ (नरसिंह — Narasiṃha)** - மனித சிங்க அவதாரம். नर (nara) = human; सिंह (siṃha) = "the lion, the powerful one" (from sah, to prevail). A form neither fully human nor fully animal, arising at twilight — neither day nor night, from a pillar — neither inside nor outside. Every condition of the demon's boon was bypassed without violation: this is the avatar of transcending categorical thinking. <br>
+
+🔸 **வாமன (वामन — Vāmana)** - குள்ள பிராமணர் அவதாரம். वामन (vāmana) = "the dwarf, the short one" (from vam, to emit — or from vā, to move, to be small). Appeared as a tiny brahmin student to Mahābali and asked for three steps of land — then expanded to cover all three worlds (Trivikrama). The theological message: the infinite hides in the smallest form; surrender to the humble brings the infinite's presence. <br>
+
+🔸 **பரசுராம (परशुराम — Paraśurāma)** - கோடாலி உடைய ராமர். परशु (paraśu) = "the axe, the battle-axe" (a loan-word of ancient origin, related to the weapon); राम (Rāma) = "the delightful one." The sixth avatāra who cleared the earth of corrupt kṣatriyas twenty-one times — representing the necessary destruction of institutional power that has become tyrannical. <br>
+
+🔸 **ராமசந்திர (रामचन्द्र — Rāmacandra)** - ஸ்ரீ ராம அவதாரம். राम (Rāma) = "the one who delights all" (from ram, to delight); चन्द्र (candra) = "the moon, the shining one, the one who cools" (from cand, to shine with a cool light). Rāmacandra: "the moon-like Rāma" — his presence, like moonlight, is cooling and beautiful rather than blazing. The ideal human king, whose story teaches dharma through the test of exile, separation, and war. <br>
+
+🔸 **பலராம (बलराम — Balarāma)** - ஆதிசேஷனின் அம்சம். बल (bala) = "strength, vital force, the capacity to act powerfully" (from val, to be strong); राम (Rāma). Balarāma: "the Rāma of strength." The elder brother of Kṛṣṇa, considered an avatāra of Ādiśeṣa — his weapon is the plough (halāyudha), turning the earth, cultivating — the strength that works with creation rather than destroying it. <br>
+
+🔸 **கிருஷ்ண (कृष्ण — Kṛṣṇa)** - யதுநந்தன். कृष्ण (kṛṣṇa) = "the dark one, the all-attracting one" (from kṛṣ, to attract, to draw toward — kṛṣṇa is the one who draws all things toward himself, like a magnet). The ninth avatāra who taught the Bhagavad Gītā, whose darkness is the depth of infinite consciousness — the same colour as Veṅkaṭeśvara himself. <br>
+
+🔸 **கல்கி (कल्कि — Kalkī)** - எதிர்கால அவதாரம். कल्कि (kalkī) = "the one who destroys darkness and pollution" (from kalka, "impurity, the dregs, the residual darkness") — the one who eliminates kalka. The tenth avatāra to come at the end of Kali Yuga, riding a white horse, restoring dharma. His name carries both the name of what he destroys (kalka) and what remains when the destruction is complete: clarity. <br>
+
+🔸 The ten avatāras reveal a profound pattern: each comes when the imbalance of that cosmic age demands a specific kind of intervention — aquatic, amphibian, terrestrial, transitional, humble, martial, royal, fraternal, loving, and finally apocalyptic. Veṅkaṭeśvara encompasses all ten because he is the source from which each emerged and to which each returns. <br>
+:::
 
 ---
 
