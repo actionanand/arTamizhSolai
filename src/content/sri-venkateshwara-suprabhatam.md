@@ -36,13 +36,13 @@ scrollToTop: true
 **ஸ்ரீ பிரதிவாதி பயங்கரம் அண்ணங்கராச்சார்யர்** (1430 CE) என்ற மகான் இந்த அற்புதமான துதியை இயற்றினார். அவர் **ஸ்ரீ வைஷ்ணவ பரம்பரையைச்** சேர்ந்த பெரும் வித்வான் மற்றும் பக்தர் ஆவார்.
 }
 
-இந்த ஸுப்ரபாதம் **29 ஸ்லோகங்கள்** (சமஸ்கிருத துதி) மற்றும் **11 பாசுரங்கள்** (தமிழ் துதி) என மொத்தம் **40 பாடல்களைக்** கொண்டது.
+இந்த ஸுப்ரபாதம் **29 ஸ்லோகங்களை** (சமஸ்கிருத துதி) கொண்டது.
 
 **ஒவ்வொரு நாளும் காலை 3:00 மணிக்கு** திருமலை திருப்பதி கோவிலில் பெருமாளை எழுப்ப இந்த ஸுப்ரபாதம் பாடப்படுகிறது. இது **600 ஆண்டுகளுக்கும் மேலாக** தொடர்ந்து வரும் பாரம்பரியமாகும்.
 
 ---
 
-## ஸுப்ரபாதம் என்றால் என்ன?
+## ஸுப்ரபாதம் என்றால் என்ன (What is Suprabhatam)?
 
 ### பெயரின் பொருள்:
 
@@ -53,6 +53,21 @@ scrollToTop: true
 
 
 அதாவது **"மங்களகரமான விடியல் நேர துதி"** என்று பொருள்.
+
+### இலக்கண விளக்கம் (Grammatical Explanation):
+
+  - सु (Su) — one of Sanskrit's oldest and most productive prefixes, from the Proto-Indo-European root *su- meaning "well, good, the finest expression of what follows." In Sanskrit, su- is not merely an intensifier — it elevates the word it precedes to its ideal, complete, and most auspicious form. सुकृतम् (sukṛtam) is not just a good deed but the perfectly accomplished deed; सुभगः (subhagaḥ) is not just fortunate but divinely favoured; सुमुखः (sumukhaḥ) is not just a pleasant face but a face radiant with inner grace. When su- meets prabhāta, it does the same — it transforms a natural event (morning) into a sacred, complete, auspicious one.
+
+  - प्रभात (Prabhāta) — a **kṛdanta** (கிருதந்தம் — verbal derivative) formed as a **past passive participle** (bhūtakāla karmani kṛt, பூதகால கர்மணி கிருத்): pra- (prefix meaning "forth, completely, into full manifestation, with full intention coming forward") + bhāta (past passive participle of the root **bhā** — "to shine, to become luminous, to be radiant, to become visible as light"). Prabhāta literally means **"that which has fully shone forth, the moment when light has completely come into manifestation."** It is not merely "morning" as a time-slot on a clock — it is the *event* of light becoming fully present. The prefix pra- insists on completeness: not light beginning to appear, but light having arrived in its fullness. The dawn does not merely start — it *breaks forth*.
+
+  - Together, **सुप्रभातम् (Suprabhātam)** = **"the fully auspicious shining-forth, the dawn at its most sacred and perfectly realised."** Every element of the compound earns its place: su- brings auspiciousness and completeness; pra- brings the sense of light coming *forward* into the world; bhāta names that light as radiance itself; and the -m ending is the **nominative/accusative neuter** (नपुंसकलिङ्ग, napuṃsakaliṅga — prathamā / dvitīyā vibhakti; नपुंसक (napuṃsaka) = neuter, लिङ्ग (liṅga) = gender), making Suprabhātam function as a noun — a thing, a gift, an offering. When every verse of the Suprabhātam ends with **"tava suprabhātam"** (உமக்கு ஸுப்ரபாதம்), the grammar is performing the devotional act: *"this — a suprabhātam, this auspicious shining-forth — is offered to you."*
+
+  - The word also carries a **cosmological resonance** that goes beyond the personal. In the Vedic worldview, the sun's rising each morning is not automatic — it is the result of the cosmic order (ṛta) being maintained, of the devas performing their functions, and of the conscious participation of devotees through rituals like sandhyāvandana. The Suprabhātam is the devotee's contribution to that cosmic participation: by singing the auspicious dawn into being, by naming the Lord at the precise moment of light's arrival, the devotee becomes part of the very mechanism by which the world is renewed each morning.
+
+  - The **poetic and ritual significance** of the title is therefore threefold:
+    1. It describes what is happening cosmically — a sacred dawn is breaking;
+    2. It names what is being offered to the Lord — this hymn, this gift of auspicious morning; and
+    3. It invites the Lord into the day — as a beloved is gently called by name at the most beautiful moment of the morning, the moment when the world is freshest and most full of possibility.
 
 ### ஸுப்ரபாதத்தின் நோக்கம்:
 
@@ -65,12 +80,6 @@ scrollToTop: true
 🔸 கடவுளின் **தினசரி செயல்பாடுகள்** தொடங்க வேண்டும் என்று கோருதல்  
 
 இது மரியாதையான, அன்புமிக்க வேண்டுகோளாகும் - கட்டளையல்ல!
-
----
-
-## முதல் 7 ஸ்லோகங்களின் விளக்கம்
-
-இந்த பதிவில் ஸ்ரீ வெங்கடேஸ்வர ஸுப்ரபாதத்தின் முதல் **7 ஸ்லோகங்களின்** விரிவான விளக்கத்தைக் காண்போம்.
 
 ---
 
@@ -115,22 +124,40 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **கௌசல்யா ஸுப்ரஜா ராம** - கௌசல்யை தாயாருக்கு பிறந்த சிறந்த மகனான ராமனே! இங்கு **வெங்கடேஸ்வரனை ராமாவதாரத்துடன்** இணைத்துக் கூறுகிறது. விஷ்ணுவின் அவதாரமான ராமனும், வெங்கடேஸ்வரனும் ஒன்றே என்பதை உணர்த்துகிறது.
+🔸 **கௌசல்யா ஸுப்ரஜா ராம** - கௌசல்யை தாயாருக்கு பிறந்த சிறந்த மகனான ராமனே! இங்கு **வெங்கடேஸ்வரனை ராமாவதாரத்துடன்** இணைத்துக் கூறுகிறது. விஷ்ணுவின் அவதாரமான ராமனும், வெங்கடேஸ்வரனும் ஒன்றே என்பதை உணர்த்துகிறது.}
 
-🔸 **பூர்வா ஸந்த்யா ப்ரவர்ததே** - காலை சந்தி காலம் தொடங்கிவிட்டது. **விடியற்காலை** வந்துவிட்டது. சூரியன் உதிக்கும் நேரம் நெருங்கிவிட்டது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **பூர்வா ஸந்த்யா ப்ரவர்ததே** - காலை சந்தி காலம் தொடங்கிவிட்டது. **விடியற்காலை** வந்துவிட்டது. சூரியன் உதிக்கும் நேரம் நெருங்கிவிட்டது.}
 
-🔸 **உத்திஷ்ட நரஸார்தூல** - மனிதர்களில் புலியைப் போன்றவரே எழுந்திருக்கவும்! **"நரஸார்தூல"** என்றால் மனிதர்களில் மிகச் சிறந்தவர், வீரத்தில் புலியைப் போன்றவர் என்று பொருள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **உத்திஷ்ட நரஸார்தூல** - மனிதர்களில் புலியைப் போன்றவரே எழுந்திருக்கவும்! **"நரஸார்தூல"** என்றால் மனிதர்களில் மிகச் சிறந்தவர், வீரத்தில் புலியைப் போன்றவர் என்று பொருள்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **கர்தவ்யம் தைவம் ஆஹ்னிகம்** - தெய்வீக தினசரி கடமைகளைச் செய்ய வேண்டிய நேரம் வந்துவிட்டது. **சந்யாவந்தனம்** (காலை மாலை வழிபாடு) மற்றும் பிற நித்ய கர்மங்களைச் செய்யும் நேரம்.
 }
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - कौसल्या सुप्रजा (Kausalyā Suprajā) — कौसल्या (Kausalyā — from Kosala, the ancient kingdom of north India — "the one from Kosala," Rāma's birth mother, her name identifying her by her natal land) is in the **genitive case** (ṣaṣṭhī vibhakti, ஆறாம் வேற்றுமை — "of Kausalyā, belonging to Kausalyā"); सुप्रजा (su-prajā — su, "excellent, auspicious" + prajā, from pra- + jan, "the one born forth" — suprajā is "the excellent offspring, the one who is a glory to his mother"). Together: "O excellent son of Kausalyā!" This is a **vocative** (sambodhana, விளி வேற்றுமை) directed at Rāma — and by extension at Veṅkaṭeśvara, asserting their identity.
+
+  - पूर्वा सन्ध्या प्रवर्तते (Pūrvā Sandhyā Pravartate) — पूर्वा (pūrvā, "the eastern, the earlier, the first" — specifically referring to the eastern sky where dawn appears); सन्ध्या (sandhyā, from sam- + dhā, "to hold together" — sandhyā is "the junction, the joining-time, the moment that holds night and day together" — the twilight). प्रवर्तते (pravartate, from pra- + vṛt, "to revolve, to set into motion, to commence" — present tense middle voice: "it is setting itself into motion, it is beginning of its own accord"). Together: "the eastern sandhyā is beginning" — not merely "dawn has come" but "the sacred junction-moment is setting itself into motion."
+
+  - उत्तिष्ठ (Uttiṣṭha) — from ud- (prefix: "up, upward, rising") + the root sthā ("to stand, to be established, to remain") in the **imperative mood** (ājna-artha, ஆஜ்ஞார்த்தம்), second-person singular: "Rise up! Stand up! Arise!" The prefix ud- makes this specific — not merely "wake up" (bodha) but "rise upward, stand up and be established in wakefulness." It is the same verbal root as tiṣṭhati (he stands) — rise and stand firm.
+
+  - नरशार्दूल (Naraśārdūla) — नर (nara, "the human being, the guided one" — from the root nṛ, "to lead, to guide") + शार्दूल (śārdūla, "the tiger" — used in Sanskrit as the highest of honorifics, meaning "the best of his kind, the tiger among") — together as **vocative**: "O tiger among men, O best of human beings!" Śārdūla as the second element of a compound is one of Sanskrit's classic devices of the superlative by animal simile — nara-śārdūla means the one who among humans is what the tiger is among animals: the strongest, most powerful, most noble.
+
+  - कर्तव्यम् दैवम् आह्निकम् (Kartavyam Daivam Āhnikam) — कर्तव्यम् (kartavyam, **gerundive** — future passive participle of kṛ, "to do" — kartavya is "that which must be done, the obligatory action, the duty by right of one's nature"); दैवम् (daivam, "pertaining to the divine, of the deva, sacred" — from deva + -a adjective suffix); आह्निकम् (āhnikam, from ahas, "the day" + -ika suffix: "the daily, that which belongs to each day, the day's required observance"). Together: "the divine daily duty that must be done." Kartavyam is the key theological word — daivam āhnikam is not optional, not merely customary, but kartavya: it must be done because it is the right and necessary action of a conscious being beginning their day in alignment with dharma.
+
+
 
 ---
 
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"கௌசல்யா தேவிக்கு பிறந்த சிறந்த மகனான ராமனே! காலை சந்தி காலம் தொடங்கிவிட்டது. மனிதர்களில் சிறந்த புலியைப் போன்றவரே எழுந்தருள வேண்டும்! தெய்வீக தினசரி கடமைகளைச் செய்யும் நேரம் வந்துவிட்டது."**
+**"கௌசல்யா தேவிக்கு பிறந்த சிறந்த மகனான ராமனே! காலை சந்தி காலம் தொடங்கிவிட்டது. மனிதர்களில் சிறந்த புலியைப் போன்றவரே எழுந்தருள வேண்டும்! தெய்வீக தினசரி கடமைகளைச் செய்யும் நேரம் வந்துவிட்டது."**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 இது **ராமாயணத்தில் கௌசல்யை ராமனை எழுப்பும் காட்சியை** நினைவூட்டுகிறது. அதே போன்று பக்தர்கள் வெங்கடேஸ்வரனை மரியாதையுடன் எழுப்புகிறார்கள்.
 }
 
@@ -173,12 +200,15 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **உத்திஷ்ட உத்திஷ்ட கோவிந்தா** - எழுந்தருள வேண்டும், எழுந்தருள வேண்டும் கோவிந்தா! **இரண்டு முறை** சொல்வது மரியாதையையும் அவசரத்தையும் குறிக்கிறது. **"கோவிந்தா"** என்பது விஷ்ணுவின் முக்கிய பெயர்களில் ஒன்று - "கோ" என்றால் பசுக்கள், பூமி, இந்திரியங்கள் என பல பொருள்கள் உண்டு. அனைத்தையும் காப்பவர் கோவிந்தன்.
+🔸 **உத்திஷ்ட உத்திஷ்ட கோவிந்தா** - எழுந்தருள வேண்டும், எழுந்தருள வேண்டும் கோவிந்தா! **இரண்டு முறை** சொல்வது மரியாதையையும் அவசரத்தையும் குறிக்கிறது. **"கோவிந்தா"** என்பது விஷ்ணுவின் முக்கிய பெயர்களில் ஒன்று - "கோ" என்றால் பசுக்கள், பூமி, இந்திரியங்கள் என பல பொருள்கள் உண்டு. அனைத்தையும் காப்பவர் கோவிந்தன்.}
 
-🔸 **உத்திஷ்ட கருடத்வஜ** - கருடனைக் கொடியாகக் கொண்டவரே எழுந்தருள வேண்டும்! **கருடன்** விஷ்ணுவின் வாகனம். திருப்பதி கோவிலின் கொடிமரத்தில் **கருட கொடி** பறக்கிறது. இது வெங்கடேஸ்வரனின் அடையாளம்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **உத்திஷ்ட கருடத்வஜ** - கருடனைக் கொடியாகக் கொண்டவரே எழுந்தருள வேண்டும்! **கருடன்** விஷ்ணுவின் வாகனம். திருப்பதி கோவிலின் கொடிமரத்தில் **கருட கொடி** பறக்கிறது. இது வெங்கடேஸ்வரனின் அடையாளம்.}
 
-🔸 **உத்திஷ்ட கமலாகாந்த** - தாமரை மலரில் வீற்றிருக்கும் லக்ஷ்மி தேவியின் நாயகரே எழுந்தருள வேண்டும்! **"கமலா"** என்றால் லக்ஷ்மி, **"காந்த"** என்றால் நாயகன், கணவர். **ஸ்ரீதேவி (லக்ஷ்மி)** மார்பில் வசிக்கும் பெருமாள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **உத்திஷ்ட கமலாகாந்த** - தாமரை மலரில் வீற்றிருக்கும் லக்ஷ்மி தேவியின் நாயகரே எழுந்தருள வேண்டும்! **"கமலா"** என்றால் லக்ஷ்மி, **"காந்த"** என்றால் நாயகன், கணவர். **ஸ்ரீதேவி (லக்ஷ்மி)** மார்பில் வசிக்கும் பெருமாள்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **த்ரைலோக்யம் மங்களம் குரு** - மூன்று உலகங்களுக்கும் மங்களத்தை அருள வேண்டும்! **"த்ரைலோக்யம்"** என்றால் மூன்று உலகங்கள் - **பூலோகம், புவர்லோகம், ஸ்வர்க்க லோகம்** (பூமி, வானுலகம், சொர்க்கம்). நீங்கள் எழுந்து உலகம் மங்களமாக இருக்கட்டும்!
 }
 
@@ -187,12 +217,35 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"எழுந்தருள வேண்டும்! எழுந்தருள வேண்டும் கோவிந்தா! கருடனைக் கொடியாகக் கொண்டவரே எழுந்தருள வேண்டும்! தாமரை மலரில் வீற்றிருக்கும் லக்ஷ்மியின் நாயகரே எழுந்தருள வேண்டும்! மூன்று உலகங்களுக்கும் மங்களத்தை அருள வேண்டும்!"**
+**"எழுந்தருள வேண்டும்! எழுந்தருள வேண்டும் கோவிந்தா! கருடனைக் கொடியாகக் கொண்டவரே எழுந்தருள வேண்டும்! தாமரை மலரில் வீற்றிருக்கும் லக்ஷ்மியின் நாயகரே எழுந்தருள வேண்டும்! மூன்று உலகங்களுக்கும் மங்களத்தை அருள வேண்டும்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 இந்த ஸ்லோகம் **விஷ்ணுவின் பல திவ்ய நாமங்களை** சொல்லி அன்பாய் எழுப்புகிறது.
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - उत्तिष्ठ उत्तिष्ठ (Uttiṣṭha Uttiṣṭha) — the same imperative ("Rise up!") from Śloka 1, now repeated twice. In Sanskrit devotional poetry, the doubling of an imperative is an **āmreḍita** (ஆம்ரேடிதம் — the device of repetition for intensification), which does not indicate impatience but deepening urgency and sincerity. The first uttiṣṭha is the request; the second is the longing. Addressed three times in this verse with different names — to Govinda, to Garuḍadhvaja, to Kamalākānta — the threefold calling creates an ascending intimacy: first by his pastoral name, then by his cosmic symbol, then through his beloved.
+
+  - गोविन्द (Govinda) — vocative of Govinda, one of Viṣṇu's most beloved names: गो (go, "cow, earth, the senses, the Vedic word for knowledge and consciousness") + विन्द (vinda, from vid, "to find, to know, to recover"). Classical interpretations: "the one who finds/recovers the cows" (the Gokula cowherd), "the one who found the earth" (the Vārāha avatāra who recovered the earth from the ocean), "the one who is found through the Vedas" (the cosmic Viṣṇu). All three meanings coexist — calling him Govinda invokes pastoral intimacy, cosmic power, and Vedic knowledge simultaneously.
+
+  - गरुडध्वज (Garuḍadhvaja) — गरुड (Garuḍa, the divine eagle-king, vehicle of Viṣṇu — from garuḍ, "the devourer of serpents" — representing the soaring of the liberated soul above the coils of karma) + ध्वज (dhvaja, "flag, banner, the ensign" — from dhvaj, "to wave, to fly"). Together as **vocative**: "O one whose flag bears Garuḍa!" The dhvaja (banner/flag) is the deity's public identity, the symbol that announces from afar who dwells within a temple. Tirupati's flag (kodimaram) bears Garuḍa — calling the Lord Garuḍadhvaja is to name him by his own proclamation of identity.
+
+  - कमलाकान्त (Kamalākānta) — कमला (Kamalā, "the lotus-born, the lotus-dwelling one" — one of Lakṣmī's most beautiful names, from kamala, "the lotus") + कान्त (kānta, from kam, "to love, to shine with beauty, to attract" — kānta is "the beloved, the shining one, the one who is loved"). Together as **vocative**: "O beloved of Kamalā (Lakṣmī)!" The three names in this verse form a deliberate triad: Govinda names him through nature (the cow/earth), Garuḍadhvaja names him through his cosmic symbol, and Kamalākānta names him through his most intimate relationship — with Lakṣmī, the goddess of beauty and grace.
+
+  - त्रैलोक्यम् मङ्गलम् कुरु (Trailokyam Maṅgalam Kuru) — त्रैलोक्यम् (trailokyam, "the three worlds" — accusative of trailokya, from tri, "three" + loka, "world, realm"); मङ्गलम् (maṅgalam, "auspiciousness, well-being, the condition of things flourishing as they should" — accusative); कुरु (kuru, **imperative mood** second-person singular of kṛ, "do! make! perform!"). Together: "Make the three worlds auspicious!" Kuru is the command-form — the devotee does not merely request but invites the Lord to perform his essential cosmic function. The verse ends not with praise but with a task: having been called by three beautiful names, the Lord is now gently reminded of his duty to all three worlds.
+
+
 }
 
----
+
+:::info
+முதல் இரண்டு ஸ்லோகங்கள் **(கௌசல்யா ஸுப்ரஜா ராம)** மற்றும் **(உத்திஷ்ட உத்திஷ்ட கோவிந்தா)** **வால்மீகி ராமாயணத்திலிருந்து** எடுக்கப்பட்டவை!
+
+இவை **பால காண்டத்தில்** கௌசல்யை தாயார் இளவரசர் ராமனை காலையில் எழுப்பும் ஸ்லோகங்கள். பிரதிவாதி பயங்கரம் அண்ணங்கராச்சார்யர் இந்த புனித ஸ்லோகங்களை **வெங்கடேஸ்வர ஸுப்ரபாதத்தின் தொடக்கமாக** பயன்படுத்தினார்.
+
+**ராமாவதாரமும் வெங்கடேஸ்வரரும் ஒன்றே** என்பதை இது காட்டுகிறது. விஷ்ணுவின் அனைத்து அவதாரங்களும் **திருமலையில் ஸ்ரீனிவாசனாக** எழுந்தருளியுள்ளனர்.
+:::
+
 
 ## ஸ்லோகம் 3 - மாதஸ் ஸமஸ்த ஜகதாம்
 
@@ -238,18 +291,24 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **மாதஸ் ஸமஸ்த-ஜகதாம்** - அனைத்து உலகங்களுக்கும் தாயே! **ஜகன்-மாதா** என்று அழைக்கப்படும் லக்ஷ்மி தேவியை விளிக்கிறது.
+🔸 **மாதஸ் ஸமஸ்த-ஜகதாம்** - அனைத்து உலகங்களுக்கும் தாயே! **ஜகன்-மாதா** என்று அழைக்கப்படும் லக்ஷ்மி தேவியை விளிக்கிறது.}
 
-🔸 **மதுகைடபாரேஃ வக்ஷோவிஹாரிணி** - மது-கைடப அசுரர்களை அழித்த விஷ்ணுவின் மார்பில் வசிப்பவளே! **ஸ்ரீவத்ஸம்** என்ற அடையாளம் விஷ்ணுவின் மார்பில் உள்ளது - இது லக்ஷ்மி தேவி வசிக்கும் இடம்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **மதுகைடபாரேஃ வக்ஷோவிஹாரிணி** - மது-கைடப அசுரர்களை அழித்த விஷ்ணுவின் மார்பில் வசிப்பவளே! **ஸ்ரீவத்ஸம்** என்ற அடையாளம் விஷ்ணுவின் மார்பில் உள்ளது - இது லக்ஷ்மி தேவி வசிக்கும் இடம்.}
 
-🔸 **மனோஹர-திவ்யமூர்தே** - மனதைக் கவரும் தெய்வீக வடிவம் உடையவளே! லக்ஷ்மி தேவியின் **அழகையும் ஒளியையும்** வர்ணிக்கிறது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **மனோஹர-திவ்யமூர்தே** - மனதைக் கவரும் தெய்வீக வடிவம் உடையவளே! லக்ஷ்மி தேவியின் **அழகையும் ஒளியையும்** வர்ணிக்கிறது.}
 
-🔸 **ஸ்ரீஸ்வாமினி** - செல்வத்தின் அதிபதியே! **"ஸ்ரீ"** என்றால் செல்வம், செழிப்பு, ஐஸ்வர்யம். லக்ஷ்மி தேவி அனைத்து செல்வங்களுக்கும் அதிபதி.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸ்ரீஸ்வாமினி** - செல்வத்தின் அதிபதியே! **"ஸ்ரீ"** என்றால் செல்வம், செழிப்பு, ஐஸ்வர்யம். லக்ஷ்மி தேவி அனைத்து செல்வங்களுக்கும் அதிபதி.}
 
-🔸 **ஸ்ரிதஜனப்ரிய-தானஸீலே** - சரணடைந்தவர்களுக்கு அன்பு செய்து, கொடை வழங்கும் குணம் உடையவளே! **"ஸ்ரிதஜன"** என்றால் சரணடைந்த பக்தர்கள். அவர்களுக்கு எதையும் கொடுக்க தயாராக இருப்பவள் லக்ஷ்மி.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸ்ரிதஜனப்ரிய-தானஸீலே** - சரணடைந்தவர்களுக்கு அன்பு செய்து, கொடை வழங்கும் குணம் உடையவளே! **"ஸ்ரிதஜன"** என்றால் சரணடைந்த பக்தர்கள். அவர்களுக்கு எதையும் கொடுக்க தயாராக இருப்பவள் லக்ஷ்மி.}
 
-🔸 **ஸ்ரீ-வெங்கடேஸ-தயிதே** - ஸ்ரீ வெங்கடேஸ்வரன் மிகவும் நேசிக்கும் தேவியே! **பத்மாவதி தாயார்** (லக்ஷ்மி அவதாரம்) திருப்பதியில் ஸ்ரீனிவாசனுடன் வசிக்கிறாள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸ்ரீ-வெங்கடேஸ-தயிதே** - ஸ்ரீ வெங்கடேஸ்வரன் மிகவும் நேசிக்கும் தேவியே! **பத்மாவதி தாயார்** (லக்ஷ்மி அவதாரம்) திருப்பதியில் ஸ்ரீனிவாசனுடன் வசிக்கிறாள்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **தவ ஸுப்ரபாதம்** - உமக்கு ஸுப்ரபாதம்! உமக்கு மங்களகரமான காலை வணக்கம்!
 }
 
@@ -258,9 +317,24 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"அனைத்து உலகங்களுக்கும் தாயே! மது-கைடப அசுரர்களை அழித்த விஷ்ணுவின் மார்பில் வசிப்பவளே! மனதைக் கவரும் தெய்வீக வடிவம் உடையவளே! செல்வத்தின் அதிபதியே! சரணடைந்தவர்களை நேசித்து கொடை வழங்கும் குணம் உடையவளே! ஸ்ரீ வெங்கடேஸ்வரன் நேசிக்கும் தேவியே! உமக்கு ஸுப்ரபாதம்!"**
+**"அனைத்து உலகங்களுக்கும் தாயே! மது-கைடப அசுரர்களை அழித்த விஷ்ணுவின் மார்பில் வசிப்பவளே! மனதைக் கவரும் தெய்வீக வடிவம் உடையவளே! செல்வத்தின் அதிபதியே! சரணடைந்தவர்களை நேசித்து கொடை வழங்கும் குணம் உடையவளே! ஸ்ரீ வெங்கடேஸ்வரன் நேசிக்கும் தேவியே! உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **ஸ்ரீதேவி (லக்ஷ்மி) மற்றும் பூதேவி** ஆகிய இரு தேவியருடன் வெங்கடேஸ்வரன் எழுந்தருள வேண்டும் என்று பக்தியுடன் வேண்டுகிறது.
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - मातस् समस्त-जगताम् (Mātas Samasta-jagatām) — मातस् (mātas, **vocative** of mātṛ, "mother" — mātas is the calling-form, "O Mother!") + समस्त (samasta, from sam- + as, "completely together, all combined without remainder" — samasta is "entire, complete, all without exception") + जगताम् (jagatām, **genitive plural** of jagat — "of the worlds, of all that moves" — ṣaṣṭhī vibhakti, ஆறாம் வேற்றுமை). Together: "O Mother of all the worlds!" The genitive jaghatām (of the worlds) makes her the source and sustainer of all existence, not merely their ruler.
+
+  - मधुकैटभारेः (Madhukaiṭabhāreḥ) — मधु-कैटभ (Madhu-Kaiṭabha, the two primordial demons who arose from Viṣṇu's ear-wax during cosmic sleep and threatened Brahmā — they represent tamasic inertia and aggressive rajas, the two forces that obstruct creation) + अरेः (areḥ, **genitive of ari**, "of the enemy, of the opponent" — ṣaṣṭhī). Together: "of the enemy of Madhu and Kaiṭabha" — a genitive compound meaning "belonging to him who is the enemy (destroyer) of those demons." The whole phrase madhukaiṭabhāreḥ vakṣaḥ names Viṣṇu's chest indirectly through his greatest deed.
+
+  - वक्षोविहारिणि (Vakṣovihāriṇi) — वक्षस् (vakṣas, "the chest, the broad expanse of the chest") + विहारिणि (vihāriṇi, from vi- + hṛ, "to move freely, to dwell with delight, to sport" — vihāriṇī is the feminine form: "the one who dwells with delight, who moves freely in, who sports in") — as **vocative feminine**: "O you who dwell with delight in his chest!" The word vihāra (delight-dwelling) says Lakṣmī does not merely reside in Viṣṇu's chest — she dwells there with joy, as her natural and beloved home.
+
+  - श्री-वेङ्कटेश-दयिते (Śrī-Veṅkaṭeśa-Dayite) — दयित (dayita, from the root day, "to have compassion, to cherish" — dayita is "the cherished one, the beloved, the one who is held dear") as **vocative feminine** — dayite: "O beloved one!" The compound Śrī-Veṅkaṭeśa-dayite: "O you who are cherished by Śrī Veṅkaṭeśa!" Dayita is a warmer word than kānta — it implies not just attraction but active cherishing, the holding of someone precious. The verse addresses Lakṣmī through her beloved's love for her — she is approached not as a power to petition but as the one most dear to the very Lord being awakened.
+
+  - तव सुप्रभातम् (Tava Suprabhātam) — तव (tava, genitive of tvam: "your, belonging to you, for you") + सुप्रभातम् (suprabhātam — as explained in the title explanation). The refrain "tava suprabhātam" ends every verse from Śloka 3 onward — it is the gift offered to each being addressed. Grammatically, tava (genitive) + suprabhātam (nominative-accusative neuter) creates the construction "this suprabhātam is yours" — the auspicious dawn-salutation is dedicated to and given to the one being called.
+
+
 }
 
 ---
@@ -307,14 +381,18 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **தவ ஸுப்ரபாதம் அரவிந்தலோசனே** - தாமரை போன்ற கண்கள் உடையவரே! உமக்கு ஸுப்ரபாதம்! **"அரவிந்த"** என்றால் தாமரை, **"லோசன"** என்றால் கண்கள். விஷ்ணுவின் கண்கள் **தாமரை அரும்பு** போல் அழகாக இருக்கும்.
+🔸 **தவ ஸுப்ரபாதம் அரவிந்தலோசனே** - தாமரை போன்ற கண்கள் உடையவரே! உமக்கு ஸுப்ரபாதம்! **"அரவிந்த"** என்றால் தாமரை, **"லோசன"** என்றால் கண்கள். விஷ்ணுவின் கண்கள் **தாமரை அரும்பு** போல் அழகாக இருக்கும்.}
 
-🔸 **பவது ப்ரஸன்னமுக-சந்த்ரமண்டலே** - நிலவு போன்ற முகத்தில் மகிழ்ச்சி நிலவட்டும்! **"ப்ரஸன்ன"** என்றால் தெளிவான, மகிழ்ச்சியான. பெருமாளின் திருமுகம் **பௌர்ணமி சந்திரன்** போல ஒளிர்வதாக வர்ணிக்கிறது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **பவது ப்ரஸன்னமுக-சந்த்ரமண்டலே** - நிலவு போன்ற முகத்தில் மகிழ்ச்சி நிலவட்டும்! **"ப்ரஸன்ன"** என்றால் தெளிவான, மகிழ்ச்சியான. பெருமாளின் திருமுகம் **பௌர்ணமி சந்திரன்** போல ஒளிர்வதாக வர்ணிக்கிறது.}
 
-🔸 **விதிஸங்கரேந்த்ர-வனிதாபிர் அர்சிதே** - பிரம்மா, சிவன், இந்திரன் ஆகியோரின் மனைவியர்களால் (சரஸ்வதி, பார்வதி, இந்திராணி) வழிபடப்படுபவளே! **திவ்ய புருஷர்களின் பத்னிகளும்** லக்ஷ்மி தேவியை வழிபடுகிறார்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **விதிஸங்கரேந்த்ர-வனிதாபிர் அர்சிதே** - பிரம்மா, சிவன், இந்திரன் ஆகியோரின் மனைவியர்களால் (சரஸ்வதி, பார்வதி, இந்திராணி) வழிபடப்படுபவளே! **திவ்ய புருஷர்களின் பத்னிகளும்** லக்ஷ்மி தேவியை வழிபடுகிறார்கள்.}
 
-🔸 **வ்ருஷஸைலநாத-தயிதே** - வெங்கட மலையின் நாதனால் நேசிக்கப்படுபவளே! **"வ்ருஷசைல"** என்றால் வெங்கட மலை (திருமலை). **வெங்கடாசலபதி** வெங்கடேஸ்வரனின் அன்புக்குரிய தேவி லக்ஷ்மி.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **வ்ருஷஸைலநாத-தயிதே** - வெங்கட மலையின் நாதனால் நேசிக்கப்படுபவளே! **"வ்ருஷசைல"** என்றால் வெங்கட மலை (திருமலை). **வெங்கடாசலபதி** வெங்கடேஸ்வரனின் அன்புக்குரிய தேவி லக்ஷ்மி.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **தயானிதே** - கருணையின் கருவூலமே! தயையின் கடலே! **"நிதி"** என்றால் கருவூலம், பொக்கிஷம். லக்ஷ்மி தேவி எல்லையற்ற கருணை கொண்டவள்.
 }
 
@@ -323,9 +401,22 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"அனைத்து உலகங்களுக்கும் தாயே! மது-கைடப அசுரர்களை அழித்த விஷ்ணுவின் மார்பில் வசிப்பவளே! மனதைக் கவரும் தெய்வீக வடிவம் உடையவளே! செல்வத்தின் அதிபதியே! சரணடைந்தவர்களுக்கு அன்பு செய்து கொடை வழங்கும் குணம் உடையவளே! வெங்கட மலையின் நாதனால் நேசிக்கப்படும் கருணையின் கடலே! உமக்கு ஸுப்ரபாதம்!"**
+**"அனைத்து உலகங்களுக்கும் தாயே! மது-கைடப அசுரர்களை அழித்த விஷ்ணுவின் மார்பில் வசிப்பவளே! மனதைக் கவரும் தெய்வீக வடிவம் உடையவளே! செல்வத்தின் அதிபதியே! சரணடைந்தவர்களுக்கு அன்பு செய்து கொடை வழங்கும் குணம் உடையவளே! வெங்கட மலையின் நாதனால் நேசிக்கப்படும் கருணையின் கடலே! உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **லக்ஷ்மி தேவி** இல்லாமல் விஷ்ணுவை அணுக முடியாது. எனவே முதலில் அம்மனுக்கு வணக்கம் செலுத்துகின்றனர்.
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - अरविन्दलोचने (Aravindalocane) — अरविन्द (aravinda, "the lotus" — a poetic compound: ara, "the spoke of a wheel" + vinda, "obtaining" — the lotus whose petals radiate outward like spokes, the most perfect form of the lotus) + लोचन (locana, from the root loc, "to see, to perceive clearly" — locana is "the eye, the organ of clear perception") as **vocative feminine** — aravinda-locane: "O lotus-eyed one!" His eyes are compared to aravinda specifically — not any lotus but the most perfect, fully-opened, radially complete lotus, whose beauty arrests the beholder completely.
+
+  - भवतु प्रसन्नमुख-चन्द्रमण्डले (Bhavatu Prasannamukha-candramaṇḍale) — भवतु (bhavatu, **imperative** of bhū, third-person singular: "let it be, may it be") + प्रसन्न (prasanna, from pra- + sad, "to settle, to become clear and calm" — prasanna is "clarified, serene, joyfully at peace, as a lake becomes prasanna when its sediment settles") + मुख (mukha, "face, the forward-facing, the front") + चन्द्र-मण्डल (candra-maṇḍala, "the moon's circle, the full-moon disc"). Together: "may the serene, moon-disc face be (present / revealed)." Bhavatu is the wish: may this serene moon-face appear before us.
+
+  - विधिशङ्करेन्द्र-वनिताभिः अर्चिते (Vidhiśaṅkarendra-vanitābhir Arcite) — विधि (vidhi, "the ordainer, the lawgiver" — Brahmā's title) + शङ्कर (śaṅkara, "the one who causes auspiciousness" — Śiva's name) + इन्द्र (indra, "the most powerful, the king" — Indra) = the three great male deities; वनिताभिः (vanitābhiḥ, instrumental plural of vanitā, "the woman, the wife, the female consort" — "by their wives, by their consorts") + अर्चिते (arcite, past passive participle of arc, "to worship" — "the worshipped one, the one who has been fully reverenced") — vocative: "O you who are worshipped by the wives of Brahmā, Śiva, and Indra!" Even the consorts of the cosmic trinity — Sarasvatī, Pārvatī, and Indrāṇī — offer reverence to Lakṣmī.
+
+  - दयानिधे (Dayānidhe) — दया (dayā, "compassion, the aching of the heart for another's pain, active mercy") + निधि (nidhi, from ni- + dhā, "to place down, to deposit" — nidhi is "the treasure, the repository, the inexhaustible storehouse") as **vocative**: "O treasure-house of compassion!" Nidhi says her compassion is not a quality she has but an inexhaustible deposit she holds — the treasury of all mercy in existence. Those who come to her never find it depleted.
+
+
 }
 
 ---
@@ -375,16 +466,21 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **அத்ர்யாதி-ஸப்தருஷயஃ** - அத்ரி முதலான ஏழு பெரும் ரிஷிகள். **சப்த ரிஷிகள்**: அத்ரி, பரத்வாஜ, விஸ்வாமித்திர, கௌதம, ஜமதக்னி, வசிஷ்ட, காஸ்யப. இவர்கள் **நட்சத்திரங்களாக** விண்ணில் ஒளிர்கிறார்கள்.
+🔸 **அத்ர்யாதி-ஸப்தருஷயஃ** - அத்ரி முதலான ஏழு பெரும் ரிஷிகள். **சப்த ரிஷிகள்**: அத்ரி, பரத்வாஜ, விஸ்வாமித்திர, கௌதம, ஜமதக்னி, வசிஷ்ட, காஸ்யப. இவர்கள் **நட்சத்திரங்களாக** விண்ணில் ஒளிர்கிறார்கள்.}
 
-🔸 **ஸமுபாஸ்ய ஸந்த்யாம்** - சந்தி காலத்தில் சந்யாவந்தனம் முடித்து. ரிஷிகள் தங்களுடைய **காலை வேதகர்மங்களை** முடித்த பின்னர்...
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸமுபாஸ்ய ஸந்த்யாம்** - சந்தி காலத்தில் சந்யாவந்தனம் முடித்து. ரிஷிகள் தங்களுடைய **காலை வேதகர்மங்களை** முடித்த பின்னர்...}
 
-🔸 **ஆகாஸஸிந்து-கமலானி மனோஹராணி** - வான் மண்டலக் கடலில் மலரும் அழகிய தாமரை மலர்களை. **"ஆகாஸ"** என்றால் வானம், **"ஸிந்து"** என்றால் கடல். இங்கு இது **ஆகாயத்தில் பூக்கும் தெய்வீக தாமரைகளை** குறிக்கிறது - அல்லது **வானத்திலிருந்து** தோன்றும் தெய்வீக மலர்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஆகாஸஸிந்து-கமலானி மனோஹராணி** - வான் மண்டலக் கடலில் மலரும் அழகிய தாமரை மலர்களை. **"ஆகாஸ"** என்றால் வானம், **"ஸிந்து"** என்றால் கடல். இங்கு இது **ஆகாயத்தில் பூக்கும் தெய்வீக தாமரைகளை** குறிக்கிறது - அல்லது **வானத்திலிருந்து** தோன்றும் தெய்வீக மலர்கள்.}
 
-🔸 **ஆதாய படயுகம் அர்சயிதும் ப்ரபன்னாஃ** - ((தெய்வீக தாமரைகளை) எடுத்துக்கொண்டு உமது திருவடிகளை வணங்குவதற்காக சரணடைந்து வந்துள்ளனர். ரிஷிகள் **திருப்பதி வந்து** பெருமாளின் பாதங்களை **அர்ச்சனை** செய்ய தயாராக உள்ளனர்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஆதாய படயுகம் அர்சயிதும் ப்ரபன்னாஃ** - (தெய்வீக தாமரைகளை) எடுத்துக்கொண்டு உமது திருவடிகளை வணங்குவதற்காக சரணடைந்து வந்துள்ளனர். ரிஷிகள் **திருப்பதி வந்து** பெருமாளின் பாதங்களை **அர்ச்சனை** செய்ய தயாராக உள்ளனர்.}
 
-🔸 **ஸேஷாத்ரி-ஸேகர-விபோ** - சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! **"சேஷாத்ரி"** = சேஷகிரி = **திருவெங்கட மலை** (சேஷனின் மலை). **"சேகர"** = உச்சி, சிகரம்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸேஷாத்ரி-ஸேகர-விபோ** - சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! **"சேஷாத்ரி"** = சேஷகிரி = **திருவெங்கட மலை** (சேஷனின் மலை). **"சேகர"** = உச்சி, சிகரம்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **தவ ஸுப்ரபாதம்** - உமக்கு ஸுப்ரபாதம்!
 }
 
@@ -393,9 +489,22 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"தாமரை போன்ற கண்கள் உடையவரே! நிலவு போன்ற பிரசன்னமான முகம் உடையவரே! பிரம்மா, சிவன், இந்திரன் ஆகியோரின் தேவியரால் வழிபடப்படுபவரே! வெங்கட மலையின் நாதனால் நேசிக்கப்படும் கருணையின் கடலே! அத்ரி முதலான ஏழு ரிஷிகளும் காலை சந்யாவந்தனம் முடித்து, வான் மண்டலக் கடலில் மலரும் அழகிய தாமரைகளை எடுத்துக்கொண்டு, உமது திருவடிகளை வணங்குவதற்காக சரணடைந்து வந்துள்ளனர். உமக்கு ஸுப்ரபாதம்!"**
+**"தாமரை போன்ற கண்கள் உடையவரே! நிலவு போன்ற பிரசன்னமான முகம் உடையவரே! பிரம்மா, சிவன், இந்திரன் ஆகியோரின் தேவியரால் வழிபடப்படுபவரே! வெங்கட மலையின் நாதனால் நேசிக்கப்படும் கருணையின் கடலே! அத்ரி முதலான ஏழு ரிஷிகளும் காலை சந்யாவந்தனம் முடித்து, வான் மண்டலக் கடலில் மலரும் அழகிய தாமரைகளை எடுத்துக்கொண்டு, உமது திருவடிகளை வணங்குவதற்காக சரணடைந்து வந்துள்ளனர். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **சப்த ரிஷிகளுமே** திருப்பதி வந்து பெருமாளை வணங்க காத்திருக்கிறார்கள் என்பது எவ்வளவு பெரிய மகிமை!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - अत्र्यादि-सप्तर्षयः (Atryādi-saptarṣayaḥ) — अत्रि (Atri, one of the seven great sages — his name from the root ad, "to eat, to consume" — Atri is the sage who "consumed" the three (tri) demons through his tapas) + आदि (ādi, "beginning with, and the others from this one forward" — ādi makes Atri the first named of the group, implying the other six follow) + सप्त-ऋषयः (saptarṣayaḥ, from sapta, "seven" + ṛṣi, "the sage, the seer who has seen directly" — nominative plural). Together: "the seven ṛṣis beginning with Atri." The saptarṣis (Great Bear constellation) are also the seven stars of Ursa Major — the verse places them both as celestial beings and as arriving devotees.
+
+  - समुपास्य सन्ध्याम् (Samupāsya Sandhyām) — समुपास्य (samupāsya, **indeclinable gerund** of sam- + upa- + ās, "having fully approached, having completely performed the upāsanā (worship-meditation)" — the gerund indicates completed prior action: "having worshipped"); सन्ध्याम् (sandhyām, accusative of sandhyā, "the sandhyā worship, the junction-time ritual"). Together: "having fully performed the sandhyā worship." The double prefix sam-upa- signals totality — not a hurried sandhyā but the complete, properly observed rite. Only then do the ṛṣis proceed to the Lord's feet.
+
+  - आकाशसिन्धु-कमलानि मनोहराणि (Ākāśasindhu-kamalāni Manoharāṇi) — आकाश (ākāśa, "the sky, the ether, the luminous space" — from ā + kāś, "to shine forth completely") + सिन्धु (sindhu, "the ocean, the great sea" — the sky conceived as a celestial ocean) + कमलानि (kamalāni, "lotuses" — nominative/accusative plural of kamala) + मनोहराणि (manoharāṇi, "mind-captivating, enchanting" — from manas + hara, "stealing the mind"). Together: "the enchanting lotuses of the celestial ocean." The ākāśa-sindhu is the sky conceived as a cosmic ocean — the lotuses within it are either visionary divine flowers or perhaps stars and planets seen as celestial blooms.
+
+  - शेषाद्रि-शेखर-विभो (Śeṣādri-śekhara-vibho) — शेष (Śeṣa, the cosmic serpent Ādiśeṣa) + अद्रि (adri, "mountain, rocky mass") = Śeṣādri: "the mountain that is Śeṣa," the hill upon which the Lord rests, which is itself the divine serpent in mountain-form; शेखर (śekhara, "the crest, the crown, the topmost peak" — from śikh, "to be at the summit") + विभो (vibho, vocative of vibhu — vi- + bhū, "fully pervading, omnipotent, the one whose being fills all directions"). Together as vocative: "O omnipotent one at the crest of Śeṣādri!" Vibho closes every verse from 5 onward — it is the Lord's essential nature stated at each dawn: all-pervading, beyond limitation.
+
+
 }
 
 ---
@@ -447,12 +556,15 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **பஞ்சானன அப்ஜபவ-ஷண்முக-வாஸவாத்யாஃ** - ஐந்து முகம் கொண்ட சிவன், தாமரையில் பிறந்த பிரம்மா, ஆறு முகம் கொண்ட முருகன், இந்திரன் முதலான தேவர்கள். **முக்கிய தேவர்கள்** அனைவரும் ஒன்று சேர்ந்துள்ளனர்.
+🔸 **பஞ்சானன அப்ஜபவ-ஷண்முக-வாஸவாத்யாஃ** - ஐந்து முகம் கொண்ட சிவன், தாமரையில் பிறந்த பிரம்மா, ஆறு முகம் கொண்ட முருகன், இந்திரன் முதலான தேவர்கள். **முக்கிய தேவர்கள்** அனைவரும் ஒன்று சேர்ந்துள்ளனர்.}
 
-🔸 **த்ரைவிக்ரமாதி-சரிதம் விபுதாஃ ஸ்துவந்தி** - திரிவிக்ரம (வாமன அவதாரம்) முதலான உமது புகழ்பெற்ற செயல்களை தேவர்கள் துதிக்கிறார்கள். **வாமன-திரிவிக்ரம கதை** - சிறிய பிராமண சிறுவனாக வந்து, பின்னர் மூன்று அடிகளால் பூமி-வானம்-பாதாளம் அளந்த அற்புத கதை.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **த்ரைவிக்ரமாதி-சரிதம் விபுதாஃ ஸ்துவந்தி** - திரிவிக்ரம (வாமன அவதாரம்) முதலான உமது புகழ்பெற்ற செயல்களை தேவர்கள் துதிக்கிறார்கள். **வாமன-திரிவிக்ரம கதை** - சிறிய பிராமண சிறுவனாக வந்து, பின்னர் மூன்று அடிகளால் பூமி-வானம்-பாதாளம் அளந்த அற்புத கதை.}
 
-🔸 **பாஷாபதிஃ படதி வாஸரஸுத்திம் ஆராத்** - வாக்குக்கு அதிபதியான (பிருஹஸ்பதி/சரஸ்வதி) வெளியிலிருந்து பஞ்சாங்கத்தை (நாள் சுத்தி) படிக்கிறார். **பஞ்சாங்க ஸ்ரவணம்** - ஒவ்வொரு நாளின் தினசரி நக்ஷத்திரம், திதி, கரணம், யோகம் ஆகியவற்றை தேவ குருவான **பிருஹஸ்பதி** அறிவிக்கிறார்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **பாஷாபதிஃ படதி வாஸரஸுத்திம் ஆராத்** - வாக்குக்கு அதிபதியான (பிருஹஸ்பதி/சரஸ்வதி) வெளியிலிருந்து பஞ்சாங்கத்தை (நாள் சுத்தி) படிக்கிறார். **பஞ்சாங்க ஸ்ரவணம்** - ஒவ்வொரு நாளின் தினசரி நக்ஷத்திரம், திதி, கரணம், யோகம் ஆகியவற்றை தேவ குருவான **பிருஹஸ்பதி** அறிவிக்கிறார்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸேஷாத்ரி-ஸேகர-விபோ** - சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! **"சேஷாத்ரி"** என்றால் சேஷகிரி = திருவெங்கட மலை. **ஆதிசேஷன் சுருண்டு மலையாக** நிற்பதால் இந்த பெயர்.
 }
 
@@ -461,9 +573,20 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! சிவன், பிரம்மா, முருகன், இந்திரன் முதலான தேவர்கள் உமது திரிவிக்ரம முதலான புகழ்பெற்ற செயல்களை துதிக்கிறார்கள். வாக்குக்கு அதிபதியான பிருஹஸ்பதி வெளியில் நின்று இன்றைய பஞ்சாங்கத்தை (நாள் சுத்தியை) ஓதுகிறார். அத்ரி முதலான ஏழு ரிஷிகளும் காலை சந்யாவந்தனம் முடித்து, வான் மண்டலக் கடலிலிருந்து அழகிய தாமரை மலர்களை எடுத்துக்கொண்டு, உமது திருவடிகளை வணங்குவதற்காக சரணடைந்து வந்துள்ளனர். உமக்கு ஸுப்ரபாதம்!"**
+**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! சிவன், பிரம்மா, முருகன், இந்திரன் முதலான தேவர்கள் உமது திரிவிக்ரம முதலான புகழ்பெற்ற செயல்களை துதிக்கிறார்கள். வாக்குக்கு அதிபதியான பிருஹஸ்பதி வெளியில் நின்று இன்றைய பஞ்சாங்கத்தை (நாள் சுத்தியை) ஓதுகிறார். அத்ரி முதலான ஏழு ரிஷிகளும் காலை சந்யாவந்தனம் முடித்து, வான் மண்டலக் கடலிலிருந்து அழகிய தாமரை மலர்களை எடுத்துக்கொண்டு, உமது திருவடிகளை வணங்குவதற்காக சரணடைந்து வந்துள்ளனர். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **தேவலோகம் முழுவதும்** பெருமாளை துதித்து, ரிஷிகள் வழிபட வந்து காத்திருக்கிறார்கள்!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - पञ्चानन अब्जभव षण्मुख वासवाद्याः (Pañcānana Abjabhava Ṣaṇmukha Vāsavādyāḥ) — पञ्चानन (pañcānana — pañca, "five" + ānana, "face" — "the five-faced one," Śiva's form with five faces representing five directions and five cosmic functions) + अब्जभव (abjabhava — abja, "lotus-born" + bhava, "arising from" — "the one born from the lotus," Brahmā who arose from the lotus of Viṣṇu's navel) + षण्मुख (ṣaṇmukha — ṣaṭ, "six" + mukha, "face" — "the six-faced one," Skanda/Murugan, born of six divine sparks) + वासव (Vāsava, "the descendant of Vasu, the powerful one" — Indra's epithet) + आद्याः (ādyāḥ, nominative plural: "and those beginning from these, and others like these"). Together: a cascade of the most powerful cosmic beings named by their most distinctive attributes.
+
+  - त्रिविक्रमादि-चरितम् विबुधाः स्तुवन्ति (Trivikramādi-caritam Vibudhāḥ Stuvanti) — त्रिविक्रम (trivikrama — tri, "three" + vikrama, "stride, the heroic step" — "the three-strider," Viṣṇu's Vāmana-avatāra form who measured all three worlds in three strides) + आदि (ādi, "beginning with, and the others following") + चरितम् (caritam, "the deeds, the history, the accomplished acts" — from car, "to move, to act, to accomplish") + विबुधाः (vibudhāḥ, "the learned ones, the gods, those who know" — from vi- + budh, "to know fully") + स्तुवन्ति (stuvanti, present third-person plural of stu, "to praise, to sing the glory of"). Together: "the learned gods sing the deeds beginning with Trivikrama." Trivikrama is named first because his three strides encompassed all three worlds — the most cosmically comprehensive of all the avatāra deeds.
+
+  - भाषापतिः पठति वासरशुद्धिम् (Bhāṣāpatiḥ Paṭhati Vāsaraśuddhim) — भाषापति (bhāṣāpati — bhāṣā, "language, speech, the articulated word" + pati, "lord, master" — "the lord of speech," referring to Bṛhaspati, the preceptor of the gods, or Sarasvatī) + पठति (paṭhati, present third-person singular of paṭh, "to recite aloud, to read") + वासर-शुद्धि (vāsara-śuddhi — vāsara, "the day" + śuddhi, "purification, the determination of auspiciousness" — vāsara-śuddhi is the pañcāṅga, the daily almanac that determines whether the day is auspicious for each activity). Together: "the lord of speech is reciting the day's pañcāṅga." Even the divine teacher announces the calendar — dawn is the moment when the day's sacred mathematics are declared.
+
+
 }
 
 ---
@@ -516,16 +639,21 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **இஷத்ப்ரபுல்ல-ஸரஸீருஹ** - லேசாக மலர்ந்த தாமரை மலர்கள். காலையில் சூரியன் உதிக்கும்போது தாமரை மலர்கள் **மெதுவாக விரிய ஆரம்பிக்கின்றன**. இது விடியல் நேரத்தின் அழகை சித்தரிக்கிறது.
+🔸 **இஷத்ப்ரபுல்ல-ஸரஸீருஹ** - லேசாக மலர்ந்த தாமரை மலர்கள். காலையில் சூரியன் உதிக்கும்போது தாமரை மலர்கள் **மெதுவாக விரிய ஆரம்பிக்கின்றன**. இது விடியல் நேரத்தின் அழகை சித்தரிக்கிறது.}
 
-🔸 **நாரிகேல-பூகத்ருமாதி** - தென்னை மரம், பாக்கு மரம் முதலிய மரங்கள். **திருமலை** மலைப்பகுதியில் பல வகை **மங்கள மரங்கள்** வரிசையாக நிற்கின்றன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **நாரிகேல-பூகத்ருமாதி** - தென்னை மரம், பாக்கு மரம் முதலிய மரங்கள். **திருமலை** மலைப்பகுதியில் பல வகை **மங்கள மரங்கள்** வரிசையாக நிற்கின்றன.}
 
-🔸 **ஸுமனோஹர-பாலிகானாம்** - மிக அழகான வரிசையில் நிற்கும் மரங்களின். திருமலை செல்லும் பாதையில் **அழகாக வரிசையாக** நின்ற மரங்கள் மனதை கவருகின்றன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸுமனோஹர-பாலிகானாம்** - மிக அழகான வரிசையில் நிற்கும் மரங்களின். திருமலை செல்லும் பாதையில் **அழகாக வரிசையாக** நின்ற மரங்கள் மனதை கவருகின்றன.}
 
-🔸 **ஆவாதி மந்தம் அனிலஃ** - மெதுவாக காற்று வீசுகிறது. **மென்மையான குளிர்ந்த காற்று** விடியற்காலையில் வீசுகிறது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஆவாதி மந்தம் அனிலஃ** - மெதுவாக காற்று வீசுகிறது. **மென்மையான குளிர்ந்த காற்று** விடியற்காலையில் வீசுகிறது.}
 
-🔸 **ஸஹ திவ்யகந்தைஃ** - தெய்வீக நறுமணங்களுடன். மலர்களின், கற்பூரத்தின், சந்தனத்தின், அகில் தூபத்தின் **புனித வாசனைகள்** காற்றில் கலந்து வருகின்றன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸஹ திவ்யகந்தைஃ** - தெய்வீக நறுமணங்களுடன். மலர்களின், கற்பூரத்தின், சந்தனத்தின், அகில் தூபத்தின் **புனித வாசனைகள்** காற்றில் கலந்து வருகின்றன.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸேஷாத்ரி-ஸேகர-விபோ** - சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே!
 }
 
@@ -534,30 +662,24 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! லேசாக மலர்ந்த தாமரை மலர்கள், தென்னை மரங்கள், பாக்கு மரங்கள் முதலான மிக அழகிய வரிசையில் நிற்கும் மரங்களிலிருந்து, தெய்வீக நறுமணங்களுடன் மெதுவாக காற்று வீசுகிறது. உமக்கு ஸுப்ரபாதம்!"**
+**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! லேசாக மலர்ந்த தாமரை மலர்கள், தென்னை மரங்கள், பாக்கு மரங்கள் முதலான மிக அழகிய வரிசையில் நிற்கும் மரங்களிலிருந்து, தெய்வீக நறுமணங்களுடன் மெதுவாக காற்று வீசுகிறது. உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **இயற்கை** விழித்துக்கொண்டது - மலர்கள் பூக்கின்றன, காற்று வீசுகிறது, நறுமணம் பரவுகிறது - இப்போது எழுந்தருள வேண்டும்!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - इषत्प्रफुल्ल-सरसीरुह (Iṣatpraphulla-sarasīruha) — इषत् (iṣat, "slightly, a little, barely perceptibly" — one of Sanskrit's most delicate adverbs, naming the smallest possible degree of an action) + प्रफुल्ल (praphulla, from pra- + phull, "to burst open, to bloom" — "fully opened, bloomed") + सरसी-रुह (sarasīruha — sarasī, "a lake, a still pond" + ruha, "growing from, arising from" — "the one that grows from a lake," the lotus). Together: iṣat-praphulla-sarasīruha is "the lotus barely beginning to fully open" — the precise moment of first bloom, one of Sanskrit poetry's most treasured images of the dawn hour.
+
+  - नारिकेल-पूग-द्रुम-आदि-सुमनोहर-पालिकानाम् (Nārikela-pūga-druma-ādi-sumanohara-pālikānām) — नारिकेल (nārikela, "the coconut palm" — from nāra, "water" + the root meaning "to send forth" — the tree that sends forth water-bearing fruit) + पूग (pūga, "the areca-nut palm, the betel-nut tree") + द्रुम (druma, "tree, the standing one" — from dru, "wood, that which is firm and enduring") + आदि (ādi, "and others of this kind") + सुमनोहर (su-manohara, "exceedingly mind-captivating, supremely enchanting") + पालिकानाम् (pālikānām, genitive plural of pālikā, "a row, a line, a series" — "of the rows of"). Together: "of the supremely beautiful rows of coconut palms, areca palms, trees, and others." Pālikānām gives the image of organized, ordered beauty — rows of trees along the path to the temple.
+
+  - आवाति मन्दम् अनिलः सह दिव्यगन्धैः (Āvāti Mandam Anilaḥ Saha Divyagandhaiḥ) — आवाति (āvāti, from ā + vā, "to blow toward, to waft in the direction of" — present tense: "it wafts, it blows gently toward") + मन्दम् (mandam, "gently, slowly, in a measured and unhurried way" — the adverb of measured speed and gentleness) + अनिलः (anilaḥ, "the wind, the breath of the world" — from an, "to breathe" — anilaḥ is the wind understood as the breathing of the cosmos) + सह (saha, "together with, accompanied by") + दिव्यगन्धैः (divyagandhaiḥ, instrumental plural: "by/with divine fragrances" — fragrance as a divine quality, not just pleasant smell). Together: "the wind wafts gently, accompanied by divine fragrances." The sentence's grammar enacts what it describes: āvāti-mandam is itself slow, gentle, measured — the grammar breathes like the wind.
+
+
 }
 
----
 
-## சிறப்பு குறிப்புகள்
-
-### முதல் இரண்டு ஸ்லோகங்களின் தனித்தன்மை
-
-::combo[bg:#fff0f5;color:#c71585;padding:15px]{
-முதல் இரண்டு ஸ்லோகங்கள் **(கௌசல்யா ஸுப்ரஜா ராம)** மற்றும் **(உத்திஷ்ட உத்திஷ்ட கோவிந்தா)** **வால்மீகி ராமாயணத்திலிருந்து** எடுக்கப்பட்டவை!
-
-இவை **பால காண்டத்தில்** கௌசல்யை தாயார் இளவரசர் ராமனை காலையில் எழுப்பும் ஸ்லோகங்கள். பிரதிவாதி பயங்கரம் அண்ணங்கராச்சார்யர் இந்த புனித ஸ்லோகங்களை **வெங்கடேஸ்வர ஸுப்ரபாதத்தின் தொடக்கமாக** பயன்படுத்தினார்.
-
-**ராமாவதாரமும் வெங்கடேஸ்வரரும் ஒன்றே** என்பதை இது காட்டுகிறது. விஷ்ணுவின் அனைத்து அவதாரங்களும் **திருமலையில் ஸ்ரீனிவாசனாக** எழுந்தருளியுள்ளனர்.
-}
-
----
-
-### திருமலையின் காலை காட்சி
-
-::combo[bg:#e8f5e9;color:#2e7d32;padding:15px]{
+:::tip[திருமலையின் காலை காட்சி]
 இந்த ஸ்லோகங்கள் **திருமலையின் விடியற்கால அழகை** அற்புதமாக சித்தரிக்கின்றன:
 
 🌅 **காலை சந்தி காலம்** தொடங்குகிறது  
@@ -574,9 +696,8 @@ scrollToTop: true
 🚪 **திரிமூர்த்திகள்** வாசலில் காத்திருக்கிறார்கள்  
 
 **இயற்கையும் தேவலோகமும்** பெருமாள் எழுந்தருள காத்திருக்கின்றன!
-}
+:::
 
----
 
 ## ஸ்லோகம் 8 - உன்மீல்ய நேத்ர யுகம்
 
@@ -624,16 +745,21 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **உன்மீல்ய நேத்ரயுகம்** - இரண்டு கண்களையும் திறந்து (விழித்து). **கிளிகள் காலையில் விழிக்கின்றன**, விடியற்காலம் வந்துவிட்டது என்பதை காட்டுகிறது.
+🔸 **உன்மீல்ய நேத்ரயுகம்** - இரண்டு கண்களையும் திறந்து (விழித்து). **கிளிகள் காலையில் விழிக்கின்றன**, விடியற்காலம் வந்துவிட்டது என்பதை காட்டுகிறது.}
 
-🔸 **உத்தம-பஞ்ஜரஸ்தாஃ** - சிறந்த கூண்டுகளில் இருக்கும் (கிளிகள்). **கோவிலில் வளர்க்கப்படும் புனிதமான கிளிகள்**. பழங்காலத்தில் அரசர்கள் கோவில்களுக்கு அழகிய கிளிகளை கொடையாக அளிப்பார்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **உத்தம-பஞ்ஜரஸ்தாஃ** - சிறந்த கூண்டுகளில் இருக்கும் (கிளிகள்). **கோவிலில் வளர்க்கப்படும் புனிதமான கிளிகள்**. பழங்காலத்தில் அரசர்கள் கோவில்களுக்கு அழகிய கிளிகளை கொடையாக அளிப்பார்கள்.}
 
-🔸 **பாத்ராவசிஷ்ட-கதலீபல-பாயஸானி** - பாத்திரத்தில் மீதமுள்ள வாழைப்பழம் கலந்த பால் பாயசத்தை. முந்தைய நாள் பெருமாளுக்கு நைவேத்யம் செய்யப்பட்ட **பிரசாதத்தை** கிளிகளுக்கு கொடுப்பார்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **பாத்ராவசிஷ்ட-கதலீபல-பாயஸானி** - பாத்திரத்தில் மீதமுள்ள வாழைப்பழம் கலந்த பால் பாயசத்தை. முந்தைய நாள் பெருமாளுக்கு நைவேத்யம் செய்யப்பட்ட **பிரசாதத்தை** கிளிகளுக்கு கொடுப்பார்கள்.}
 
-🔸 **புக்த்வா ஸலீலம்** - இனிமையாக, விளையாட்டாக சாப்பிட்டு. கிளிகள் **மகிழ்ச்சியாக** பிரசாதத்தை உண்கின்றன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **புக்த்வா ஸலீலம்** - இனிமையாக, விளையாட்டாக சாப்பிட்டு. கிளிகள் **மகிழ்ச்சியாக** பிரசாதத்தை உண்கின்றன.}
 
-🔸 **அத கேலிஸுகாஃ படந்தி** - அதன் பிறகு விளையாட்டுக் கிளிகள் பாடுகின்றன. கிளிகள் **வேத மந்திரங்களை** அல்லது **உமது நாமங்களை** இனிமையாக கூவுகின்றன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **அத கேலிஸுகாஃ படந்தி** - அதன் பிறகு விளையாட்டுக் கிளிகள் பாடுகின்றன. கிளிகள் **வேத மந்திரங்களை** அல்லது **உமது நாமங்களை** இனிமையாக கூவுகின்றன.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸேஷாத்ரி-ஸேகர-விபோ** - சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே!
 }
 
@@ -642,9 +768,22 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! சிறந்த கூண்டுகளில் இருக்கும் விளையாட்டுக் கிளிகள் இரண்டு கண்களையும் திறந்து விழித்து, பாத்திரத்தில் மீதமுள்ள வாழைப்பழம் கலந்த பால் பாயசத்தை இனிமையாக உண்டு, பின்னர் உமது புகழை பாடுகின்றன. உமக்கு ஸுப்ரபாதம்!"**
+**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! சிறந்த கூண்டுகளில் இருக்கும் விளையாட்டுக் கிளிகள் இரண்டு கண்களையும் திறந்து விழித்து, பாத்திரத்தில் மீதமுள்ள வாழைப்பழம் கலந்த பால் பாயசத்தை இனிமையாக உண்டு, பின்னர் உமது புகழை பாடுகின்றன. உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **கோவில் கிளிகளும்** விழித்து பிரசாதம் உண்டு, பெருமாளின் நாமாவளியை பாடத் தொடங்கிவிட்டன!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - उन्मील्य नेत्रयुगम् (Unmīlya Netrayugam) — उन्मील्य (unmīlya, **gerund** of un- + mīl, "to open the eyes, to bloom open" — "having opened, upon opening"); नेत्र (netra, from the root nī, "to lead, to guide" — netra is "the eye, the guiding organ, that which leads the perceiver") + युगम् (yugam, "a pair, a yoke, two joined together" — from yuj, "to join"). Netrayugam: "the pair of eyes, the two eyes as a joined unit." Together: "having opened the pair of eyes." The gerund unmīlya places the awakening first — the parrots' first act upon waking is to open their eyes. Every being in the Suprabhātam begins its day by awakening to the Lord's presence.
+
+  - उत्तम-पञ्जरस्थाः (Uttama-pañjarasthāḥ) — उत्तम (uttama, "the highest, the best, the most excellent" — from ud, "upward" + tama, superlative suffix) + पञ्जर (pañjara, "a cage, a latticed enclosure" — from pañj, "to be arranged, to be set in an enclosure") + स्थाः (sthāḥ, "those dwelling in, those established in" — from sthā). Together: "those dwelling in excellent cages." These are the temple parrots — kept in carefully constructed cages (uttama = of the best quality, not mere confinement but honoured residence) as living participants in the temple's sacred life.
+
+  - पायसानि भुक्त्वा सलीलम् (Pāyasāni Bhuktvā Salīlam) — पायसानि (pāyasāni, nominative/accusative plural of pāyasa, "milk-food, a dish made of rice, milk, and sweetness — the divine prasāda") + भुक्त्वा (bhuktvā, **gerund** of bhuj, "to eat, to enjoy, to experience pleasure through" — "having eaten, after eating") + सलीलम् (salīlam, from sa-, "with" + līlā, "divine play, joyful ease, the sport of the graceful" — "playfully, with joyful ease, in a spirit of divine sport"). Together: "having eaten the pāyasa playfully." Salīlam is the key word — the parrots do not merely consume; they eat with līlā, with the joyful ease of sacred play.
+
+  - केलिशुकाः पठन्ति (Keliśukāḥ Paṭhanti) — केलि (keli, "sport, play, the joyful playful activity" — from kīl, "to play") + शुकाः (śukāḥ, "parrots" — the nominative plural of śuka, the parrot, sacred bird known for repeating divine names) + पठन्ति (paṭhanti, present third-person plural of paṭh, "to recite, to chant, to pronounce aloud"). Together: "the playful parrots recite." Keli-śukāḥ — the sporting parrots — their very name combines joy (keli) with the sacred reciter (śuka). In temple tradition, trained parrots would repeat divine names, making them living instruments of mantra. Their paṭhanti (recitation) after eating prasāda makes the very act of receiving divine food inseparable from the act of praising.
+
+
 }
 
 ---
@@ -695,12 +834,15 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **தந்த்ரீப்ரகர்ஷ-மதுரஸ்வனயா விபஞ்ச்யா** - நரம்புகளின் சிறப்பினால் இனிமையான இசை எழுப்பும் வீணையுடன். **"தந்த்ரீ"** என்றால் நரம்பு, வீணையின் நரம்புகள். **தேவரிஷி நாரதரின் வீணை** விண்ணுலகில் புகழ்பெற்றது.
+🔸 **தந்த்ரீப்ரகர்ஷ-மதுரஸ்வனயா விபஞ்ச்யா** - நரம்புகளின் சிறப்பினால் இனிமையான இசை எழுப்பும் வீணையுடன். **"தந்த்ரீ"** என்றால் நரம்பு, வீணையின் நரம்புகள். **தேவரிஷி நாரதரின் வீணை** விண்ணுலகில் புகழ்பெற்றது.}
 
-🔸 **காயத்ய் அனந்தசரிதம் தவ நாரதோ(அ)பி** - தேவரிஷி நாரதரும் உமது அனந்தமான புகழ்ச் செயல்களை பாடுகிறார். **"அனந்த சரிதம்"** என்றால் முடிவில்லா கதைகள் - விஷ்ணுவின் அவதாரங்கள் மற்றும் லீலைகள் எண்ணிக்கையில்லாதவை.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **காயத்ய் அனந்தசரிதம் தவ நாரதோ(அ)பி** - தேவரிஷி நாரதரும் உமது அனந்தமான புகழ்ச் செயல்களை பாடுகிறார். **"அனந்த சரிதம்"** என்றால் முடிவில்லா கதைகள் - விஷ்ணுவின் அவதாரங்கள் மற்றும் லீலைகள் எண்ணிக்கையில்லாதவை.}
 
-🔸 **பாஷாஸமக்ரம் அஸக்ருத்-கரசாரரம்யம்** - முழுமையான வார்த்தைகளுடன், மீண்டும் மீண்டும் கை அசைத்து (வீணை வாசித்து) இனிமையாக. **நாரதர் வீணை வாசித்து பாடுவது** மிகவும் அழகானது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **பாஷாஸமக்ரம் அஸக்ருத்-கரசாரரம்யம்** - முழுமையான வார்த்தைகளுடன், மீண்டும் மீண்டும் கை அசைத்து (வீணை வாசித்து) இனிமையாக. **நாரதர் வீணை வாசித்து பாடுவது** மிகவும் அழகானது.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸேஷாத்ரி-ஸேகர-விபோ** - சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே!
 }
 
@@ -709,9 +851,20 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! தேவரிஷி நாரதரும் நரம்புகளின் சிறப்பினால் இனிமையான இசை எழுப்பும் வீணையுடன், உமது அனந்தமான புகழ்ச் செயல்களை முழுமையான வார்த்தைகளால், மீண்டும் மீண்டும் கை அசைத்து இனிமையாக பாடுகிறார். உமக்கு ஸுப்ரபாதம்!"**
+**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! தேவரிஷி நாரதரும் நரம்புகளின் சிறப்பினால் இனிமையான இசை எழுப்பும் வீணையுடன், உமது அனந்தமான புகழ்ச் செயல்களை முழுமையான வார்த்தைகளால், மீண்டும் மீண்டும் கை அசைத்து இனிமையாக பாடுகிறார். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **தேவரிஷி நாரதரே** வீணை வாசித்து பெருமாளை துதிக்கும் தெய்வீக கச்சேரி!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - तन्त्रीप्रकर्ष-मधुरस्वनया विपञ्च्या (Tantrīprakarṣa-madhurasvanayā Vipañcyā) — तन्त्री (tantrī, "the string of a musical instrument, the wire or gut stretched across to produce sound" — from tan, "to stretch, to extend") + प्रकर्ष (prakarṣa, from pra- + kṛṣ, "to draw forward, to excel, to be at its finest" — prakarṣa is "the excellence, the peak quality, the finest expression of") + मधुर (madhura, "sweet, honey-like, deeply pleasing to the senses" — from madhu, "honey") + स्वनया (svanayā, instrumental of svana, "sound, resonance, the vibration of sound" — "by the sweet sound") + विपञ्च्या (vipañcyā, instrumental of vipañcī, "the vīṇā, the Indian lute" — from vi + pañca, "five" — the five-stringed instrument). Together: "by the vīṇā of the finest string excellence and sweet sound." Every word savours the instrument.
+
+  - गायत्य् अनन्तचरितम् तव नारदः (Gāyaty Anantacaritam Tava Nāradaḥ) — गायति (gāyati, present tense of gai, "to sing" — nāradaḥ is the subject) + अनन्त (ananta, "without end, infinite, that which has no anta/conclusion" — an-, "without" + anta, "end") + चरितम् (caritam, "the deeds, the accomplished acts, the history" — accusative) + तव (tava, "your, belonging to you") + नारदः (nāradaḥ, nominative — Nārada, the divine sage whose name means "the one who gives nāra, who bestows the waters of wisdom"). Together: "Nārada sings your infinite deeds." Anantacaritam is the key compound — his deeds are ananta, without ending; each avatāra story is itself endless; the singing could go on forever.
+
+  - भाषासमग्रम् असकृत्-करचारारम्यम् (Bhāṣāsamagram Asakṛt-karacārarāmyam) — भाषा (bhāṣā, "language, the totality of articulate speech, the full vocabulary") + समग्रम् (samagram, "complete, entire, without any part missing") + असकृत् (asakṛt, from a-, "not" + sakṛt, "once" — literally "not once," meaning "repeatedly, again and again, multiple times") + कर (kara, "the hand, the active agent") + चार (cāra, "movement, the ranging of the hand across strings") + रम्यम् (ramyam, "delightful, pleasing, beautiful"). Together: "complete in all its language, beautiful with the repeatedly moving hand." Asakṛt is the musical secret — the beauty arises not from a single stroke but from the repeated, ongoing movement of the hand across the strings, the continuous practice of the devoted musician.
+
+
 }
 
 ---
@@ -762,16 +915,21 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **ப்ருங்காவலீ ச** - வண்டுகளின் கூட்டமும். காலையில் **வண்டுகள் விழித்து** மலர்களுக்கு செல்கின்றன.
+🔸 **ப்ருங்காவலீ ச** - வண்டுகளின் கூட்டமும். காலையில் **வண்டுகள் விழித்து** மலர்களுக்கு செல்கின்றன.}
 
-🔸 **மகரந்த-ரஸானுவித்த** - மகரந்த தேன் ரசத்தில் ஊறிய. வண்டுகள் மலர்களின் **தேனை உறிஞ்சி** மகிழ்கின்றன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **மகரந்த-ரஸானுவித்த** - மகரந்த தேன் ரசத்தில் ஊறிய. வண்டுகள் மலர்களின் **தேனை உறிஞ்சி** மகிழ்கின்றன.}
 
-🔸 **ஜங்காரகீத-நினதைஃ ஸஹ** - ஜங்கார கீத ஒலிகளுடன். வண்டுகள் **"ஜ்ஜ்ஜ்ஜ்ஜ்..."** என்று இனிமையாக ரீங்காரமிடுகின்றன. இது **வேத கோஷம்** போன்றது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஜங்காரகீத-நினதைஃ ஸஹ** - ஜங்கார கீத ஒலிகளுடன். வண்டுகள் **"ஜ்ஜ்ஜ்ஜ்ஜ்..."** என்று இனிமையாக ரீங்காரமிடுகின்றன. இது **வேத கோஷம்** போன்றது.}
 
-🔸 **ஸேவனாய நிர்யாத்ய்** - (உம்மை) சேவை செய்வதற்காக வெளியேறுகின்றன. வண்டுகள் பெருமாளின் **திருமேனிக்கு மலர்கள் சூட்டுவதற்காக** வருகின்றன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸேவனாய நிர்யாத்ய்** - (உம்மை) சேவை செய்வதற்காக வெளியேறுகின்றன. வண்டுகள் பெருமாளின் **திருமேனிக்கு மலர்கள் சூட்டுவதற்காக** வருகின்றன.}
 
-🔸 **உபாந்த-ஸரஸீ-கமலோதரேப்யஃ** - அருகில் உள்ள குளங்களில் பூக்கும் தாமரைகளின் உட்பகுதியிலிருந்து. **ஸ்வாமி புஷ்கரிணி** மற்றும் பிற புனித குளங்களில் உள்ள தாமரைகளிலிருந்து வண்டுகள் வருகின்றன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **உபாந்த-ஸரஸீ-கமலோதரேப்யஃ** - அருகில் உள்ள குளங்களில் பூக்கும் தாமரைகளின் உட்பகுதியிலிருந்து. **ஸ்வாமி புஷ்கரிணி** மற்றும் பிற புனித குளங்களில் உள்ள தாமரைகளிலிருந்து வண்டுகள் வருகின்றன.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸேஷாத்ரி-ஸேகர-விபோ** - சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே!
 }
 
@@ -780,9 +938,22 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! அருகில் உள்ள புனித குளங்களில் பூக்கும் தாமரைகளின் உட்பகுதியிலிருந்து, மகரந்த தேன் ரசத்தில் ஊறிய வண்டுகளின் கூட்டம் ஜங்கார கீத ஒலிகளுடன் உம்மை சேவை செய்வதற்காக வெளியேறுகின்றன. உமக்கு ஸுப்ரபாதம்!"**
+**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! அருகில் உள்ள புனித குளங்களில் பூக்கும் தாமரைகளின் உட்பகுதியிலிருந்து, மகரந்த தேன் ரசத்தில் ஊறிய வண்டுகளின் கூட்டம் ஜங்கார கீத ஒலிகளுடன் உம்மை சேவை செய்வதற்காக வெளியேறுகின்றன. உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **வண்டுகளின் ரீங்காரமும்** வேத கோஷம் போல் பெருமாளை எழுப்புகிறது!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - भृङ्गावली च (Bhṛṅgāvalī Ca) — भृङ्ग (bhṛṅga, "the large black bee, the bumblebee" — named for its characteristic sound) + आवली (āvalī, "a row, a series, a continuous line" — from ā + val, "to move in a line") + च (ca, the Sanskrit enclitic conjunction "and, also" — always placed after what it connects, never before). Together: "and the row of bumblebees, the line of black bees." The āvalī gives them a formation — they move as a procession, not a random swarm.
+
+  - मकरन्द-रसानुविद्ध-झङ्कारगीत-निनदैः (Makaranda-rasānuviddha-jhaṅkāragīta-ninadaiḥ) — मकरन्द (makaranda, "the nectar within the flower, the honey-dew of blossoms" — the specific sweet fluid deep within flowers, distinct from mere honey) + रस (rasa, "essence, taste, the concentrated juice" — the quintessential fluid of anything) + अनुविद्ध (anuviddha, from anu- + vyadh, "pierced through, thoroughly permeated with") + झङ्कार (jhaṅkāra, "the buzzing, humming sound" — an onomatopoeia in Sanskrit — the very sound of the word mimics the bees' sound) + गीत (gīta, "song, the sung expression") + निनदैः (ninadaiḥ, instrumental plural of ninada, "resonant sound, deep resonance" — "with their resonant sounds"). Together in the instrumental: "with their resonant buzzing-song-sounds, permeated with the essence of nectar." The compound layers sound upon sound.
+
+  - निर्याति उपान्त-सरसी-कमलोदरेभ्यः (Niryāti Upānta-sarasī-kamalodarebhyaḥ) — निर्याति (niryāti, from nir- + yā, "to go forth from, to emerge outward, to depart from within" — present tense: "it goes forth") + उपान्त (upānta, "near, in the vicinity, at the edge of" — upa-, "near" + anta, "end, edge") + सरसी (sarasī, "a lake, a still body of water" — from sara, "flowing, moving") + कमल (kamala, "lotus") + उदरेभ्यः (udarebhyaḥ, ablative plural of udara, "the belly, the interior, the inner part" — ablative: "from within the bellies of"). Together: "goes forth from within the interiors of the lotuses of the nearby lakes." The ablative case (pañcamī vibhakti, ஐந்தாம் வேற்றுமை — "from") places the bees inside the lotus, emerging as the dawn comes.
+
+  - सेवनाय (Sevanāya) — from sevā (sevā, "service, the act of attending upon, the devotional service" — from sev, "to tend, to wait upon, to be devoted to") + the **dative case suffix** -āya (நான்காம் வேற்றுமை, caturthī vibhakti — "for the purpose of, for"). Sevanāya: "for the purpose of service, in order to serve." This single word transforms the natural behavior of bees — their search for nectar — into an act of devotional service. In the Suprabhātam's vision, all of nature performs seva at dawn.
+
+
 }
 
 ---
@@ -832,14 +1003,18 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **யோஷா-கணேன வர-தத்னி விமத்யமானே** - பெண்களின் கூட்டம் சிறந்த தயிரை கடையும்போது. **கோகுலத்தில் கோபியர்கள்** தயிரை கடைந்து வெண்ணெய் எடுப்பது போல, திருமலையிலும் காலையில் இந்த காட்சி.
+🔸 **யோஷா-கணேன வர-தத்னி விமத்யமானே** - பெண்களின் கூட்டம் சிறந்த தயிரை கடையும்போது. **கோகுலத்தில் கோபியர்கள்** தயிரை கடைந்து வெண்ணெய் எடுப்பது போல, திருமலையிலும் காலையில் இந்த காட்சி.}
 
-🔸 **கோஷாலயேஷு ததிமந்தன-தீவ்ரகோஷாஃ** - கோசாலைகளில் (பசு மாட்டுக் கொட்டில்களில்) தயிர் கடையும் உரத்த சத்தங்கள். **"கோ-சாலை"** என்றால் பசு இருக்கும் இடம். **கடைதல் கம்பு சுழலும் சத்தம்** உரத்த ஒலி எழுப்புகிறது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **கோஷாலயேஷு ததிமந்தன-தீவ்ரகோஷாஃ** - கோசாலைகளில் (பசு மாட்டுக் கொட்டில்களில்) தயிர் கடையும் உரத்த சத்தங்கள். **"கோ-சாலை"** என்றால் பசு இருக்கும் இடம். **கடைதல் கம்பு சுழலும் சத்தம்** உரத்த ஒலி எழுப்புகிறது.}
 
-🔸 **ரோஷாத் கலிம் விதததே** - கோபத்தால் சண்டை செய்கின்றன, ஆரவாரம் செய்கின்றன. **குடங்களும் பானைகளும்** ஒன்றுடன் ஒன்று மோதி சத்தம் எழுப்புகின்றன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ரோஷாத் கலிம் விதததே** - கோபத்தால் சண்டை செய்கின்றன, ஆரவாரம் செய்கின்றன. **குடங்களும் பானைகளும்** ஒன்றுடன் ஒன்று மோதி சத்தம் எழுப்புகின்றன.}
 
-🔸 **ககுபஃ ச கும்பாஃ** - திசைகளும் குடங்களும். **எல்லா திசைகளிலும்** இந்த சத்தம் எதிரொலிக்கிறது. குடங்களும் பானைகளும் நிறைய உள்ளன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ககுபஃ ச கும்பாஃ** - திசைகளும் குடங்களும். **எல்லா திசைகளிலும்** இந்த சத்தம் எதிரொலிக்கிறது. குடங்களும் பானைகளும் நிறைய உள்ளன.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸேஷாத்ரி-ஸேகர-விபோ** - சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே!
 }
 
@@ -848,9 +1023,20 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! கோசாலைகளில் பெண்களின் கூட்டம் சிறந்த தயிரை கடையும்போது, தயிர் கடையும் உரத்த சத்தங்கள் எல்லா திசைகளிலும் எதிரொலிக்கின்றன. குடங்கள் மற்றும் பானைகள் கோபத்துடன் (ஒன்றுடன் ஒன்று மோதி) சச்சரவு போன்ற ஆரவாரம் செய்கின்றன. உமக்கு ஸுப்ரபாதம்!"**
+**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! கோசாலைகளில் பெண்களின் கூட்டம் சிறந்த தயிரை கடையும்போது, தயிர் கடையும் உரத்த சத்தங்கள் எல்லா திசைகளிலும் எதிரொலிக்கின்றன. குடங்கள் மற்றும் பானைகள் கோபத்துடன் (ஒன்றுடன் ஒன்று மோதி) சச்சரவு போன்ற ஆரவாரம் செய்கின்றன. உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **கோகுலத்தில் கண்ணனை** கோபியர்கள் எழுப்பியது போல், இங்கும் தயிர் கடையும் ஒலி எழுப்புகிறது!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - योषागणेन वर-दध्नि विमथ्यमाने (Yoṣāgaṇena Vara-dadhni Vimathyamāne) — योषा (yoṣā, "a woman, a female person" — an ancient Sanskrit word for woman) + गणेन (gaṇena, instrumental of gaṇa, "a group, a troop, a gathered company" — "by the group of, by the troop of"); वर (vara, "the best, the excellent, of the finest quality") + दध्नि (dadhni, locative of dadhi, "curd, yoghurt" — locative: "in the curd, within the curd"); विमथ्यमाने (vimathyamāne, present passive participle of vi + math, "to churn thoroughly, to churn completely" — locative agreeing with dadhni: "while being churned"). Together: "while the excellent curd is being thoroughly churned by the group of women." The locative construction (vimathyamāne dadhni) creates a temporal clause: "as the churning is happening."
+
+  - घोषालयेषु दधिमन्थन-तीव्रघोषाः (Ghoṣālayeṣu Dadhimanthana-tīvraghoṣāḥ) — घोष (ghoṣa, "the sound of cows, the pastoral settlement, the sound of abundance") + आलयेषु (ālayeṣu, locative plural of ālaya, "dwelling, abode, homestead" — "in the cowsheds, in the pastoral homes") + दधि-मन्थन (dadhi-manthana, "the churning of curd") + तीव्र (tīvra, "sharp, intense, penetrating") + घोषाः (ghoṣāḥ, nominative plural: "the sounds, the resonances"). Together: "in the cowsheds, the intense sounds of the curd-churning." Ghoṣālaya is itself a compound of ghoṣa — the sound is embedded in the very name of the place.
+
+  - रोषात् कलिम् विदधते ककुभः च कुम्भाः (Roṣāt Kalim Vidadhate Kakubhaḥ Ca Kumbhāḥ) — रोषात् (roṣāt, ablative of roṣa, "anger, agitation, fierce reaction" — ablative: "out of anger, from agitation") + कलिम् (kalim, accusative of kali, "strife, discord, the sound of conflict, the rattling of things in opposition") + विदधते (vidadhate, from vi + dhā, "to place in, to produce" — present middle voice: "they produce, they create") + ककुभः (kakubhaḥ, nominative plural of kakubh, "a direction, a region of space, a cardinal point" — the quarters of the sky) + च (ca, "and") + कुम्भाः (kumbhāḥ, "pots, vessels, the clay water-pots"). Together: "the directions and the pots, out of agitation, produce strife" — the clanging of pots against each other and against walls, reverberating in all directions.
+
+
 }
 
 ---
@@ -902,16 +1088,21 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **பத்மேஸ-மித்ர-சதபத்ர-கத** - தாமரையின் நண்பனான சூரியன் (உதித்து), நூறு இதழ்கள் உடைய தாமரைகளுக்கு வந்த. **"பத்மேஸ"** மற்றும் **"மித்ர"** இரண்டுமே சூரியனின் பெயர்கள். சூரியன் உதிக்கும்போது தாமரைகள் மலர்கின்றன.
+🔸 **பத்மேஸ-மித்ர-சதபத்ர-கத** - தாமரையின் நண்பனான சூரியன் (உதித்து), நூறு இதழ்கள் உடைய தாமரைகளுக்கு வந்த. **"பத்மேஸ"** மற்றும் **"மித்ர"** இரண்டுமே சூரியனின் பெயர்கள். சூரியன் உதிக்கும்போது தாமரைகள் மலர்கின்றன.}
 
-🔸 **ஆலிவர்காஃ** - வண்டுகளின் கூட்டங்கள், தேனீக்கள். தாமரைகள் மலர்ந்ததும் **வண்டுகள் விரைந்து வருகின்றன**.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஆலிவர்காஃ** - வண்டுகளின் கூட்டங்கள், தேனீக்கள். தாமரைகள் மலர்ந்ததும் **வண்டுகள் விரைந்து வருகின்றன**.}
 
-🔸 **ஹர்தும் ஸ்ரியம் குவலயஸ்ய** - நீலோத்பல மலரின் செல்வத்தை (அழகை/தேனை) கவர்ந்து கொள்ள. தாமரைகள் (சிவப்பு) **வெற்றி** பெற, நீலோத்பல் (நீலம்) **தோற்கிறது**. வண்டுகள் தாமரைக்கு செல்கின்றன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஹர்தும் ஸ்ரியம் குவலயஸ்ய** - நீலோத்பல மலரின் செல்வத்தை (அழகை/தேனை) கவர்ந்து கொள்ள. தாமரைகள் (சிவப்பு) **வெற்றி** பெற, நீலோத்பல் (நீலம்) **தோற்கிறது**. வண்டுகள் தாமரைக்கு செல்கின்றன.}
 
-🔸 **நிஜாங்க-லக்ஷ்ம்யா** - தனது உடலின் அழகால். தாமரைகளின் **சௌந்தர்யம்** வண்டுகளை கவருகிறது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **நிஜாங்க-லக்ஷ்ம்யா** - தனது உடலின் அழகால். தாமரைகளின் **சௌந்தர்யம்** வண்டுகளை கவருகிறது.}
 
-🔸 **பேரீ-நினாதம் இவ பிப்ரதி தீவ்ர-நாதம்** - பேரி முரசு ஒலி போன்ற உரத்த கடுமையான சத்தத்தை எழுப்புகின்றன. வண்டுகளின் **"ஜ்ஜ்ஜ்ஜ்ஜ்..."** ஒலி **போர் முரசு** போல உரக்க ஒலிக்கிறது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **பேரீ-நினாதம் இவ பிப்ரதி தீவ்ர-நாதம்** - பேரி முரசு ஒலி போன்ற உரத்த கடுமையான சத்தத்தை எழுப்புகின்றன. வண்டுகளின் **"ஜ்ஜ்ஜ்ஜ்ஜ்..."** ஒலி **போர் முரசு** போல உரக்க ஒலிக்கிறது.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸேஷாத்ரி-ஸேகர-விபோ** - சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே!
 }
 
@@ -920,9 +1111,20 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! கோசாலைகளில் பெண்களின் கூட்டம் சிறந்த தயிரை கடையும்போது, தயிர் கடையும் உரத்த சத்தங்கள் எங்கும் எதிரொலிக்கின்றன. சூரியன் உதித்து தாமரைகள் மலர்ந்ததும், அவற்றிற்கு வரும் வண்டுகளின் கூட்டங்கள் நீலோத்பல மலரின் அழகை கவர்ந்து கொள்ள, தாமரையின் உடல் அழகால், பேரி முரசு ஒலி போன்ற கடுமையான உரத்த சத்தத்தை எழுப்புகின்றன. உமக்கு ஸுப்ரபாதம்!"**
+**"சேஷகிரி சிகரத்தில் எழுந்தருளியிருக்கும் சர்வவல்லபரே! கோசாலைகளில் பெண்களின் கூட்டம் சிறந்த தயிரை கடையும்போது, தயிர் கடையும் உரத்த சத்தங்கள் எங்கும் எதிரொலிக்கின்றன. சூரியன் உதித்து தாமரைகள் மலர்ந்ததும், அவற்றிற்கு வரும் வண்டுகளின் கூட்டங்கள் நீலோத்பல மலரின் அழகை கவர்ந்து கொள்ள, தாமரையின் உடல் அழகால், பேரி முரசு ஒலி போன்ற கடுமையான உரத்த சத்தத்தை எழுப்புகின்றன. உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **காலை நேர செயல்பாடுகள்** - தயிர் கடைதல், வண்டுகள் ரீங்காரமிடல் - எல்லாம் ஆரம்பமாகிவிட்டன!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - पद्मेश-मित्र-शतपत्र-गतालिवर्गाः (Padmeśa-mitra-śatapatra-gatālivargāḥ) — पद्म (padma, "the lotus") + ईश (īśa, "the lord, the master") = padmeśa: "the lord of the lotus," a kenning for the Sun, who is the lord and friend of the lotus — lotuses open at the sun's arrival; मित्र (mitra, "friend, the sun as friend of the lotus" — Mitra is an ancient Vedic solar deity); शत-पत्र (śata-patra, "hundred-petaled" — the fully opened lotus with all its petals radiating) + गत (gata, "gone to, arrived at, come to") + आलि (āli, "the black bee, the row of bees") + वर्गाः (vargāḥ, "groups, classes, assemblies"). Together: "the groups of black bees that have come to the hundred-petaled lotus of the sun-friend." The Sun is named twice (padmeśa and mitra) — once as lord, once as friend — emphasising the intimate relationship between solar light and lotus blooming.
+
+  - हर्तुम् श्रियम् कुवलयस्य निजाङ्ग-लक्ष्म्या (Hartum Śriyam Kuvalayasya Nijāṅga-lakṣmyā) — हर्तुम् (hartum, infinitive of hṛ, "to take away, to carry off, to steal" — "in order to steal, for the purpose of taking") + श्रियम् (śriyam, accusative of śrī, "beauty, splendour, the divine radiance, Lakṣmī herself as the quality of beauty") + कुवलयस्य (kuvalayasya, genitive of kuvalaya, "the blue water-lily" — genitive: "of the blue lotus"); निजाङ्ग (nija-aṅga, "one's own body, one's own form") + लक्ष्म्या (lakṣmyā, instrumental of lakṣmī, "beauty, grace, the luminous quality" — "by means of their own body's beauty"). Together: "in order to steal the beauty of the blue lotus, by means of their own body's beauty." A delightful paradox: the bees come to take beauty, armed with beauty themselves.
+
+  - भेरी-निनादम् इव बिभ्रति तीव्र-नादम् (Bherī-nādam Iva Bibhrati Tīvra-nādam) — भेरी (bherī, "the great drum, the war-drum, the kettledrum" — used to announce royal events and martial readiness) + निनादम् (nādam, "resonant sound, the deep reverberation") + इव (iva, "like, as" — the particle of simile) + बिभ्रति (bibhrati, from bhṛ, "to bear, to carry, to hold" — present third-person plural: "they bear, they carry, they produce") + तीव्र (tīvra, "sharp, intense, penetrating, fierce") + नादम् (nādam, accusative: "sound"). Together: "they produce an intense sound like the resonance of a great drum." The bees' buzzing — compared to the war-drum — is the dawn's battle-cry, awakening the Lord to his day.
+
+
 }
 
 ---
@@ -968,14 +1170,18 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **ஸ்ரீமன் அபீஷ்ட-வரதாகில-லோகபந்தோ** - செல்வம் நிறைந்தவரே! பக்தர்கள் விரும்பிய வரங்களை அளிப்பவரே! அனைத்து உலகங்களுக்கும் நண்பரே! **"லோக பந்து"** என்றால் உலகத்தின் உறவினர், பாதுகாவலர்.
+🔸 **ஸ்ரீமன் அபீஷ்ட-வரதாகில-லோகபந்தோ** - செல்வம் நிறைந்தவரே! பக்தர்கள் விரும்பிய வரங்களை அளிப்பவரே! அனைத்து உலகங்களுக்கும் நண்பரே! **"லோக பந்து"** என்றால் உலகத்தின் உறவினர், பாதுகாவலர்.}
 
-🔸 **ஸ்ரீ-ஸ்ரீனிவாஸ** - ஸ்ரீனிவாசா! **"ஸ்ரீனிவாஸ"** என்றால் லக்ஷ்மியின் இருப்பிடம். லக்ஷ்மி தேவி எப்போதும் விஷ்ணுவின் மார்பில் வசிக்கிறாள். திருப்பதி பெருமாளின் முக்கிய திருநாமம் **"ஸ்ரீனிவாச பெருமாள்"**.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸ்ரீ-ஸ்ரீனிவாஸ** - ஸ்ரீனிவாசா! **"ஸ்ரீனிவாஸ"** என்றால் லக்ஷ்மியின் இருப்பிடம். லக்ஷ்மி தேவி எப்போதும் விஷ்ணுவின் மார்பில் வசிக்கிறாள். திருப்பதி பெருமாளின் முக்கிய திருநாமம் **"ஸ்ரீனிவாச பெருமாள்"**.}
 
-🔸 **ஜகதேக-தயைகஸிந்தோ** - உலகிற்கே ஒரே கருணைக் கடலே! **"ஏக"** என்றால் ஒன்றே, **"தயா"** என்றால் கருணை, **"ஸிந்து"** என்றால் கடல். பெருமாள் மட்டுமே **எல்லையற்ற கருணை** உடையவர்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஜகதேக-தயைகஸிந்தோ** - உலகிற்கே ஒரே கருணைக் கடலே! **"ஏக"** என்றால் ஒன்றே, **"தயா"** என்றால் கருணை, **"ஸிந்து"** என்றால் கடல். பெருமாள் மட்டுமே **எல்லையற்ற கருணை** உடையவர்.}
 
-🔸 **ஸ்ரீதேவதா-க்ருஹ-புஜாந்தர-திவ்யமூர்தே** - ஸ்ரீ தேவியின் இல்லமான மார்பில் (இரண்டு புஜங்களுக்கு இடையில்) தெய்வீக வடிவம் கொண்டவரே! **ஸ்ரீவத்ஸம்** லக்ஷ்மி வசிக்கும் அடையாளம்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸ்ரீதேவதா-க்ருஹ-புஜாந்தர-திவ்யமூர்தே** - ஸ்ரீ தேவியின் இல்லமான மார்பில் (இரண்டு புஜங்களுக்கு இடையில்) தெய்வீக வடிவம் கொண்டவரே! **ஸ்ரீவத்ஸம்** லக்ஷ்மி வசிக்கும் அடையாளம்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே! திருப்பதியின் அதிபதியே!
 }
 
@@ -984,9 +1190,22 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! செல்வம் நிறைந்தவரே! பக்தர்கள் விரும்பிய வரங்களை அளிப்பவரே! அனைத்து உலகங்களுக்கும் நண்பரே! ஸ்ரீனிவாசா! உலகிற்கே ஒரே கருணைக் கடலே! ஸ்ரீ தேவியின் இல்லமான மார்பில் தெய்வீக வடிவம் கொண்டவரே! உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! செல்வம் நிறைந்தவரே! பக்தர்கள் விரும்பிய வரங்களை அளிப்பவரே! அனைத்து உலகங்களுக்கும் நண்பரே! ஸ்ரீனிவாசா! உலகிற்கே ஒரே கருணைக் கடலே! ஸ்ரீ தேவியின் இல்லமான மார்பில் தெய்வீக வடிவம் கொண்டவரே! உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 இந்த ஸ்லோகத்தில் **ஸ்ரீனிவாச பெருமாளின் முக்கிய குணங்கள்** அனைத்தும் வருகின்றன!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - श्रीमन् (Śrīman) — from śrī (Śrī, Lakṣmī, the divine quality of abundance, beauty, and grace — in composition, Śrī as a prefix declares the permanent presence of divine grace in the one named) + man (the suffix -mat/-man indicating "possessing, endowed with" — śrīman is "the one endowed with Śrī, the one in whom Śrī permanently dwells"). Used as **vocative**: "O Śrīman!" This is the supreme honorific in the Vaiṣṇava tradition — śrīman as a vocative says "in you, Śrī is permanently established; you are never without her; you are the very home of divine grace."
+
+  - अभीष्टवरद-अखिललोकबन्धो (Abhīṣṭavarada-akhilalokabandho) — अभीष्ट (abhīṣṭa, from abhi- + iṣ, "desired, that which is deeply wished for, the cherished wish" — the wish formed at the core of the heart) + वरद (varada, "the giver of boons" — from vara + da, as explained in Loka Vīram stotram) + अखिल (akhila, "all, without any portion omitted" — a-, "not" + khila, "a gap, a missing part" — akhila is "that which has no gap") + लोकबन्धो (lokabandho, vocative of loka-bandhu, "the kinsman of the worlds, the dear relative of all beings" — bandhu is "the bond, the one bound to you by love"). Together as vocative: "O giver of cherished boons, O kinsman of all the worlds!" Lokabandho is one of the most intimate titles — he is not the ruler of the worlds (lokeśvara) or the lord (lokanātha) but their bandhu: their beloved relative.
+
+  - जगदेक-दयैकसिन्धो (Jagadeka-dayaikasindho) — जगत् (jagat, "the world, all that moves") + एक (eka, "one, the sole, the unique") = jagad-eka: "the one and only for the world"; दया (dayā, "compassion, the ache of the heart for another's pain") + एक (eka) + सिन्धो (sindho, vocative of sindhu, "the ocean, the infinite sea"). Together: "O sole ocean of compassion for the world!" The repetition of eka (one) in both parts of the compound is deliberate — he is the one and only resource the world has (jagad-eka), and he is the one and only ocean of compassion (dayaika-sindhu). In both cases, eka declares his uniqueness.
+
+  - श्रीदेवता-गृह-भुजान्तर-दिव्यमूर्ते (Śrīdevatā-gṛha-bhujāntara-divyamūrte) — श्री-देवता (śrī-devatā, "the divine Śrī, the goddess Lakṣmī") + गृह (gṛha, "house, home, the dwelling place") + भुज (bhuja, "arm, the upper limb") + अन्तर (antara, "interior, the space between") = gṛha-bhujāntara: "the home that is the space between the arms," his chest as Lakṣmī's dwelling + दिव्यमूर्ते (divyamūrte, vocative: "O divine form"). Together: "O divine form, in whose chest-space Lakṣmī makes her home!" His arms on either side, his chest in between — that space is her home (gṛha).
+
+
 }
 
 ---
@@ -1036,16 +1255,21 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **ஸ்ரீஸ்வாமி-புஷ்கரிணிகா-ப்லவ-நிர்மலாங்காஃ** - ஸ்ரீஸ்வாமி புஷ்கரிணி என்ற புனித குளத்தில் நீராடி தூய உடல் கொண்டவர்கள். **ஸ்வாமி புஷ்கரிணி** திருமலையில் உள்ள மிகவும் புனிதமான குளம். பக்தர்கள் பெருமாளை தரிசிக்கும் முன் இங்கு **தீர்த்த ஸ்நானம்** செய்கிறார்கள்.
+🔸 **ஸ்ரீஸ்வாமி-புஷ்கரிணிகா-ப்லவ-நிர்மலாங்காஃ** - ஸ்ரீஸ்வாமி புஷ்கரிணி என்ற புனித குளத்தில் நீராடி தூய உடல் கொண்டவர்கள். **ஸ்வாமி புஷ்கரிணி** திருமலையில் உள்ள மிகவும் புனிதமான குளம். பக்தர்கள் பெருமாளை தரிசிக்கும் முன் இங்கு **தீர்த்த ஸ்நானம்** செய்கிறார்கள்.}
 
-🔸 **ஸ்ரேயோ(அ)ர்தினோ** - நன்மை (முக்தி) விரும்புபவர்கள். **மோக்ஷத்தை** அடைய விரும்பும் பக்தர்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸ்ரேயோ(அ)ர்தினோ** - நன்மை (முக்தி) விரும்புபவர்கள். **மோக்ஷத்தை** அடைய விரும்பும் பக்தர்கள்.}
 
-🔸 **ஹர-விரிஞ்சி-ஸனந்தனாத்யாஃ** - சிவன், பிரம்மா, ஸனந்தனர் முதலான மகான்கள். **திரிமூர்த்திகளும் ஸனகாதி முனிவர்களும்** (ஸனகன், ஸனந்தனன், ஸநாதனன், ஸனத்குமாரன்).
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஹர-விரிஞ்சி-ஸனந்தனாத்யாஃ** - சிவன், பிரம்மா, ஸனந்தனர் முதலான மகான்கள். **திரிமூர்த்திகளும் ஸனகாதி முனிவர்களும்** (ஸனகன், ஸனந்தனன், ஸநாதனன், ஸனத்குமாரன்).}
 
-🔸 **த்வாரே வஸந்தி** - வாசலில் காத்திருக்கிறார்கள். **கோவில் வாசலில்** பெருமாளை தரிசிக்க காத்திருக்கிறார்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **த்வாரே வஸந்தி** - வாசலில் காத்திருக்கிறார்கள். **கோவில் வாசலில்** பெருமாளை தரிசிக்க காத்திருக்கிறார்கள்.}
 
-🔸 **வரவேத்ர-ஹதோத்தமாங்காஃ** - சிறந்த கரும்பு போன்ற உடல்கள் வணக்கத்தால் குனிந்து. **"வரவேத்ர"** என்றால் சிறந்த கரும்பு - இங்கு உடல் நேராக நிமிர்ந்து இருப்பதை குறிக்கிறது. வணக்கம் செய்யும்போது **குனிந்த** உடல். அல்லது **"வர-வேத்ர"** சிறந்த தண்டு/கோல் என்றும் பொருள் கொள்ளலாம்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **வரவேத்ர-ஹதோத்தமாங்காஃ** - சிறந்த கரும்பு போன்ற உடல்கள் வணக்கத்தால் குனிந்து. **"வரவேத்ர"** என்றால் சிறந்த கரும்பு - இங்கு உடல் நேராக நிமிர்ந்து இருப்பதை குறிக்கிறது. வணக்கம் செய்யும்போது **குனிந்த** உடல். அல்லது **"வர-வேத்ர"** சிறந்த தண்டு/கோல் என்றும் பொருள் கொள்ளலாம்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -1054,9 +1278,20 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! செல்வம் நிறைந்தவரே! பக்தர்கள் விரும்பிய வரங்களை அளிப்பவரே! அனைத்து உலகங்களின் நண்பரே! ஸ்ரீ ஸ்ரீனிவாசா! உலகிற்கே ஒரே கருணைக் கடலே! ஸ்ரீ தேவியை மார்பில் வசிக்க வைத்த தெய்வீக வடிவம் உடையவரே! ஸ்வாமி புஷ்கரிணி புனித குளத்தில் நீராடி தூய உடல் பெற்ற, முக்தி விரும்பும் சிவன், பிரம்மா, ஸனந்தனர் முதலான மகான்கள் வணக்கத்தால் குனிந்த உடலுடன் உமது வாசலில் காத்திருக்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! செல்வம் நிறைந்தவரே! பக்தர்கள் விரும்பிய வரங்களை அளிப்பவரே! அனைத்து உலகங்களின் நண்பரே! ஸ்ரீ ஸ்ரீனிவாசா! உலகிற்கே ஒரே கருணைக் கடலே! ஸ்ரீ தேவியை மார்பில் வசிக்க வைத்த தெய்வீக வடிவம் உடையவரே! ஸ்வாமி புஷ்கரிணி புனித குளத்தில் நீராடி தூய உடல் பெற்ற, முக்தி விரும்பும் சிவன், பிரம்மா, ஸனந்தனர் முதலான மகான்கள் வணக்கத்தால் குனிந்த உடலுடன் உமது வாசலில் காத்திருக்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **திரிமூர்த்திகளே** உம்மை வணங்க வாசலில் காத்திருக்கிறார்கள் - எழுந்தருள வேண்டும்!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - श्रीस्वामि-पुष्करिणिका-प्लव-निर्मलाङ्गाः (Śrīsvāmi-puṣkariṇikā-plava-nirmalāṅgāḥ) — श्री (Śrī, the divine auspicious presence) + स्वामि (svāmi, "the Lord, the self-sovereign one") = Śrī Svāmi: "the auspicious Lord" — the temple tank takes its name from the deity; पुष्करिणिका (puṣkariṇikā, from puṣkara, "lotus" + -iṇī, "abounding in" — puṣkariṇī is "the lotus-pond, the sacred tank filled with lotuses" — the diminutive -kā adds affection) + प्लव (plava, from plu, "to swim, to bathe, to immerse oneself" — plava is "the bathing, the immersion") + निर्मल (nirmala, "spotless, without impurity" — nir-, "without" + mala, "dirt") + अङ्गाः (aṅgāḥ, nominative plural of aṅga, "the body-parts, the limbs"). Together: "those with spotless limbs from bathing in the Śrī Svāmi Puṣkariṇī." The act of bathing in the sacred tank (snāna) purifies not just the body but aligns the devotee for the Lord's presence.
+
+  - श्रेयोऽर्थिनः हर-विरिञ्चि-सनन्दनाद्याः (Śreyo'rthinaḥ Hara-viriñci-sanandanādyāḥ) — श्रेयस् (śreyas, "the good, the auspicious, the ultimately beneficial as distinct from mere pleasure — śreyas vs. preyas" — śreyaḥ is the absolute good, liberation itself) + अर्थिनः (arthinaḥ, "the seekers, the ones who desire" — from artha + -in) = "seekers of liberation"; हर (Hara, "the remover, the dissolver" — Śiva's name) + विरिञ्चि (viriñci, "the creator, the one who creates in all directions" — Brahmā's name, from vi + riñc, "to create variously") + सनन्दन (Sanandana, one of the four eternal youths, the Sanakādis) + आद्याः (ādyāḥ, "and those beginning with these"). Together: "Śiva, Brahmā, Sanandana and others — seekers of the supreme good."
+
+  - द्वारे वसन्ति वरवेत्र-हतोत्तमाङ्गाः (Dvāre Vasanti Varavetra-hatottamāṅgāḥ) — द्वारे (dvāre, locative of dvāra, "the gate, the threshold, the door" — locative: "at the gate, at the threshold"); वसन्ति (vasanti, present third-person plural of vas, "to dwell, to remain, to wait" — "they dwell, they remain, they wait"); वर (vara, "excellent, the best") + वेत्र (vetra, "a staff, a cane" — the cane staff used as an emblem of authority) + हत (hata, "struck, bowed down") + उत्तमाङ्गाः (uttamāṅgāḥ, "their highest limbs" — the head). Together: "they wait at the gate, their noble heads bowed by the excellent staff." The image is of the great cosmic beings bowing their heads in prostration at the very threshold — not yet inside, waiting for the doors to open.
+
+
 }
 
 ---
@@ -1105,12 +1340,15 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **ஸ்ரீ-சேஷசைல-கருடாசல-வெங்கதாத்ரி** - சேஷகிரி, கருடாசலம், வெங்கடாத்ரி. திருமலை **பல திவ்ய நாமங்களால்** அழைக்கப்படுகிறது. **ஆதிசேஷன் சுருண்டு மலையாக** நிற்பதால் "சேஷகிரி", **கருட வாகனர்** வசிப்பதால் "கருடாசலம்".
+🔸 **ஸ்ரீ-சேஷசைல-கருடாசல-வெங்கதாத்ரி** - சேஷகிரி, கருடாசலம், வெங்கடாத்ரி. திருமலை **பல திவ்ய நாமங்களால்** அழைக்கப்படுகிறது. **ஆதிசேஷன் சுருண்டு மலையாக** நிற்பதால் "சேஷகிரி", **கருட வாகனர்** வசிப்பதால் "கருடாசலம்".}
 
-🔸 **நாராயணாத்ரி-வ்ருஷபாத்ரி-வ்ருஷாத்ரி-முக்யாம்** - நாராயணாத்ரி, வ்ருஷபாத்ரி, வ்ருஷாத்ரி முதலிய முக்கிய பெயர்கள். **"நாராயணனின் மலை"**, **"தர்ம மலை"**, **"புனித மலை"** என பல பெயர்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **நாராயணாத்ரி-வ்ருஷபாத்ரி-வ்ருஷாத்ரி-முக்யாம்** - நாராயணாத்ரி, வ்ருஷபாத்ரி, வ்ருஷாத்ரி முதலிய முக்கிய பெயர்கள். **"நாராயணனின் மலை"**, **"தர்ம மலை"**, **"புனித மலை"** என பல பெயர்கள்.}
 
-🔸 **ஆக்யாம் த்வதீய-வஸதேர் அனிஸம் வதந்தி** - உமது வாசஸ்தானத்தின் இந்த பெயர்களை இடைவிடாமல் சொல்கிறார்கள். பக்தர்கள் **எப்போதும் திருமலையின் பெயர்களை** உச்சரிக்கிறார்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஆக்யாம் த்வதீய-வஸதேர் அனிஸம் வதந்தி** - உமது வாசஸ்தானத்தின் இந்த பெயர்களை இடைவிடாமல் சொல்கிறார்கள். பக்தர்கள் **எப்போதும் திருமலையின் பெயர்களை** உச்சரிக்கிறார்கள்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -1119,9 +1357,18 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! உமது வாசஸ்தானத்திற்கு சேஷகிரி, கருடாசலம், வெங்கடாத்ரி, நாராயணாத்ரி, வ்ருஷபாத்ரி, வ்ருஷாத்ரி முதலான முக்கிய பெயர்களை பக்தர்கள் இடைவிடாமல் சொல்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! உமது வாசஸ்தானத்திற்கு சேஷகிரி, கருடாசலம், வெங்கடாத்ரி, நாராயணாத்ரி, வ்ருஷபாத்ரி, வ்ருஷாத்ரி முதலான முக்கிய பெயர்களை பக்தர்கள் இடைவிடாமல் சொல்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **திருமலைக்கு ஏழு புனித பெயர்கள்** - "சப்தகிரி" என்றும் அழைக்கப்படுவதற்கு காரணம்!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - श्री-शेषशैल-गरुडाचल-वेङ्कटाद्रि-नारायणाद्रि-वृषभाद्रि-वृषाद्रि-मुख्याम् (Śrī-Śeṣaśaila-garuḍācala-veṅkaṭādri-nārāyaṇādri-vṛṣabhādri-vṛṣādri-mukhyām) — This is a single compound in the **accusative case** listing six sacred names with mukhyām ("the principal, the primary, the most important ones") as the final qualifier. शेषशैल (Śeṣa + śaila, "the mountain that is Ādiśeṣa's body" — the hill as the coiled cosmic serpent); गरुडाचल (Garuḍa + acala, "the immovable, the mountain" — the hill as Garuḍa's mountain); वेङ्कटाद्रि (Veṅkaṭa + adri, "the hill named Veṅkaṭa" — the name meaning "the one who burns away sins" from vi + kaṭa); नारायणाद्रि (Nārāyaṇa + adri — "Nārāyaṇa's hill"); वृषभाद्रि (Vṛṣabha + adri — "the bull's hill," the hill of dharma since the bull represents dharma); वृषाद्रि (Vṛṣa + adri — "the holy hill, the hill of rain and blessing").
+
+  - आख्याम् त्वदीय-वसतेः अनिशम् वदन्ति (Ākhyām Tvadīya-vasateḥ Aniśam Vadanti) — आख्याम् (ākhyām, accusative of ākhyā, "the name, the appellation, the called-name" — from ā + khyā, "to be known by") + त्वदीय (tvadīya, "belonging to you, pertaining to you" — from tvad + -īya adjective suffix) + वसतेः (vasateḥ, genitive of vasati, "the dwelling, the abode, the residence" — "of your dwelling-place") + अनिशम् (aniśam, "without night, always, without any gap" — an- + niśa, "night" — "not having night, perpetually") + वदन्ति (vadanti, present third-person plural of vad, "to speak, to name, to declare"). Together: "they perpetually declare the names of your dwelling-place." Aniśam is the key word — the declaring of these seven names never stops, not even at night, because the Lord's presence on this hill is a perpetual reality requiring perpetual acknowledgement.
+
+
 }
 
 ---
@@ -1171,9 +1418,10 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **ஸேவாபராஃ** - சேவையில் ஈடுபட்டவர்கள், உம்மை வழிபட வந்தவர்கள். **அஷ்ட திக்பாலகர்கள்** (எட்டு திசைகளின் காவலர்கள்) பெருமாள் சேவைக்கு வந்துள்ளனர்.
+🔸 **ஸேவாபராஃ** - சேவையில் ஈடுபட்டவர்கள், உம்மை வழிபட வந்தவர்கள். **அஷ்ட திக்பாலகர்கள்** (எட்டு திசைகளின் காவலர்கள்) பெருமாள் சேவைக்கு வந்துள்ளனர்.}
 
-🔸 **சிவ-ஸுரேஸ-க்ருஸானு-தர்ம-ரக்ஷோம்புநாத-பவமான-தனாதிநாதாஃ** - சிவன், இந்திரன், அக்னி, யமன், யக்ஷர், வருணன், வாயு, குபேரன் ஆகிய **அஷ்ட திக்பாலகர்கள்**. இவர்கள் எட்டு திசைகளையும் காக்கும் தேவர்கள்:
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **சிவ-ஸுரேஸ-க்ருஸானு-தர்ம-ரக்ஷோம்புநாத-பவமான-தனாதிநாதாஃ** - சிவன், இந்திரன், அக்னி, யமன், யக்ஷர், வருணன், வாயு, குபேரன் ஆகிய **அஷ்ட திக்பாலகர்கள்**. இவர்கள் எட்டு திசைகளையும் காக்கும் தேவர்கள்:}
   - **சிவன்** - ஈசானம் (வடகிழக்கு)
   - **இந்திரன்** - கிழக்கு
   - **அக்னி** - தென்கிழக்கு
@@ -1183,8 +1431,10 @@ scrollToTop: true
   - **வாயு** - வடமேற்கு
   - **குபேரன்** - வடக்கு
 
-🔸 **பத்தாஞ்ஜலி-ப்ரவிலஸன் நிஜஸீர்ஷ-தேசாஃ** - கை கூப்பிய பிரகாசமான நிலையில், தங்களது தலைகளை குனிந்து. **அஷ்ட திக்பாலகர்களும்** மரியாதையுடன் தலை வணங்கி, கை கூப்பி நிற்கிறார்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **பத்தாஞ்ஜலி-ப்ரவிலஸன் நிஜஸீர்ஷ-தேசாஃ** - கை கூப்பிய பிரகாசமான நிலையில், தங்களது தலைகளை குனிந்து. **அஷ்ட திக்பாலகர்களும்** மரியாதையுடன் தலை வணங்கி, கை கூப்பி நிற்கிறார்கள்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -1193,9 +1443,20 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! சிவன், இந்திரன், அக்னி, யமன், யக்ஷர், வருணன், வாயு, குபேரன் ஆகிய அஷ்ட திக்பாலகர்கள் உம்மை சேவை செய்ய கை கூப்பி, தலை குனிந்து நின்று, உமது வாசஸ்தானத்திற்கு சேஷகிரி, கருடாசலம், வெங்கடாத்ரி, நாராயணாத்ரி, வ்ருஷபாத்ரி, வ்ருஷாத்ரி முதலான முக்கிய பெயர்களை இடைவிடாமல் சொல்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! சிவன், இந்திரன், அக்னி, யமன், யக்ஷர், வருணன், வாயு, குபேரன் ஆகிய அஷ்ட திக்பாலகர்கள் உம்மை சேவை செய்ய கை கூப்பி, தலை குனிந்து நின்று, உமது வாசஸ்தானத்திற்கு சேஷகிரி, கருடாசலம், வெங்கடாத்ரி, நாராயணாத்ரி, வ்ருஷபாத்ரி, வ்ருஷாத்ரி முதலான முக்கிய பெயர்களை இடைவிடாமல் சொல்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **எட்டு திசைகளின் காவலர்களும்** பெருமாளை வழிபட காத்திருக்கிறார்கள்!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - सेवापराः (Sevāparāḥ) — सेवा (sevā, "divine service, the act of attending upon the deity with devotion") + पर (para, "devoted to, for whom something is the highest concern, making something one's supreme occupation" — as a suffix: "devoted to, absorbed in") — sevāparāḥ: "those for whom service is the supreme concern, the service-devoted ones." Para as a suffix is stronger than merely "doing service" — it says service is their highest orientation, their defining purpose at this moment.
+
+  - शिव-सुरेश-कृशानु-धर्म-रक्षः-अम्बुनाथ-पवमान-धनाधिनाथाः (Śiva-sureśa-kṛśānu-dharma-rakṣaḥ-ambunātha-pavamāna-dhanādhināthāḥ) — This list names the **Aṣṭa-dikpālakāḥ** (eight guardians of the eight directions): शिव (Śiva — northeast); सुरेश (Sureśa, "lord of the gods," Indra — east); कृशानु (Kṛśānu, "the swift arrow," Agni/Fire — southeast); धर्म (Dharma, Yama/the death-god — south); रक्षस् (Rakṣas, "the protecting ones," the Yakṣas — southwest); अम्बुनाथ (Ambunātha, "lord of waters," Varuṇa — west); पवमान (Pavamāna, "the purifying one," Vāyu/Wind — northwest); धनाधिनाथ (Dhanādhinatha, "lord of wealth," Kubera — north). All eight are in the nominative plural, all identified by one of their epithets.
+
+  - बद्धाञ्जलि-प्रविलसन् निजशीर्ष-देशाः (Baddhāñjali-pravilasan Nijaśīrṣa-deśāḥ) — बद्ध (baddha, past passive participle of bandh, "to bind, to join firmly" — here "firmly joined, clasped") + अञ्जलि (añjali, "the cupped hands joined together as an offering gesture, the gesture of reverence" — from añj, "to anoint, to offer") = baddhāñjali: "with firmly clasped añjali hands"; प्रविलसन् (pravilasan, from pra- + vi- + las, "to shine, to flash brilliantly forward" — present participle: "shining, brilliant") + निज (nija, "one's own") + शीर्ष (śīrṣa, "head, the head as the highest and most important part of the body") + देशाः (deśāḥ, "regions, areas" — nominative plural). Together: "their own heads shining brilliantly, with clasped añjali hands." The eight guardians, normally erect and commanding at their cosmic stations, now stand with heads bowed and hands clasped — their authority surrendered in reverence.
+
+
 }
 
 ---
@@ -1243,20 +1504,27 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **தாதீஷு தே** - உமக்கு மலர்களை (கொடைகளை) அளிக்க. பக்தர்கள் **பூக்களை சமர்ப்பிக்க** காத்திருக்கிறார்கள்.
+🔸 **தாதீஷு தே** - உமக்கு மலர்களை (கொடைகளை) அளிக்க. பக்தர்கள் **பூக்களை சமர்ப்பிக்க** காத்திருக்கிறார்கள்.}
 
-🔸 **விஹகராஜ** - பறவைகளின் ராஜாவான **கருடன்**. விஷ்ணுவின் வாகனம்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **விஹகராஜ** - பறவைகளின் ராஜாவான **கருடன்**. விஷ்ணுவின் வாகனம்.}
 
-🔸 **ம்ருகாதிராஜ** - மிருகங்களின் ராஜாவான **சிங்கம்**. வீரத்தின் சின்னம்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ம்ருகாதிராஜ** - மிருகங்களின் ராஜாவான **சிங்கம்**. வீரத்தின் சின்னம்.}
 
-🔸 **நாகாதிராஜ** - நாகங்களின் ராஜாவான **ஆதிசேஷன்** அல்லது **வாசுகி**. விஷ்ணு ஆதிசேஷன் மீது சயனிக்கிறார்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **நாகாதிராஜ** - நாகங்களின் ராஜாவான **ஆதிசேஷன்** அல்லது **வாசுகி**. விஷ்ணு ஆதிசேஷன் மீது சயனிக்கிறார்.}
 
-🔸 **கஜராஜ** - யானைகளின் ராஜாவான **ஐராவதம்**. இந்திரனின் வாகனம்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **கஜராஜ** - யானைகளின் ராஜாவான **ஐராவதம்**. இந்திரனின் வாகனம்.}
 
-🔸 **ஹயாதிராஜ** - குதிரைகளின் ராஜாவான **உச்சைஸ்ரவஸ்**. பால் கடைந்தபோது தோன்றிய தெய்வீக குதிரை.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஹயாதிராஜ** - குதிரைகளின் ராஜாவான **உச்சைஸ்ரவஸ்**. பால் கடைந்தபோது தோன்றிய தெய்வீக குதிரை.}
 
-🔸 **ஸ்வஸ்வாதிகார-மஹிமாதிகம் அர்தயந்தே** - தங்கள் தங்கள் அதிகாரத்தின் மகிமை முதலானவற்றை கோருகிறார்கள். ஒவ்வொருவரும் **தங்கள் துறையில் சிறந்து விளங்க** பெருமாளிடம் பிரார்த்திக்கிறார்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸ்வஸ்வாதிகார-மஹிமாதிகம் அர்தயந்தே** - தங்கள் தங்கள் அதிகாரத்தின் மகிமை முதலானவற்றை கோருகிறார்கள். ஒவ்வொருவரும் **தங்கள் துறையில் சிறந்து விளங்க** பெருமாளிடம் பிரார்த்திக்கிறார்கள்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -1265,9 +1533,18 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! உமக்கு மலர்கள் சமர்ப்பிக்க, கருடன், சிங்கம், ஆதிசேஷன், ஐராவதம், உச்சைஸ்ரவஸ் ஆகிய பறவைகள், விலங்குகள், நாகங்கள், யானைகள், குதிரைகளின் ராஜாக்கள் சிவன், இந்திரன், அக்னி, யமன், யக்ஷர், வருணன், வாயு, குபேரன் உடன் சேவை செய்ய, கை கூப்பி தலை குனிந்து, தங்கள் தங்கள் அதிகாரத்தின் மகிமையை வேண்டி நிற்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! உமக்கு மலர்கள் சமர்ப்பிக்க, கருடன், சிங்கம், ஆதிசேஷன், ஐராவதம், உச்சைஸ்ரவஸ் ஆகிய பறவைகள், விலங்குகள், நாகங்கள், யானைகள், குதிரைகளின் ராஜாக்கள் சிவன், இந்திரன், அக்னி, யமன், யக்ஷர், வருணன், வாயு, குபேரன் உடன் சேவை செய்ய, கை கூப்பி தலை குனிந்து, தங்கள் தங்கள் அதிகாரத்தின் மகிமையை வேண்டி நிற்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **தேவலோகத்தின் அனைத்து முக்கிய வாகனங்களும்** பெருமாளை வணங்க வந்துள்ளன!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - धातिषु ते विहगराज-मृगाधिराज-नागाधिराज-गजराज-हयाधिराजाः (Dhātīṣu Te Vihagarāja-mṛgādhirāja-nāgādhirāja-gajarāja-hayādhirājāḥ) — धातिषु (dhātīṣu, locative plural of dhāti, "the offering, the gift, the presented thing" — locative: "in the offerings, in the act of presenting gifts") + ते (te, dative of tvam: "to you, for you") + विहग-राज (vihaga-rāja — vihaga, "the sky-goer, the bird" + rāja, "king" — Garuḍa, king of birds) + मृग-अधिराज (mṛga-adhirāja — mṛga, "forest creature, the deer, animals" + adhirāja, "the supreme king" — the lion, king of animals) + नाग-अधिराज (nāga-adhirāja — nāga, "serpent, the divine serpent" + adhirāja — Ādiśeṣa, king of serpents) + गज-राज (gaja-rāja, "king of elephants" — Airāvata) + हय-अधिराज (haya-adhirāja, "supreme king of horses" — Uccaiḥśravas). Together: these are the **pañca-vāhanas** (five divine vehicles) — each named as the king of their species.
+
+  - स्वस्वाधिकार-महिमादिकम् अर्थयन्ते (Svasvādhikāra-mahimādikam Arthayante) — स्व-स्व (sva-sva, "each one's own, their respective" — the reduplication of sva indicates distributive meaning: "each for their own") + अधिकार (adhikāra, "authority, jurisdiction, the rightful domain of one's competence and power") + महिमा (mahimā, "greatness, majesty, the quality of being great") + आदिकम् (ādikam, "and the rest, and what follows") + अर्थयन्ते (arthayante, from arth, "to request, to petition, to make a petition to one in authority" — present middle voice: "they petition for, they request"). Together: "they petition for their respective authority's greatness and the rest." Each sovereign being approaches and petitions for the continued greatness of their own domain — acknowledging that all authority, even theirs, flows from and depends upon the Lord.
+
+
 }
 
 ---
@@ -1319,12 +1596,15 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **சூர்யேந்து-பௌம-புத-வாக்பதி-காவ்ய-ஸௌரி-ஸ்வர்பானு-கேது** - சூரியன், சந்திரன், செவ்வாய், புதன், குரு, சுக்ரன், சனி, ராகு, கேது ஆகிய **நவக்கிரகங்கள் அனைத்தும்**. இவை ஜோதிட சாஸ்திர அடிப்படையில் மனித வாழ்வை பாதிக்கும் **ஒன்பது கிரகங்கள்**.
+🔸 **சூர்யேந்து-பௌம-புத-வாக்பதி-காவ்ய-ஸௌரி-ஸ்வர்பானு-கேது** - சூரியன், சந்திரன், செவ்வாய், புதன், குரு, சுக்ரன், சனி, ராகு, கேது ஆகிய **நவக்கிரகங்கள் அனைத்தும்**. இவை ஜோதிட சாஸ்திர அடிப்படையில் மனித வாழ்வை பாதிக்கும் **ஒன்பது கிரகங்கள்**.}
 
-🔸 **திவிஷத்-பரிஷத்-ப்ரதானாஃ** - வானில் உள்ள சபையின் முதன்மையானவர்கள். **கிரகங்கள் தேவலோகத்தின் சபை உறுப்பினர்கள்**.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **திவிஷத்-பரிஷத்-ப்ரதானாஃ** - வானில் உள்ள சபையின் முதன்மையானவர்கள். **கிரகங்கள் தேவலோகத்தின் சபை உறுப்பினர்கள்**.}
 
-🔸 **த்வத்தாஸ-தாஸ-சரமாவதி-தாஸதாஸாஃ** - உமது தாசனின் தாசன், இறுதி வரை தாசர்களின் தாசர்கள். இது **பரம பக்தியின்** வெளிப்பாடு. **"தாஸனுடைய தாஸன்"** என்பது மிக உயர்ந்த பணிவு. நவக்கிரகங்களும் தாங்கள் **பெருமாளின் அடிமைகளின் அடிமைகள்** என்று சொல்கிறார்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **த்வத்தாஸ-தாஸ-சரமாவதி-தாஸதாஸாஃ** - உமது தாசனின் தாசன், இறுதி வரை தாசர்களின் தாசர்கள். இது **பரம பக்தியின்** வெளிப்பாடு. **"தாஸனுடைய தாஸன்"** என்பது மிக உயர்ந்த பணிவு. நவக்கிரகங்களும் தாங்கள் **பெருமாளின் அடிமைகளின் அடிமைகள்** என்று சொல்கிறார்கள்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -1333,9 +1613,18 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! சூரியன், சந்திரன், செவ்வாய், புதன், குரு, சுக்ரன், சனி, ராகு, கேது ஆகிய வானில் உள்ள முக்கிய நவக்கிரகங்கள், உமது தாசனின் தாசன், இறுதி வரை தாசர்களின் தாசர்களாக, உமக்கு மலர்களை சமர்ப்பிக்க தங்கள் தங்கள் அதிகாரத்தின் மகிமையை வேண்டுகிறார்கள். உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! சூரியன், சந்திரன், செவ்வாய், புதன், குரு, சுக்ரன், சனி, ராகு, கேது ஆகிய வானில் உள்ள முக்கிய நவக்கிரகங்கள், உமது தாசனின் தாசன், இறுதி வரை தாசர்களின் தாசர்களாக, உமக்கு மலர்களை சமர்ப்பிக்க தங்கள் தங்கள் அதிகாரத்தின் மகிமையை வேண்டுகிறார்கள். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **நவக்கிரகங்களும்** பெருமாளின் தாசர்களின் தாசர்கள் என்று சொல்லும் பணிவு!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - सूर्येन्दु-भौम-बुध-वाक्पति-काव्य-सौरि-स्वर्भानु-केतु (Sūryendu-bhauma-budha-vākpati-kāvya-sauri-svarbhānu-ketu) — This is a single compound naming the nine celestial bodies: सूर्य (Sūrya, the Sun — from svar, "to shine, the self-luminous one"); इन्दु (indu, "the bright drop, the Moon" — from ind, "to drip" — the moon as the soma-drip); भौम (bhauma, "of the earth, born of the earth" — Mars, whose deity Bhūmi is the earth-goddess's son); बुध (budha, "the awakened, the intelligent one" — Mercury); वाक्पति (vākpati, "lord of speech" — Bṛhaspati/Jupiter, the divine teacher); काव्य (kāvya, "the poetic one, of the seer-poet" — Śukra/Venus, teacher of the demons, named for his poetic insight); सौरि (sauri, "the son of the Sun, the slow one" — Saturn, child of Sūrya); स्वर्भानु (svarbhānu, "the sky-sun, the one who obscures the sky-light" — Rāhu, the ascending lunar node); केतु (ketu, "the banner, the fiery one" — the descending lunar node). These nine are the Navagrahāḥ.
+
+  - त्वद्दास-दास-चरमावधि-दासदासाः (Tvaddāsa-dāsa-caramāvadhi-dāsadāsāḥ) — त्वत् (tvat, "your, of you") + दास (dāsa, "servant, the one who gives themselves completely in service") + दास (dāsa again — the servant of a servant) + चरम (carama, "the last, the extreme, the final limit") + अवधि (avadhi, "the limit, the boundary" — caramāvadhi: "up to the final limit, to the ultimate extreme") + दासदासाः (dāsadāsāḥ, "servants of servants" — the compound repeated). Together: "servants of your servants, unto the final limit, servants of servants." This cascading repetition of dāsa is a deliberate structural device — each dāsa (servant) is a further step removed from the Lord, creating an infinite chain of humility. The navagrahāḥ — whose movements govern all human life — declare themselves not even servants of the Lord directly, but servants of his servants' servants. This is the theology of paramparā (lineage of transmission) expressed as devotional grammar.
+
+
 }
 
 ---
@@ -1385,14 +1674,18 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **த்வத்-பாததூளி-பரித-ஸ்புரிதோத்தமாங்காஃ** - உமது திருவடி தூசி நிரம்பிய பிரகாசிக்கும் உயர்ந்த உடல் பாகங்கள் கொண்டவர்கள். **பெருமாளின் திருவடி தூளியை நெற்றியில் பூசிக்கொண்டு** ஒளிர்கிறார்கள்.
+🔸 **த்வத்-பாததூளி-பரித-ஸ்புரிதோத்தமாங்காஃ** - உமது திருவடி தூசி நிரம்பிய பிரகாசிக்கும் உயர்ந்த உடல் பாகங்கள் கொண்டவர்கள். **பெருமாளின் திருவடி தூளியை நெற்றியில் பூசிக்கொண்டு** ஒளிர்கிறார்கள்.}
 
-🔸 **ஸ்வர்காபவர்க-நிரபேக்ஷ** - சுவர்க்கத்திலும் மோக்ஷத்திலும் விருப்பமில்லாதவர்கள். **சொர்க்க சுகமோ, முக்தியோ வேண்டாம்** என்று சொல்லும் பெரும் பக்தர்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸ்வர்காபவர்க-நிரபேக்ஷ** - சுவர்க்கத்திலும் மோக்ஷத்திலும் விருப்பமில்லாதவர்கள். **சொர்க்க சுகமோ, முக்தியோ வேண்டாம்** என்று சொல்லும் பெரும் பக்தர்கள்.}
 
-🔸 **நிஜாந்தராங்காஃ** - உள்ளார்ந்த நெருங்கிய பக்தர்கள். **அந்தரங்க பக்தர்கள்** - பெருமாளுக்கு மிக நெருக்கமானவர்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **நிஜாந்தராங்காஃ** - உள்ளார்ந்த நெருங்கிய பக்தர்கள். **அந்தரங்க பக்தர்கள்** - பெருமாளுக்கு மிக நெருக்கமானவர்கள்.}
 
-🔸 **கல்பாகமாகலனயாகுலதாம் லபந்தே** - கல்பம் முடியும் வரை (மிக நீண்ட காலம்) எண்ணாத (கணக்கிடாத) ஆர்வத்தை பெறுகிறார்கள். **கல்பம்** என்பது மிக நீண்ட காலக் கணக்கீடு. இவர்கள் **என்றென்றும் பெருமாளின் சேவையில்** ஆர்வம் கொண்டிருக்கிறார்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **கல்பாகமாகலனயாகுலதாம் லபந்தே** - கல்பம் முடியும் வரை (மிக நீண்ட காலம்) எண்ணாத (கணக்கிடாத) ஆர்வத்தை பெறுகிறார்கள். **கல்பம்** என்பது மிக நீண்ட காலக் கணக்கீடு. இவர்கள் **என்றென்றும் பெருமாளின் சேவையில்** ஆர்வம் கொண்டிருக்கிறார்கள்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -1401,9 +1694,20 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! சூரியன், சந்திரன், செவ்வாய், புதன், குரு, சுக்ரன், சனி, ராகு, கேது ஆகிய வானில் பிரகாசிக்கும் முக்கிய நவக்கிரகங்கள், உமது தாசனின் தாசனின் இறுதி வரை தாசர்களின் தாசர்களாக, உமது திருவடி தூசி நிரம்பிய பிரகாசிக்கும் நெற்றியுடன், சுவர்க்கத்திலும் மோக்ஷத்திலும் விருப்பமில்லாத உள்ளார்ந்த பக்தர்களாக, கல்பம் முடியும் வரை எண்ணமுடியாத ஆர்வத்துடன் உமது சேவையில் ஈடுபட்டுள்ளனர். உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! சூரியன், சந்திரன், செவ்வாய், புதன், குரு, சுக்ரன், சனி, ராகு, கேது ஆகிய வானில் பிரகாசிக்கும் முக்கிய நவக்கிரகங்கள், உமது தாசனின் தாசனின் இறுதி வரை தாசர்களின் தாசர்களாக, உமது திருவடி தூசி நிரம்பிய பிரகாசிக்கும் நெற்றியுடன், சுவர்க்கத்திலும் மோக்ஷத்திலும் விருப்பமில்லாத உள்ளார்ந்த பக்தர்களாக, கல்பம் முடியும் வரை எண்ணமுடியாத ஆர்வத்துடன் உமது சேவையில் ஈடுபட்டுள்ளனர். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **நவக்கிரகங்கள்** மோக்ஷம் கூட வேண்டாம், பெருமாள் சேவையே போதும் என்கிறார்கள்!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - त्वत्-पाद-धूलि-भरित-स्फुरित-उत्तमाङ्गाः (Tvat-pāda-dhūli-bharita-sphurita-uttamāṅgāḥ) — त्वत्-पाद (tvat-pāda, "your foot/feet") + धूलि (dhūli, "dust, the fine particles of earth") + भरित (bharita, "filled with, laden with, permeated by") + स्फुरित (sphurita, from sphur, "to throb with light, to quiver with radiance, to flash") + उत्तमाङ्गाः (uttamāṅgāḥ, "the highest limbs, the head and forehead"). Together: "those whose heads are filled with and radiant from your foot-dust." Tvat-pāda-dhūli applied to the head (uttamāṅga) is the supreme act of devotion — the lowest point of the divine form (the foot) applied to the highest point of the human form (the head). Sphurita says this dust does not merely mark them — it causes them to radiate.
+
+  - स्वर्गापवर्ग-निरपेक्ष-निजान्तरङ्गाः (Svargāpavarga-nirapekṣa-nijāntaraṅgāḥ) — स्वर्ग (svarga, "heaven, the celestial realm of pleasure") + अपवर्ग (apavarga, "liberation, the going-away from bondage, mokṣa" — apa, "away" + varga, "group/category" — going away from the category of the bound) + निरपेक्ष (nirapekṣa, "without expectation, without desire for" — nir-, "without" + apekṣā, "expectation, the looking-toward") + निज (nija, "one's own, inner, authentic") + अन्तरङ्गाः (antaraṅgāḥ, "inner associates, intimate devotees" — antara, "inner" + aṅga, "limb, part"). Together: "those who are inner devotees without expectation of either heaven or liberation." Nirapekṣa is the key — these devotees have no apekṣā (expectation) even for the highest goals of existence. The verse is a definition of the highest bhakti: service without expectation of any reward, not even the reward of liberation.
+
+  - कल्पागमाकलनयाकुलताम् लभन्ते (Kalpāgamākalanayākulatām Labhante) — कल्प (kalpa, "a cosmic age, a complete cycle of creation and dissolution — 4.32 billion years") + आगम (āgama, "the coming, the arrival") + अकलनया (akalanayā, instrumental of akalana, "the non-counting, the non-calculating" — "by not counting") + आकुलताम् (ākulatām, accusative of ākulatā, "the state of being eagerly engaged, intense absorption, the eagerness that overflows") + लभन्ते (labhante, middle voice: "they obtain for themselves"). Together: "they obtain — for themselves — an eagerness that does not count even the arrival of cosmic ages." Akalana (not-counting) is the depth of this eager devotion — it does not track time, does not count down to a reward, does not calculate the next kalpa. The eagerness is infinite because it is uncalculating.
+
+
 }
 
 ---
@@ -1452,12 +1756,15 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **த்வத்-கோபுராக்ர-சிகராணி நிரீக்ஷமாணாஃ** - உமது கோபுரத்தின் உச்சி சிகரங்களை பார்க்கிறவர்கள். **திருப்பதி கோவிலின் கோபுரத்தை தரிசிக்கும்** பக்தர்கள்.
+🔸 **த்வத்-கோபுராக்ர-சிகராணி நிரீக்ஷமாணாஃ** - உமது கோபுரத்தின் உச்சி சிகரங்களை பார்க்கிறவர்கள். **திருப்பதி கோவிலின் கோபுரத்தை தரிசிக்கும்** பக்தர்கள்.}
 
-🔸 **ஸ்வர்காபவர்க-பதவீம் பரமாம் ஸ்ரயந்தஃ** - சுவர்க்கம் மற்றும் மோக்ஷம் என்ற உயர்ந்த நிலைகளை அடைகிறார்கள். **கோபுரத்தை தரிசித்தாலே** சொர்க்கமும் முக்தியும் கிடைக்கும்!
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸ்வர்காபவர்க-பதவீம் பரமாம் ஸ்ரயந்தஃ** - சுவர்க்கம் மற்றும் மோக்ஷம் என்ற உயர்ந்த நிலைகளை அடைகிறார்கள். **கோபுரத்தை தரிசித்தாலே** சொர்க்கமும் முக்தியும் கிடைக்கும்!}
 
-🔸 **மர்த்யா மனுஷ்ய-புவனே மதிம் ஆஸ்ரயந்தே** - மனித உலகில் வாழும் மானிடர்கள் (உமது திருக்கோவிலில்) மனதை சார்கிறார்கள். **மனிதர்கள்** திருமலை கோவிலில் தங்கள் **மனதையும் புத்தியையும்** செலுத்துகிறார்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **மர்த்யா மனுஷ்ய-புவனே மதிம் ஆஸ்ரயந்தே** - மனித உலகில் வாழும் மானிடர்கள் (உமது திருக்கோவிலில்) மனதை சார்கிறார்கள். **மனிதர்கள்** திருமலை கோவிலில் தங்கள் **மனதையும் புத்தியையும்** செலுத்துகிறார்கள்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -1466,9 +1773,20 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! உமது கோபுரத்தின் உச்சி சிகரங்களை தரிசிக்கும் மனிதர்கள், உமது திருவடி தூசி நிரம்பிய பிரகாசிக்கும் நெற்றியுடன், சுவர்க்கம் மற்றும் மோக்ஷம் என்ற உயர்ந்த நிலைகளை அடைந்து, மனித உலகில் உமது திருக்கோவிலின் மீது தங்கள் மனதை செலுத்தி கல்பம் முடியும் வரை எண்ணமுடியாத ஆர்வத்துடன் இருக்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! உமது கோபுரத்தின் உச்சி சிகரங்களை தரிசிக்கும் மனிதர்கள், உமது திருவடி தூசி நிரம்பிய பிரகாசிக்கும் நெற்றியுடன், சுவர்க்கம் மற்றும் மோக்ஷம் என்ற உயர்ந்த நிலைகளை அடைந்து, மனித உலகில் உமது திருக்கோவிலின் மீது தங்கள் மனதை செலுத்தி கல்பம் முடியும் வரை எண்ணமுடியாத ஆர்வத்துடன் இருக்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **கோபுர தரிசனமே** சொர்க்கமும் முக்தியும் தரும் சக்தி கொண்டது!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - त्वत्-गोपुराग्र-शिखराणि निरीक्षमाणाः (Tvad-gopurāgra-śikharāṇi Nirīkṣamāṇāḥ) — त्वत् (tvad, "your") + गोपुर (gopura, "the temple tower, the monumental gateway tower" — from go, "the sacred cow/earth" + pura, "city/enclosure" — the gopura is the sacred city's gate) + अग्र (agra, "the topmost, the frontmost, the apex") + शिखराणि (śikharāṇi, "the peaks, the crests, the highest points" — accusative plural) + निरीक्षमाणाः (nirīkṣamāṇāḥ, present middle participle of nir + īkṣ, "to behold completely, to see with full attention, to gaze upon thoroughly" — "those who are beholding"). Together: "those who are beholding the apical peaks of your gopura." Nirīkṣamāṇāḥ as a present participle says the beholding is ongoing, sustained — not a glance but a sustained devotional gaze.
+
+  - स्वर्गापवर्ग-पदवीं परमां श्रयन्तः (Svargāpavarga-padavīṃ Paramāṃ Śrayantaḥ) — स्वर्गापवर्ग (svargāpavarga, "heaven and liberation" — the full spectrum of spiritual attainment from svarga at one end to apavarga/mokṣa at the other) + पदवीम् (padavīm, "the path, the position, the standing" — accusative: "the standing/status of") + परमाम् (paramām, "the supreme, the highest") + श्रयन्तः (śrayantaḥ, present participle of śri, "to take shelter in, to resort to, to attain" — "those who are attaining"). Together: "those who are attaining the supreme standing of heaven and liberation." The verse's theological claim is radical: the mere sight (darśana) of the gopura's peak grants svarga and apavarga.
+
+  - मर्त्या मनुष्य-भुवने मतिम् आश्रयन्ते (Martyā Manuṣya-bhuvane Matim Āśrayante) — मर्त्या (martyā, "the mortal ones, those subject to death" — from mṛ, "to die" — martyā are humans in their most defining characteristic: their mortality) + मनुष्य-भुवने (manuṣya-bhuvane, "in the human world, in the realm of those descended from Manu" — locative) + मतिम् (matim, "the mind, the thought, the intellectual and devotional awareness" — accusative) + आश्रयन्ते (āśrayante, middle voice present tense of ā + śri, "to take shelter in, to lean upon for support"). Together: "mortals in the human world take shelter in the thought/mind [of the temple]." The verse ends with the most humble beings — martyā, the mortals — taking refuge in mati, the oriented mind. The gopura lifts even mortal consciousness toward the supreme.
+
+
 }
 
 ---
@@ -1515,16 +1833,21 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **ஸ்ரீ-பூமி-நாயக** - ஸ்ரீதேவி மற்றும் பூதேவியின் நாயகரே! திருப்பதியில் பெருமாள் **இரு தேவியருடன்** எழுந்தருளியுள்ளார். **"ஸ்ரீ"** என்றால் லக்ஷ்மி தேவி (பத்மாவதி தாயார்), **"பூமி"** என்றால் பூமி தேவி.
+🔸 **ஸ்ரீ-பூமி-நாயக** - ஸ்ரீதேவி மற்றும் பூதேவியின் நாயகரே! திருப்பதியில் பெருமாள் **இரு தேவியருடன்** எழுந்தருளியுள்ளார். **"ஸ்ரீ"** என்றால் லக்ஷ்மி தேவி (பத்மாவதி தாயார்), **"பூமி"** என்றால் பூமி தேவி.}
 
-🔸 **தயாதி-குணாம்ருதாப்தே** - கருணை முதலான குணங்களின் அமிர்த கடலே! **கருணை, தயை, அன்பு, நிறைவு, பக்த வாத்சல்யம்** முதலான எல்லா நல்ல குணங்களின் கருவூலம்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **தயாதி-குணாம்ருதாப்தே** - கருணை முதலான குணங்களின் அமிர்த கடலே! **கருணை, தயை, அன்பு, நிறைவு, பக்த வாத்சல்யம்** முதலான எல்லா நல்ல குணங்களின் கருவூலம்.}
 
-🔸 **தேவாதிதேவ** - தேவர்களுக்கும் தேவரே! **தேவாதி தேவ** என்பது மிக உயர்ந்த அடைமொழி. பிரம்மா, சிவன் உள்பட எல்லா தேவர்களையும் விட உயர்ந்தவர்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **தேவாதிதேவ** - தேவர்களுக்கும் தேவரே! **தேவாதி தேவ** என்பது மிக உயர்ந்த அடைமொழி. பிரம்மா, சிவன் உள்பட எல்லா தேவர்களையும் விட உயர்ந்தவர்.}
 
-🔸 **ஜகதேக-சரண்யமூர்தே** - உலகிற்கே ஒரே சரணடையத்தக்க வடிவமே! **முழு பிரபஞ்சமும்** சரணடைய வேண்டிய ஒரே இறைவன். **எல்லோருக்கும் இறுதி புகலிடம்**.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஜகதேக-சரண்யமூர்தே** - உலகிற்கே ஒரே சரணடையத்தக்க வடிவமே! **முழு பிரபஞ்சமும்** சரணடைய வேண்டிய ஒரே இறைவன். **எல்லோருக்கும் இறுதி புகலிடம்**.}
 
-🔸 **ஸ்ரீமன்-அனந்த-கருடாதிபிர் அர்சிதாங்க்ரே** - ஸ்ரீமானான ஆதிசேஷன், கருடன் முதலானவர்களால் வழிபடப்படும் திருவடிகள் உடையவரே! **ஆதிசேஷன் திருப்பள்ளியாக** இருக்கிறார், **கருடன் வாகனமாக** சேவிக்கிறார். இரண்டுமே பெருமாளின் திருவடிகளை **நித்தம் வணங்குகின்றன**.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸ்ரீமன்-அனந்த-கருடாதிபிர் அர்சிதாங்க்ரே** - ஸ்ரீமானான ஆதிசேஷன், கருடன் முதலானவர்களால் வழிபடப்படும் திருவடிகள் உடையவரே! **ஆதிசேஷன் திருப்பள்ளியாக** இருக்கிறார், **கருடன் வாகனமாக** சேவிக்கிறார். இரண்டுமே பெருமாளின் திருவடிகளை **நித்தம் வணங்குகின்றன**.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -1533,9 +1856,22 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! ஸ்ரீதேவி மற்றும் பூதேவியின் நாயகரே! கருணை முதலான குணங்களின் அமிர்த கடலே! தேவர்களுக்கும் தேவரே! உலகிற்கே ஒரே சரணடையத்தக்க வடிவமே! ஸ்ரீமானான ஆதிசேஷன், கருடன் முதலானவர்களால் வழிபடப்படும் திருவடிகள் உடையவரே! உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! ஸ்ரீதேவி மற்றும் பூதேவியின் நாயகரே! கருணை முதலான குணங்களின் அமிர்த கடலே! தேவர்களுக்கும் தேவரே! உலகிற்கே ஒரே சரணடையத்தக்க வடிவமே! ஸ்ரீமானான ஆதிசேஷன், கருடன் முதலானவர்களால் வழிபடப்படும் திருவடிகள் உடையவரே! உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 இந்த ஸ்லோகம் **பெருமாளின் எல்லா சிறப்புகளையும்** ஒரே சரணத்தில் கூறும் **சார சங்க்ரக ஸ்லோகம்**!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - श्री-भूमि-नायक (Śrī-bhūmi-nāyaka) — श्री (Śrī, Lakṣmī, the goddess of divine beauty and abundance) + भूमि (bhūmi, "the earth, the ground, the goddess of the earth" — Bhūdevī, Earth herself personified) + नायक (nāyaka, "the leader, the guide, the one who leads by going ahead" — from nī, "to lead") — together as **vocative**: "O leader/lord of Śrī and Bhūmi!" The Śrī Vaiṣṇava tradition specifically honours two consorts: Śrīdevī (spiritual grace) and Bhūdevī (material creation and sustenance). Nāyaka as "leader-guide" places him not above them in remote sovereignty but as their protector who goes ahead.
+
+  - दयादि-गुणामृताब्धे (Dayādi-guṇāmṛtābdhe) — दया (dayā, "compassion, the active ache of the heart for others' pain") + आदि (ādi, "beginning with, and all that follows from this first quality") + गुण (guṇa, "quality, virtue") + अमृत (amṛta, "the nectar of immortality, the deathless elixir") + अब्धे (abdhe, vocative of abdhi, "ocean" — from ap, "water" + dhi, "holder"). Together: "O ocean of the nectar of compassion-and-all-its-following-qualities!" Ādi (beginning with) after dayā says compassion is the first and defining quality — all his other virtues flow from it. Amṛta applied to guṇa says his qualities do not merely nourish but confer immortality.
+
+  - जगदेक-शरण्यमूर्ते (Jagadeka-śaraṇyamūrte) — जगत् (jagat, "the world") + एक (eka, "the one and only") = jagad-eka: "the one and only for the world"; शरण्य (śaraṇya, **gerundive** of śaraṇ, "worthy of being taken as refuge, that which should be surrendered to" — śaraṇya is "the one who is fit and worthy to be taken as shelter") + मूर्ते (mūrte, vocative of mūrti, "the embodied form, the physical presence"). Together: "O embodied form that is the world's one and only worthy refuge!" Śaraṇya as a gerundive carries moral weight — not merely "available as refuge" but "worthy of being taken as refuge, the rightful shelter." The mūrti (form) in a temple is the śaraṇya-mūrti — the embodied presence in which the worthy-refuge takes physical form.
+
+  - श्रीमन्-अनन्त-गरुडादिभिः अर्चितान्घ्रे (Śrīman-ananta-garuḍādibhiḥ Arcitāṅghre) — श्रीमन् (śrīman, "the glorious one, endowed with Śrī" — Ādiśeṣa himself is śrīman, glorified by his eternal service) + अनन्त (Ananta, "the infinite one, the endless" — Ādiśeṣa's most sacred name, from an-, "without" + anta, "end") + गरुड (Garuḍa) + आदिभिः (ādibhiḥ, "by those beginning with, and others" — instrumental plural) + अर्चित (arcita, "worshipped, honoured with ritual service") + अङ्घ्रे (aṅghre, vocative of aṅghri, "the foot, the divine foot as the accessible point of devotion"). Together: "O one whose feet are worshipped by the glorious Ananta, Garuḍa, and others!" Ādiśeṣa serves as the divine bed; Garuḍa as the divine vehicle — both eternally at the Lord's feet. That they worship his feet — those great beings — says everything about the feet's sanctity.
+
+
 }
 
 ---
@@ -1583,16 +1919,21 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **ஸ்ரீ-பத்மனாப புருஷோத்தம வாஸுதேவ** - ஸ்ரீ பத்மனாபா! புருஷோத்தமா! வாஸுதேவா! **விஷ்ணு சஹஸ்ர நாமத்தில்** முக்கிய நாமங்கள். **"பத்மனாப"** - தொப்புளில் தாமரை மலர, அதில் பிரம்மா தோன்றியவர். **"புருஷோத்தம"** - உயர்ந்த புருஷன். **"வாஸுதேவ"** - கிருஷ்ண ரூபம்.
+🔸 **ஸ்ரீ-பத்மனாப புருஷோத்தம வாஸுதேவ** - ஸ்ரீ பத்மனாபா! புருஷோத்தமா! வாஸுதேவா! **விஷ்ணு சஹஸ்ர நாமத்தில்** முக்கிய நாமங்கள். **"பத்மனாப"** - தொப்புளில் தாமரை மலர, அதில் பிரம்மா தோன்றியவர். **"புருஷோத்தம"** - உயர்ந்த புருஷன். **"வாஸுதேவ"** - கிருஷ்ண ரூபம்.}
 
-🔸 **வைகுண்ட மாதவ ஜனார்தன** - வைகுண்ட லோகனாதனே! மாதவனே! ஜனார்தனனே! இன்னும் **மூன்று திவ்ய நாமங்கள்**.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **வைகுண்ட மாதவ ஜனார்தன** - வைகுண்ட லோகனாதனே! மாதவனே! ஜனார்தனனே! இன்னும் **மூன்று திவ்ய நாமங்கள்**.}
 
-🔸 **சக்ரபாணே** - கையில் சக்கரம் (சுதர்சனம்) ஏந்தியவரே! **சுதர்சன சக்ரம்** பெருமாளின் முக்கிய ஆயுதம்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **சக்ரபாணே** - கையில் சக்கரம் (சுதர்சனம்) ஏந்தியவரே! **சுதர்சன சக்ரம்** பெருமாளின் முக்கிய ஆயுதம்.}
 
-🔸 **ஸ்ரீவத்ஸ-சிஹ்ன** - மார்பில் ஸ்ரீவத்ஸ அடையாளம் உடையவர். **ஸ்ரீவத்ஸம்** என்பது லக்ஷ்மி தேவி வசிக்கும் இடத்தைக் குறிக்கும் மார்பில் உள்ள சுருள் அடையாளம்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸ்ரீவத்ஸ-சிஹ்ன** - மார்பில் ஸ்ரீவத்ஸ அடையாளம் உடையவர். **ஸ்ரீவத்ஸம்** என்பது லக்ஷ்மி தேவி வசிக்கும் இடத்தைக் குறிக்கும் மார்பில் உள்ள சுருள் அடையாளம்.}
 
-🔸 **சரணாகத-பாரிஜாத** - சரணடைந்தவர்களுக்கு பாரிஜாத மரம் போன்றவர். **கற்பக விருக்ஷம்** எல்லா விருப்பங்களையும் நிறைவேற்றுவது போல, பெருமாள் பக்தர்களின் **அனைத்து கோரிக்கைகளையும் நிறைவேற்றுகிறார்**.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **சரணாகத-பாரிஜாத** - சரணடைந்தவர்களுக்கு பாரிஜாத மரம் போன்றவர். **கற்பக விருக்ஷம்** எல்லா விருப்பங்களையும் நிறைவேற்றுவது போல, பெருமாள் பக்தர்களின் **அனைத்து கோரிக்கைகளையும் நிறைவேற்றுகிறார்**.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -1601,9 +1942,22 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! ஸ்ரீ பத்மனாபா! புருஷோத்தமா! வாஸுதேவா! வைகுண்டா! மாதவா! ஜனார்தனா! கையில் சக்கரம் ஏந்திய சக்ரபாணியே! மார்பில் ஸ்ரீவத்ஸ அடையாளம் உடையவரே! சரணடைந்தவர்களுக்கு கற்பக விருக்ஷம் போன்றவரே! உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! ஸ்ரீ பத்மனாபா! புருஷோத்தமா! வாஸுதேவா! வைகுண்டா! மாதவா! ஜனார்தனா! கையில் சக்கரம் ஏந்திய சக்ரபாணியே! மார்பில் ஸ்ரீவத்ஸ அடையாளம் உடையவரே! சரணடைந்தவர்களுக்கு கற்பக விருக்ஷம் போன்றவரே! உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **விஷ்ணுவின் புகழ்பெற்ற நாமங்கள்** அனைத்தையும் சொல்லி வணங்குகிறது!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - श्री-पद्मनाभ (Śrī-padmanābha) — पद्म (padma, "the lotus") + नाभि (nābhi, "the navel, the center-point, the originating hub" — from nabh, "to burst forth, to flow" — the navel as the place from which life flows outward). Together as **vocative**: "O one from whose navel the lotus arises!" Padmanābha specifically names the cosmic vision of Viṣṇu reclining on Ādiśeṣa in the primordial ocean, from whose navel a lotus arises bearing Brahmā — the image of all creation arising from the Lord's own center.
+
+  - पुरुषोत्तम (Puruṣottama) — पुरुष (puruṣa, "the cosmic person, the conscious principle, the person" — from pur, "the city" + uṣa, "dweller" — puruṣa is "the one who dwells in the city of the body, the conscious inhabitant") + उत्तम (uttama, "the highest, the most excellent, the supreme" — superlative of ud-, "upward"). Together: "the most excellent person, the supreme conscious being." Puruṣottama is the Bhagavad Gītā's own supreme designation (BG 15.18) — the one who transcends both the perishable (kṣara) and the imperishable (akṣara) puruṣas.
+
+  - वैकुण्ठ (Vaikuṇṭha) — from vi- (negating prefix) + kuṇṭha ("dullness, obstruction, the state of being blocked" — from kuṇṭh, "to be blunted, to be obstructed"). Vaikuṇṭha: "the one in whom there is no obstruction, no limitation, no dulling of consciousness" — also his transcendent abode where no obstruction to divine consciousness exists. The name is simultaneously a quality (limitless) and a location (the limitless realm).
+
+  - शरणागत-पारिजात (Śaraṇāgata-pārijāta) — शरणागत (śaraṇāgata — śaraṇam + āgata, "come to refuge, the one who has arrived at taking shelter" — from śaraṇa + ā + gam) + पारिजात (pārijāta, "the wish-fulfilling tree of heaven, the divine coral tree that grants all desires" — from pāri, "surpassing" + jāta, "born"). Together: "the pārijāta tree for those who have come to take refuge." He is the divine wish-fulfilling tree — but specifically for śaraṇāgatas (those who have surrendered). The condition is surrender; the reward is the granting of all that the heart desires.
+
+
 }
 
 ---
@@ -1654,14 +2008,18 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **கந்தர்ப-தர்ப-ஹர-ஸுந்தர-திவ்யமூர்தே** - காமதேவனின் கர்வத்தை அழிக்கும் அழகிய தெய்வீக வடிவமே! **மன்மதனே** அழகின் தேவன், ஆனால் வெங்கடேஸ்வரனின் அழகுக்கு முன்பு அவனின் **கர்வம் அழிந்துவிடும்**. பெருமாளின் அழகு **மன்மதனையே வெட்கப்படுத்தும்** அளவுக்கு மேலானது.
+🔸 **கந்தர்ப-தர்ப-ஹர-ஸுந்தர-திவ்யமூர்தே** - காமதேவனின் கர்வத்தை அழிக்கும் அழகிய தெய்வீக வடிவமே! **மன்மதனே** அழகின் தேவன், ஆனால் வெங்கடேஸ்வரனின் அழகுக்கு முன்பு அவனின் **கர்வம் அழிந்துவிடும்**. பெருமாளின் அழகு **மன்மதனையே வெட்கப்படுத்தும்** அளவுக்கு மேலானது.}
 
-🔸 **காந்தா-குசாம்புருஹ-குட்மல-லோலத்ருஷ்டே** - தனது காந்தையின் (லக்ஷ்மியின்) மார்பு தாமரை அரும்பின் மீது அசையும் பார்வை உடையவரே! **லக்ஷ்மி தேவியின் மீது** பெருமாளின் **அன்பு நிறைந்த பார்வை**. தேவியை **அன்பாக பார்க்கும்** பெருமாளின் திருக்கடாக்ஷம்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **காந்தா-குசாம்புருஹ-குட்மல-லோலத்ருஷ்டே** - தனது காந்தையின் (லக்ஷ்மியின்) மார்பு தாமரை அரும்பின் மீது அசையும் பார்வை உடையவரே! **லக்ஷ்மி தேவியின் மீது** பெருமாளின் **அன்பு நிறைந்த பார்வை**. தேவியை **அன்பாக பார்க்கும்** பெருமாளின் திருக்கடாக்ஷம்.}
 
-🔸 **கல்யாண-நிர்மல-குணாகர** - மங்களமான, தூய்மையான குணங்களின் கடலே! **எல்லா நல்ல குணங்களும்** பெருமாளிடம் நிறைந்துள்ளன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **கல்யாண-நிர்மல-குணாகர** - மங்களமான, தூய்மையான குணங்களின் கடலே! **எல்லா நல்ல குணங்களும்** பெருமாளிடம் நிறைந்துள்ளன.}
 
-🔸 **திவ்யகீர்தே** - தெய்வீக புகழ் உடையவரே! உமது புகழ் **மூன்று உலகங்களிலும்** பரவியுள்ளது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **திவ்யகீர்தே** - தெய்வீக புகழ் உடையவரே! உமது புகழ் **மூன்று உலகங்களிலும்** பரவியுள்ளது.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -1670,9 +2028,20 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! ஸ்ரீ பத்மனாபா! புருஷோத்தமா! வாஸுதேவா! வைகுண்டா! மாதவா! ஜனார்தனா! கையில் சக்கரம் ஏந்தியவரே! காமதேவனின் கர்வத்தை அழிக்கும் அழகிய தெய்வீக வடிவமே! தனது காந்தையான லக்ஷ்மியின் மார்பின் மீது அசையும் அன்புமிக்க பார்வை உடையவரே! மங்களமான தூய்மையான குணங்களின் கடலே! தெய்வீக புகழ் உடையவரே! உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! ஸ்ரீ பத்மனாபா! புருஷோத்தமா! வாஸுதேவா! வைகுண்டா! மாதவா! ஜனார்தனா! கையில் சக்கரம் ஏந்தியவரே! காமதேவனின் கர்வத்தை அழிக்கும் அழகிய தெய்வீக வடிவமே! தனது காந்தையான லக்ஷ்மியின் மார்பின் மீது அசையும் அன்புமிக்க பார்வை உடையவரே! மங்களமான தூய்மையான குணங்களின் கடலே! தெய்வீக புகழ் உடையவரே! உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **பெருமாளின் அழகும் அன்பும்** சிறப்பாக வர்ணிக்கப்படுகிறது!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - कन्दर्प-दर्प-हर-सुन्दर-दिव्यमूर्ते (Kandarpa-darpa-hara-sundara-divyamūrte) — कन्दर्प (Kandarpa, "the one who inflames pride and desire" — Madana/Manmatha, the god of love and erotic beauty, his very name meaning "he who arouses pride") + दर्प (darpa, "pride, arrogance, the inflated sense of one's own beauty") + हर (hara, "the remover, the one who destroys") = kandarpa-darpa-hara: "the remover of Kandarpa's pride." The Lord's beauty is so supreme that even the god of beauty loses his pride before it + सुन्दर (sundara, "beautiful") + दिव्यमूर्ते (vocative: "divine form"). Together: "O beautiful divine form that removes the pride of even the god of beauty!"
+
+  - कान्ता-कुचाम्बुरुह-कुट्मल-लोलदृष्टे (Kāntā-kucāmburuha-kuṭmala-loladṛṣṭe) — कान्ता (kāntā, "the beloved, the wife, the one who shines with attractiveness" — Lakṣmī) + कुच (kuca, "the breast, the chest") + अम्बुरुह (amburuha, from ambu, "water" + ruha, "growing from" — the lotus, water-born) + कुट्मल (kuṭmala, "the bud, the not-yet-fully-opened flower") + लोल (lola, "moving, swaying, unsteady with eagerness or love") + दृष्टे (dṛṣṭe, vocative of dṛṣṭi, "the gaze, the sight, the eyes as the instrument of beholding"). Together: "O one whose gaze moves lovingly over the lotus-bud of his beloved's breast." This is Sanskrit's most intimate description — his love-gaze at Lakṣmī, named through the poetry of the lotus-bud.
+
+  - कल्याण-निर्मल-गुणाकर दिव्यकीर्ते (Kalyāṇa-nirmala-guṇākara Divyakīrte) — कल्याण (kalyāṇa, "auspicious, bringing welfare and blessings, that which causes good to others") + निर्मल (nirmala, "spotless, without any impurity or defect") + गुणाकर (guṇākara, "the mine of virtues, the originating source of all good qualities" — from guṇa + ākara, "mine") + दिव्यकीर्ते (divyakīrte, vocative: "O one of divine fame!"). Together: "O mine of auspicious and spotless virtues, O one of divine fame!" Guṇākara as "mine" (not ocean, not treasury) says his virtues are not stagnant wealth but an active source from which new virtues continuously emerge.
+
+
 }
 
 ---
@@ -1722,7 +2091,7 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 இந்த ஸ்லோகம் **விஷ்ணுவின் தஸாவதாரங்களை** (பத்து அவதாரங்கள்) அழகாக விளக்குகிறது:
+🔸 இந்த ஸ்லோகம் **விஷ்ணுவின் தஸாவதாரங்களை** (பத்து அவதாரங்கள்) அழகாக விளக்குகிறது:}
 
 1. **மீனாக்ருதே** - மத்ஸ்ய (மீன்) அவதாரம் - வேதங்களை காப்பாற்றியது
 2. **கமட** - கூர்ம (ஆமை) அவதாரம் - பால் கடைதலில் மந்தர மலையை தாங்கியது
@@ -1733,8 +2102,9 @@ scrollToTop: true
 7. **ராமசந்த்ர** - ஸ்ரீ ராம அவதாரம் - ராவணனை வதைத்தது
 8. **ஸேஷாம்சராம** - பலராம அவதாரம் - ஆதிசேஷனின் அம்சம்
 9. **யதுநந்தன** - கிருஷ்ண அவதாரம் - கம்சனை வதைத்தது
-10. **கல்கிரூப** - கல்கி அவதாரம் - கலியுகம் முடியும்போது தோன்றும்
+10. **கல்கிரூப** - கல்கி அவதாரம் - கலியுகம் முடியும்போது தோன்றும் 
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -1743,9 +2113,18 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! மத்ஸ்ய, கூர்ம, வராஹ, நரசிம்ஹ, வாமன, பரசுராம, ராம, பலராம, கிருஷ்ண, கல்கி ஆகிய தஸாவதார ரூபங்களே! காமதேவனின் கர்வத்தை அழிக்கும் அழகிய தெய்வீக வடிவமே! உமது காந்தையின் மார்பின் மீது அசையும் அன்புமிக்க பார்வை உடையவரே! மங்களமான தூய்மையான குணங்களின் கடலே! தெய்வீக புகழ் உடையவரே! உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! மத்ஸ்ய, கூர்ம, வராஹ, நரசிம்ஹ, வாமன, பரசுராம, ராம, பலராம, கிருஷ்ண, கல்கி ஆகிய தஸாவதார ரூபங்களே! காமதேவனின் கர்வத்தை அழிக்கும் அழகிய தெய்வீக வடிவமே! உமது காந்தையின் மார்பின் மீது அசையும் அன்புமிக்க பார்வை உடையவரே! மங்களமான தூய்மையான குணங்களின் கடலே! தெய்வீக புகழ் உடையவரே! உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **பத்து அவதாரங்களும்** திருமலை வெங்கடேஸ்வரனில் ஒன்றாக இணைந்துள்ளன!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - மீனாக்ருதே கமட கோல ந்ருஸிம்ஹ வர்ணின் (Mīnākṛte Kamaṭha Kola Nṛsiṁha Varṇin) — Each word is a **vocative** addressing the Lord through one of his ten avatāra forms: मीनाकृते (mīnākṛte — mīna, "fish" + ākṛte, vocative of ākṛti, "form" — "O one of the fish form!" — the Matsya avatāra who protected the Vedas); कमठ (kamaṭha, "the tortoise" — the Kūrma avatāra who held Mount Mandara as the cosmic churn); कोल (kola, "the boar" — the Varāha avatāra who lifted the earth from the cosmic ocean); नृसिंह (nṛsiṁha, "the man-lion" — the Narasiṁha avatāra who split the pillar to protect Prahlāda); वर्णिन् (varṇin, "the one of sacred marks, the initiated student" — here referring to the Vāmana avatāra who appeared as a brahmacarī student).
+
+  - The ten avatāra names in this verse form a complete theological statement: Viṣṇu's avatāras move through all of creation — from the fish (water, the unconscious depths), to the tortoise (amphibious, between water and earth), to the boar (earth), to the man-lion (the transition between animal and human consciousness), to the dwarf-brāhmaṇa (the fully human but divinely empowered), to Paraśurāma (the warrior), to Rāmacandra (the ideal king), to Balarāma (strength and devotion), to Kṛṣṇa (love and wisdom), to Kalkī (the future completion). The entire arc of evolution is covered. Veṅkaṭeśvara encompasses all ten because he is the source from which all avatāras emerge.
+
+
 }
 
 ---
@@ -1797,14 +2176,18 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **ஏலா-லவங்க-கனஸார-ஸுகந்தி-தீர்த்தம்** - ஏலக்காய், கிராம்பு, கற்பூர சாரம் கலந்த நறுமணம் உடைய புனித தீர்த்தம். **திருமங்கல குளியல்** நீரில் இந்த **நறுமணப் பொருட்கள்** கலக்கப்படுகின்றன.
+🔸 **ஏலா-லவங்க-கனஸார-ஸுகந்தி-தீர்த்தம்** - ஏலக்காய், கிராம்பு, கற்பூர சாரம் கலந்த நறுமணம் உடைய புனித தீர்த்தம். **திருமங்கல குளியல்** நீரில் இந்த **நறுமணப் பொருட்கள்** கலக்கப்படுகின்றன.}
 
-🔸 **திவ்யம் வியத்-ஸரிதி** - தெய்வீக வான் நதியான கங்கையிலிருந்து. **கங்கை நீரும்** திருக்குளியலுக்கு பயன்படுத்தப்படுகிறது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **திவ்யம் வியத்-ஸரிதி** - தெய்வீக வான் நதியான கங்கையிலிருந்து. **கங்கை நீரும்** திருக்குளியலுக்கு பயன்படுத்தப்படுகிறது.}
 
-🔸 **ஹேம-கடேஷு பூர்ணம்** - பொன் கலசங்களில் நிரப்பப்பட்டு. **தங்க பாத்திரங்களில்** தீர்த்தம் நிரப்பப்பட்டுள்ளது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஹேம-கடேஷு பூர்ணம்** - பொன் கலசங்களில் நிரப்பப்பட்டு. **தங்க பாத்திரங்களில்** தீர்த்தம் நிரப்பப்பட்டுள்ளது.}
 
-🔸 **த்ருத்வாத்ய வைதிக-சிகாமணயஃ ப்ரஹ்ருஷ்டாஃ** - இன்று (அபிஷேகத்திற்காக) ஏந்தி, வேத வித்வான்கள் மகிழ்ச்சியாக. **வேதபாரகர்கள்** திருமஞ்சன தீர்த்தங்களுடன் **ஆனந்தமாக** நிற்கிறார்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **த்ருத்வாத்ய வைதிக-சிகாமணயஃ ப்ரஹ்ருஷ்டாஃ** - இன்று (அபிஷேகத்திற்காக) ஏந்தி, வேத வித்வான்கள் மகிழ்ச்சியாக. **வேதபாரகர்கள்** திருமஞ்சன தீர்த்தங்களுடன் **ஆனந்தமாக** நிற்கிறார்கள்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **திஷ்டந்தி வெங்கடபதே** - வெங்கடபதியே! (உமக்கு அபிஷேகம் செய்ய) நிற்கிறார்கள்.
 }
 
@@ -1813,9 +2196,20 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! மத்ஸ்ய, கூர்ம, வராஹ, நரசிம்ஹ, வாமன, பரசுராம, ராம, பலராம, கிருஷ்ண, கல்கி ஆகிய அவதார ரூபங்களே! ஏலக்காய், கிராம்பு, கற்பூரம் கலந்த நறுமணம் உடைய தெய்வீக தீர்த்தத்தை, வான் நதியான கங்கையிலிருந்து பொன் கலசங்களில் நிரப்பி, வேத சிகாமணிகள் மகிழ்ச்சியாக உமக்கு திருமஞ்சனம் செய்ய காத்திருக்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! மத்ஸ்ய, கூர்ம, வராஹ, நரசிம்ஹ, வாமன, பரசுராம, ராம, பலராம, கிருஷ்ண, கல்கி ஆகிய அவதார ரூபங்களே! ஏலக்காய், கிராம்பு, கற்பூரம் கலந்த நறுமணம் உடைய தெய்வீக தீர்த்தத்தை, வான் நதியான கங்கையிலிருந்து பொன் கலசங்களில் நிரப்பி, வேத சிகாமணிகள் மகிழ்ச்சியாக உமக்கு திருமஞ்சனம் செய்ய காத்திருக்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **திருமஞ்சன காலம்** வந்துவிட்டது - வேத பண்டிதர்கள் தீர்த்தங்களுடன் தயாராக உள்ளனர்!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - एला-लवङ्ग-घनसार-सुगन्धि-तीर्थम् (Elā-lavaṅga-ghanasāra-sugandhi-tīrtham) — एला (elā, "cardamom" — one of the most valued spices in Āyurvedic and ritual use, its fragrance considered purifying and stimulating to the senses) + लवङ्ग (lavaṅga, "clove" — from lava, "cut" + aṅga, "limb" — the clove bud as the cut flower-bud; its essential oil carries warmth and purification) + घनसार (ghanasāra — ghana, "dense, concentrated" + sāra, "essence, the concentrated extract of something" — ghanasāra is camphor, the concentrated crystallized essence of the camphor tree) + सुगन्धि (sugandhi, "of beautiful fragrance, bearing noble scent" — from su + gandha, "smell, the quality of smell") + तीर्थम् (tīrtham, "the sacred ford, the crossing-place" — from tṝ, "to cross over" — tīrtha is sacred water because it helps one cross over sin and sorrow). Together: "the fragrant sacred water imbued with cardamom, cloves, and camphor."
+
+  - वियत्-सरिति हेम-घटेषु पूर्णम् (Viyat-sariti Hema-ghaṭeṣu Pūrṇam) — वियत् (viyat, "the sky, the ether, the space above" — from vi + yā, "going forth in all directions") + सरिति (sariti, locative of sarit, "river, the flowing one" — from sṛ, "to flow, to move continuously") = viyat-sariti: "in the sky-river, the celestial river" — the Gaṅgā as she flows through the celestial realm; हेम (hema, "gold, the golden substance" — one of Sanskrit's most ancient words for gold) + घटेषु (ghaṭeṣu, locative plural of ghaṭa, "a water-pot, a vessel shaped to hold and pour" — "in the golden water-pots") + पूर्णम् (pūrṇam, past passive participle of pṝ, "to fill completely" — "filled, full, complete"). Together: "filled from the celestial Gaṅgā into golden water-pots."
+
+  - वैदिक-शिखामणयः प्रहृष्टाः तिष्ठन्ति (Vaidika-śikhāmaṇayaḥ Prahṛṣṭāḥ Tiṣṭhanti) — वैदिक (vaidika, "of the Veda, those who belong to and practice the Vedic tradition") + शिखा (śikhā, "the crest, the tuft, the topknot — the sacred tuft worn by Vedic brahmins as a mark of their identity and commitment") + मणयः (maṇayaḥ, "jewels, the precious gems" — together: "the crest-jewels of the Vedic tradition, the most precious among Vedic scholars") + प्रहृष्टाः (prahṛṣṭāḥ, from pra- + hṛṣ, "to bristle with joy, to be thrilled" — prahṛṣṭa is "thrilled with joy, the hair standing on end from delight") + तिष्ठन्ति (tiṣṭhanti, present third-person plural of sthā, "to stand, to wait"). Together: "the crest-jewels of Vedic learning stand thrilled with joy." Prahṛṣṭāḥ — the joy that makes the hair stand on end — says their waiting is not patient endurance but ecstatic anticipation.
+
+
 }
 
 ---
@@ -1868,14 +2262,18 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **பாஸ்வான் உதேதி** - சூரியன் உதிக்கிறது. **விடியல்** முழுமையாக வந்துவிட்டது.
+🔸 **பாஸ்வான் உதேதி** - சூரியன் உதிக்கிறது. **விடியல்** முழுமையாக வந்துவிட்டது.}
 
-🔸 **விகசானி ஸரோருஹாணி** - தாமரை மலர்கள் விரிந்து மலர்ந்துள்ளன. காலை சூரிய ஒளியில் **தாமரைகள் முழு வீச்சில்** மலர்ந்துள்ளன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **விகசானி ஸரோருஹாணி** - தாமரை மலர்கள் விரிந்து மலர்ந்துள்ளன. காலை சூரிய ஒளியில் **தாமரைகள் முழு வீச்சில்** மலர்ந்துள்ளன.}
 
-🔸 **ஸம்பூரயந்தி நினனைஃ ககுபோ விஹங்காஃ** - பறவைகள் தங்கள் ஓசைகளால் திசைகளை நிரப்புகின்றன. காலையில் **பறவைகள் கீச்சிடும் ஒலி** எல்லா திசைகளிலும் எதிரொலிக்கிறது.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸம்பூரயந்தி நினனைஃ ககுபோ விஹங்காஃ** - பறவைகள் தங்கள் ஓசைகளால் திசைகளை நிரப்புகின்றன. காலையில் **பறவைகள் கீச்சிடும் ஒலி** எல்லா திசைகளிலும் எதிரொலிக்கிறது.}
 
-🔸 **ஸ்ரீவைஷ்ணவாஸ் ஸததம் அர்திதமங்கலாஸ் தே** - ஸ்ரீ வைஷ்ணவர்கள் எப்போதும் விரும்பிய மங்களங்களை உமது. **ஸ்ரீ வைஷ்ணவ பக்தர்கள்** இடைவிடாமல் பெருமாளிடம் **மங்கள வாழ்த்துக்களை** பாடுகிறார்கள்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸ்ரீவைஷ்ணவாஸ் ஸததம் அர்திதமங்கலாஸ் தே** - ஸ்ரீ வைஷ்ணவர்கள் எப்போதும் விரும்பிய மங்களங்களை உமது. **ஸ்ரீ வைஷ்ணவ பக்தர்கள்** இடைவிடாமல் பெருமாளிடம் **மங்கள வாழ்த்துக்களை** பாடுகிறார்கள்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **தாமாஸ்ரயந்தி தவ வெங்கட** - வெங்கடா! உமது திருக்கோவிலை அடைக்கலம் புகுகிறார்கள். வைஷ்ணவர்கள் **திருப்பதியை சரணடைகிறார்கள்**.
 }
 
@@ -1884,9 +2282,20 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"வெங்கடபதியே! சூரியன் உதித்து தாமரை மலர்கள் விரிந்து மலர்ந்துள்ளன. பறவைகள் தங்கள் கீச்சொலிகளால் எல்லா திசைகளையும் நிரப்புகின்றன. ஏலக்காய், கிராம்பு, கற்பூரம் கலந்த நறுமணம் உடைய தெய்வீக தீர்த்தத்தை, வான் நதியான கங்கையிலிருந்து பொன் கலசங்களில் நிரப்பி, வேத சிகாமணிகள் மகிழ்ச்சியாக காத்திருக்க, எப்போதும் மங்கள வாழ்த்துகளை பாடும் ஸ்ரீ வைஷ்ணவர்கள் உமது திருக்கோவிலை அடைக்கலம் புகுகிறார்கள். உமக்கு ஸுப்ரபாதம்!"**
+**"வெங்கடபதியே! சூரியன் உதித்து தாமரை மலர்கள் விரிந்து மலர்ந்துள்ளன. பறவைகள் தங்கள் கீச்சொலிகளால் எல்லா திசைகளையும் நிரப்புகின்றன. ஏலக்காய், கிராம்பு, கற்பூரம் கலந்த நறுமணம் உடைய தெய்வீக தீர்த்தத்தை, வான் நதியான கங்கையிலிருந்து பொன் கலசங்களில் நிரப்பி, வேத சிகாமணிகள் மகிழ்ச்சியாக காத்திருக்க, எப்போதும் மங்கள வாழ்த்துகளை பாடும் ஸ்ரீ வைஷ்ணவர்கள் உமது திருக்கோவிலை அடைக்கலம் புகுகிறார்கள். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **சூரிய உதயம், பறவைகள் கீச்சு, பக்தர்கள் மங்கள பாசுரங்கள்** - காலை முழுமையாக துவங்கிவிட்டது!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - भास्वान् उदेति विकचानि सरोरुहाणि (Bhāsvān Udeti Vikacāni Saroruhāṇi) — भास्वान् (bhāsvān, "the shining one, the radiant one" — from bhās, "to shine, to be luminous" + vat/van suffix meaning "endowed with" — bhāsvān is the Sun described through his essential quality: his luminosity); उदेति (udeti, from ud- + i, "to go up" — present tense: "it rises, it goes upward") + विकचानि (vikacāni, from vi- + kac, "to bind" with the vi- prefix negating: "unbound, fully opened, spread wide" — of lotuses fully opened) + सरोरुहाणि (saroruhāṇi, from sara, "a lake" + ruha, "arising from, growing from" — "the lake-arisen ones," the lotuses). Together: "the Shining One rises; the lake-lotuses are fully opened." The verse places the Sun's rising and the lotuses' opening in the same breath — the cosmic correspondence.
+
+  - संपूरयन्ति निनदैः ककुभो विहङ्गाः (Saṁpūrayanti Ninadaiḥ Kakubho Vihaṅgāḥ) — संपूरयन्ति (saṁpūrayanti, from sam- + pūr, "to fill completely on all sides" — causative present: "they fill completely") + निनदैः (ninadaiḥ, instrumental plural of ninada, "resonant sound, deep resonance, the reverberation of sound" — "with their resonant sounds") + ककुभः (kakubhaḥ, accusative plural of kakubh, "a direction, a quarter of the sky" — "the directions, the regions") + विहङ्गाः (vihaṅgāḥ, "the sky-goers, the birds" — from vi- + han + ga, "those who move by striking the sky"). Together: "the sky-goers fill the directions completely with their resonant sounds." Sam-pūrayanti says the filling is total and simultaneous — all directions filled at once, not progressively.
+
+  - श्रीवैष्णवाः सततम् अर्थित-मङ्गलाः धाम् आश्रयन्ति (Śrīvaiṣṇavāḥ Satatam Arthita-maṅgalāḥ Dhām Āśrayanti) — श्रीवैष्णवाः (Śrīvaiṣṇavāḥ, "those of the Śrī Vaiṣṇava tradition — those who follow the path of devotion to Viṣṇu through the grace of Śrī Lakṣmī — a specific sampradāya with its own theology, practice, and lineage") + सततम् (satatam, "always, continuously, without break" — from sat, "the eternal") + अर्थित (arthita, "requested, desired, petitioned" — past passive participle of arth, "to wish for") + मङ्गलाः (maṅgalāḥ, "auspiciousnesses, blessings" — the nominative plural says these blessings are their defining characteristic: they are people of maṅgala) + धाम् (dhām, "the abode, the dwelling, the sacred home" — accusative of dhāman) + आश्रयन्ति (āśrayanti, present third-person plural of ā + śri, "to take shelter in, to resort to"). Together: "the Śrī Vaiṣṇavas, ever-seeking-auspiciousness, take shelter in the sacred abode." The verse closes with the human devotees — after all the cosmic beings have been named, the ordinary Śrī Vaiṣṇavas arrive, and their arrival is enough to complete the dawn.
+
+
 }
 
 ---
@@ -1938,12 +2347,15 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **ப்ரஹ்மாதயஃ ஸுரவராஃ ஸமஹர்ஷயஃ** - பிரம்மா முதலான சிறந்த தேவர்கள் ரிஷிகளுடன், மகான்களுடன். **திரிமூர்த்திகள் மற்றும் ரிஷிகள்** அனைவரும் ஒன்று சேர்ந்துள்ளனர்.
+🔸 **ப்ரஹ்மாதயஃ ஸுரவராஃ ஸமஹர்ஷயஃ** - பிரம்மா முதலான சிறந்த தேவர்கள் ரிஷிகளுடன், மகான்களுடன். **திரிமூர்த்திகள் மற்றும் ரிஷிகள்** அனைவரும் ஒன்று சேர்ந்துள்ளனர்.}
 
-🔸 **ஸந்தஃ ஸனந்தன-முகாஸ்த்வ் அத யோகிவர்யாஃ** - புனிதர்களான ஸனகன், ஸனந்தனன், ஸனாதனன், ஸனத்குமாரன் முதலான சிறந்த யோகிகள். **சனகாதி நான்கு முனிவர்கள்** மற்றும் பிற **யோக சித்தர்கள்**.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸந்தஃ ஸனந்தன-முகாஸ்த்வ் அத யோகிவர்யாஃ** - புனிதர்களான ஸனகன், ஸனந்தனன், ஸனாதனன், ஸனத்குமாரன் முதலான சிறந்த யோகிகள். **சனகாதி நான்கு முனிவர்கள்** மற்றும் பிற **யோக சித்தர்கள்**.}
 
-🔸 **தாமாந்திகே தவ ஹி மங்கல-வஸ்து-ஹஸ்தாஃ** - உமது திருக்கோவிலின் அருகில் நிச்சயமாக மங்கள பொருட்களை கைகளில் ஏந்தியவர்கள். **மங்கள திரவியங்கள்** - தீபம், தூபம், மலர்கள், புஷ்பம், சந்தனம், கற்பூரம் முதலியவை.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **தாமாந்திகே தவ ஹி மங்கல-வஸ்து-ஹஸ்தாஃ** - உமது திருக்கோவிலின் அருகில் நிச்சயமாக மங்கள பொருட்களை கைகளில் ஏந்தியவர்கள். **மங்கள திரவியங்கள்** - தீபம், தூபம், மலர்கள், புஷ்பம், சந்தனம், கற்பூரம் முதலியவை.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -1952,9 +2364,20 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"வெங்கடா! சூரியன் உதித்து தாமரைகள் மலர்ந்துள்ளன. பறவைகள் தங்கள் கீச்சொலிகளால் எல்லா திசைகளையும் நிரப்புகின்றன. ஸ்ரீ வைஷ்ணவர்கள் எப்போதும் விரும்பிய மங்கள வாழ்த்துக்களை உமது திருக்கோவிலில் புகுகிறார்கள். பிரம்மா முதலான சிறந்த தேவர்கள் ரிஷிகளுடன், ஸனந்தனர் முதலான புனிதர்கள் மற்றும் சிறந்த யோகிகள், உமது திருக்கோவிலின் அருகில் மங்கள பொருட்களை கைகளில் ஏந்தி நிற்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**
+**"வெங்கடா! சூரியன் உதித்து தாமரைகள் மலர்ந்துள்ளன. பறவைகள் தங்கள் கீச்சொலிகளால் எல்லா திசைகளையும் நிரப்புகின்றன. ஸ்ரீ வைஷ்ணவர்கள் எப்போதும் விரும்பிய மங்கள வாழ்த்துக்களை உமது திருக்கோவிலில் புகுகிறார்கள். பிரம்மா முதலான சிறந்த தேவர்கள் ரிஷிகளுடன், ஸனந்தனர் முதலான புனிதர்கள் மற்றும் சிறந்த யோகிகள், உமது திருக்கோவிலின் அருகில் மங்கள பொருட்களை கைகளில் ஏந்தி நிற்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **விடியல் முழுமை அடைந்தது** - தேவர்களும் முனிவர்களும் பூஜைக்கு தயாராக உள்ளனர்!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - ब्रह्मादयः सुरवराः समहर्षयः ते सन्तः (Brahmādayaḥ Suravarāḥ Samaharṣayaḥ Te Santaḥ) — ब्रह्मादयः (brahmādayaḥ, "Brahmā and those beginning with him" — nominative plural); सुरवराः (suravarāḥ, "the best among the suras, the excellent ones among the gods" — vara as superlative suffix) + समहर्षयः (samaharṣayaḥ, "together with the ṛṣis, accompanied by the seers" — sam, "together with" + maharṣayaḥ, "the great ṛṣis") + ते (te, "your, of you" — genitive of tvam) + सन्तः (santaḥ, nominative plural of sat + the present participle suffix — "those who truly are, the good and true ones, the saints" — from as, "to be truly"). Together: "your excellent gods beginning with Brahmā, together with the great ṛṣis, the truly good ones."
+
+  - सनन्दन-मुखाः तु अथ योगिवर्याः (Sanandana-mukhāḥ Tu Atha Yogivaryāḥ) — सनन्दन (Sanandana, one of the four kumāras — the eternally young, celibate sages born of Brahmā who rejected creation and chose eternal youth and devotion) + मुखाः (mukhāḥ, "those having [Sanandana] at their front, those led by Sanandana" — from mukha, "face, the foremost one") + तु (tu, "and, moreover, but also" — adds a new element to the list) + अथ (atha, "furthermore, additionally, now also") + योगिवर्याः (yogivaryāḥ, "the most excellent among yogīs" — varya as superlative). Together: "the yogīs with Sanandana at their head, and furthermore the most excellent yogīs."
+
+  - धामान्तिके तव हि मङ्गल-वस्तु-हस्ताः (Dhāmāntike Tava Hi Maṅgala-vastu-hastāḥ) — धाम (dhāman, "the abode, the sacred dwelling, the source-light itself" — from dhā, "to place" — dhāman is where the divine has placed itself) + अन्तिके (antike, locative of antika, "near, in proximity to, at the threshold of" — "near the abode, at the threshold") + तव (tava, "your") + हि (hi, the affirmative particle — "indeed, certainly, truly") + मङ्गल-वस्तु (maṅgala-vastu, "auspicious articles, the sacred materials for worship" — the mangalya dravyas: lamps, incense, flowers, sacred thread, water) + हस्ताः (hastāḥ, "those with hands [holding], those whose hands hold" — nominative plural). Together: "indeed, at the threshold of your abode, with auspicious materials in their hands." Hāstāḥ + maṅgala-vastu creates the final image: hands holding the auspicious articles, everything ready, everyone gathered — the Lord needs only to arise.
+
+
 }
 
 ---
@@ -2002,16 +2425,21 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **லக்ஷ்மீ-நிவாஸ** - லக்ஷ்மியின் வாசஸ்தானமே! **"ஸ்ரீனிவாச"** என்ற பெயரின் அர்த்தம் இதுவே. லக்ஷ்மி தேவி எப்போதும் **விஷ்ணுவின் மார்பில்** வசிக்கிறாள்.
+🔸 **லக்ஷ்மீ-நிவாஸ** - லக்ஷ்மியின் வாசஸ்தானமே! **"ஸ்ரீனிவாச"** என்ற பெயரின் அர்த்தம் இதுவே. லக்ஷ்மி தேவி எப்போதும் **விஷ்ணுவின் மார்பில்** வசிக்கிறாள்.}
 
-🔸 **நிரவத்ய-குணைக-ஸிந்தோ** - குற்றமற்ற குணங்களின் ஒப்பற்ற கடலே! **எல்லா நல்ல குணங்களும்** பெருமாளிடம் நிறைந்துள்ளன, **எந்த குற்றமும் இல்லை**.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **நிரவத்ய-குணைக-ஸிந்தோ** - குற்றமற்ற குணங்களின் ஒப்பற்ற கடலே! **எல்லா நல்ல குணங்களும்** பெருமாளிடம் நிறைந்துள்ளன, **எந்த குற்றமும் இல்லை**.}
 
-🔸 **ஸம்ஸார-ஸாகர-ஸமுத்தரணைக-ஸேதோ** - சம்சார சாகரத்தை (பிறவிக் கடலை) கடக்க ஒரே பாலமே! **பிறவி சுழற்சியில்** உழலும் ஜீவர்களுக்கு **ஒரே வழி பெருமாளை சரணடைவது தான்**. மற்ற வழிகள் இல்லை.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **ஸம்ஸார-ஸாகர-ஸமுத்தரணைக-ஸேதோ** - சம்சார சாகரத்தை (பிறவிக் கடலை) கடக்க ஒரே பாலமே! **பிறவி சுழற்சியில்** உழலும் ஜீவர்களுக்கு **ஒரே வழி பெருமாளை சரணடைவது தான்**. மற்ற வழிகள் இல்லை.}
 
-🔸 **வேதாந்த-வேத்ய-நிஜவைபவ** - வேதாந்தத்தால் அறியப்படும் தனது வைபவம் கொண்டவர். **உபநிஷத்துகள்** மற்றும் **வேதாந்த தத்துவங்கள்** பெருமாளின் மகிமையை விளக்குகின்றன.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **வேதாந்த-வேத்ய-நிஜவைபவ** - வேதாந்தத்தால் அறியப்படும் தனது வைபவம் கொண்டவர். **உபநிஷத்துகள்** மற்றும் **வேதாந்த தத்துவங்கள்** பெருமாளின் மகிமையை விளக்குகின்றன.}
 
-🔸 **பக்தபோக்ய** - பக்தர்களால் அனுபவிக்கப்படுபவர். **பக்தர்களுக்கு மட்டுமே** பெருமாளின் உண்மை வடிவம் தெரியும்.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **பக்தபோக்ய** - பக்தர்களால் அனுபவிக்கப்படுபவர். **பக்தர்களுக்கு மட்டுமே** பெருமாளின் உண்மை வடிவம் தெரியும்.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ஸ்ரீ-வெங்கடாசலபதே** - ஸ்ரீ வெங்கட மலையின் தலைவரே!
 }
 
@@ -2020,9 +2448,22 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! லக்ஷ்மியின் வாசஸ்தானமே! குற்றமற்ற குணங்களின் ஒப்பற்ற கடலே! சம்சார சாகரத்தை கடக்க ஒரே பாலமே! வேதாந்தத்தால் அறியப்படும் சொந்த வைபவம் கொண்டவரே! பக்தர்களால் அனுபவிக்கப்படுபவரே! பிரம்மா முதலான சிறந்த தேவர்கள், ரிஷிகள், ஸனந்தனர் முதலான புனிதர்கள் மற்றும் சிறந்த யோகிகள் உமது திருக்கோவிலின் அருகில் மங்கள பொருட்களை கைகளில் ஏந்தி நிற்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! லக்ஷ்மியின் வாசஸ்தானமே! குற்றமற்ற குணங்களின் ஒப்பற்ற கடலே! சம்சார சாகரத்தை கடக்க ஒரே பாலமே! வேதாந்தத்தால் அறியப்படும் சொந்த வைபவம் கொண்டவரே! பக்தர்களால் அனுபவிக்கப்படுபவரே! பிரம்மா முதலான சிறந்த தேவர்கள், ரிஷிகள், ஸனந்தனர் முதலான புனிதர்கள் மற்றும் சிறந்த யோகிகள் உமது திருக்கோவிலின் அருகில் மங்கள பொருட்களை கைகளில் ஏந்தி நிற்கிறார்கள். உமக்கு ஸுப்ரபாதம்!"**}
 
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
 **பெருமாள் ஒருவரே** சம்சார சாகரத்தை கடக்க உதவும் பாலம்!
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - लक्ष्मी-निवास (Lakṣmī-nivāsa) — लक्ष्मी (Lakṣmī, "the auspicious one, the mark of divine grace" — from the root lakṣ, "to mark, to perceive, to be auspiciously present") + निवास (nivāsa, from ni- + vas, "to dwell, to take permanent residence" — nivāsa is "the permanent dwelling, the settled abode, the place one has made one's home"). Together as **vocative**: "O dwelling-place of Lakṣmī!" He is not merely where Lakṣmī visits — he is her nivāsa, her permanent home. This title is identified with Śrīnivāsa, the Lord's name at Tirupati.
+
+  - निरवद्य-गुणैकसिन्धो (Niravadya-guṇaikasindho) — निरवद्य (niravadya — nir-, "without, free from" + avadya, "fault, that which deserves blame, what should not be said about one" — niravadya is "blameless, without any defect, above reproach in every quality") + गुण (guṇa, "virtue, quality") + एक (eka, "one, sole, unique") + सिन्धो (sindho, vocative of sindhu, "the ocean"). Together: "O sole ocean of blameless qualities!" Eka says he is the one-and-only ocean of such virtue — there is no other. Every quality in him is niravadya — not merely good but above all blame.
+
+  - संसार-सागर-समुत्तरणैक-सेतो (Saṃsāra-sāgara-samuttaraṇaika-seto) — संसार (saṃsāra, "the flowing-together, the cycle of existence" — from sam + sṛ, "to flow all around, to flow continuously" — saṃsāra is the ocean of cyclical existence, birth-death-rebirth) + सागर (sāgara, "the ocean, the limitless sea") + समुत्तरण (samuttaraṇa, from sam- + ud- + tṝ, "to cross completely to the other side" — "the complete crossing over") + एक (eka, "the one and only") + सेतो (seto, vocative of setu, "the bridge, the dam, the causeway" — from si, "to bind, to tie, to connect two banks"). Together: "O sole bridge for the complete crossing of the ocean of saṃsāra!" Eka-setu says there is no other bridge — he alone spans the entire ocean of cyclical existence.
+
+  - वेदान्त-वेद्य-निजवैभव भक्तभोग्य (Vedānta-vedya-nijavaibhava Bhaktabhogya) — वेदान्त (vedānta, "the end/conclusion of the Veda" — the Upaniṣads, the culminating wisdom of the Vedic revelation, the teaching of non-dual reality) + वेद्य (vedya, gerundive of vid, "to be known, knowable, worthy of knowing" — "that which should be and can be known") + निज (nija, "one's own, inherent, authentic") + वैभव (vaibhava, "splendour, glory, the state of being magnificent") + भक्त-भोग्य (bhakta-bhogya — bhakta, "the devotee" + bhogya, gerundive of bhuj, "to be experienced, that which should be experienced, the worthy object of experience"). Together: "whose own glory is to be known through Vedānta, and who is to be experienced by devotees." The final word bhaktabhogya is the most intimate — he can only be fully experienced (bhogya) by the devotee (bhakta). Vedānta leads to intellectual understanding; bhakti leads to lived experience.
+
+
 }
 
 ---
@@ -2073,12 +2514,15 @@ scrollToTop: true
 ### விரிவான விளக்கம்:
 
 ::combo[bg:#fff3e0;color:#e65100;padding:15px]{
-🔸 **இத்தம் வ்ருஷாசல-பதேர் இஹ ஸுப்ரபாதம்** - இவ்வாறு வ்ருஷாசல நாதனுக்கு (வெங்கடபதிக்கு) இங்கு ஸுப்ரபாதம் (சொல்லப்பட்டது). இது **ஸுப்ரபாத ஸ்லோகங்களை** குறிக்கிறது.
+🔸 **இத்தம் வ்ருஷாசல-பதேர் இஹ ஸுப்ரபாதம்** - இவ்வாறு வ்ருஷாசல நாதனுக்கு (வெங்கடபதிக்கு) இங்கு ஸுப்ரபாதம் (சொல்லப்பட்டது). இது **ஸுப்ரபாத ஸ்லோகங்களை** குறிக்கிறது.}
 
-🔸 **யே மானவாஃ ப்ரதிதினம் படிதும் ப்ரவ்ருத்தாஃ** - எந்த மனிதர்கள் ஒவ்வொரு நாளும் (இதை) படிக்க ஈடுபட்டவர்களோ. **தினமும் ஸுப்ரபாதம் படிப்போர்**.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **யே மானவாஃ ப்ரதிதினம் படிதும் ப்ரவ்ருத்தாஃ** - எந்த மனிதர்கள் ஒவ்வொரு நாளும் (இதை) படிக்க ஈடுபட்டவர்களோ. **தினமும் ஸுப்ரபாதம் படிப்போர்**.}
 
-🔸 **தேஷாம் ப்ரபாத-ஸமயே ஸ்ம்ருதிரங்க-பாஜாம்** - அவர்களுக்கு காலை வேளையில் நினைவு இன்பத்தை அனுபவிப்பவர்களுக்கு. பெருமாளை **நினைத்து ஆனந்தம்** அடைபவர்களுக்கு.
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
+🔸 **தேஷாம் ப்ரபாத-ஸமயே ஸ்ம்ருதிரங்க-பாஜாம்** - அவர்களுக்கு காலை வேளையில் நினைவு இன்பத்தை அனுபவிப்பவர்களுக்கு. பெருமாளை **நினைத்து ஆனந்தம்** அடைபவர்களுக்கு.}
 
+::combo[bg:#fff3e0;color:#e65100;padding:15px]{
 🔸 **ப்ரஜ்ஞாம் பரார்த-ஸுலபாம் பரமாம் ப்ரஸூதே** - பரம அர்த்தத்தை (மோக்ஷத்தை) எளிதாக அடையும் உயர்ந்த ஞானத்தை அளிக்கிறது. **ஸுப்ரபாதம் படிப்பதால்** மோக்ஷத்தை அடையும் **ஞானமும் வழியும்** கிடைக்கிறது.
 }
 
@@ -2087,10 +2531,21 @@ scrollToTop: true
 ### முழுப் பொருள்:
 
 ::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
-**"ஸ்ரீ வெங்கட மலையின் தலைவரே! லக்ஷ்மியின் வாசஸ்தானமே! குற்றமற்ற குணங்களின் ஒப்பற்ற கடலே! சம்சார சாகரத்தை கடக்க ஒரே பாலமே! வேதாந்தத்தால் அறியப்படும் தனது வைபவம் கொண்டவரே! பக்தர்களால் மட்டுமே அனுபவிக்கப்படுபவரே! இவ்வாறு வெங்கடபதிக்கு இந்த ஸுப்ரபாதத்தை எந்த மனிதர்கள் ஒவ்வொரு நாளும் படிக்க ஈடுபட்டவர்களோ, அவர்களுக்கு காலை வேளையில் பெருமாளை நினைத்து ஆனந்தம் அடைவதால், பரம அர்த்தமான மோக்ஷத்தை எளிதாக அடையும் உயர்ந்த ஞானத்தை அளிக்கிறது. உமக்கு ஸுப்ரபாதம்!"**
+**"ஸ்ரீ வெங்கட மலையின் தலைவரே! லக்ஷ்மியின் வாசஸ்தானமே! குற்றமற்ற குணங்களின் ஒப்பற்ற கடலே! சம்சார சாகரத்தை கடக்க ஒரே பாலமே! வேதாந்தத்தால் அறியப்படும் தனது வைபவம் கொண்டவரே! பக்தர்களால் மட்டுமே அனுபவிக்கப்படுபவரே! இவ்வாறு வெங்கடபதிக்கு இந்த ஸுப்ரபாதத்தை எந்த மனிதர்கள் ஒவ்வொரு நாளும் படிக்க ஈடுபட்டவர்களோ, அவர்களுக்கு காலை வேளையில் பெருமாளை நினைத்து ஆனந்தம் அடைவதால், பரம அர்த்தமான மோக்ஷத்தை எளிதாக அடையும் உயர்ந்த ஞானத்தை அளிக்கிறது. உமக்கு ஸுப்ரபாதம்!"**}
 
-🔸 **இது பலஸ்ருதி ஸ்லோகம்** - ஸுப்ரபாதம் படிப்பதால் கிடைக்கும் பலன்களை விளக்குகிறது!
-}
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
+🔸 **இது பலஸ்ருதி ஸ்லோகம்** - ஸுப்ரபாதம் படிப்பதால் கிடைக்கும் பலன்களை விளக்குகிறது!}
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - इत्थम् वृषाचल-पतेः इह सुप्रभातम् (Ittham Vṛṣācala-pateḥ Iha Suprabhātam) — इत्थम् (ittham, "thus, in this manner, in this way" — an indeclinable adverb referring back to everything that has just been described) + वृषाचल (vṛṣācala — vṛṣa, "bull, rain, the auspicious, the one who showers blessings" + acala, "the immovable, the mountain") + पतेः (pateḥ, genitive of pati, "of the Lord" — "of the Lord of Vṛṣācala") + इह (iha, "here, in this world, in this context") + सुप्रभातम् (suprabhātam, "the auspicious dawn-salutation" — nominative neuter). Together: "thus, the Suprabhātam of the Lord of Vṛṣācala (Veṅkaṭapati), here." The ittham points backward at all 28 verses just concluded; iha grounds the phalasruti in the present world.
+
+  - ये मानवाः प्रतिदिनम् पठितुम् प्रवृत्ताः (Ye Mānavāḥ Pratidinam Paṭhitum Pravṛttāḥ) — ये (ye, relative pronoun nominative plural: "those who, the ones who") + मानवाः (mānavāḥ, "the descendants of Manu, the humans" — from Manu, the progenitor of humanity) + प्रतिदिनम् (pratidinam, "each day, day after day, every single day" — prati, "each, every" + dinam, "day") + पठितुम् (paṭhitum, infinitive of paṭh, "to recite aloud" — "in order to recite") + प्रवृत्ताः (pravṛttāḥ, past passive participle of pra + vṛt, "to be engaged in, to have taken up as one's regular activity" — "those who have turned their effort toward, those engaged in"). Together: "those humans who have engaged in reciting this daily." Pravṛttāḥ says this is their established practice — not an occasional recitation but a daily commitment.
+
+  - तेषाम् प्रभात-समये स्मृतिरङ्ग-भाजाम् (Teṣām Prabhāta-samaye Smṛtiraṅga-bhājām) — तेषाम् (teṣām, genitive plural of tat, "of those, for those" — referring back to ye mānavāḥ) + प्रभात (prabhāta, "the dawning, the morning" — the same root as suprabhātam) + समये (samaye, locative of samaya, "the proper time, the fitting moment, the appointed time" — "at the time of dawn") + स्मृति (smṛti, "memory, the remembrance, the holding in mind" — from smṛ, "to remember with love and reverence") + अङ्ग-भाजाम् (aṅga-bhājām, "those who partake of the limbs/aspects, those who experience the aspects" — genitive plural). Together: "for those who at the dawn moment partake of the remembrance." The remembrance at dawn is not mere cognitive recall but smṛti — the loving, reverential holding in the mind of the Lord's presence.
+
+  - प्रज्ञाम् परार्थ-सुलभाम् परमाम् प्रसूते (Prajñām Parārtha-sulabhām Paramām Prasūte) — प्रज्ञाम् (prajñām, accusative of prajñā, "wisdom, the highest understanding, the direct knowledge that liberates" — from pra + jñā, "knowing that goes forward and through") + परार्थ (parārtha, "the supreme purpose, the highest meaning, the ultimate good" — para, "supreme" + artha, "purpose, meaning, goal") + सुलभाम् (sulabhām, "easily attainable, accessible without great difficulty" — from su + labh, "obtainable with ease") + परमाम् (paramām, "supreme, the highest") + प्रसूते (prasūte, from pra- + sū, "to give birth, to bring forth, to produce" — present middle voice: "it gives birth to, it produces"). Together: "it produces the supreme wisdom that easily attains the highest purpose." Prasūte as middle voice says the production is natural and self-contained — the Suprabhātam itself, like a mother, gives birth to this wisdom within the devotee.
+
 
 ---
 
@@ -2111,8 +2566,7 @@ scrollToTop: true
 ✅ **ஸ்லோகம் 25-27** - திருமஞ்சன தயாரிப்புகள், சூரிய உதயம்  
 ✅ **ஸ்லோகம் 28-29** - பெருமாளின் தத்துவம், பலஸ்ருதி  
 
-**29 ஸுப்ரபாத ஸ்லோகங்கள்** முடிவடைந்தன. இதைத் தொடர்ந்து **11 தமிழ் பாசுரங்கள்** வரும்.
-}
+**29 ஸுப்ரபாத ஸ்லோகங்கள்** நிறைவடைந்தன.
 
 ---
 
@@ -2122,146 +2576,149 @@ scrollToTop: true
 
 இந்த ஸ்லோகங்களில் விஷ்ணுவின் பல புனித நாமங்கள் வருகின்றன:
 
-::font[Mukta Malar Tamil]{
-- **ராம** - ராமாவதாரம்
-- **கோவிந்தா** - பசுக்களையும் பூமியையும் காப்பவர்
-- **நரஸார்தூல** - மனிதர்களில் சிறந்தவர்
-- **கருடத்வஜ** - கருட கொடி உடையவர்
-- **கமலாகாந்த** - லக்ஷ்மியின் நாயகர்
-- **அரவிந்தலோசன** - தாமரை கண்கள் உடையவர்
-- **திரிவிக்ரம** - மூன்று அடிகளால் உலகளந்தவர்
-- **வெங்கடேஸ்வர** - வெங்கட மலையின் தேவர்
-- **சேஷாத்ரிசேகர** - சேஷகிரி சிகரத்தவர்
-- **ஸ்ரீனிவாச** - லக்ஷ்மியின் வாசஸ்தானம்
-- **நாராயண** - எல்லா உயிர்களின் ஆதாரம்
-- **தேவாதிதேவ** - தேவர்களுக்கும் தேவர்
-- **பத்மனாப** - தொப்புளில் தாமரை மலர்ந்தவர்
-- **புருஷோத்தம** - புருஷர்களில் உயர்ந்தவர்
-- **வாஸுதேவ** - வசுதேவரின் புத்திரன்
-- **வைகுண்ட** - வைகுண்ட லோக நாதன்
-- **மாதவ** - லக்ஷ்மியின் நாதன்
-- **ஜனார்தன** - மக்களின் பிரார்த்தனை நிறைவேற்றுபவர்
-- **சக்ரபாணி** - கையில் சக்கரம் ஏந்தியவர்
-}
+:::tip[விஷ்ணுவின் புனித நாமங்கள்]
+🔸**ராம (राम)** - ராமாவதாரம். राम = ram (to delight, to be pleasing) — "the one in whom all delight, the most pleasing one." கௌசல்யையின் மகன், ஸ்லோகம் 1 இல் வெங்கடேஸ்வரனுடன் ஒன்றாக அழைக்கப்படுகிறார். <br>
+
+🔸**கோவிந்தா (गोविन्द)** - பசுக்களையும் பூமியையும் காப்பவர். गो (go) = பசு / பூமி / இந்திரியங்கள் / வேத ஞானம் என பல பொருள்கள்; विन्द (vinda) = vid என்ற வேரிலிருந்து — "to find, to know, to recover." Govinda = "the one who finds/recovers the go" — பசுக்களைக் கோகுலத்தில் மேய்த்தவர், வராஹ அவதாரத்தில் பூமியை மீட்டவர், வேதங்களை அறிந்தவர் — மூன்று பொருள்களும் ஒரே நாமத்தில். <br>
+
+🔸**நரஸார்தூல (नरशार्दूल)** - மனிதர்களில் சிறந்தவர். नर (nara) = "the led one, the human being" (from nṛ, to lead); शार्दूल (śārdūla) = "the tiger" — Sanskrit's classic device of the superlative by animal simile. The tiger is named not for aggression but for being the finest of its kind. நரசார்தூல = the one who among humans is what the tiger is among animals: the noblest. <br>
+
+🔸**கருடத்வஜ (गरुडध्वज)** - கருட கொடி உடையவர். गरुड (garuḍa) = "the devourer" (from garuḍ — he who devours the serpents of ego and ignorance); ध्वज (dhvaja) = "the flag, the banner, the public identity-mark" (from dhvaj, to wave). A deity's dhvaja announces from afar who dwells within — Tirumala's flag bears Garuḍa, making Garuḍadhvaja the Lord's own declaration of identity. <br>
+
+🔸**கமலாகாந்த (कमलाकान्त)** - லக்ஷ்மியின் நாயகர். कमला (kamalā) = Lakṣmī, named from kamala (lotus) — she who is as beautiful and pure as the lotus; कान्त (kānta) = "the beloved, the one who shines with love" (from kam, to love, to shine). Together: "the beloved of Kamalā." <br>
+
+🔸**அரவிந்தலோசன (अरविन्दलोचन)** - தாமரை கண்கள் உடையவர். अरविन्द (aravinda) = the lotus whose petals radiate outward like wheel-spokes (ara + vinda), the most perfectly-formed lotus; लोचन (locana) = "the eye, the guiding organ" (from loc, to see clearly). His eyes see the world as the lotus does — fully, yet unstained. <br>
+
+🔸**திரிவிக்ரம (त्रिविक्रम)** - மூன்று அடிகளால் உலகளந்தவர். त्रि (tri) = three; विक्रम (vikrama) = "the heroic stride" (from vi + kram, to step powerfully forward). The Vāmana avatāra's three strides covered earth, sky, and the netherworld — one stride per world, the most cosmically comprehensive of all avatāra deeds. <br>
+
+🔸**வெங்கடேஸ்வர (वेङ्कटेश्वर)** - வெங்கட மலையின் தேவர். वेङ्कट (veṅkaṭa) = the sacred hill — from vi + kaṭa: "that which burns away (vi) sins (kaṭa)"; ईश्वर (īśvara) = "the lord, the sovereign" (from iś, to rule). Veṅkaṭeśvara: "the sovereign of the sin-destroying hill." <br>
+
+🔸**சேஷாத்ரிசேகர (शेषाद्रिशेखर)** - சேஷகிரி சிகரத்தவர். शेष (Śeṣa) = "the remainder, the residual" — Ādiśeṣa, the cosmic serpent who remains after each dissolution; अद्रि (adri) = mountain; शेखर (śekhara) = "the crest, the topmost" (from śikh, to be at the summit). The hill is Śeṣa himself in mountain-form, and the Lord stands at its crown. <br>
+
+🔸**ஸ்ரீனிவாச (श्रीनिवास)** - லக்ஷ்மியின் வாசஸ்தானம். श्री (Śrī) = Lakṣmī, the goddess of divine grace and beauty; निवास (nivāsa) = "the permanent dwelling" (from ni + vas, to dwell permanently). Śrīnivāsa says she does not merely visit — she permanently resides in him. Tirupati's principal name. <br>
+
+🔸**நாராயண (नारायण)** - எல்லா உயிர்களின் ஆதாரம். नार (nāra) = "the waters of consciousness, the totality of created beings" (from nṛ, people + the collective -ā); अयन (ayana) = "the resting place, the refuge, the one who moves through" (from i, to go). Nārāyaṇa: "the one who is the refuge of all beings, who moves through the waters of creation." <br>
+
+🔸**தேவாதிதேவ (देवाधिदेव)** - தேவர்களுக்கும் தேவர். देव (deva) = "the shining one, the divine being" (from div, to shine); अधि (adhi) = "above, supreme over" + देव (deva) again. Devādideva: "the deva above all devas." Even Brahmā and Śiva bow to him — his divinity is of a different order entirely. <br>
+
+🔸**பத்மனாப (पद्मनाभ)** - தொப்புளில் தாமரை மலர்ந்தவர். पद्म (padma) = the sacred lotus; नाभि (nābhi) = "the navel, the originating hub, the center from which life flows" (from nabh, to burst forth). Padmanābha names the cosmic vision: Viṣṇu reclining on Ādiśeṣa, a lotus rising from his navel bearing Brahmā — all creation originating from his center. <br>
+
+🔸**புருஷோத்தம (पुरुषोत्तम)** - புருஷர்களில் உயர்ந்தவர். पुरुष (puruṣa) = "the one who dwells in the city of the body, the conscious person" (from pur, city + uṣa, dweller); उत्तम (uttama) = "the highest, the most excellent" (superlative of ud, upward). Bhagavad Gītā 15.18's own supreme designation for the Lord. <br>
+
+🔸**வாஸுதேவ (वासुदेव)** - வசுதேவரின் புத்திரன். वसुदेव (Vasudeva) = Kṛṣṇa's earthly father; the -a suffix = "son of." Also: वसु (vasu) = "the excellent, the good, wealth" + देव (deva) = the divine — Vāsudeva as "the divine excellent one who pervades all." <br>
+
+🔸**வைகுண்ட (वैकुण्ठ)** - வைகுண்ட லோக நாதன். वि (vi) = negating prefix + कुण्ठ (kuṇṭha) = "dullness, obstruction, the state of being blocked." Vaikuṇṭha: "the one in whom there is no obstruction to consciousness" — simultaneously his quality (limitless) and his eternal abode (the limitless realm). <br>
+
+🔸**மாதவ (माधव)** - லக்ஷ்மியின் நாதன். माधवी (Mādhavī) = one of Lakṣmī's names, "the spring-born one, the sweet one"; -va suffix = "lord of." Also: मधु (madhu) = the demon Madhu whom Viṣṇu slew + ava (lordship). Both meanings coexist: lord of sweetness and beauty, and destroyer of intoxicating delusion. <br>
+
+🔸**ஜனார்தன (जनार्दन)** - மக்களின் பிரார்த்தனை நிறைவேற்றுபவர். जन (jana) = "the people, the human community" (warm and inclusive); अर्दन (ardana) = from ard, "to trouble, to afflict" used causatively — "the one who destroys the troubles of." Janārdana: "the destroyer of the people's afflictions." He is named first through ordinary human suffering — the most intimate of all his titles. <br>
+
+🔸**சக்ரபாணி (चक्रपाणि)** - கையில் சக்கரம் ஏந்தியவர். चक्र (cakra) = "the wheel, the divine discus (Sudarśana)" — from car, "to move" — the wheel that moves and returns, representing dharmic order and the removal of adharma; पाणि (pāṇi) = "the hand, the open palm" (one of Sanskrit's oldest body-part words). Cakrapāṇi: "the hand that holds the wheel" — power in service of dharma. <br>
+:::
 
 ### தாபம் 2: திருமலையின் ஏழு பெயர்கள்
 
 திருமலை **சப்தகிரி** (ஏழு மலைகள்) என்று அழைக்கப்படுகிறது. ஸ்லோகம் 15 இல் வரும் பெயர்கள்:
 
-::font[Mukta Malar Tamil]{
-1. **சேஷசைல** - சேஷனின் மலை (ஆதிசேஷன் சுருண்ட மலை)
-2. **கருடாசல** - கருடனின் மலை
-3. **வெங்கடாத்ரி** - வெங்கட மலை (பாவங்களை அழிக்கும் மலை)
-4. **நாராயணாத்ரி** - நாராயணனின் மலை
-5. **வ்ருஷபாத்ரி** - காளையின் மலை, தர்ம மலை
-6. **வ்ருஷாத்ரி** - புனித மலை
-7. **மற்ற பெயர்கள்** - வெங்கடாசலம், சேஷாத்ரி
-}
+:::info[சப்தகிரி (ஏழு மலைகள்)]
+🔸 **சேஷசைல (शेषशैल — Śeṣaśaila)** - சேஷனின் மலை. शेष (Śeṣa) = "the remainder, the one who remains after all else dissolves" — Ādiśeṣa, the cosmic serpent who persists through each dissolution bearing the seeds of the next creation; शैल (śaila) = "the rocky mass, the mountain" (from śilā, rock). The hill is Ādiśeṣa himself, coiled into mountain-form as the Lord's eternal resting place. <br>
+
+🔸 **கருடாசல (गरुडाचल — Garuḍācala)** - கருடனின் மலை. गरुड (Garuḍa) = "the devourer of serpents, the eagle-king, Viṣṇu's vehicle" (from garuḍ, to devour — he who consumes the serpents of karma and ego); अचल (acala) = "the immovable, the mountain that does not move" (a + cal, without movement). The mountain where the Lord's divine vehicle dwells. <br>
+
+🔸 **வெங்கடாத்ரி (वेङ्कटाद्रि — Veṅkaṭādri)** - வெங்கட மலை. वेङ्कट (veṅkaṭa) = from vi + kaṭa — "that which fully (vi) burns away sins (kaṭa), the destroyer of karma"; अद्रि (adri) = "the mountain, the rocky mass" (from ad, to eat/consume — the mountain that consumes enemies). The name of the hill itself, giving Veṅkaṭeśvara his primary identity. <br>
+
+🔸 **நாராயணாத்ரி (नारायणाद्रि — Nārāyaṇādri)** - நாராயணனின் மலை. नारायण (Nārāyaṇa) = "the one who is the refuge of all nāra (beings)" — as explained in the divine names section; + अद्रि (adri). The mountain as Nārāyaṇa's own abode, his chosen resting-place among the hills of the earth. <br>
+
+🔸 **வ்ருஷபாத்ரி (वृषभाद्रि — Vṛṣabhādri)** - தர்ம மலை. वृषभ (vṛṣabha) = "the bull, the strong one, the one who rains blessings" (from vṛṣ, to rain — the bull as the symbol of dharma, since dharma in its fullness rains blessings upon all); + अद्रि. The hill of dharma, where righteousness rains down upon all who climb it. <br>
+
+🔸 **வ்ருஷாத்ரி (वृषाद्रि — Vṛṣādri)** - புனித மலை. वृष (vṛṣa) = "the auspicious, the rain-giving, the holy" (from vṛṣ, to rain — vṛṣa as an adjective means "the auspicious one that gives abundantly"); + अद्रि. The hill that showers spiritual blessings abundantly upon all devotees. <br>
+
+🔸 These seven names together form the **சப்தகிரி (Saptāgiri)** — सप्त (sapta) = seven + गिरि (giri) = "the mountain, the hill" (from gṝ, to swallow — the mountain as that which swallows/absorbs pilgrims into its sacred presence). Each name reveals a different facet: the cosmic serpent's body, the eagle's mountain, the sin-burner, Nārāyaṇa's home, dharma's hill, and the rain of blessings. Together they say: this one hill is all things at once. <br>
+:::
 
 ### தாபம் 3: வானியல் குறிப்புகள்
 
 ஸுப்ரபாதத்தில் பல வானியல் மற்றும் இயற்கை குறிப்புகள்:
 
-::font[Mukta Malar Tamil]{
-- **பூர்வா ஸந்த்யா** - காலை சந்தி காலம் (சூரிய உதயத்திற்கு முன்)
-- **ஸப்த ரிஷிகள்** - வானில் ஏழு நட்சத்திரங்களாக ஒளிரும் மகான்கள்
-- **நவக்கிரகங்கள்** - சூரியன், சந்திரன், செவ்வாய், புதன், குரு, சுக்ரன், சனி, ராகு, கேது
-- **சந்யாவந்தனம்** - சூரிய உதயத்தின் போது செய்யும் வேத கர்மம்
-- **வாஸர ஸுத்தி** - பஞ்சாங்கம் (நக்ஷத்திரம், திதி அடிப்படையில்)
-- **ஆகாஸ ஸிந்து** - வான் மண்டலம்
-}
+:::note[வானியல் குறிப்புகள்]
+🔸**பூர்வா ஸந்த்யா (पूर्वा सन्ध्या — Pūrvā Sandhyā)** - காலை சந்தி காலம். पूर्वा (pūrvā) = "the eastern, the earlier, the first" (from pūrva, "before, the front, the east" — the direction of all beginnings); सन्ध्या (sandhyā) = "the junction-time, the joining-moment" (from sam + dhā, "to hold together" — sandhyā is the moment that holds night and day together). This sacred junction is when the Suprabhātam is sung — the precise moment between darkness and light, when both still exist and the transition belongs to the devotee's voice. <br>
+
+🔸**ஸப்த ரிஷிகள் (सप्तर्षि — Saptarṣi)** - வானில் ஏழு நட்சத்திரங்களாக ஒளிரும் மகான்கள். सप्त (sapta) = seven; ऋषि (ṛṣi) = "the seer, the one who has directly seen" (from dṛś, to see — the ṛṣi is specifically one who has seen truth directly, not merely heard or reasoned it). The seven ṛṣis (the Great Bear / Ursa Major constellation) are simultaneously celestial beings, ancient teachers, and the stars that mark direction for navigators — their dual existence as stars and sages is an ancient Vedic cosmological statement. <br>
+
+🔸**நவக்கிரகங்கள் (नवग्रह — Navagraha)** - ஒன்பது கோள்கள். नव (nava) = nine; ग्रह (graha) = "the one who seizes, the planet" (from grah, to seize, to grasp — the planets are understood as those who grasp and influence human life). The nine: சூரியன் (Sūrya/Sun), சந்திரன் (Candra/Moon), செவ்வாய் (Maṅgala/Mars), புதன் (Budha/Mercury), குரு (Guru/Jupiter), சுக்ரன் (Śukra/Venus), சனி (Śani/Saturn), ராகு (Rāhu — the ascending lunar node), கேது (Ketu — the descending lunar node). <br>
+
+🔸**சந்யாவந்தனம் (सन्ध्यावन्दनम् — Sandhyāvandanam)** - சூரிய உதயத்தின் போது செய்யும் வேத கர்மம். सन्ध्या (sandhyā) = the junction-time (as above); वन्दनम् (vandanam) = "the salutation, the honouring" (from vand, "to praise, to revere, to salute"). Sandhyāvandana is literally "the salutation of the junction" — the daily Vedic ritual of honouring the precise moment when the cosmic powers are in transition. Performed three times daily: at dawn (prātaḥ), midday (mādhyāhna), and dusk (sāyam). <br>
+
+🔸**வாஸர ஸுத்தி (वासरशुद्धि — Vāsaraśuddhi)** - பஞ்சாங்கம். वासर (vāsara) = "the day" (from vas, to dwell — vāsara is the span in which the sun dwells at its station); शुद्धि (śuddhi) = "the purification, the determination of auspiciousness, the clearing" (from śudh, to be purified). Vāsaraśuddhi: "the purification/determination of the day" — the pañcāṅga reading that declares the five limbs (pañca-aṅga) of the day: tithi (lunar day), vara (weekday), nakṣatra (star), yoga (planetary combination), karaṇa (half-day). <br>
+
+🔸**ஆகாஸ ஸிந்து (आकाशसिन्धु — Ākāśasindhu)** - வான் மண்டலம். आकाश (ākāśa) = "the sky, the luminous ether, the space that shines" (from ā + kāś, to shine forth completely — ākāśa is space understood as intrinsically luminous, not empty); सिन्धु (sindhu) = "the ocean, the great flowing expanse" (from syand, to flow). Ākāśasindhu: "the ocean of the sky" — the celestial realm conceived as a vast sea in which the stars are islands and the divine lotuses float. <br>
+:::
 
 ### தாபம் 4: திருமலையின் இயற்கை
 
 திருமலையின் இயற்கை அழகு விவரிக்கப்படுகிறது:
 
 ::font[Mukta Malar Tamil]{
-- **தாமரை மலர்கள்** - சூரிய உதயத்தில் மலர்தல்
-- **தென்னை மரங்கள்** - வெங்கட மலையின் சிறப்பு
-- **பாக்கு மரங்கள்** - அழகான வரிசையில்
-- **மென்மையான காற்று** - குளிர்ந்த மலைக் காற்று
-- **தெய்வீக நறுமணங்கள்** - மலர்கள், கற்பூரம், சந்தனம், தூபம்
-- **வண்டுகள்** - தேனீக்கள் ரீங்காரமிடுதல்
-- **கிளிகள்** - விடியலில் பாடல்கள்
+🔸**தாமரை மலர்கள்** - சூரிய உதயத்தில் மலர்தல் <br>
+🔸**தென்னை மரங்கள்** - வெங்கட மலையின் சிறப்பு <br>
+🔸**பாக்கு மரங்கள்** - அழகான வரிசையில் <br>
+🔸**மென்மையான காற்று** - குளிர்ந்த மலைக் காற்று <br>
+🔸**தெய்வீக நறுமணங்கள்** - மலர்கள், கற்பூரம், சந்தனம், தூபம் <br>
+🔸**வண்டுகள்** - தேனீக்கள் ரீங்காரமிடுதல் <br>
+🔸**கிளிகள்** - விடியலில் பாடல்கள் <br>
 }
 
 ### தாபம் 5: வழிபட வருபவர்கள்
 
 எத்தனை பேர் வெங்கடேஸ்வரனை வணங்க வருகிறார்கள்:
 
-::font[Mukta Malar Tamil]{
-- **சப்த ரிஷிகள்** - அத்ரி முதலான ஏழு மகான்கள்
-- **திரிமூர்த்திகள்** - பிரம்மா, சிவன், விஷ்ணு
-- **திரிதேவியர்** - சரஸ்வதி, பார்வதி, இந்திராணி
-- **அஷ்ட திக்பாலகர்கள்** - எட்டு திசைகளின் காவலர்கள்
-- **நவக்கிரகங்கள்** - ஒன்பது கோள்கள்
-- **பஞ்ச வாகனங்கள்** - கருடன், சிங்கம், ஆதிசேஷன், ஐராவதম், உச்சைஸ்ரவஸ்
-- **நாரத ரிஷி** - வீணை வாசித்து பாடுதல்
-- **சனகாதி முனிவர்கள்** - சனகன், சனந்தனன், சனாதனன், சனத்குமாரன்
-- **மனிதர்கள்** - பக்தர்கள்
-}
+:::danger[வழிபட வருபவர்கள்]
+🔸**சப்த ரிஷிகள் (सप्तर्षि)** - அத்ரி முதலான ஏழு மகான்கள். அத்ரி (Atri) = "the consumer, the one who consumed the three demons through tapas" (from ad, to eat); பரத்வாஜ (Bharadvāja) = "the one who bears the thunderbolt" (bharad + vāja); விஸ்வாமித்ர (Viśvāmitra) = "friend of all the world" (viśva + mitra); கௌதம (Gautama) = "the one of the Gotama clan, the most light-filled" (from go + tama); ஜமதக்னி (Jamadagni) = "the one who devours fire" (jama + agni); வசிஷ்ட (Vasiṣṭha) = "the most excellent, the best-dwelling" (vasi + ṣṭha); காஸ்யப (Kāśyapa) = "the one who sees like a tortoise" (kāśya + pa). These seven, though celestial, arrive at Veṅkaṭeśvara's feet — even the stars bow. <br>
 
-### தாபம் 6: பக்தியின் சிறப்பு
+🔸**திரிமூர்த்திகள் (त्रिमूर्ति — Trimūrti)** - பிரம்மா, சிவன், விஷ்ணு. त्रि (tri) = three; मूर्ति (mūrti) = "the embodied form, the physical presence" (from mūrch, to solidify, to take solid form). The three are Brahmā (the creator — from bṛh, to be great/expand), Śiva (the dissolver — from śiv, the auspicious, the one who brings welfare through dissolution), and Viṣṇu (the sustainer — from viṣ, to pervade). ஸ்லோகம் 14 இல் அவர்கள் ஸ்வாமி புஷ்கரிணியில் குளித்து வாசலில் காத்திருக்கிறார்கள். <br>
 
-இந்த ஸ்லோகங்கள் பக்தியின் உயர்வை காட்டுகின்றன:
+🔸**திரிதேவியர் (त्रिदेवी — Trīdevī)** - சரஸ்வதி, பார்வதி, இந்திராணி. சரஸ்வதி (Sarasvatī) = "the one who flows, the river-goddess of speech and learning" (from saras + vatī); பார்வதி (Pārvatī) = "daughter of the mountain" (pārvata + ī); இந்திராணி (Indrāṇī) = "the queen of Indra, the wife of the powerful one" (-āṇī is the Sanskrit suffix creating the feminine consort form). ஸ்லோகம் 4 இல் இவர்கள் லக்ஷ்மி தேவியை வழிபடுவதாக கூறப்படுகிறது. <br>
 
-::font[Mukta Malar Tamil]{
-- **தாசனுடைய தாசன்** - மிக உயர்ந்த பணிவு
-- **சொர்க்கம் வேண்டாம்** - சேவையே போதும் என்ற நிலை
-- **மோக்ஷம் வேண்டாம்** - பெருமாள் சேவையே முக்தி
-- **கல்பம் முடியும் வரை** - என்றென்றும் சேவை
-- **கோபுர தரிசனம்** - தரிசனமே முக்தி தரும்
-- **திருவடி தூளி** - பாத தூசியே பெரும் பாக்கியம்
-}
+🔸**அஷ்ட திக்பாலகர்கள் (अष्टदिक्पाल — Aṣṭadikpāla)** - எட்டு திசைகளின் காவலர்கள். अष्ट (aṣṭa) = eight; दिक् (dik) = "direction, the quarters of space" (from diś, to point); पाल (pāla) = "the guardian, the protector" (from pā, to protect). The eight: இந்திரன் (east), அக்னி (southeast), யமன் (south), நிர்ருதி (southwest), வருணன் (west), வாயு (northwest), குபேரன் (north), சிவன்/ஈசானன் (northeast). ஸ்லோகம் 16 இல் இவர்கள் கை கூப்பி தலை வணங்கி நிற்கிறார்கள். <br>
 
-### தாபம் 7: தஸாவதாரங்கள்
+🔸**நவக்கிரகங்கள் (नवग्रह)** - ஒன்பது கோள்கள். As explained in the astronomy section. ஸ்லோகம் 18 இல் இவர்கள் தங்களை "உமது தாசனின் தாசனின் தாசர்கள்" என்று அழைத்துக்கொள்கிறார்கள் — the planets that govern all human life declaring themselves the servants of servants of the Lord's servants. <br>
+
+🔸**பஞ்ச வாகனங்கள் (पञ्चवाहन — Pañcavāhana)** - ஐந்து தெய்வீக வாகனங்கள். पञ्च (pañca) = five; वाहन (vāhana) = "the vehicle, the mount" (from vah, to carry). கருடன் (Garuḍa) = the eagle-king (vihagarāja); சிங்கம் (siṃha) = the lion, king of animals (mṛgādhirāja); ஆதிசேஷன் (Ādiśeṣa) = king of serpents (nāgādhirāja); ஐராவதம் (Airāvata) = Indra's divine elephant, king of elephants (gajarāja) — from Irā (the water-goddess) + vata (born of); உச்சைஸ்ரவஸ் (Uccaiḥśravas) = the divine horse that emerged at the churning of the milk-ocean (hayādhirāja) — uccaiḥ (aloud, high) + śravas (fame, the heard-one). ஸ்லோகம் 17 இல் இவை பெருமாளுக்கு மலர் சமர்ப்பிக்க வருகின்றன. <br>
+
+🔸**நாரத ரிஷி (नारद — Nārada)** - வீணை வாசித்து பாடுதல். नारद (Nārada) = "the one who gives nāra (the waters of divine wisdom)" (nāra + da, from dā, to give) — the divine sage whose purpose is to transmit divine wisdom from realm to realm. ஸ்லோகம் 9 இல் அவர் தன் வீணையுடன் (vīṇā — from a root related to the vibration of strings) அனந்தசரிதம் பாடுகிறார் — the infinite deeds, which can never fully be sung. <br>
+
+🔸**சனகாதி முனிவர்கள் (सनकादि — Sanakādi)** - சனகன், சனந்தனன், சனாதனன், சனத்குமாரன். These four are the eternal kumāras — born from Brahmā's mind yet refusing to participate in creation, remaining eternally young and celibate. சனக (Sanaka) = "the ancient one" (from sana, ancient); சனந்தன (Sanandana) = "the joyful ancient" (sana + nandana, joy); சனாதன (Sanātana) = "the eternally ancient" (sana + tana, extended time); சனத்குமார (Sanatkumāra) = "the eternally youthful" (sanat + kumāra, youth). Their eternal youth represents the liberation that transcends the aging of the body. ஸ்லோகம் 14 இல் வாசலில் காத்திருக்கிறார்கள். <br>
+
+🔸**மனிதர்கள் (मानव — Mānava)** - பக்தர்கள். मानव (Mānava) = "the descendants of Manu, the humans" (from Manu, the progenitor — himself from man, "to think, to reflect"). Mānava identifies humans through their defining capacity: the ability to think and reflect. In the Suprabhātam's vision, after all the cosmic beings — stars, planets, gods, sages, animals — have been named, the ordinary human devotees arrive last, and their arrival completes the dawn. Every order of existence participates; none is excluded. <br>
+:::
+
+### தாபம் 6: தஸாவதாரங்கள்
 
 ஸ்லோகம் 24 விஷ்ணுவின் பத்து அவதாரங்களை விளக்குகிறது:
 
-::font[Mukta Malar Tamil]{
-1. **மத்ஸ்ய** - மீன் அவதாரம் (வேதங்களை காப்பாற்றியது)
-2. **கூர்ம** - ஆமை அவதாரம் (மந்தர மலை தாங்கியது)
-3. **வராஹ** - பன்றி அவதாரம் (பூமியை மீட்டது)
-4. **நரசிம்ஹ** - மனித சிங்க அவதாரம் (ஹிரண்யன் வதம்)
-5. **வாமன** - குள்ள பிராமணர் அவதாரம் (திரிவிக்ரம)
-6. **பரசுராம** - கோடாலி உடைய ராமர் (க்ஷத்திரிய சம்ஹாரம்)
-7. **ராமசந்திர** - ஸ்ரீ ராம அவதாரம் (ராவண வதம்)
-8. **பலராம** - பலராமர் (ஆதிசேஷனின் அம்சம்)
-9. **கிருஷ்ண** - யதுநந்தன் (கம்ச வதம்)
-10. **கல்கி** - எதிர்கால அவதாரம் (கலியுக முடிவில்)
-}
+:::tip[தஸாவதாரங்கள் (பத்துஅவதாரங்கள்)]
+🔸 **மத்ஸ்ய (मत्स्य — Matsya)** - மீன் அவதாரம். मत्स्य (matsya) = "the fish, the swimmer" (from mats, to swim or move through water). வேதங்களை வெள்ளப் பிரளயத்திலிருந்து காப்பாற்றிய அவதாரம். Water represents the unconscious primordial state — the fish alone can navigate the depths. The first avatāra saves sacred knowledge from the flood of ignorance. <br>
 
-### தாபம் 8: ஸுப்ரபாதம் படிக்கும் பலன்
+🔸 **கூர்ம (कूर्म — Kūrma)** - ஆமை அவதாரம். कूर्म (kūrma) = "the tortoise, the one who withdraws into itself" (from kur, to hold firmly). பால் கடல் கடையும்போது மந்தர மலையை கீழ்பகுதியில் தாங்கியது. The tortoise withdraws its limbs — an image of the withdrawn, stabilizing consciousness that sustains the churning of creation without being disturbed by it. <br>
 
-பலஸ்ருதி ஸ்லோகம் (29) கூறும் பலன்கள்:
+🔸 **வராஹ (वराह — Varāha)** - பன்றி அவதாரம். वराह (varāha) = "the boar, the tusked one who digs" (from var, to choose + āha, to go — or from a root meaning to dig). பூமியை ஹிரண்யாக்ஷனிடமிருந்து மீட்டது. The boar's tusk lifts the earth from the cosmic ocean — his act moves creation from the unconscious depths into the light of embodied existence. <br>
 
-::font[Mukta Malar Tamil]{
-- **தினமும் படிப்பவர்களுக்கு** - விசேஷ பலன்கள்
-- **காலை நினைவு** - பெருமாளை நினைத்து ஆனந்தம்
-- **பரம ஞானம்** - மோக்ஷத்தை அடையும் ஞானம்
-- **சம்சார கடல் தாண்டுதல் - பிறவிச் சுழற்சியில் இருந்து விடுதலை
-- **வேதாந்த தத்துவம்** - உண்மையை உணரும் ஞானம்
-- **எளிதான முக்தி** - பெருமாள் அருளால் மோக்ஷம்
-}
+🔸 **நரசிம்ஹ (नरसिंह — Narasiṃha)** - மனித சிங்க அவதாரம். नर (nara) = human; सिंह (siṃha) = "the lion, the powerful one" (from sah, to prevail). A form neither fully human nor fully animal, arising at twilight — neither day nor night, from a pillar — neither inside nor outside. Every condition of the demon's boon was bypassed without violation: this is the avatar of transcending categorical thinking. <br>
 
-::
+🔸 **வாமன (वामन — Vāmana)** - குள்ள பிராமணர் அவதாரம். वामन (vāmana) = "the dwarf, the short one" (from vam, to emit — or from vā, to move, to be small). Appeared as a tiny brahmin student to Mahābali and asked for three steps of land — then expanded to cover all three worlds (Trivikrama). The theological message: the infinite hides in the smallest form; surrender to the humble brings the infinite's presence. <br>
 
----
+🔸 **பரசுராம (परशुराम — Paraśurāma)** - கோடாலி உடைய ராமர். परशु (paraśu) = "the axe, the battle-axe" (a loan-word of ancient origin, related to the weapon); राम (Rāma) = "the delightful one." The sixth avatāra who cleared the earth of corrupt kṣatriyas twenty-one times — representing the necessary destruction of institutional power that has become tyrannical. <br>
 
-## ஸுப்ரபாதம் படிக்கும் பலன்கள்
+🔸 **ராமசந்திர (रामचन्द्र — Rāmacandra)** - ஸ்ரீ ராம அவதாரம். राम (Rāma) = "the one who delights all" (from ram, to delight); चन्द्र (candra) = "the moon, the shining one, the one who cools" (from cand, to shine with a cool light). Rāmacandra: "the moon-like Rāma" — his presence, like moonlight, is cooling and beautiful rather than blazing. The ideal human king, whose story teaches dharma through the test of exile, separation, and war. <br>
 
-::combo[bg:#e8f5e9;color:#2e7d32;padding:15px]{
-**ஸ்ரீ வெங்கடேஸ்வர ஸுப்ரபாதம்** படிப்பதால் பல பலன்கள் உண்டு:
+🔸 **பலராம (बलराम — Balarāma)** - ஆதிசேஷனின் அம்சம். बल (bala) = "strength, vital force, the capacity to act powerfully" (from val, to be strong); राम (Rāma). Balarāma: "the Rāma of strength." The elder brother of Kṛṣṇa, considered an avatāra of Ādiśeṣa — his weapon is the plough (halāyudha), turning the earth, cultivating — the strength that works with creation rather than destroying it. <br>
 
-🙏 **மன அமைதி** - காலையில் இறைவனை நினைத்து துதிப்பது மனதிற்கு அமைதி தருகிறது  
-🌅 **நல்ல நாள் தொடக்கம்** - நாள் மங்களமாக துவங்குகிறது  
-💎 **பக்தி வளர்ச்சி** - இறைவன் மீதான பக்தி அதிகரிக்கிறது  
-📖 **சமஸ்கிருத ஞானம்** - புனித சமஸ்கிருத ஸ்லோகங்களைக் கற்கலாம்  
-🎵 **மந்திர சக்தி** - ஸுப்ரபாத மந்திரங்கள் நேர்மறை சக்தி தருகின்றன  
-🕉️ **திருமலை தரிசனம்** - படிக்கும்போது மனதில் திருமலை தரிசனம் கிடைக்கிறது  
+🔸 **கிருஷ்ண (कृष्ण — Kṛṣṇa)** - யதுநந்தன். कृष्ण (kṛṣṇa) = "the dark one, the all-attracting one" (from kṛṣ, to attract, to draw toward — kṛṣṇa is the one who draws all things toward himself, like a magnet). The ninth avatāra who taught the Bhagavad Gītā, whose darkness is the depth of infinite consciousness — the same colour as Veṅkaṭeśvara himself. <br>
 
-**ஒவ்வொரு நாளும் காலையில்** இதை படிக்கலாம் அல்லது கேட்கலாம்!
-}
+🔸 **கல்கி (कल्कि — Kalkī)** - எதிர்கால அவதாரம். कल्कि (kalkī) = "the one who destroys darkness and pollution" (from kalka, "impurity, the dregs, the residual darkness") — the one who eliminates kalka. The tenth avatāra to come at the end of Kali Yuga, riding a white horse, restoring dharma. His name carries both the name of what he destroys (kalka) and what remains when the destruction is complete: clarity. <br>
+
+🔸 The ten avatāras reveal a profound pattern: each comes when the imbalance of that cosmic age demands a specific kind of intervention — aquatic, amphibian, terrestrial, transitional, humble, martial, royal, fraternal, loving, and finally apocalyptic. Veṅkaṭeśvara encompasses all ten because he is the source from which each emerged and to which each returns. <br>
+:::
 
 ---
 
@@ -2281,4 +2738,3 @@ scrollToTop: true
 [>] ஆன்மிகம் [Venkatesa suprabhatam lyrics in tamil | வெங்கடேச சுப்ரபாதம் பாடல் வரிகள்](https://aanmeegam.co.in/blogs/lyrics/venkatesa-suprabhatam-lyrics-tamil/)
 [>] விஞ்ஞானம் [ஶ்ரீ வேங்கடேஶ்வர ஸுப்ரபா⁴தம்](https://vignanam.org/tamil/sri-venkateswara-suprabhatam.html)
 :::
-
