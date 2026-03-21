@@ -45,31 +45,43 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத
 **விஜயீபவ வேங்கட ஶைலபதே ॥**
 }
 
-### தமிழ் எழுத்துருமாற்றம்
+### IAST எழுத்துருமாற்றம்
 
 ::align[center]{
-கமலாகுச ஸூசுக குங்குமதோ  
-நியதாருணி தாதுல நீலதனோ ।  
-கமலாயத லோசன லோகபதே  
-விஜயீபவ வேங்கட ஶைலபதே ॥
+kamalākuca sūcaka kuṅkumataḥ  
+niyatāruṇitāḍula nīlatano |  
+kamalāyata locana lokapate  
+vijayī bhava veṅkaṭa śailapate ||
 }
 
 ### சொல் பொருள்
 
 | சமஸ்கிருதம் | தமிழ் பொருள் |
 |-------------|-------------|
-| கமல-குச | தாமரை மார்பு (லக்ஷ்மியின்) |
-| ஸூசுக | குங்குமப்பூ |
-| குங்குமத: | குங்குமத்தால் |
-| நியத | நிச்சயமாக |
-| அருணி | சிவந்த |
-| தாதுல | உதடுகள் |
-| நீலதன: | நீல நிறம் கொண்ட உடல் |
-| கமல-அயத | தாமரை போன்ற |
-| லோசன | கண்கள் |
-| லோக-பதே | உலகங்களின் தலைவரே |
-| விஜயீபவ | வெற்றி பெறுக |
-| வேங்கட-ஶைல-பதே | வேங்கட மலையின் தலைவரே |
+| कमलाकुच (kamalākuca) | லக்ஷ்மியின் தாமரை மார்பு |
+| सूचक (sūcaka) | குறிக்கும், சுட்டிக்காட்டும் அடையாளம் |
+| कुङ्कुमतः (kuṅkumataḥ) | குங்குமத்தால், குங்குமத்திலிருந்து |
+| नियत (niyata) | நிச்சயமாக, நிலையாக |
+| अरुणि (aruṇi) | சிவந்த, அருண நிறம் |
+| ताडुल (tāḍula) | உதடுகள் |
+| नीलतनो (nīlatano) | நீல நிறம் கொண்ட உடலுடையவரே |
+| कमलायत (kamalāyata) | தாமரை போல் நீண்ட |
+| लोचन (locana) | கண்கள் |
+| लोकपते (lokapate) | உலகங்களின் தலைவரே |
+| विजयीभव (vijayī bhava) | வெற்றியை அளிப்பாயாக |
+| वेङ्कटशैलपते (veṅkaṭaśailapate) | வேங்கட மலையின் தலைவரே |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - कमलाकुचसूचककुङ्कुमतः (Kamalākuca-sūcaka-kuṅkumataḥ) — कमला (Kamalā, Lakṣmī) + कुच (kuca, "breast, bosom" — Lakṣmī's dwelling-place on Viṣṇu's chest) + सूचक (sūcaka, from sūc, "to point to, to indicate" — the telltale sign that reveals something) + कुङ्कुमतः (kuṅkumataḥ, **ablative case** — pañcamī vibhakti, ஐந்தாம் வேற்றுமை — "from/by the kumkum"). Together: "by the kumkum from Kamalā's breast that points to and marks him." The kumkum is not decoration — it is a sūcaka (indicator), permanently announcing that this chest is Lakṣmī's chosen home.
+
+  - नीलतनो (Nīlatano) — नील (nīla, "the deep blue-black, the colour of infinite sky and ocean") + तनो (tano, **vocative** of tanu — sambodhana vibhakti, விளி வேற்றுமை — "O body, O form"). Tanu (body) from tan, "to stretch, to extend" — his blue form extends and pervades like the sky itself. The vocative directly addresses him as the blue-bodied one.
+
+  - कमलायतलोचन (Kamalāyata-locana) — कमल (kamala, lotus) + आयत (āyata, "long, drawn out, extended toward" — from ā + yam, to stretch) = kamalāyata, "lotus-elongated"; + लोचन (locana, from loc, "to see clearly" — the eyes as instruments of clear perception). His eyes are not merely lotus-shaped but possess the specific lengthening of the lotus petal — the characteristic almond shape that Sanskrit iconography calls "lotus-eyed."
+
+  - विजयीभव (Vijayī bhava) — विजयी (vijayī, "the victorious one" — from vi + ji, "to conquer completely" + -in possessive suffix) + भव (**imperative mood**, ājna-artha, ஆஜ்ஞார்த்தம் — "Be! Become!" — second person singular of bhū). Not "may you be victorious" but "be victorious for me!" — the directness of the imperative enacts the boldness and intimacy of devotional love.
+
+  - वेङ्कटशैलपते (Veṅkaṭaśailapate) — वेङ्कट (veṅkaṭa, "the sin-burner" — from vi + kaṭa: that which fully destroys accumulated sin) + शैल (śaila, "the mountain of rock" — from śilā, the stone — śaila emphasises the ancient, immovable, eternal quality of the hill) + पते (**vocative** of pati, "O Lord, O Protector" — from pā, to protect). Together: "O Lord of the rock-mountain that burns away sins!" — the entire hill is understood as an instrument of purification.
 
 ### விளக்கம்
 
@@ -105,31 +117,40 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத
 **பரிபாலய மாம் வ்ருஷ ஶைலபதே ॥**
 }
 
-### தமிழ் எழுத்துருமாற்றம்
+### IAST எழுத்துருமாற்றம்
 
 ::align[center]{
-ஸசதுர்முக ஷண்முக பஞ்சமுக  
-ப்ரமுகா கிலதைவத மௌலதிமணே ।  
-ஶரணாகத வத்ஸல ஸாரனிதே  
-பரிபாலய மாம் வ்ருஷ ஶைலபதே ॥
+sacaturmukha ṣaṇmukha pañcamukha  
+pramukhākhila daivata maulimaṇe |  
+śaraṇāgata vatsala sāranidhe  
+paripālaya māṃ vṛṣa śailapate ||
 }
 
 ### சொல் பொருள்
 
 | சமஸ்கிருதம் | தமிழ் பொருள் |
 |-------------|-------------|
-| ஸ-சதுர்முக | நான்முகனுடன் (பிரம்மா) |
-| ஷண்-முக | ஆறுமுகனுடன் (முருகன்) |
-| பஞ்ச-முக | ஐந்து முகத்துடன் (சிவன்) |
-| ப்ரமுகா: | முன்னணியில் உள்ள |
-| கில | உண்மையில் |
-| தைவத | தேவர்களின் |
-| மௌலி-திமணே | சிகரமணியே, உச்சியே |
-| ஶரணாகத-வத்ஸல | சரணடைந்தவர்களிடம் அன்பு கொண்டவரே |
-| ஸார-நிதே | சாரம் நிறைந்த கருவூலமே |
-| பரிபாலய | காப்பாற்றுங்கள் |
-| மாம் | என்னை |
-| வ்ருஷ-ஶைல-பதே | வெங்கட மலையின் தலைவரே |
+| सचतुर्मुख (sa-caturmukha) | நான்முகனுடன் — பிரம்மா |
+| षण्मुख (ṣaṇmukha) | ஆறுமுகன் — முருகன் |
+| पञ्चमुख (pañcamukha) | ஐந்து முகமுடையவர் — சிவன் |
+| प्रमुखाखिल (pramukhākhila) | முன்னணியில் உள்ள அனைத்தும் |
+| दैवत (daivata) | தேவர்களின் |
+| मौलिमणे (maulimaṇe) | சிகரமணியே, உச்சி ரத்தினமே |
+| शरणागतवत्सल (śaraṇāgata-vatsala) | சரணடைந்தவர்களிடம் அன்பு கொண்டவரே |
+| सारनिधे (sāranidhe) | சாரம் நிறைந்த கருவூலமே |
+| परिपालय (paripālaya) | முழுமையாக காப்பாற்றுங்கள் |
+| माम् (māṃ) | என்னை |
+| वृषशैलपते (vṛṣaśailapate) | வ்ருஷ மலையின் தலைவரே |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - सचतुर्मुख-षण्मुख-पञ्चमुख (Sa-caturmukha-ṣaṇmukha-pañcamukha) — स (sa, "together with, accompanied by") + चतुर्मुख (caturmukha — catur, "four" + mukha, "face" — "four-faced," Brahmā) + षण्मुख (ṣaṇmukha — ṣaṭ, "six" + mukha — "six-faced," Skanda/Murugan) + पञ्चमुख (pañcamukha — pañca, "five" + mukha — "five-faced," Śiva). Each deity is named not by name but by their most visible attribute — the number of their faces. The compound lists the three great cosmic powers of creation, war/divine energy, and dissolution, all gathered before him.
+
+  - मौलिमणे (Maulimaṇe) — मौलि (mauli, "the crown, the topmost, the head" — from mūla, root/base, elevated to meaning "that which crowns everything") + मणि (maṇi, "a precious gem, a jewel" — the jewel worn at the crown of the head, the most prized ornament) — **vocative**: "O crest-jewel!" As the maṇi is the most precious stone in a crown, he is the most precious among all devas. The compound says: even the greatest gods wear him as their highest ornament.
+
+  - शरणागतवत्सल (Śaraṇāgata-vatsala) — शरण (śaraṇa, "refuge, shelter") + आगत (āgata, past passive participle of ā + gam, "having come, the one who has arrived at") = śaraṇāgata: "the one who has come to take refuge, the surrendered devotee"; + वत्सल (vatsala, from vatsa, "calf, beloved young one" — vatsala is "tender and loving as a cow toward her calf"). Together: "the one who loves the surrendered devotee with the tender warmth of a parent for their young." This is a **bahuvrīhi samāsa** (பஹுவ்ரீஹி சமாசம்) — his defining characteristic is this love.
+
+  - परिपालय माम् (Paripālaya māṃ) — परिपालय (**imperative** of pari + pāl, "to protect completely on all sides, to guard without any gap" — pari- meaning "all around, completely") + माम् (**dvitīyā vibhakti**, இரண்டாம் வேற்றுமை — accusative of aham: "me, myself"). Together: "Protect me completely!" Pari- is the key prefix — not ordinary pālana (protection) but paripālana: protection that leaves no gap, no angle unguarded. The devotee asks for the most total possible protection.
 
 ### விளக்கம்
 
@@ -168,32 +189,40 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத
 **பரயா க்ருபயா பரிபாஹி ஹரே ॥**
 }
 
-### தமிழ் எழுத்துருமாற்றம்
+### IAST எழுத்துருமாற்றம்
 
 ::align[center]{
-அதிவேலதயா தவ துர்விஷஹை  
-ரனு வேலக்ருதை ரபராதஶதை: ।  
-பரிதம் த்வரிதம் வ்ருஷ ஶைலபதே  
-பரயா க்ருபயா பரிபாஹி ஹரே ॥
+ativela tayā tava durvīṣahair  
+anuvela kṛtair aparādhaśataiḥ |  
+paritaṃ tvaritaṃ vṛṣa śailapate  
+parayā kṛpayā paripāhi hare ||
 }
 
 ### சொல் பொருள்
 
 | சமஸ்கிருதம் | தமிழ் பொருள் |
 |-------------|-------------|
-| அதி-வேலதயா | மிகுந்த நேரத்தால் |
-| தவ | உன்னுடைய |
-| துர்விஷஹை: | தாங்க முடியாத |
-| அனுவேலம் | ஒவ்வொரு நேரமும் |
-| க்ருதை: | செய்யப்பட்ட |
-| அபராத-ஶதை: | நூற்றுக்கணக்கான குற்றங்கள் |
-| பரிதம் | நிரம்பிய |
-| த்வரிதம் | விரைவில் |
-| வ்ருஷ-ஶைல-பதே | வெங்கட மலையின் தலைவரே |
-| பரயா | உயர்ந்த |
-| க்ருபயா | கருணையால் |
-| பரிபாஹி | காப்பாற்று |
-| ஹரே | ஹரியே |
+| अतिवेलतया (ativela-tayā) | மிகுந்த காலமாக, அளவிறந்த நேரத்தால் |
+| तव (tava) | உன்னுடைய (கருணையை நோக்கி) |
+| दुर्विषहैः (durvīṣahaiḥ) | தாங்க முடியாத, சகிக்க அரியவையால் |
+| अनुवेलम् (anuvela) | ஒவ்வொரு கணமும், இடைவிடாமல் |
+| कृतैः (kṛtaiḥ) | செய்யப்பட்ட |
+| अपराधशतैः (aparādha-śataiḥ) | நூற்றுக்கணக்கான குற்றங்களால் |
+| परितम् (paritam) | நிரம்பிய, சூழப்பட்ட |
+| त्वरितम् (tvaritam) | விரைவில், உடனே |
+| वृषशैलपते (vṛṣaśailapate) | வ்ருஷ மலையின் தலைவரே |
+| परया (parayā) | உயர்ந்த, மேலான |
+| कृपया (kṛpayā) | கருணையால் |
+| परिपाहि (paripāhi) | முழுமையாக காப்பாற்று |
+| हरे (hare) | ஹரியே |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - दुर्विषहैः अनुवेलकृतैः अपराधशतैः (Durvīṣahaiḥ anuvela-kṛtaiḥ aparādha-śataiḥ) — all three words are in the **instrumental plural** (tṛtīyā vibhakti, மூன்றாம் வேற்றுமை — "by, through, by means of"): दुर्विषहैः (durvīṣahaiḥ, from dur-, "bad, difficult" + viṣaha, "that which can be borne/tolerated" — durvīṣaha is "the intolerable, that which exceeds the capacity to bear"); अनुवेलम् (anuvela, "following each moment, at every successive instant" — anu-, "following" + vela, "a moment, a unit of time"); कृतैः (kṛtaiḥ, "done, committed" — plural instrumental); अपराधशतैः (aparādha-śataiḥ — aparādha, "fault, offence, the going-away from right conduct" — apa-, "away from" + rādh, "to be in right order" — śataiḥ: "hundreds of"). The three instrumentals pile up: hundreds of intolerable offences committed at every single moment.
+
+  - परिपाहि (Paripāhi) — from pari- ("all around, completely, without any gap or omission") + the root pā ("to protect, to nourish, to guard") in the **imperative** (ājna-artha, ஆஜ்ஞார்த்தம்): "Protect completely! Guard on every side!" The prefix pari- is essential — the devotee, surrounded (paritam, "surrounded by" — the very previous word) by their sins on all sides, asks for protection that is equally all-surrounding. The grammar mirrors the devotional situation: surrounded by sins → protected all-around.
+
+  - परया कृपया (Parayā kṛpayā) — both words are in the **instrumental singular feminine** (tṛtīyā vibhakti): परया (parayā, "by the highest, by the supreme" — feminine instrumental of para, "supreme, beyond ordinary") + कृपया (kṛpayā, "by compassion" — from kṛp, "to feel compassion, to have mercy" — instrumental: "by means of compassion"). Together: "by your supreme compassion." Para (highest) applied to kṛpā (compassion) says: not ordinary compassion but compassion at its most complete and transcendent — the kind that saves regardless of the magnitude of the offence.
 
 ### விளக்கம்
 
@@ -232,34 +261,40 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத
 **கமலாதயிதான்ன பரங்கலயே ॥**
 }
 
-### தமிழ் எழுத்துருமாற்றம்
+### IAST எழுத்துருமாற்றம்
 
 ::align[center]{
-அதி வேங்கட ஶைல முதாரமதே  
-ர்ஜனதாபி மதாதிக தானரதாத் ।  
-பரதேவதயா கதிதானிகமை:  
-கமலாதயிதான்ன பரங்கலயே ॥
+ati veṅkaṭa śaila mudāramate  
+rjanatāpi madādhika dānaratāt |  
+paradevatayā kathitānigamaiḥ  
+kamalādayitānna paraṃ kalaye ||
 }
 
 ### சொல் பொருள்
 
 | சமஸ்கிருதம் | தமிழ் பொருள் |
 |-------------|-------------|
-| அதி | மிக, அதிகமாக |
-| வேங்கட-ஶைல | வேங்கட மலை |
-| உதார-மதே: | உதார மனமுடையவரிடமிருந்து |
-| ஜன-தா | மக்கள் தரும் |
-| அபி | கூட |
-| மத்-அதிக | என்னை விட அதிகமாக |
-| தான-ரதாத் | தானம் செய்வதில் ஆர்வமுள்ளவரிடமிருந்து |
-| பர-தேவதயா | மேலான தெய்வத்தினால் |
-| கதித | கூறப்பட்ட |
-| அனி | முடிவில்லாமல் |
-| அகமை: | வேதங்களால் |
-| கமலா-அயித | தாமரை மீது பிறந்தவளின் (லக்ஷ்மி) |
-| அயித | அன்புக்குரியவனை |
-| ன பரம் | வேறு உயர்ந்தவர் இல்லை |
-| கலயே | நினைக்கிறேன் |
+| अति (ati) | மிகவும், அதிகமாக |
+| वेङ्कटशैल (veṅkaṭaśaila) | வேங்கட மலை |
+| उदारमतेः (udāramateḥ) | தாராள மனமுடையவரிடமிருந்து |
+| जनता (janatā) | மக்கள், ஜனங்கள் |
+| अपि (api) | கூட, மேலும் |
+| मत्-अधिक (mat-ādhika) | என்னை விட அதிகமாக |
+| दानरताद् (dāna-ratāt) | தானம் செய்வதில் ஆர்வமுள்ளவரிடமிருந்து |
+| परदेवतया (para-devatayā) | மேலான தெய்வமாக |
+| कथित (kathita) | கூறப்பட்டது, அறிவிக்கப்பட்டது |
+| अनिगमैः (anigamaiḥ) | முடிவில்லாத வேதங்களால் |
+| कमलादयित (kamalā-dayita) | லக்ஷ்மியின் அன்புக்குரியவர் |
+| न परम् (na param) | வேறு உயர்ந்தவர் இல்லை |
+| कलये (kalaye) | நினைக்கிறேன், கருதுகிறேன் |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - उदारमतेः / दानरताद् (Udāramateḥ / Dānaratāt) — both these compounds are in the **ablative case** (pañcamī vibhakti, ஐந்தாம் வேற்றுமை — "from, than"): उदारमतेः (udāramateḥ — udāra, "generous, noble, that which rises above mean motives" + mati, "mind, the orientation of thought" — udāramati, "the generous-minded one" — ablative: "from the generous-minded one, than the generous-minded one"); दानरताद् (dāna-ratāt — dāna, "gift, giving" + rata, "delighted in, devoted to, absorbed in" — dānarata, "the one who is absorbed and delighted in giving" — ablative). The ablatives set up a comparison: "from/than even the most generous and giving person."
+
+  - परदेवतया कथितानिगमैः (Para-devatayā kathitānigamaiḥ) — परदेवतया (para-devatayā, **instrumental** — tṛtīyā vibhakti: "by the supreme deity, as the supreme deity" — para, "highest beyond all others" + devatā, "divine being"); कथित (kathita, past passive participle of kath, "to narrate, to declare, to proclaim" — "the declared, the proclaimed"); अनिगमैः (anigamaiḥ — an-, "not, without end" + nigama, "the Vedas, the ancient texts of knowledge" — instrumental plural: "by the endless Vedas"). Together: "declared as the supreme deity by the infinite Vedas." The infinite Vedas (anigama) declare him as para-devatā — the supreme. This is not a devotee's opinion but the śāstra's own proclamation.
+
+  - कमलादयितान्न परं कलये (Kamalādayitān na paraṃ kalaye) — कमला (Kamalā, Lakṣmī) + दयित (dayita, "the cherished one, the beloved" — from the root day, "to have compassion, to cherish tenderly") = kamalādayita: "the cherished one of Kamalā"; + न (na, "not") + परम् (param, "the supreme, the highest, the beyond") + कलये (kalaye, first-person singular present of kal, "to hold in the mind, to consider, to think of" — uttama puruṣa, உத்தம புருஷன், vartamāna kāla, நிகழ்கால: "I consider, I think of"). Together: "I consider no one higher than the beloved of Kamalā." Kalaye places the devotee grammatically inside the sentence — this is my personal conviction, declared in the first person present.
 
 ### விளக்கம்
 
@@ -307,34 +342,41 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத
 **வஸுதேவ ஸுதான்ன பரங்கலயே ॥**
 }
 
-### தமிழ் எழுத்துருமாற்றம்
+### IAST எழுத்துருமாற்றம்
 
 ::align[center]{
-கல வேணுர வாவஶ கோபவதூ  
-ஶத கோடி வ்ருதாத்ஸ்மர கோடி ஸமாத் ।  
-ப்ரதி பல்லவிகாபி மதாத்ஸுகதாத்  
-வஸுதேவ ஸுதான்ன பரங்கலயே ॥
+kala veṇuravāvaśa gopavadhū  
+śatakōṭi vṛtāt smara kōṭi samāt |  
+prati pallavikāpi madāt sukhadāt  
+vasudeva sutān na paraṃ kalaye ||
 }
 
 ### சொல் பொருள்
 
 | சமஸ்கிருதம் | தமிழ் பொருள் |
 |-------------|-------------|
-| கல | இனிமையான |
-| வேணு-ரவ | புல்லாங்குழல் ஓசை |
-| அவஶ | வசப்படுத்திய |
-| கோப-வதூ | கோபியர்கள் (கோபாலர் மனைவிகள்) |
-| ஶத-கோடி | நூறு கோடி |
-| வ்ருத: | சூழ்ந்த |
-| அத்-ஸ்மர-கோடி | மன்மதனின் கோடிகள் |
-| ஸமாத் | சமமான |
-| ப்ரதி பல்லவிகா | ஒவ்வொரு இளம் பெண் |
-| அபி | கூட |
-| மத-அத் | அங்கிருந்து |
-| ஸுகதாத் | சுகத்தை அளித்தவரிடமிருந்து |
-| வஸுதேவ-ஸுத | வசுதேவரின் புத்திரனை |
-| ன பரம் | வேறு உயர்ந்தவர் இல்லை |
-| கலயே | நினைக்கிறேன் |
+| कल (kala) | இனிமையான, மெல்லிய |
+| वेणुरव (veṇurava) | புல்லாங்குழல் ஓசை |
+| अवश (avaśa) | வசப்படுத்தப்பட்ட, மயங்கிய |
+| गोपवधू (gopa-vadhū) | கோபியர்கள், கோபாலர் மகளிர் |
+| शतकोटि (śata-koṭi) | நூறு கோடி |
+| वृताद् (vṛtāt) | சூழப்பட்டவரிடமிருந்து |
+| स्मरकोटि (smara-koṭi) | மன்மதனின் கோடிகள் |
+| समाद् (samāt) | சமனான, நிகரான |
+| प्रतिपल्लविका (prati-pallavikā) | ஒவ்வொரு இளம்பெண்ணுக்கும் |
+| मदात् (madāt) | மயக்கத்திலிருந்து |
+| सुखदाद् (sukha-dāt) | சுகத்தை அளித்தவரிடமிருந்து |
+| वसुदेवसुत (vasudeva-suta) | வசுதேவரின் புத்திரனை |
+| न परम् (na param) | வேறு உயர்ந்தவர் இல்லை |
+| कलये (kalaye) | நினைக்கிறேன் |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - कलवेणुरवावश (Kala-veṇurava-avaśa) — कल (kala, "of sweet, low, melodious quality" — the specific quality of sound that is pleasing and soft) + वेणु (veṇu, "the bamboo flute" — from the ancient root van, related to the hollow reed) + रव (rava, "sound, resonance, the sound produced by an instrument") = veṇurava: "the flute-sound"; + अवश (avaśa, "not under one's own control, helplessly captivated" — a-, "without" + vaśa, "self-control, will" — avaśa names the state of being overcome, not by force but by beauty). Together: "those made helplessly captivated by the sweet flute-sound." Avaśa captures the essence of the gopīs' surrender — their will dissolved in the sound.
+
+  - स्मरकोटिसमाद् (Smara-koṭi-samāt) — स्मर (Smara, "the one who causes remembrance, the god of love, Madana/Kāmadeva" — from smṛ, "to remember" — love is the cause of unceasing remembrance) + कोटि (koṭi, "ten million, crore, an uncountable multitude") + समाद् (**ablative** of sama, "equal, of the same quality" — "from one equal to" — ablative of comparison: "than one equal to"). Together: "from/than one equal to tens of millions of Smaras (gods of love)." The ablative of comparison (comparing Krishna's beauty to millions of Kamadevās) is one of Sanskrit's most powerful grammatical devices of the superlative.
+
+  - वसुदेवसुतान् न परं कलये (Vasudeva-sutān na paraṃ kalaye) — वसुदेव (Vasudeva, Kṛṣṇa's earthly father — vasu, "excellent, the best" + deva, "the divine") + सुत (suta, past passive participle of su/sū, "to beget, to bring forth" — suta is "the one brought forth, the son" — nominative accusative here) + न (na, "not") + परम् (param, "the supreme, the highest") + कलये (kalaye, "I consider" — as in Śloka 4). Together: "I consider no one higher than the son of Vasudeva." Suta (brought forth) emphasises the miracle of chosen birth — the infinite Lord chose to be born through Vasudeva into human existence.
 
 ### விளக்கம்
 
@@ -374,33 +416,41 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத
 **வரதோ பவ தேவ தயா ஜலதே ॥**
 }
 
-### தமிழ் எழுத்துருமாற்றம்
+### IAST எழுத்துருமாற்றம்
 
 ::align[center]{
-அபிராம குணாகர தாஶரதே  
-ஜகதேக தனுர்தர தீரமதே ।  
-ரகுனாயக ராம ரமேஶ விபோ  
-வரதோ பவ தேவ தயா ஜலதே ॥
+abhirāma guṇākara dāśarathe  
+jagadeka dhanuṃdhara dhīramate |  
+raghunāyaka rāma rameśa vibho  
+varado bhava deva dayājalathe ||
 }
 
 ### சொல் பொருள்
 
 | சமஸ்கிருதம் | தமிழ் பொருள் |
 |-------------|-------------|
-| அபிராம | மிக அழகான |
-| குண-ஆகர | குணங்களின் கருவூலம் |
-| தாஶரதே | தசரதர் புத்திரனே |
-| ஜகத்-ஏக | உலகில் ஒரே |
-| தனுர்-தர | வில் ஏந்தியவர் |
-| தீர-மதே: | வீர புத்தியுடையவரே |
-| ரகு-நாயக | ரகு குலத் தலைவரே |
-| ராம | ராமனே |
-| ரமேஶ | லக்ஷ்மியின் தலைவனே |
-| விபோ | எங்கும் வியாபித்தவரே |
-| வரத: | வரம் அளிப்பவராக |
-| பவ | ஆகுக |
-| தேவ | தேவனே |
-| தயா-ஜலதே | கருணைக் கடலே |
+| अभिराम (abhirāma) | மிக அழகான, மனதை முழுமையாக கவர்வது |
+| गुणाकर (guṇākara) | குணங்களின் சுரங்கம், தோற்றுவாய் |
+| दाशरथे (dāśarathe) | தசரதர் புத்திரனே |
+| जगदेक (jagad-eka) | உலகில் ஒரே, ஒப்பற்ற |
+| धनुर्धर (dhanuṃdhara) | வில் ஏந்தியவர் |
+| धीरमते (dhīramate) | வீர புத்தியுடையவரே |
+| रघुनायक (raghu-nāyaka) | ரகு குலத் தலைவரே |
+| राम (rāma) | ராமனே |
+| रमेश (rameśa) | லக்ஷ்மியின் தலைவனே |
+| विभो (vibho) | எங்கும் வியாபித்தவரே |
+| वरदो भव (varado bhava) | வரம் அளிப்பவராக ஆகுக |
+| दयाजलधे (dayā-jalathe) | கருணைக் கடலே |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - अभिराम गुणाकर दाशरथे (Abhirāma guṇākara dāśarathe) — अभिराम (abhirāma — abhi-, "toward, completely in the direction of" + rāma, from ram, "to delight" — abhirāma is "the one who delights completely on every side, who is pleasing in every aspect"); गुणाकर (guṇākara — guṇa, "virtue, excellence, quality" + ākara, "mine, the originating source" — guṇākara: "the mine of virtues, the place from which all noble qualities originate"); दाशरथे (**vocative** — sambodhana, விளி வேற்றுமை — of dāśaratha, "son of Daśaratha" — dāśa is an honorific suffix meaning "descendant of"). Together: three vocatives in succession — his beauty, his virtue, his lineage.
+
+  - जगदेकधनुर्धर (Jagad-eka-dhanuṃdhara) — जगत् (jagat, "the moving world") + एक (eka, "one, sole, unique") + धनुस् (dhanus, "the bow" — the bow as an instrument of dharmic warfare and protection) + धर (dhara, "the bearer, the one who holds" — from dhṛ, "to hold, to bear, to sustain"). Together: "the sole bow-bearer of the world" — there is one and only one archer in all the worlds who holds the bow with complete mastery. Eka (one) placed between jagat and dhanuṣ-dhara is the superlative: not the greatest archer but the only one of this kind.
+
+  - वरदो भव (Varado bhava) — वरद (varada — vara, "boon, the chosen gift, the desired thing" + da, "the giver" — varada is "the giver of boons") + भव (**imperative** of bhū, "Be! Become!" — ājna-artha, ஆஜ்ஞார்த்தம்). Together: "Become the boon-giver for me!" As in Śloka 1's vijayī bhava, the imperative bhava is the devotee's direct, loving demand — not a wish but a declaration of what is being asked.
+
+  - दयाजलधे (Dayā-jalathe) — दया (dayā, "compassion, the aching movement of the heart toward one in suffering") + जलधि (jaladhi — jala, "water" + dhi from dhā, "that which holds water" — jaladhi is "the ocean, the sea as the container of all waters"). **Vocative**: "O ocean of compassion!" As an ocean holds all rivers within it, his compassion holds all acts of mercy within itself — inexhaustible, vast, and the source from which all compassion in existence flows.
 
 ### விளக்கம்
 
@@ -453,33 +503,43 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத
 **மஹனீய மஹம் ரகுராமமயே ॥**
 }
 
-### தமிழ் எழுத்துருமாற்றம்
+### IAST எழுத்துருமாற்றம்
 
 ::align[center]{
-அவனீ தனயா கமனீய கரம்  
-ரஜனீகர சாரு முகாம்புருஹம் ।  
-ரஜனீசர ராஜத மௌலி ஹிரம்  
-மஹனீய மஹம் ரகுராமமயே ॥
+avanī tanayā kamanīya karaṃ  
+rajanīkara cāru mukhāmburuham |  
+rajanīcara rājata mauli hiram  
+mahanīyam ahaṃ raghu rāmam aye ||
 }
 
 ### சொல் பொருள்
 
 | சமஸ்கிருதம் | தமிழ் பொருள் |
 |-------------|-------------|
-| அவனீ-தனயா | பூமியின் மகள் (சீதை) |
-| கமனீய | இனிமையான, அழகான |
-| கரம் | கரத்தை (கையை) |
-| ரஜனீ-கர | சந்திரன் (இரவை உண்டாக்குவது) |
-| சாரு | அழகான |
-| முக-அம்புருஹம் | முக தாமரை |
-| ரஜனீ-ஈசர | சந்திரனை |
-| ராஜத | வெள்ளி போன்ற |
-| மௌலி | தலையின் மேல், சிகரம் |
-| ஹிரம் | அணிகலன், ஹாரம் |
-| மஹனீய | மிகவும் மரியாதைக்குரிய |
-| மஹம் | மகிமைப்படுத்துகிறேன் |
-| ரகு-ராம | ரகுகுலத்தில் பிறந்த ராமனை |
-| அயே | உள்ளவரை |
+| अवनीतनया (avanī-tanayā) | பூமியின் மகள் — சீதை |
+| कमनीय (kamanīya) | மனத்தை இழுக்கும், அழகான |
+| करम् (karam) | கரத்தை, கையை |
+| रजनीकर (rajanī-kara) | சந்திரன் — இரவை உருவாக்குபவன் |
+| चारु (cāru) | அழகான, இனிய |
+| मुखाम्बुरुहम् (mukhāmburuham) | முக தாமரை |
+| रजनीचर (rajanī-cara) | சந்திரன் — இரவில் இயங்குபவன் |
+| राजत (rājata) | வெள்ளி போன்ற, வெள்ளி நிறம் |
+| मौलि (mauli) | தலை, சிகரம் |
+| हिरम् (hiram) | அணிகலன் |
+| महनीयम् (mahanīyam) | மிகவும் மரியாதைக்குரியவரை |
+| अहम् (aham) | நான் |
+| रघुराम (raghu-rāma) | ரகுகுல ராமனை |
+| अये (aye) | நான் வணங்குகிறேன் |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - अवनीतनयाकमनीयकरम् (Avanī-tanayā-kamanīya-karam) — अवनी (avanī, "the earth, the sustainer" — from ava + ṇī, "she who carries downward, who sustains below") + तनया (tanayā, feminine of tanaya, "daughter" — from tan, "to extend, to continue" — tanayā is "the one who continues [the line], the daughter") = avanī-tanayā: "the daughter of the earth" = Sītā, who was found in a furrow of ploughed earth; कमनीय (kamanīya, "desirable, loveable" — gerundive from kam, "to love, to desire" — kamanīya means "worthy of being desired, naturally beautiful"); करम् (karam, accusative of kara, "hand, that which acts" — accusative: "the hand"). Together: "the lovely, desirable hand of the earth's daughter." The accusative karam is the direct object — he is the one who holds that hand.
+
+  - रजनीकरचारुमुखाम्बुरुहम् (Rajanī-kara-cāru-mukhāmburuham) — रजनी-कर (rajanī-kara — rajanī, "night" + kara, "maker" — rajanīkara is "the maker of night," the Moon — for the moon ushers in night with its rising); चारु (cāru, "beautiful, pleasing to the senses, charming") + मुख (mukha, "face, the forward-facing aspect") + अम्बुरुहम् (amburuham — ambu, "water" + ruha, "growing from" = "the lotus"). Together: "the moon-beautiful face-lotus." Three separate images are compressed: the face is like a lotus (in form and purity), and is lit by moon-like radiance (in cooling beauty).
+
+  - रजनीचरराजत (Rajanī-cara-rājata) — रजनी-चर (rajanī-cara — rajanī, "night" + cara, "the mover, the one who moves through" — rajanīcara is "the one who moves through the night," the Moon again, now named by its movement rather than its making) + राजत (rājata, "silver-coloured, silver-white" — from rājat, silver). The Moon is invoked twice in this verse: first as rajanī-kara (night-maker) for the face, then as rajanī-cara (night-mover) for the crown — his face has the Moon's beauty; his crown surpasses the Moon's silver.
+
+  - महनीयम् अहम् रघुरामम् अये (Mahanīyam ahaṃ raghu-rāmam aye) — महनीयम् (mahanīyam, gerundive of mah, "to magnify, to honour greatly" — "the one worthy of great honour, the greatly revered one" — accusative); अहम् (aham, nominative: "I, the subject"); रघुरामम् (raghu-rāmam, accusative of raghu-rāma — "the Rāma of the Raghu clan"); अये (aye, first person singular present of the root i or ay, "I proceed toward, I go to, I magnify"). Together: "I magnify/glorify the greatly revered Raghu-Rāma." Aham (I) placed emphatically in the sentence claims this praise as personal — my own glorification, my own act of mahana.
 
 ### விளக்கம்
 
@@ -533,35 +593,43 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத
 **ந கதஞ்சன கஞ்சன ஜாதுபஜே ॥**
 }
 
-### தமிழ் எழுத்துருமாற்றம்
+### IAST எழுத்துருமாற்றம்
 
 ::align[center]{
-ஸுமுகம் ஸுஹ்ருதம் ஸுலபம் ஸுகதம்  
-ஸ்வனுஜம் ச ஸுகாயம மோகஶரம் ।  
-அபஹாய ரகூத்வய மன்யமஹம்  
-ந கதஞ்சன கஞ்சன ஜாதுபஜே ॥
+sumukhaṃ suhṛdaṃ sulabhaṃ sukhadaṃ  
+svanujañca sukāyam amoghśaram |  
+apahāya raghūdvayam anyam ahaṃ  
+na kadācana kañcana jātu bhaje ||
 }
 
 ### சொல் பொருள்
 
 | சமஸ்கிருதம் | தமிழ் பொருள் |
 |-------------|-------------|
-| ஸு-முகம் | நல்ல முகம் உடையவர் |
-| ஸு-ஹ்ருதம் | நல்ல நண்பர் |
-| ஸு-லபம் | எளிதில் அடையக்கூடிய |
-| ஸுக-தம் | சுகத்தை அளிப்பவர் |
-| ஸ்வ-அனுஜம் | தம்முடைய தம்பி |
-| ச | மற்றும் |
-| ஸு-காயம் | நல்ல உடல் உடையவர் |
-| மோக-ஶரம் | மோகத்தின் அம்பு |
-| அபஹாய | விட்டுவிட்டு |
-| ரகூ-த்வய | இரு ரகுகுலத்தவர் (ராம-லக்ஷ்மண) |
-| அன்ய | வேறு |
-| மஹம் | பெரியவரை |
-| ன கதஞ்சன | ஒருபோதும் எதையும் |
-| கஞ்சன | கொஞ்சமும் |
-| ஜாது | எப்போதும் |
-| பஜே | வணங்கவில்லை |
+| सुमुखम् (sumukham) | நல்ல முகம் உடையவர், அழகிய முகம் |
+| सुहृदम् (suhṛdam) | நல்ல நண்பர், உண்மையான மித்ரன் |
+| सुलभम् (sulabham) | எளிதில் அடையக்கூடியவர் |
+| सुखदम् (sukhadam) | சுகத்தை அளிப்பவர் |
+| स्वानुजम् (svānujam) | தம்முடைய தம்பி |
+| च (ca) | மற்றும் |
+| सुकायम् (sukāyam) | நல்ல உடல் அமைப்புடையவர் |
+| अमोघशरम् (amogha-śaram) | வீணாகாத அம்பு உடையவர் |
+| अपहाय (apahāya) | விட்டுவிட்டு |
+| रघुद्वयम् (raghu-dvayam) | இரு ரகுகுலத்தவர் — ராம-லக்ஷ்மணர் |
+| अन्यम् (anyam) | வேறு யாரையும் |
+| अहम् (aham) | நான் |
+| न कदाचन (na kadācana) | ஒருபோதும் இல்லை |
+| कञ्चन (kañcana) | கொஞ்சமும் இல்லை |
+| जातु (jātu) | எப்போதும் |
+| भजे (bhaje) | வணங்குவேன் |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - षट् सु-शब्दाः (Ṣaṭ su-śabdāḥ — Six su- compounds) — सुमुखम्, सुहृदम्, सुलभम्, सुखदम्, सुकायम् all begin with सु (su-, the prefix of excellence and completeness): सुमुखम् (su + mukha, "of the excellent/auspicious face — his face that always shows grace"); सुहृदम् (su + hṛd, "of the excellent heart, the true friend" — suhṛd means one whose heart is genuinely aligned with yours, not merely socially friendly); सुलभम् (su + labha, "easily obtained" — he is accessible without costly ritual or distant travel, accessible through surrender alone); सुखदम् (su + kha + da — sukha, "ease, the open-space quality of happiness" + da, "the giver"); सुकायम् (su + kāya, "of the excellent body, the noble form"). The six su- compounds are a garland of compliments, each opening with the same syllable — an alliterative chain binding them all together.
+
+  - अमोघशरम् (Amogha-śaram) — अमोघ (amogha — a-, "not, without" + mogha, "in vain, without effect, futile" — amogha is "the unfailing, the one that never misses, the never-futile") + शर (śara, "arrow, the flying shaft" — from the root śṛ, "to fly, to move swiftly"). Together: "the one of unfailing arrows." Amoghśara is Lakṣmaṇa's specific epithet — his arrows never fail. In devotional reading, amogha also applies to śaraṇāgati itself: surrender to the Raghu-pair is amogha, never in vain.
+
+  - न कदाचन कञ्चन जातु भजे (Na kadācana kañcana jātu bhaje) — three negatives + one verb create the stotram's most absolute declaration: न (na, "not") + कदाचन (kadācana, "at any time, ever" — compounding of kadā, "when" + cana, emphatic particle) + कञ्चन (kañcana, "anyone, any" — compounding of kim, "what" + cana, emphatic) + जातु (jātu, "ever, at any time whatsoever" — an ancient emphatic temporal adverb strengthening the absolute sense) + भजे (**first person singular present** — uttama puruṣa, உத்தம புருஷன் — of bhaj, "to worship, to devote oneself to"). Together: "I never at any time worship anyone at all." Three temporal/universal negatives (na + kadācana + jātu) layered with one universal negative of quantity (kañcana) — this is the grammar of absolute, irrevocable exclusivity.
 
 ### விளக்கம்
 
@@ -629,29 +697,38 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத
 **ப்ரியம் வேங்கடேஶ ப்ரயச்ச ப்ரயச்ச ॥**
 }
 
-### தமிழ் எழுத்துருமாற்றம்
+### IAST எழுத்துருமாற்றம்
 
 ::align[center]{
-வினா வேங்கடேஶம் ந நாதோ ந நாத:  
-ஸதா வேங்கடேஶம் ஸ்மராமி ஸ்மராமி ।  
-ஹரே வேங்கடேஶ ப்ரஸீத ப்ரஸீத  
-ப்ரியம் வேங்கடேஶ ப்ரயச்ச ப்ரயச்ச ॥
+vinā veṅkaṭeśaṃ na nātho na nāthaḥ  
+sadā veṅkaṭeśaṃ smarāmi smarāmi |  
+hare veṅkaṭeśa prasīda prasīda  
+priyaṃ veṅkaṭeśa prayaccha prayaccha ||
 }
 
 ### சொல் பொருள்
 
 | சமஸ்கிருதம் | தமிழ் பொருள் |
 |-------------|-------------|
-| வினா | இல்லாமல் |
-| வேங்கடேஶம் | வேங்கடேஶ்வரரை |
-| ந நாத: | வேறு தலைவர் இல்லை |
-| ந நாத: | வேறு தலைவர் இல்லை (வலியுறுத்தல்) |
-| ஸதா | எப்போதும் |
-| ஸ்மராமி ஸ்மராமி | நினைக்கிறேன் நினைக்கிறேன் (இருமுறை) |
-| ஹரே | ஹரியே |
-| ப்ரஸீத ப்ரஸீத | பிரசன்னமாகு பிரசன்னமாகு (இருமுறை) |
-| ப்ரியம் | இனிமையானதை, விருப்பமானதை |
-| ப்ரயச்ச ப்ரயச்ச | அளி அளி (இருமுறை) |
+| विना (vinā) | இல்லாமல், தவிர |
+| वेङ्कटेशम् (veṅkaṭeśam) | வேங்கடேஶ்வரரை |
+| न नाथो न नाथः (na nātho na nāthaḥ) | தலைவர் இல்லை, தலைவர் இல்லை |
+| सदा (sadā) | எப்போதும், என்றும் |
+| स्मरामि स्मरामि (smarāmi smarāmi) | நினைக்கிறேன் நினைக்கிறேன் |
+| हरे (hare) | ஹரியே |
+| प्रसीद प्रसीद (prasīda prasīda) | பிரசன்னமாகு பிரசன்னமாகு |
+| प्रियम् (priyam) | இனிமையானதை, விரும்பியதை |
+| प्रयच्छ प्रयच्छ (prayaccha prayaccha) | அளிப்பாயாக அளிப்பாயாக |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - विना वेङ्कटेशं न नाथो न नाथः (Vinā veṅkaṭeśaṃ na nātho na nāthaḥ) — विना (vinā, "without, in the absence of" — governs the accusative case) + वेङ्कटेशम् (**accusative** — dvitīyā vibhakti, இரண்டாம் வேற்றுமை — of Veṅkaṭeśa: "Veṅkaṭeśvara" as the object of vinā) + न नाथ: न नाथ: (na nāthaḥ na nāthaḥ — न, "not" + नाथ, "lord, protector, refuge-giver" — from the root nāth, "to seek refuge, to protect" — repeated twice). Together: "Without Veṅkaṭeśa, there is no lord — no lord at all." The double na nāthaḥ is not careless repetition but the grammar of absolute insistence — the first denial is the statement, the second is the confirmation that allows no exception.
+
+  - सदा वेङ्कटेशं स्मरामि स्मरामि (Sadā veṅkaṭeśaṃ smarāmi smarāmi) — सदा (sadā, "always, at all times, without any gap" — from sat, "the real, the ever-existent" + dā, time) + स्मरामि (smarāmi — **first person singular present**, uttama puruṣa, உத்தம புருஷன், vartamāna kāla, நிகழ்கால — of smṛ, "to remember with love and reverence, to hold in the mind" — "I remember, I hold in mind"). Repeated twice: the **āmreḍita** (ஆம்ரேடிதம் — the rhetorical device of repetition) declares that this remembering is continuous, not momentary. Sadā (always) + smarāmi-smarāmi (remember-remember) = the self-sustaining loop of constant devotional remembrance.
+
+  - प्रसीद (Prasīda) — from pra- + sad, "to sit fully settled, to become clear, to be at peace" — prasīda is **imperative** (ājna-artha, ஆஜ்ஞார்த்தம்) meaning "Be gracious! Become clear and settled toward me! Show your serene face!" Prasanna (the past passive participle from the same root) means "clear, serene, gracious" — as a lake becomes prasanna when its sediment settles. Prasīda: "settle your grace toward me." Repeated twice, this is the most intimate imperative of the stotram.
+
+  - प्रयच्छ प्रयच्छ (Prayaccha prayaccha) — from pra- + yam, "to give forth, to hand over, to extend outward" — **imperative**: "Give! Hand over!" Repeated twice as **āmreḍita** doubling. Where prasīda was the prayer for his gracious face to turn toward the devotee, prayaccha is the prayer for the gift to flow from that grace. The double prayaccha says: not once, but keep giving, give again. The priya (what is dear, what is good) to be given is deliberately unspecified — his choice of what is truly good for the devotee, not the devotee's own calculation.
 
 ### விளக்கம்
 
@@ -710,35 +787,41 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத
 **ப்ரயச்ச பயச்ச ப்ரபோ வேங்கடேஶ ॥**
 }
 
-### தமிழ் எழுத்துருமாற்றம்
+### IAST எழுத்துருமாற்றம்
 
 ::align[center]{
-அஹம் தூரததஸ்தே பதாம் போஜயுக்ம  
-ப்ரணாமேச்சயா கத்ய ஸேவாம் கரோமி ।  
-ஸக்ருத்ஸேவயா நித்ய ஸேவாபலம் த்வம்  
-ப்ரயச்ச பயச்ச ப்ரபோ வேங்கடேஶ ॥
+ahaṃ dūrataḥ sthitaḥ pādāmbhoja yugmaṃ  
+praṇāmecchayā gatvā sevāṃ karomi |  
+sakṛt sevayā nitya sevā phalaṃ tvaṃ  
+prayaccha prayaccha prabho veṅkaṭeśa ||
 }
 
 ### சொல் பொருள்
 
 | சமஸ்கிருதம் | தமிழ் பொருள் |
 |-------------|-------------|
-| அஹம் | நான் |
-| தூர-ததஸ்தே | தூரத்தில் இருப்பினும் |
-| பதாம் போஜ-யுக்ம | பாத தாமரை ஜோடியை |
-| ப்ரணாம-இச்சயா | வணங்கும் விருப்பத்துடன் |
-| கத்ய | சென்று |
-| ஸேவாம் | சேவையை |
-| கரோமி | செய்கிறேன் |
-| ஸக்ருத் | ஒரு முறை |
-| ஸேவயா | சேவையால் |
-| நித்ய-ஸேவா | நித்ய சேவை |
-| பலம் | பலனை |
-| த்வம் | நீ |
-| ப்ரயச்ச | அளி |
-| பயச்ச | அளி (மற்றொரு வடிவம்) |
-| ப்ரபோ | தலைவரே |
-| வேங்கடேஶ | வேங்கடேஶ்வரரே |
+| अहम् (aham) | நான் |
+| दूरतः स्थितः (dūrataḥ sthitaḥ) | தூரத்தில் நிற்கிறவன் |
+| पादाम्भोजयुग्मम् (pādāmbhoja-yugmam) | பாத தாமரை ஜோடியை |
+| प्रणामेच्छया (praṇāma-icchayā) | வணங்கும் விருப்பத்துடன் |
+| गत्वा (gatvā) | சென்று |
+| सेवाम् (sevām) | சேவையை |
+| करोमि (karomi) | செய்கிறேன் |
+| सकृत् (sakṛt) | ஒரே ஒரு முறை |
+| सेवया (sevayā) | சேவையால் |
+| नित्यसेवाफलम् (nitya-sevā-phalam) | நித்ய சேவையின் பலனை |
+| त्वम् (tvam) | நீ |
+| प्रयच्छ प्रयच्छ (prayaccha prayaccha) | அளி அளி |
+| प्रभो (prabho) | தலைவரே, ஆண்டவரே |
+| वेङ्कटेश (veṅkaṭeśa) | வேங்கடேஶ்வரரே |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - अहं दूरतः स्थितः (Ahaṃ dūrataḥ sthitaḥ) — अहम् (aham, nominative first person: "I, the one who is present") + दूरतः (dūrataḥ, **ablative** of dūra, "far, distant" — ablative: "from a distance, being far away") + स्थितः (sthitaḥ, past passive participle of sthā, "to stand, to be established" — "established, standing, the one who has taken up a position"). Together: "I, having taken a position at a distance." Stitha says this is not accidental distance — the devotee has stood at a distance, is established there. But the devotee's mind refuses to remain distant.
+
+  - पादाम्भोजयुग्मम् (Pādāmbhoja-yugmam) — पाद (pāda, "foot, the divine foot" — the most accessible aspect of the deity's form, the lowest and therefore most approachable point) + अम्भोज (ambhoja — ambhas, "water" + ja, "born of" — ambhoja is the lotus, born of water) + युग्मम् (yugmam, "a pair, a duo, two joined together as a unit" — from yuj, "to join"). Together: "the pair of lotus-feet" — the two feet together forming one devotional object of contemplation. Yugmam (pair, yoke) rather than dvaya (two) or dvandva (couple) emphasises the joined, unified quality of the two feet.
+
+  - सकृत्सेवया नित्यसेवाफलम् (Sakṛt-sevayā nitya-sevā-phalam) — सकृत् (sakṛt, "once, a single time, one occurrence only" — from sa-, "with" + kṛt, "done") + सेवया (**instrumental** — tṛtīyā vibhakti, மூன்றாம் வேற்றுமை — of sevā, "service, the devoted act of attendance" — "by means of a single service") + नित्य-सेवा-फलम् (nitya-sevā-phalam — nitya, "eternal, perpetual, without beginning or end" + sevā, "service" + phala, "fruit, result"). Together: "by means of a single service, [give me] the fruit of eternal service." This is the supreme request of prapatti (surrender-theology) expressed grammatically: sakṛt (once) → nitya phala (eternal result). One act of complete surrender, one moment of genuine sevā, yields the fruit that perpetual service would yield.
 
 ### விளக்கம்
 
@@ -797,28 +880,36 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத
 **க்ஷமஸ்வ த்வம் க்ஷமஸ்வ த்வம் ஶேஷஶைல ஶிகாமணே ॥**
 }
 
-### தமிழ் எழுத்துருமாற்றம்
+### IAST எழுத்துருமாற்றம்
 
 ::align[center]{
-அஜ்ஞானினா மயா தோஷா ந ஶேஷான்விஹிதான் ஹரே ।  
-க்ஷமஸ்வ த்வம் க்ஷமஸ்வ த்வம் ஶேஷஶைல ஶிகாமணே ॥
+ajñāninā mayā doṣān na śeṣān vihitān hare |  
+kṣamasva tvaṃ kṣamasva tvaṃ śeṣaśaila śikhāmaṇe ||
 }
 
 ### சொல் பொருள்
 
 | சமஸ்கிருதம் | தமிழ் பொருள் |
 |-------------|-------------|
-| அஜ்ஞானினா | அறியாமையால் |
-| மயா | என்னால் |
-| தோஷான் | குற்றங்களை, தவறுகளை |
-| ஶேஷான் | மீதமுள்ள, எல்லாவற்றையும் |
-| விஹிதான் | செய்யப்பட்ட |
-| ஹரே | ஹரியே |
-| க்ஷமஸ்வ | மன்னிப்பாயாக |
-| த்வம் | நீ |
-| க்ஷமஸ்வ த்வம் | மன்னி நீ (இருமுறை) |
-| ஶேஷ-ஶைல | ஆதிசேஷன் வடிவில் உள்ள மலை |
-| ஶிகா-மணே | சிகர மணியே |
+| अज्ञानिना (ajñāninā) | அறியாமையுள்ளவனால் |
+| मया (mayā) | என்னால் |
+| दोषान् (doṣān) | குற்றங்களை, தவறுகளை |
+| न शेषान् (na śeṣān) | மீதமில்லாமல், எல்லாவற்றையும் |
+| विहितान् (vihitān) | செய்யப்பட்ட |
+| हरे (hare) | ஹரியே |
+| क्षमस्व (kṣamasva) | மன்னிப்பாயாக |
+| त्वम् (tvam) | நீ |
+| क्षमस्व त्वम् (kṣamasva tvam) | மன்னி நீ — இருமுறை |
+| शेषशैल (śeṣaśaila) | ஆதிசேஷன் வடிவில் உள்ள மலை |
+| शिखामणे (śikhāmaṇe) | சிகரமணியே |
+
+**இலக்கண விளக்கம் (Grammatical Explanation):**
+
+  - अज्ञानिना मया (Ajñāninā mayā) — अज्ञानिन् (ajñānin — a-, "not, without" + jñāna, "knowledge, the direct knowing of reality" + -in possessive suffix — ajñānin is "the one who is without jñāna, the ignorant one, the one who does not know") in the **instrumental singular** (tṛtīyā vibhakti, மூன்றாம் வேற்றுமை — "by, through the agency of"): ajñāninā, "by the ignorant one"; + मया (mayā, instrumental of aham — "by me, through me"). Together: "by me, who am the ignorant one." The instrumental declares the agent of the wrongdoing. By calling himself ajñānin, the devotee makes the most profound theological claim of the stotram: the root of all his wrongs is not malice but avidyā (ignorance) — the absence of jñāna. This is the śāstric basis for mercy: wrongs done through ignorance are fundamentally different from wrongs done through knowing choice.
+
+  - न शेषान् विहितान् दोषान् (Na śeṣān vihitān doṣān) — न (na, "not, without omission") + शेषान् (śeṣān — **accusative plural** of śeṣa, "the remainder, the rest, what is left over" — śeṣān: "all the remaining ones, without leaving any out") + विहितान् (vihitān, **accusative plural** past passive participle of vi + dhā, "to place in, to commit" — vihita: "committed, done, performed") + दोषान् (doṣān, **accusative plural** of doṣa, "fault, blemish, the thing that is wrong" — from duṣ, "to be spoiled, to be corrupt"). All three words in the accusative plural together: "all the remaining committed faults, without leaving any out." Na śeṣān says nothing is held back from this confession — not a selected list but the complete, unedited catalogue.
+
+  - क्षमस्व त्वम् (Kṣamasva tvam) — from the root kṣam, "to be patient with, to tolerate, to forgive" — **imperative middle voice** (-sva ending) second person singular: "Forgive! Be patient with me! Exercise your capacity for patience!" The -sva ending of the middle voice (ātmanepada, ஆத்மனேபதம்) says: this forgiving is for your own benefit, an expression of your own nature — the forgiving is natural to you, not reluctant. त्वम् (tvam, nominative: "you, specifically you") is added for emphasis — you, the one whose nature is mercy, you specifically are the one being asked. Repeated twice as **āmreḍita**: kṣamasva tvam kṣamasva tvam — "Forgive! You! Forgive! You!" The second repetition is the stotram's final word, its last breath, the closing cadence of all eleven verses: nothing left but the plea for forgiveness.
 
 ### விளக்கம்
 
@@ -886,7 +977,7 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ஸ்தோத
 ✅ **ஸ்லோகம் 10** - தூரத்திலிருந்தும் சேவை  
 ✅ **ஸ்லோகம் 11** - மன்னிப்பு பிரார்த்தனை  
 
-**குறிப்பு:** இந்த ஸ்தோத்ரத்தில் சில ஸ்லோகங்கள் இங்கு சுருக்கமாக வழங்கப்பட்டுள்ளன. முழு 11 ஸ்லோகங்களையும் விரிவாக சேர்க்க விரும்பினால் கூறவும்.
+இந்த 11 ஸ்லோகங்களும் சமஸ்கிருத இலக்கணத்தின் நுணுக்கங்களுடன் பக்தியின் முழுமையான அம்சங்களை வெளிப்படுத்துகின்றன.
 
 ---
 
