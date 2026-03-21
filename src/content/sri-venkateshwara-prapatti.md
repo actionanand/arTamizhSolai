@@ -16,11 +16,6 @@ font: 'Mukta Malar Tamil'
 articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ப்ரபத்தி என்பது பக்தன் முழு சரணாகதியை வெளிப்படுத்தும் 16 ஸ்லோகங்களைக் கொண்ட புனிதமான சமஸ்கிருத துதி. இதில் பெருமாளின் பாதம், லக்ஷ்மி, பக்தியின் பல்வேறு அம்சங்கள், மற்றும் சரணாகதி தத்துவம் விரிவாக விளக்கப்படுகிறது.'
 ---
 
-::font[Mukta Malar Tamil]{
-
-# ஶ்ரீ வேங்கடேஶ்வர ப்ரபத்தி
-
-## அறிமுகம்
 
 **ஶ்ரீ வேங்கடேஶ்வர ப்ரபத்தி** என்பது திருமலை ஏழுமலையான் மீது பாடப்படும் முழு சரணாகதி துதி. இதில் பக்தன், பெருமாளின் பாதத்தில் சரணடைந்து, தன் பாவங்களை, குறைகளை, மற்றும் ஆன்மீக ஆசைகளை வெளிப்படுத்துகிறார். இந்த 16 ஸ்லோகங்கள் பக்தியின் உயர்ந்த நிலையான **ப்ரபத்தி** (சரணாகதி) முறையை விளக்குகின்றன.
 
@@ -858,28 +853,117 @@ articleMetadata: 'ஶ்ரீ வேங்கடேஶ்வர ப்ரபத
 ## முடிவுரை
 
 ::align[center]{
-**இதி ஶ்ரீவேங்கடேஶ ப்ரபத்தி**
+**இதி ஶ்ரீவேங்கடேஶ ப்ரபத்தி** <br>
+**इति श्रीवेङ्कटेश प्रपत्तिः**  <br> 
+*iti śrī-veṅkaṭeśa prapattih*
 }
 
 ### "இதி ஶ்ரீவேங்கடேஶ ப்ரபத்தி" — பொருள் விளக்கம்
 
-| சொல் | பொருள் |
-|------|--------|
-| **இதி** | இவ்வாறு முடிகிறது / இங்கே நிறைவடைகிறது |
-| **ஶ்ரீ** | புனிதமான / மங்களகரமான |
-| **வேங்கடேஶ** | வேங்கட மலையின் தலைவர் (ஏழுமலையான்) |
-| **ப்ரபத்தி** | சரணாகதி / முழுமையான அடைக்கலம் |
+| சமஸ்கிருத சொல் | தேவநாகரி | IAST | தமிழ் பொருள் |
+|----------------|----------|------|--------------|
+| **இதி** | **इति** | iti | இவ்வாறு முடிகிறது — "இங்கே நிறைவடைகிறது". "Thus", "so", "in this manner" or "that" |
+| **ஶ்ரீ** | **श्री** | śrī | புனிதமான, மங்களகரமான, லக்ஷ்மியின் அருளால் |
+| **வேங்கடேஶ** | **वेङ्कटेश** | veṅkaṭeśa | வேங்கட மலையின் தலைவன் |
+| **ப்ரபத்தி** | **प्रपत्तिः** | prapattih | சரணாகதி — முழுமையான சரணடைதல் |
 
 > **"இவ்வாறு புனிதமான ஶ்ரீ வேங்கடேஶ்வர ப்ரபத்தி நிறைவடைகிறது."**
 
-இது ஒரு **சாஸ்திரீய வழக்கு** — சமஸ்கிருத துதிகள், ஸ்தோத்திரங்கள், நூல்கள் முடியும்போது "இதி..." என்று எழுதப்படும். இது அந்த துதி முழுமையாக நிறைவேறியது என்பதையும், பக்தி சமர்ப்பணம் பூர்ணமடைந்தது என்பதையும் குறிக்கிறது.
+### "இதி ஶ்ரீவேங்கடேஶ ப்ரபத்தி" — ஒட்டுமொத்த பொருள்
 
-**ப்ரபத்தி** என்பது வெறும் வணக்கம் அல்ல — இது **ஆத்மார்ப்பணம்** (ஆன்மாவையே சமர்ப்பிப்பது). "என்னில் என்னது என்று எதுவும் இல்லை; யாவும் உன்னதே" என்று திருமலையானிடம் முழுமையாக சரணடைவதை இந்த வார்த்தை உணர்த்துகிறது.
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
+**"இவ்வாறு — லக்ஷ்மியின் அருளால் புனிதமான, வேங்கட மலையின் தலைவனுக்கு செய்யப்பட்ட — முழுமையான சரணாகதி நிறைவடைகிறது."**}
+
+::combo[bg:#e3f2fd;color:#1565c0;padding:15px]{
+இது வெறும் "நூல் முடிந்தது" என்ற அறிவிப்பு மட்டுமல்ல. **ஒரு பக்தனின் ஆன்மா, வார்த்தைகளின் வழியாக, திருவடியில் சென்று சேர்ந்தது** என்பதன் அறிவிப்பு. 16 ஸ்லோகங்களாக விரிந்த ப்ரபத்தி இப்போது "இதி" என்ற ஒரு சொல்லில் மடிக்கப்படுகிறது — "இங்கே, இப்போது, முழுமையாக முடிந்தது."
+}
 
 ---
 
-இந்த 16 ஸ்லோகங்களில் பக்தன் முழுமையாக திருமலை ஏழுமலையான் திருவடிகளில் சரணடைகிறார். **லக்ஷ்மி துதி** தொடங்கி, **பாதங்களின் அழகு, ஒளி, மணம், அலங்காரம்** வர்ணித்து, **அர்ஜுனனுக்கும், முனிவர்களுக்கும் காட்டப்பட்ட பாதங்களே** தனக்கும் புகலிடம் என்று முடிக்கிறார்.
+**சாஸ்திரீய வழக்கு குறிப்பு:**  
+சமஸ்கிருத நூல்கள் எல்லாம் **इति (Iti)** என்று முடிவடைவது ஒரு பாரம்பரியமான வழக்கு. ரிக்வேதம் முதல் இன்றைய ஸ்தோத்திரங்கள் வரை — ஒவ்வொரு நூலும் **इति** என்று சொல்லி, "இந்த புனிதமான அர்ப்பணம் இப்போது முழுமையடைந்தது" என்று அறிவிக்கிறது.
 
-> **"ஒருபோதும் எனக்கு வேறு கதி இல்லை — உன் திருவடிகளே என் ஏகமான புகலிடம்"**
+## इति (Iti) — The Sanskrit Particle of Conclusion and Quotation
 
-}
+इति (iti) is one of Sanskrit's most elegant and versatile tools. As an **अव्यय** (avyaya — an indeclinable word), it never changes its form regardless of gender, number, or case, which makes it deceptively simple in appearance but remarkably rich in function.
+
+At its core, इति signals one thing: **"here ends a unit of meaning."** Depending on context, that unit could be a spoken sentence, an inner thought, a chapter, a reason, or even a list. English approximations include *thus, so, in this way, that,* and *end* — but none of these alone captures its full range.
+
+---
+
+### Its Six Core Functions
+
+**1. Quotation Marker — the most frequent use**
+इति works like closing quotation marks in English, placed *after* the quoted words rather than around them. When someone says or writes something, इति seals it.
+
+> **गच्छामि इति वदति**
+> *gacchāmi iti vadati*
+> → "I am going," he says.
+
+> **सत्यं वद इति वदति**
+> *satyaṃ vada iti vadati*
+> → He says, "Speak the truth."
+
+**2. Marking Inner Thought**
+It works equally well for mental speech — what someone *thinks* rather than says aloud.
+
+> **सः चिन्तयति — अहं किं करिष्यामि इति**
+> *saḥ cintayati — ahaṃ kiṃ kariṣyāmi iti*
+> → He thinks, "What shall I do?"
+
+**3. Labelling or Defining Something**
+इति introduces or closes a name, a concept, or a description — functioning like a definitional bracket.
+
+> **सः वीरः इति मन्यन्ते**
+> *saḥ vīraḥ iti manyante*
+> → They consider him *to be* a hero. (Literally: "He is a hero" — thus they think.)
+
+**4. Indicating Reason or Cause**
+इति can signal the motive behind an action — the *because* of a situation.
+
+> **तस्य इति कारणम्**
+> *tasya iti kāraṇam*
+> → That, therefore, is the reason.
+
+**5. Listing or Aggregating (Et cetera)**
+When listing items, इति closes the list, suggesting continuation — similar to *and so forth.*
+
+> **अग्निः वायुः इति**
+> *agniḥ vāyuḥ iti*
+> → Fire, wind, and so on...
+
+**6. Concluding a Text or Chapter**
+In classical and scriptural literature, इति is the formal seal placed at the end of a section, chapter, or entire work — the Sanskrit equivalent of *Finis.*
+
+> **इति रामायणम् समाप्तम्**
+> *iti Rāmāyaṇam samāptam*
+> → Thus ends the Ramayana.
+
+> **इति श्रीमद्भगवद्गीतासु...**
+> → Thus, in the glorious Bhagavad Gita...
+
+---
+
+### Key Derivatives Worth Knowing
+
+These compound words built from इति show how deeply it is woven into Sanskrit's vocabulary:
+
+| Word | Breakdown | Meaning |
+|---|---|---|
+| **इत्यादि** (ityādi) | iti + ādi (beginning) | *and so forth, et cetera* |
+| **इतिहास** (itihāsa) | iti + ha + āsa (thus indeed it was) | *history, tradition* |
+| **इतिश्री** (itiśrī) | iti + śrī (glory) | *glorious conclusion of a work* |
+
+**इतिहास** is particularly striking — the very word for *history* in Sanskrit encodes the idea of "thus it indeed was," reflecting a culture that understood the past as a concluded and confirmed narrative.
+
+---
+
+### A Useful Mental Model
+
+Think of इति as performing three gestures simultaneously:
+
+- ✍️ **Closing quotation marks** — sealing what was said or thought
+- 🔖 **A bookmark** — marking the end of a meaningful unit
+- 🪞 **A mirror held up** — reflecting back a label, a reason, or a summary
+
+It does not alter grammar. It alters *meaning and structure*, telling the reader exactly where one thought ends and another begins — a quiet but indispensable particle that holds Sanskrit prose and poetry together.
