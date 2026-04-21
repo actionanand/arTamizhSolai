@@ -25,8 +25,26 @@ const DEFAULT_COVER_IMAGE = 'tamil-literature-default.svg';
       <div class="filters-section">
         @if (availableCategories.length > 0) {
         <div class="filter-group">
-          <h3 class="filter-title">Categories</h3>
-          <div class="filter-tags">
+          <div class="filter-title-row">
+            <h3 class="filter-title">Categories</h3>
+            @if (hasMoreCategories()) {
+            <button
+              type="button"
+              class="filter-toggle"
+              [attr.aria-expanded]="showAllCategories"
+              aria-controls="blog-category-filters"
+              (click)="toggleCategoriesExpanded()"
+            >
+              <span>{{ getCategoryToggleLabel() }}</span>
+              <span
+                class="filter-chevron"
+                [class.filter-chevron--expanded]="showAllCategories"
+                aria-hidden="true"
+              ></span>
+            </button>
+            }
+          </div>
+          <div class="filter-tags" id="blog-category-filters">
             <button 
               class="filter-tag"
               [class.active]="!selectedCategory"
@@ -34,7 +52,7 @@ const DEFAULT_COVER_IMAGE = 'tamil-literature-default.svg';
             >
               All
             </button>
-            @for (category of availableCategories; track category) {
+            @for (category of getVisibleCategories(); track category) {
             <button 
               class="filter-tag"
               [class.active]="selectedCategory === category"
@@ -49,8 +67,26 @@ const DEFAULT_COVER_IMAGE = 'tamil-literature-default.svg';
 
         @if (availableTags.length > 0) {
         <div class="filter-group">
-          <h3 class="filter-title">Tags</h3>
-          <div class="filter-tags">
+          <div class="filter-title-row">
+            <h3 class="filter-title">Tags</h3>
+            @if (hasMoreTags()) {
+            <button
+              type="button"
+              class="filter-toggle"
+              [attr.aria-expanded]="showAllTags"
+              aria-controls="blog-tag-filters"
+              (click)="toggleTagsExpanded()"
+            >
+              <span>{{ getTagToggleLabel() }}</span>
+              <span
+                class="filter-chevron"
+                [class.filter-chevron--expanded]="showAllTags"
+                aria-hidden="true"
+              ></span>
+            </button>
+            }
+          </div>
+          <div class="filter-tags" id="blog-tag-filters">
             <button 
               class="filter-tag"
               [class.active]="selectedTags.length === 0"
@@ -58,16 +94,14 @@ const DEFAULT_COVER_IMAGE = 'tamil-literature-default.svg';
             >
               All
             </button>
-            @for (tag of getFilteredTags(); track tag) {
-              @if (getPostsCountByTag(tag) > 0) {
-              <button 
-                class="filter-tag"
-                [class.active]="selectedTags.includes(tag)"
-                (click)="toggleTag(tag)"
-              >
-                {{ tag }} ({{ getPostsCountByTag(tag) }})
-              </button>
-              }
+            @for (tag of getVisibleTags(); track tag) {
+            <button 
+              class="filter-tag"
+              [class.active]="selectedTags.includes(tag)"
+              (click)="toggleTag(tag)"
+            >
+              {{ tag }} ({{ getPostsCountByTag(tag) }})
+            </button>
             }
           </div>
         </div>
@@ -206,13 +240,67 @@ const DEFAULT_COVER_IMAGE = 'tamil-literature-default.svg';
       margin-bottom: 0;
     }
 
+    .filter-title-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 0.75rem;
+    }
+
     .filter-title {
       font-size: 0.95rem;
       font-weight: 600;
       color: #495057;
-      margin: 0 0 0.75rem 0;
+      margin: 0;
       text-transform: uppercase;
       letter-spacing: 0.5px;
+    }
+
+    .filter-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      min-height: 2rem;
+      padding: 0.35rem 0.65rem;
+      border: 1px solid transparent;
+      background: transparent;
+      color: #0d6efd;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      white-space: nowrap;
+      transition: background 0.2s ease, border-color 0.2s ease;
+    }
+
+    .filter-toggle:hover {
+      background: #e7f0ff;
+      border-color: #b6d4fe;
+    }
+
+    .filter-toggle:focus {
+      outline: none;
+      border-color: transparent;
+      box-shadow: none;
+    }
+
+    .filter-toggle:focus-visible {
+      outline: 2px solid #0d6efd;
+      outline-offset: 2px;
+    }
+
+    .filter-chevron {
+      width: 0.45rem;
+      height: 0.45rem;
+      border-right: 2px solid currentColor;
+      border-bottom: 2px solid currentColor;
+      transform: rotate(45deg);
+      transition: transform 0.2s ease;
+    }
+
+    .filter-chevron--expanded {
+      transform: translateY(0.15rem) rotate(225deg);
     }
 
     .filter-tags {
@@ -481,6 +569,16 @@ const DEFAULT_COVER_IMAGE = 'tamil-literature-default.svg';
         gap: 0.25rem;
       }
 
+      .filter-title-row {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.35rem;
+      }
+
+      .filter-toggle {
+        margin-left: -0.65rem;
+      }
+
       .filter-tag {
         padding: 0.4rem 0.75rem;
         font-size: 0.8rem;
@@ -509,12 +607,16 @@ export default class Blog implements OnInit {
   readonly posts = injectContentFiles<PostAttributes>();
   readonly pageSize = paginationConfig.blogPageSize;
   readonly defaultCoverImage = DEFAULT_COVER_IMAGE;
+  readonly collapsedCategoryLimit = 6;
+  readonly collapsedTagLimit = 10;
   getCoverImage = getCoverImageSrc;
 
   availableCategories: string[] = [];
   availableTags: string[] = [];
   selectedCategory: string | null = null;
   selectedTags: string[] = [];
+  showAllCategories = false;
+  showAllTags = false;
   filteredPosts: typeof this.posts = [];
   pagedPosts: typeof this.posts = [];
   currentPage = 1;
@@ -623,6 +725,14 @@ export default class Blog implements OnInit {
     this.applyFilters();
   }
 
+  toggleCategoriesExpanded() {
+    this.showAllCategories = !this.showAllCategories;
+  }
+
+  toggleTagsExpanded() {
+    this.showAllTags = !this.showAllTags;
+  }
+
   resetFilters() {
     this.selectedCategory = null;
     this.selectedTags = [];
@@ -667,6 +777,50 @@ export default class Blog implements OnInit {
     return Array.from(validTags).sort();
   }
 
+  getVisibleCategories(): string[] {
+    return this.getCompactFilterItems(
+      this.availableCategories,
+      this.showAllCategories,
+      this.collapsedCategoryLimit,
+      this.selectedCategory ? [this.selectedCategory] : []
+    );
+  }
+
+  getVisibleTags(): string[] {
+    const tagsWithPosts = this.getFilteredTags().filter(tag => this.getPostsCountByTag(tag) > 0);
+
+    return this.getCompactFilterItems(
+      tagsWithPosts,
+      this.showAllTags,
+      this.collapsedTagLimit,
+      this.selectedTags
+    );
+  }
+
+  hasMoreCategories(): boolean {
+    return this.showAllCategories || this.availableCategories.length > this.getVisibleCategories().length;
+  }
+
+  hasMoreTags(): boolean {
+    const tagsWithPosts = this.getFilteredTags().filter(tag => this.getPostsCountByTag(tag) > 0);
+    return this.showAllTags || tagsWithPosts.length > this.getVisibleTags().length;
+  }
+
+  getCategoryToggleLabel(): string {
+    if (this.showAllCategories) return 'Show fewer';
+
+    const hiddenCount = this.availableCategories.length - this.getVisibleCategories().length;
+    return hiddenCount > 0 ? `Show ${hiddenCount} more` : 'Show all';
+  }
+
+  getTagToggleLabel(): string {
+    if (this.showAllTags) return 'Show fewer';
+
+    const tagsWithPosts = this.getFilteredTags().filter(tag => this.getPostsCountByTag(tag) > 0);
+    const hiddenCount = tagsWithPosts.length - this.getVisibleTags().length;
+    return hiddenCount > 0 ? `Show ${hiddenCount} more` : 'Show all';
+  }
+
   getPostsCountByTag(tag: string): number {
     if (!this.selectedCategory) {
       // Count all posts with this tag
@@ -681,5 +835,26 @@ export default class Blog implements OnInit {
       return postCategory === this.selectedCategory &&
         p.attributes.tags && p.attributes.tags.includes(tag);
     }).length;
+  }
+
+  private getCompactFilterItems(
+    items: string[],
+    expanded: boolean,
+    limit: number,
+    priorityItems: string[] = []
+  ): string[] {
+    if (expanded || items.length <= limit) {
+      return items;
+    }
+
+    const visibleItems = items.slice(0, limit);
+
+    priorityItems.forEach(item => {
+      if (items.includes(item) && !visibleItems.includes(item)) {
+        visibleItems.push(item);
+      }
+    });
+
+    return visibleItems;
   }
 }

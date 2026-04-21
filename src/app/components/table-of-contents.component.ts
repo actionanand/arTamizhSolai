@@ -1,12 +1,11 @@
 import { Component, Input } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { RouterLink } from '@angular/router';
 import { HeadingLink } from '../utilities/markdown-utils';
 
 @Component({
   selector: 'app-table-of-contents',
   standalone: true,
-  imports: [CommonModule, RouterLink],
+  imports: [CommonModule],
   template: `
     @if (headings.length > 0) {
     <aside class="toc">
@@ -20,9 +19,8 @@ import { HeadingLink } from '../utilities/markdown-utils';
           >
             <a 
               class="toc__link"
-              [routerLink]="[]"
-              [fragment]="heading.id"
-              (click)="scrollToElement(heading.id)"
+              [attr.href]="'#' + heading.id"
+              (click)="scrollToElement($event, heading.id)"
             >
               {{ heading.text }}
             </a>
@@ -105,13 +103,16 @@ import { HeadingLink } from '../utilities/markdown-utils';
 export class TableOfContentsComponent {
   @Input() headings: HeadingLink[] = [];
 
-  scrollToElement(elementId: string) {
-    // Add small delay to ensure the fragment navigation happens first
-    setTimeout(() => {
-      const element = document.getElementById(elementId);
-      if (element) {
-        element.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
-    }, 0);
+  scrollToElement(event: MouseEvent, elementId: string) {
+    event.preventDefault();
+
+    const element = document.getElementById(elementId);
+    if (!element) {
+      return;
+    }
+
+    element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    const nextUrl = `${window.location.pathname}${window.location.search}#${encodeURIComponent(elementId)}`;
+    window.history.replaceState(null, '', nextUrl);
   }
 }
