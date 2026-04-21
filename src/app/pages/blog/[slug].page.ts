@@ -6,7 +6,7 @@ import { injectContent, injectContentFiles, MarkdownComponent } from '@analogjs/
 import { paginationConfig } from '../../config/pagination-config';
 
 import PostAttributes from '../../post-attributes';
-import { extractHeadings, HeadingLink } from '../../utilities/markdown-utils';
+import { createHeadingId, getUniqueHeadingId, HeadingLink } from '../../utilities/markdown-utils';
 import { getCoverImageSrc, getBackgroundImageSrc } from '../../utilities/cover-image-helper';
 import { TableOfContentsComponent } from '../../components/table-of-contents.component';
 import { PostNavigationComponent } from '../../components/post-navigation.component';
@@ -555,6 +555,13 @@ import { AuthService } from '../../services/auth.service';
       color: #333;
     }
 
+    :host ::ng-deep analog-markdown h1,
+    :host ::ng-deep analog-markdown h2,
+    :host ::ng-deep analog-markdown h3,
+    :host ::ng-deep analog-markdown h4 {
+      scroll-margin-top: 110px;
+    }
+
     :host ::ng-deep analog-markdown h2 {
       margin: 2rem 0 1rem 0;
       padding-top: 1rem;
@@ -682,7 +689,7 @@ import { AuthService } from '../../services/auth.service';
   `,
 })
 export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked, OnDestroy {
-  @ViewChild('contentRef') contentRef?: ElementRef;
+  @ViewChild('contentRef') contentRef?: ElementRef<HTMLElement>;
   @ViewChild(PasswordModalComponent) passwordModal?: PasswordModalComponent;
 
   readonly post$ = injectContent<PostAttributes>('slug');
@@ -703,6 +710,8 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
   showDisclaimer = true;
   disclaimerText = 'The views expressed are personal and for informational purposes only.';
   private mutationObserver?: MutationObserver;
+  private footnoteNavigationRoot?: HTMLElement;
+  private footnoteClickHandler?: (e: Event) => void;
   private hasExtractedHeadings = false;
   private isBrowser: boolean;
 
@@ -824,6 +833,7 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
       this.mutationObserver.disconnect();
       this.mutationObserver = undefined;
     }
+    this.teardownFootnoteNavigation();
   }
 
   private updateContentHeadings() {
@@ -832,27 +842,44 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
     }
     
     const container = this.contentRef.nativeElement;
-    const headingEls = container.querySelectorAll('h1, h2, h3, h4');
+    const headingEls = Array.from(container.querySelectorAll<HTMLElement>('h1, h2, h3, h4'));
     
     if (headingEls.length === 0) {
       return; // Content not ready yet
     }
     
-    // Inject IDs into headings that don't have them
-    headingEls.forEach((el: Element) => {
-      if (!el.id) {
-        const text = el.textContent || '';
-        el.id = this.slugify(text);
+    const usedIds = new Set<string>();
+    const extractedHeadings = headingEls.map((el, index) => {
+      const level = parseInt(el.tagName.substring(1), 10);
+      const text = (el.textContent || '').replace(/\s+/g, ' ').trim();
+      const existingId = el.getAttribute('id')?.trim();
+      const baseId = existingId || createHeadingId(text, `section-${index + 1}`);
+      const id = getUniqueHeadingId(baseId, usedIds);
+
+      if (el.id !== id) {
+        el.id = id;
       }
-    });
-    
-    const html = container.innerHTML;
-    const extractedHeadings = extractHeadings(html);
-    
-    if (extractedHeadings.length > 0 && !this.hasExtractedHeadings) {
+
+      return { level, text, id };
+    }).filter((heading) => heading.text.length > 0);
+
+    if (extractedHeadings.length > 0 && !this.areHeadingsEqual(this.headings, extractedHeadings)) {
       this.headings = extractedHeadings;
       this.hasExtractedHeadings = true;
     }
+  }
+
+  private areHeadingsEqual(a: HeadingLink[], b: HeadingLink[]): boolean {
+    if (a.length !== b.length) {
+      return false;
+    }
+
+    return a.every((heading, index) => {
+      const other = b[index];
+      return heading.level === other.level
+        && heading.text === other.text
+        && heading.id === other.id;
+    });
   }
 
   private initObserver() {
@@ -874,17 +901,24 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
     if (!this.isBrowser) return;
 
     // Use document to find footnote links since they're rendered inside analog-markdown
-    const article = document.querySelector('article.blog-post');
+    const article = document.querySelector('article.blog-post') as HTMLElement | null;
     if (!article) return;
-
-    // Remove existing click listener by replacing the element (clone without listeners)
-    const newArticle = article.cloneNode(true) as HTMLElement;
-    if (article.parentNode) {
-      article.parentNode.replaceChild(newArticle, article);
+    if (this.footnoteNavigationRoot === article && this.footnoteClickHandler) {
+      return;
     }
 
-    const handleFootnoteClick = (e: Event) => {
-      const link = (e.target as HTMLElement);
+    this.teardownFootnoteNavigation();
+
+    this.footnoteClickHandler = (e: Event) => {
+      if (!(e.target instanceof Element)) {
+        return;
+      }
+
+      const link = e.target.closest('.footnote-ref, .footnote-backref') as HTMLElement | null;
+      if (!link) {
+        return;
+      }
+
       const dataFn = link.getAttribute('data-fn');
       if (dataFn) {
         e.preventDefault();
@@ -899,28 +933,24 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
           const basePath = baseHref.endsWith('/') ? baseHref : `${baseHref}/`;
           // Update URL with full path including base href and blog slug
           const fullUrl = `${basePath}blog/${this.currentSlug}#${targetId}`;
-          console.log('Updating URL to:', fullUrl);
           window.history.replaceState(null, '', fullUrl);
         }
       }
     };
 
-    // Use event delegation - attach single listener to article
-    newArticle.addEventListener('click', (e: Event) => {
-      const target = (e.target as HTMLElement);
-      if (target.classList.contains('footnote-ref') || target.classList.contains('footnote-backref')) {
-        handleFootnoteClick(e);
-      }
-    });
+    // Use event delegation so footnote links rendered by analog-markdown work
+    // without replacing Angular-managed DOM.
+    article.addEventListener('click', this.footnoteClickHandler);
+    this.footnoteNavigationRoot = article;
   }
 
-  private slugify(s: string): string {
-    return s
-      .toLowerCase()
-      .replace(/[^a-z0-9\s-]/g, '')
-      .trim()
-      .replace(/\s+/g, '-')
-      .replace(/-+/g, '-');
+  private teardownFootnoteNavigation() {
+    if (this.footnoteNavigationRoot && this.footnoteClickHandler) {
+      this.footnoteNavigationRoot.removeEventListener('click', this.footnoteClickHandler);
+    }
+
+    this.footnoteNavigationRoot = undefined;
+    this.footnoteClickHandler = undefined;
   }
 
   private updateNavigation() {
