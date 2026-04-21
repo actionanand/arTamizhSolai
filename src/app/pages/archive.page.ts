@@ -248,6 +248,17 @@ import PostAttributes from '../post-attributes';
       border-color: #b6d4fe;
     }
 
+    .filter-toggle:focus {
+      outline: none;
+      border-color: transparent;
+      box-shadow: none;
+    }
+
+    .filter-toggle:focus-visible {
+      outline: 2px solid #0d6efd;
+      outline-offset: 2px;
+    }
+
     .filter-chevron {
       width: 0.45rem;
       height: 0.45rem;
