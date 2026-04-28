@@ -31,55 +31,174 @@ What makes this composition extraordinary is its grammatical architecture: each 
 
 ---
 
-## Full Lyrics
+## முழுப் பாடல் வரிகள்
 
-### Pallavi
+:::tabs
+::tab[தமிழ் எழுத்துரு]{
+::olai[ஹே ஸ்கந்த சிவகந்த ஹே கார்த்திகேயா]{
+  ::combo[font:Mukta Malar Tamil;color:#1565c0;weight:bold]{சமஸ்கிருதத்தில் முருகன் நாம சங்கீர்த்தனம்}
 
-> Hē Skanda Śivakanda Hē Kārtikēyā Svāhēya Gāṅgēya Mām Pālayā
+  ::align[center]{::combo[font:Mukta Malar Tamil;color:#006666;size:1.05em]{
+**பல்லவி**
 
-### Caraṇam 1
+ஹே ஸ்கந்த சிவகந்த ஹே கார்த்திகேயா <br>
+ஸ்வாஹேய காங்கேய மாம் பாலயா<br>
 
-> Akhilāṇḍa Kōṭīśa Ānanda Rūpā
-> Icchādi Śaktīśa Īśāna Putrā
-> Umayaika Rūpitā Ūhādi Dūrā
-> Ṛṣi Saṅgha Saṅgīta Rūkārasārā
+**சரணம் ௧**
 
-### Caraṇam 2
+அகிலாண்ட கோடீஷ ஆனந்த ரூபா<br>
+இச்சாதி சக்தீஷ ஈஷான புத்ரா<br>
+உமயைக ரூபிதா ஊஹாதி தூரா<br>
+ரிஷி சங்க சங்கீத ரூகாரசாரா<br>
 
-> Lu Prakhyasakhyā Lū Bījavashyā
-> Ēkāgralabhyā Aiśvarya Varyā
-> Ōmkāra Bhāṣā Auṣadhya Vēṣā
-> Āmbhōja Nētrā Ahahā Sugātrā
+**சரணம் ௨**
 
-### Caraṇam 3
+லு ப்ரக்யசக்யா லூ பீஜவஷ்யா<br>
+ஏகாக்ரலப்யா ஐஸ்வர்ய வர்யா<br>
+ஓம்கார பாஷா அவுஷத்ய வேஷா<br>
+ஆம்போஜ நேத்ரா அஹஹா சுகாத்ரா<br>
 
-> Kaṭibhūṣa Hastā Khadyōta Śastā
-> Gaṇarāja Sahajā Ghanasaukhya Bhāṇḍā
-> Cakrēśa Mātulā Chandōga Gānagā
-> Jaḍa Tāpa Hārin Jharghara Prakṛtē
+**சரணம் ௩**
 
-### Caraṇam 4
+கடிபூஷ ஹஸ்தா கத்யோத ஷஸ்தா<br>
+கணராஜ ஸஹஜா கனசௌக்ய பாண்டா<br>
+சக்ரேஷ மாதுலா சந்தோக கானகா<br>
+ஜட தாப ஹாரின் ஝ர்கர ப்ரக்ருதே<br>
 
-> Ḍayanādi Vāhā Ḍhakkādhvanīhā
-> Tattva Pradīpā Daśadikpratāpā
-> Dhanadādi Mitrā Nakṣatra Chatrā
-> Pazhaṇī Suvāsā Phaladāna Tōṣā
+**சரணம் ௪**
 
-### Caraṇam 5
+டயநாதி வாஹா டக்காத்வனீஹா<br>
+தத்த்வ பிரதீபா தஷதிக் பிரதாபா<br>
+தனதாதி மித்ரா நக்ஷத்ர சத்ரா<br>
+பழநீ ஸுவாசா பலதான தோஷா<br>
 
-> Bahulā Mātṛkā Bhasmāṅga Mānyā
-> Mama Saṁśaraṇyā Yajamānagaṇyā
-> Rakṣō Vidāraṇā Lalitāṅka Bhūṣaṇā
-> Vallīndra Putrikā Varamālikēśaṇā
+**சரணம் ௫**
 
-### Caraṇam 6
+பஹுலா மாத்ருகா பஸ்மாங்க மான்யா<br>
+மம சம்ஷரண்யா யஜமான கண்யா<br>
+ரக்ஷோ விதாரணா லலிதாங்க பூஷணா<br>
+வல்லீந்த்ர புத்ரிகா வரமாலிகேஷணா<br>
 
-> Śarajanma Śaṅkarā Ṣaḍvadana Bhāskarā
-> Saptarṣi Guruvarā Haṁsō Hamāntarā
-> Kṣararahita Susthirā Paraśakti Bhūṣitā
-> Sēnēśa Saccidānandātma Bhāvitā
+**சரணம் ௬**
 
----
+ஷரஜன்ம ஷங்கர ஷட்வதன பாஸ்கரா<br>
+ஸப்தர்ஷி குருவர ஹம்ஸோ ஹமாந்தரா<br>
+க்ஷரரஹித ஸுஸ்திரா பராஷக்தி பூஷிதா<br>
+ஸேநேஷ சச்சிதானந்தாத்ம பாவிதா<br>
+  }}
+
+  ::align[right]{::combo[font:Mukta Malar Tamil;color:#351C75]{ஸ்ரீ கணபதி சச்சிதானந்த சுவாமிஜி}}
+  }
+}
+
+::tab[IAST(Transliteration)]{
+::quote{
+  ::align[center]{
+    ::font[Mukta Malar Tamil]{
+**Pallavi**
+
+Hē Skanda Śivakanda Hē Kārtikēyā <br>
+Svāhēya Gāṅgēya Mām Pālayā<br>
+
+**Caraṇam 1**
+
+Akhilāṇḍa Kōṭīśa Ānanda Rūpā<br>
+Icchādi Śaktīśa Īśāna Putrā<br>
+Umayaika Rūpitā Ūhādi Dūrā<br>
+Ṛṣi Saṅgha Saṅgīta Rūkārasārā<br>
+
+**Caraṇam 2**
+
+Lu Prakhyasakhyā Lū Bījavashyā<br>
+Ēkāgralabhyā Aiśvarya Varyā<br>
+Ōmkāra Bhāṣā Auṣadhya Vēṣā<br>
+Āmbhōja Nētrā Ahahā Sugātrā<br>
+
+**Caraṇam 3**
+
+Kaṭibhūṣa Hastā Khadyōta Śastā<br>
+Gaṇarāja Sahajā Ghanasaukhya Bhāṇḍā<br>
+Cakrēśa Mātulā Chandōga Gānagā<br>
+Jaḍa Tāpa Hārin Jharghara Prakṛtē<br>
+
+**Caraṇam 4**
+
+Ḍayanādi Vāhā Ḍhakkādhvanīhā<br>
+Tattva Pradīpā Daśadikpratāpā<br>
+Dhanadādi Mitrā Nakṣatra Chatrā<br>
+Pazhaṇī Suvāsā Phaladāna Tōṣā<br>
+
+**Caraṇam 5**
+
+Bahulā Mātṛkā Bhasmāṅga Mānyā<br>
+Mama Saṁśaraṇyā Yajamānagaṇyā<br>
+Rakṣō Vidāraṇā Lalitāṅka Bhūṣaṇā<br>
+Vallīndra Putrikā Varamālikēśaṇā<br>
+
+**Caraṇam 6**
+
+Śarajanma Śaṅkarā Ṣaḍvadana Bhāskarā<br>
+Saptarṣi Guruvarā Haṁsō Hamāntarā<br>
+Kṣararahita Susthirā Paraśakti Bhūṣitā<br>
+Sēnēśa Saccidānandātma Bhāvitā<br>
+    }
+  }
+}}
+
+::tab[Devanagari]{
+::quote{
+  ::align[center]{
+    ::font[Mukta Malar Tamil]{
+**पल्लवि**
+
+हे स्कन्द शिवकन्द हे कार्तिकेया <br>
+स्वाहेय गाङ्गेय माम् पालय<br>
+
+**चरणम् १**
+
+अखिलाण्ड कोटीश आनन्द रूपा<br>
+इच्छादि शक्तीश ईशान पुत्रा<br>
+उमैक रूपिता ऊहादि दूरा<br>
+ऋषि संघ संगीत रूकारसारा<br>
+
+**चरणम् २**
+
+लु प्रख्यसख्या लू बीजवश्या<br>
+एकाग्रलभ्या ऐश्वर्य वर्या<br>
+ओंकार भाषा औषध्य वेशा<br>
+आम्भोज नेत्रा अहहा सुगात्रा<br>
+
+**चरणम् ३**
+
+कटिभूष हस्त खद्योत शस्त<br>
+गणराज सहज घनसौख्य भाण्ड<br>
+चक्रेश मातुल चन्दोग गानग<br>
+जड ताप हारिन् झर्घर प्रकृते<br>
+
+**चरणम् ४**
+
+डयनादि वाह ढक्काध्वनीह<br>
+तत्त्व प्रदीप दशदिक्प्रताप<br>
+धनदादि मित्र नक्षत्र छत्र<br>
+पझनी सुवास फलदान तोष<br>
+
+**चरणम् ५**
+
+बहुला मातृका भस्माङ्ग मान्या<br>
+मम संशरण्या यजमानगण्या<br>
+रक्षो विदारण ललिताङ्क भूषण<br>
+वल्लीन्द्र पुत्रिका वरमालिकेशन<br>
+
+**चरणम् ६**
+
+शरजन्म शङ्कर षड्वदन भास्कर<br>
+सप्तर्षि गुरु वर हंसो हमान्तर<br>
+क्षररहित सुस्थिर पराशक्ति भूषित<br>
+सेनेश सच्चिदानन्दात्म भावित<br>
+    }
+  }
+}}
+:::
 
 ## Pallavi — The Opening Invocation
 
