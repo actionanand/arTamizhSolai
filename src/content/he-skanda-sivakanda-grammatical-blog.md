@@ -13,7 +13,9 @@ tags:
   - bhakti
 author: 'ஸ்ரீ கணபதி சச்சிதானந்த சுவாமிஜி (Sri Ganapathy Sachchidananda Swamiji)'
 epicName: 'பக்திப் பாடல் / நாம சங்கீர்த்தனம் (Bhajan)'
-articleMetadata: 'இது ஸ்ரீ கணபதி சச்சிதானந்த சுவாமிஜி அவர்கள் அருளிய, சமஸ்கிருதத்தில் அமைந்த முருகப் பெருமானை மகிழ்விக்கும் இனிய நாம சங்கீர்த்தனமாகும்.'
+articleMetadata: இது ஸ்ரீ கணபதி சச்சிதானந்த சுவாமிஜி அவர்கள் அருளிய, சமஸ்கிருதத்தில் அமைந்த முருகப் பெருமானை மகிழ்விக்கும் இனிய நாம சங்கீர்த்தனமாகும். இந்தப் பாடல் சமஸ்கிருத ஒலிமாலையின் (வர்ணமாலா) கட்டமைப்பை அடிப்படையாகக் கொண்டு, பல்லவியிலிருந்து தொடங்கி ஆறு சரணங்களில் — உயிரெழுத்துகள், உடம்படுமெய்கள், மெய்யெழுத்துகள் என — முழு சமஸ்கிருத ஒலி உலகையும் வலம் வருகிறது.
+  ஒவ்வொரு திருநாமத்தின் இலக்கண விளக்கமும், ஆழமான தத்துவப் பொருளும், தமிழ் மக்களுக்காக எளிமையான தமிழ் விளக்கத்துடனும் இந்தக் கட்டுரையில் விரிவாக ஆராயப்படுகிறது.
+  பக்தி, இலக்கணம், தத்துவம் ஆகிய மூன்றையும் இணைத்து, முருகப் பெருமானின் பெருமையை உணர விரும்பும் அனைவருக்கும் இந்த ஆய்வு அர்ப்பணிக்கப்படுகிறது.
 coverImage: images/year-2026/kanda-sashti-1.webp
 toc: true
 scrollToTop: true
@@ -204,16 +206,16 @@ Sēnēśa Saccidānandātma Bhāvitā<br>
 
 **Hē Skanda Śivakanda Hē Kārtikēyā Svāhēya Gāṅgēya Mām Pālayā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **हे (Hē)** | O! (vocative particle) | Sacred call of address |
-| **स्कन्द (Skanda)** | Skanda | The one who pours forth / the leaper |
-| **शिवकन्द (Śivakanda)** = Śiva + kanda | Sprout of Śiva | Born from Śiva's seed |
-| **कार्तिकेय (Kārtikēya)** | Son of the Kṛttikās | Raised by the six Pleiades |
-| **स्वाहेय (Svāhēya)** = Svāhā + eya | Son of Svāhā | Born of Agni's consort |
-| **गाङ्गेय (Gāṅgēya)** = Gaṅgā + eya | Son of Gaṅgā | Born through the sacred river |
-| **माम् (Mām)** | Me | Accusative singular pronoun |
-| **पालय (Pālayā)** | Protect! Guard! | Causative imperative of pāl |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **हे (Hē)** | O! (vocative particle) | Sacred call of address | ஓ! / அய்யா! — அன்போடு கூப்பிடும் குரல் |
+| **स्कन्द (Skanda)** | Skanda | The one who pours forth / the leaper | ஸ்கந்தன் — வேகமாக எழுந்து தோன்றியவன்; தாவுபவன் |
+| **शिवकन्द (Śivakanda)** = Śiva + kanda | Sprout of Śiva | Born from Śiva's seed | சிவனிடம் இருந்து முளைத்தவன்; சிவனின் கிளை |
+| **कार्तिकेय (Kārtikēya)** | Son of the Kṛttikās | Raised by the six Pleiades | கார்த்திகை நட்சத்திர அன்னையர் வளர்த்தவன் |
+| **स्वाहेय (Svāhēya)** = Svāhā + eya | Son of Svāhā | Born of Agni's consort | அக்னியின் தேவி ஸ்வாஹாவிடம் பிறந்தவன் |
+| **गाङ्गेय (Gāṅgēya)** = Gaṅgā + eya | Son of Gaṅgā | Born through the sacred river | கங்கை ஆற்றின் மூலம் அவதரித்தவன் |
+| **माम् (Mām)** | Me | Accusative singular pronoun | என்னை — நான் என்னை உன்னிடம் ஒப்படைக்கிறேன் |
+| **पालय (Pālayā)** | Protect! Guard! | Causative imperative of pāl | காப்பாய்! — கட்டளை வடிவிலான மன்றாட்டு |
 
 **Grammatical Explanation:**
 
@@ -231,6 +233,11 @@ Sēnēśa Saccidānandātma Bhāvitā<br>
 
 - **माम् पालय (Mām Pālayā)** — माम् (mām, first person singular accusative — "me, myself, the one who is speaking and who stands before you") + पालय (pālaya, the imperative causative of *pāl*, "to protect, to nourish, to shepherd, to cause to be guarded"). The grammar of surrender is precise here: *mām* places the speaker's entire self before the deity as the object of protection; *pālaya* is a direct imperative — not "please consider protecting" but "protect!" — the boldness of the imperative matching the confidence of a devotee who knows Skanda answers.
 
+**தமிழ் மொழிபெயர்ப்பு:**
+ஓ ஸ்கந்தா! சிவனிடம் இருந்து தோன்றியவனே! ஓ கார்த்திகேயா! ஸ்வாஹாவின் மகனே! கங்கையின் திருமகனே! — என்னைக் காத்தருள்வாய்!
+
+> *பல்லவியில் உள்ள "மாம் பாலய" என்ற வார்த்தைகள் மிகவும் ஆழமானவை. "மாம்" என்பது "என்னை" என்று பொருள். தன்னையே முழுமையாக இறைவனிடம் ஒப்படைக்கும் பக்தியின் அழகான சமஸ்கிருத வெளிப்பாடு இது.*
+
 **English Translation:**
 O Skanda, O Sprout of Śiva! O Kārtikēya, Son of Svāhā, Son of Gaṅgā — protect me!
 
@@ -240,12 +247,12 @@ O Skanda, O Sprout of Śiva! O Kārtikēya, Son of Svāhā, Son of Gaṅgā — 
 
 **Akhilāṇḍa Kōṭīśa Ānanda Rūpā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **अखिलाण्ड (Akhilāṇḍa)** = a + khila + aṇḍa | All-encompassing universe | Beyond all gaps, all eggs of creation |
-| **कोटीश (Kōṭīśa)** = kōṭi + īśa | Lord of crores | Master of infinite multitudes |
-| **आनन्द (Ānanda)** | Bliss | The ever-full, self-complete joy |
-| **रूप (Rūpa)** | Form | Whose very form is bliss |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **अखिलाण्ड (Akhilāṇḍa)** = a + khila + aṇḍa | All-encompassing universe | Beyond all gaps, all eggs of creation | எல்லா பிரபஞ்சங்களையும் தன்னுள் கொண்டவன்; எந்த இடைவெளியும் இல்லாதவன் |
+| **कोटीश (Kōṭīśa)** = kōṭi + īśa | Lord of crores | Master of infinite multitudes | கோடி கோடி உலகங்களுக்கும் அதிபதி |
+| **आनन्द (Ānanda)** | Bliss | The ever-full, self-complete joy | ஆனந்தம் — எந்த காரணமும் இல்லாமல் நிரம்பி넘치கும் பேரின்பம் |
+| **रूप (Rūpa)** | Form | Whose very form is bliss | யாருடைய உருவமே ஆனந்தமாக உள்ளதோ அவன் |
 
 **Grammatical Explanation:**
 
@@ -259,12 +266,12 @@ O Skanda, O Sprout of Śiva! O Kārtikēya, Son of Svāhā, Son of Gaṅgā — 
 
 **Icchādi Śaktīśa Īśāna Putrā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **इच्छादि (Icchādi)** = icchā + ādi | Beginning with will | Will and all the powers that follow |
-| **शक्तीश (Śaktīśa)** = śakti + īśa | Lord of all powers | Master of divine energy |
-| **ईशान (Īśāna)** | The Ruling One | A name of Śiva as master of all directions |
-| **पुत्र (Putrā)** | Son | The beloved son |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **इच्छादि (Icchādi)** = icchā + ādi | Beginning with will | Will and all the powers that follow | விருப்பசக்தி முதலான எல்லா சக்திகளும் |
+| **शक्तीश (Śaktīśa)** = śakti + īśa | Lord of all powers | Master of divine energy | எல்லா சக்திகளுக்கும் ஈசன் |
+| **ईशान (Īśāna)** | The Ruling One | A name of Śiva as master of all directions | ஈசான் — எல்லாவற்றையும் ஆளும் சிவனின் திருப்பெயர் |
+| **पुत्र (Putrā)** | Son | The beloved son | அன்பு மகன் |
 
 **Grammatical Explanation:**
 
@@ -278,12 +285,12 @@ O Skanda, O Sprout of Śiva! O Kārtikēya, Son of Svāhā, Son of Gaṅgā — 
 
 **Umayaika Rūpitā Ūhādi Dūrā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **उमयैक (Umayaika)** = Umā + eka | Of Umā alone | The singular form of the goddess |
-| **रूपित (Rūpitā)** | Formed / Given form | The one who has been given his form by her |
-| **ऊहादि (Ūhādi)** = ūha + ādi | Beginning with inference | Beyond reasoning, conjecture, and all mental operations |
-| **दूर (Dūrā)** | Far, Beyond | Beyond the reach of the mind's instruments |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **उमयैक (Umayaika)** = Umā + eka | Of Umā alone | The singular form of the goddess | உமா தேவியால் மட்டுமே உருவாக்கப்பட்டவன் |
+| **रूपित (Rūpitā)** | Formed / Given form | The one who has been given his form by her | அவளால் உருவம் பெற்றவன் |
+| **ऊहादि (Ūhādi)** = ūha + ādi | Beginning with inference | Beyond reasoning, conjecture, and all mental operations | அனுமானம் முதலான மனதின் எல்லா கருவிகளுக்கும் அப்பாற்பட்டவன் |
+| **दूर (Dūrā)** | Far, Beyond | Beyond the reach of the mind's instruments | மனதின் எட்டாத தூரத்தில் இருப்பவன் |
 
 **Grammatical Explanation:**
 
@@ -295,11 +302,11 @@ O Skanda, O Sprout of Śiva! O Kārtikēya, Son of Svāhā, Son of Gaṅgā — 
 
 **Ṛṣi Saṅgha Saṅgīta Rūkārasārā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **ऋषि सङ्घ (Ṛṣi Saṅgha)** | Assembly of sages | The gathered community of seers |
-| **सङ्गीत (Saṅgīta)** | Sung together | Music, collective song |
-| **रू-कारसार (Rūkārasārā)** = Rū-kāra + sāra | The essence of the syllable Rū | Whose essence the sages celebrate in the sound Rū |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **ऋषि सङ्घ (Ṛṣi Saṅgha)** | Assembly of sages | The gathered community of seers | ரிஷிகளின் கூட்டம் — வேத ஞானிகளின் சங்கம் |
+| **सङ्गीत (Saṅgīta)** | Sung together | Music, collective song | ஒன்றாக இசைத்தல் — சங்கீதம் |
+| **रू-कारसार (Rūkārasārā)** = Rū-kāra + sāra | The essence of the syllable Rū | Whose essence the sages celebrate in the sound Rū | "ரூ" என்ற ஒலியிலேயே எல்லா ஞானிகளும் போற்றும் சாரம் |
 
 **Grammatical Explanation:**
 
@@ -308,6 +315,11 @@ O Skanda, O Sprout of Śiva! O Kārtikēya, Son of Svāhā, Son of Gaṅgā — 
 - **सङ्गीत (Saṅgīta)** — स (sam-, "together, com-pletely, in unison") + गीत (gīta, past passive participle of gai, "to sing" — gīta is "that which has been sung"). Saṅgīta is thus "that which has been sung together," which is the Sanskrit word for music in its fullest sense — not a solo performance but a communal, unified singing. The *saṅgha* (assembly) performs *saṅgīta* — the grammatical echo is deliberate: community and music share the same prefix *sam-* (together).
 
 - **रू-कार-सार (Rūkārasāra)** — रू-कार (Rū-kāra, "the syllable/phoneme Rū" — in Sanskrit grammatical tradition, any sound followed by *-kāra* means "the phoneme itself": a-kāra is the sound A, Rū-kāra is the sound Rū) + सार (sāra, "essence, the innermost substance, the quintessence — from sṛ, 'to flow,' sāra is what remains when everything superfluous has flowed away"). Together: "whose essential nature / quintessence is (expressed in) the syllable Rū." This is the vowel-garland closing flourish of Caraṇam 1: having traveled through A (Akhilāṇḍa), Ā (Ānanda), I (Icchādi), Ī (Īśāna), U (Umā), Ū (Ūhādi), the verse arrives at Ṛ (ṛṣi) — and names Skanda as the very sāra, the essence, of this vowel-journey.
+
+**தமிழ் மொழிபெயர்ப்பு:**
+எண்ணற்ற கோடி பிரபஞ்சங்களுக்கும் ஈசனே, ஆனந்த வடிவினனே! விருப்பசக்தி முதலான எல்லா சக்திகளுக்கும் அதிபதியே, ஈசானின் குமாரனே! உமாதேவியால் மட்டுமே உருவம் பெற்றவனே, அனுமானம் முதலான மனதின் எல்லா கருவிகளுக்கும் அப்பாற்பட்டவனே! ரிஷிகளின் கூட்டத்தால் ஒன்றாக இசைக்கப்படுபவனே, "ரூ" என்ற ஒலியில் சாரமாய் விளங்குபவனே!
+
+> *சரணம் 1 சமஸ்கிருத உயிரெழுத்துகளின் பயணமாகும் — அ, ஆ, இ, ஈ, உ, ஊ, ரு என்று ஒவ்வொரு உயிரெழுத்திலும் முருகனின் ஒரு திருப்பெயர் மலர்கிறது. இது வெறும் பாடல் அல்ல — சமஸ்கிருத ஒலிகளின் மாலை!*
 
 **English Translation:**
 Lord of infinite crores, whose very form is bliss! Lord of all powers from will onward, son of Īśāna! Given form by Umā alone, far beyond all inference! Whose essence the assembly of sages celebrates in song!
@@ -318,12 +330,12 @@ Lord of infinite crores, whose very form is bliss! Lord of all powers from will 
 
 **Lu Prakhyasakhyā Lū Bījavashyā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **ल्/लु-प्रख्य (Lu Prakhya)** | Famous in the Lu-realm | Celebrated in the zone of the syllable Lu |
-| **सख्य (Sakhyā)** | Friendship, Companionship | The friend, the companion |
-| **बीज (Bīja)** | Seed, Bija-mantra | The seed-syllable of power |
-| **वश्य (Vashyā)** | Brought under control | Attained through the seed-mantra |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **ल्/लु-प्रख्य (Lu Prakhya)** | Famous in the Lu-realm | Celebrated in the zone of the syllable Lu | "லு" என்ற ஒலி மண்டலத்தில் புகழ்பெற்றவன் |
+| **सख्य (Sakhyā)** | Friendship, Companionship | The friend, the companion | நட்பு — தோழமையுடன் இருப்பவன் |
+| **बीज (Bīja)** | Seed, Bija-mantra | The seed-syllable of power | பீஜ மந்திரம் — சக்தியின் விதை ஒலி |
+| **वश्य (Vashyā)** | Brought under control | Attained through the seed-mantra | மந்திரத்தால் அடையப்படுபவன் |
 
 **Grammatical Explanation:**
 
@@ -335,12 +347,12 @@ Lord of infinite crores, whose very form is bliss! Lord of all powers from will 
 
 **Ēkāgralabhyā Aiśvarya Varyā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **एकाग्र (Ēkāgra)** = eka + agra | One-pointed | The supreme one-pointedness of mind |
-| **लभ्य (Labhyā)** | Attainable, Obtainable | Won through concentration alone |
-| **ऐश्वर्य (Aiśvarya)** | Sovereignty, Divine Majesty | The six divine perfections |
-| **वर्य (Varyā)** | The most excellent, The chosen | The best, the supremely desirable |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **एकाग्र (Ēkāgra)** = eka + agra | One-pointed | The supreme one-pointedness of mind | ஒரு நுனி — ஒருமுகமான மனத்தால் மட்டுமே கிட்டுபவன் |
+| **लभ्य (Labhyā)** | Attainable, Obtainable | Won through concentration alone | அடையக்கூடியவன் — முயற்சியால் பெறக்கூடியவன் |
+| **ऐश्वर्य (Aiśvarya)** | Sovereignty, Divine Majesty | The six divine perfections | ஐஸ்வர்யம் — தெய்வீக அரசாட்சி, ஆறு தெய்வீக செல்வங்கள் |
+| **वर्य (Varyā)** | The most excellent, The chosen | The best, the supremely desirable | மிகவும் சிறந்தவன்; தேர்ந்தெடுக்கத் தகுந்தவன் |
 
 **Grammatical Explanation:**
 
@@ -354,10 +366,10 @@ Lord of infinite crores, whose very form is bliss! Lord of all powers from will 
 
 **Ōmkāra Bhāṣā Auṣadhya Vēṣā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **ओम्-कार-भाषा (Ōmkāra Bhāṣā)** | Whose language is Oṃkāra | He who speaks in the primordial sound |
-| **औषध्य-वेष (Auṣadhya Vēṣā)** | Dressed as / appearing as medicine | The healer, the one whose presence cures |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **ओम्-कार-भाषा (Ōmkāra Bhāṣā)** | Whose language is Oṃkāra | He who speaks in the primordial sound | ஓம்காரமே யாருடைய மொழியோ அவன் — ஆதி ஒலியில் பேசுபவன் |
+| **औषध्य-वेष (Auṣadhya Vēṣā)** | Dressed as / appearing as medicine | The healer, the one whose presence cures | மருந்தே உருவாக காட்சியளிப்பவன் — குணமளிப்பவன் |
 
 **Grammatical Explanation:**
 
@@ -369,12 +381,12 @@ Lord of infinite crores, whose very form is bliss! Lord of all powers from will 
 
 **Āmbhōja Nētrā Ahahā Sugātrā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **अम्भोज (Āmbhōja)** = ambhas + ja | Lotus | Born of water — the lotus |
-| **नेत्र (Nētrā)** | Eyes | Whose eyes are |
-| **अहह (Ahahā)** | Alas! / Oh! (exclamation of wonder) | The poet's cry of wonder |
-| **सुगात्र (Sugātrā)** = su + gātra | Beautiful-bodied | Whose body is supremely lovely |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **अम्भोज (Āmbhōja)** = ambhas + ja | Lotus | Born of water — the lotus | நீரில் பிறந்தது — தாமரை |
+| **नेत्र (Nētrā)** | Eyes | Whose eyes are | யாருடைய கண்கள் |
+| **अहह (Ahahā)** | Alas! / Oh! (exclamation of wonder) | The poet's cry of wonder | ஆச்சரியத்தின் உணர்ச்சி வெளிப்பாடு — "ஆ!" |
+| **सुगात्र (Sugātrā)** = su + gātra | Beautiful-bodied | Whose body is supremely lovely | மிகவும் அழகான திருமேனி உடையவன் |
 
 **Grammatical Explanation:**
 
@@ -383,6 +395,11 @@ Lord of infinite crores, whose very form is bliss! Lord of all powers from will 
 - **अहह (Ahahā)** — One of Sanskrit's most interesting interjections. *Ahahā* expresses wonder, astonishment, and simultaneously gentle lamentation — the "oh!" of someone overwhelmed by beauty. The poet interrupts the compound-name sequence to emit a pure exclamation: *ahahā!* — as if having described the lotus eyes, the composer could not continue in the same grammatical register. The exclamation is itself a grammatical event: language breaking down before beauty.
 
 - **सुगात्र (Sugātrā)** — सु (su-, "good, well, supremely" — the Sanskrit prefix of excellence and auspiciousness, the opposite of dus-) + गात्र (gātra, "limb, body, the body considered as an assemblage of beautiful parts" — from gā, "to go, to move" — the body as the instrument of divine movement). Together: "the one whose body / limbs are supremely beautiful." After the intimate exclamation of *ahahā*, the verse closes with this compound — beauty acknowledged, named, and celebrated.
+
+**தமிழ் மொழிபெயர்ப்பு:**
+புகழ்மிக்க தோழனே, பீஜ மந்திரத்தால் அடையப்படுபவனே! ஒரு நுனி மனதால் கிட்டுபவனே, தலைசிறந்த ஐஸ்வர்யமுடையவனே! ஓம்காரமே மொழியாகக் கொண்டவனே, மருந்தே உருவான குணமளிப்பவனே! தாமரைக் கண்களுடையவனே — ஆ! — மிகவும் அழகான திருமேனியுடையவனே!
+
+> *பழனியில் முருகனின் திருவுடல் ஔஷத திரவியங்களால் ஆனது என்று சொல்வர். அதனால் "ஔஷத்யவேஷா" என்ற திருப்பெயர் தமிழ் பக்தர்களுக்கு மிகவும் அன்பானது.*
 
 **English Translation:**
 Renowned as a companion, won through the seed-syllable! Attained by the one-pointed mind, the most excellent sovereign! Whose speech is Oṃ, whose form is the healer's medicine! Whose eyes are lotuses — oh! — whose body is supremely beautiful!
@@ -393,12 +410,12 @@ Renowned as a companion, won through the seed-syllable! Attained by the one-poin
 
 **Kaṭibhūṣa Hastā Khadyōta Śastā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **कटि-भूष (Kaṭibhūṣa)** = kaṭi + bhūṣa | Hip-ornament | Adorned at the waist |
-| **हस्त (Hastā)** | Hand | In whose hands / by whose hand |
-| **खद्योत (Khadyōta)** | Lightning-bolt / Firefly | The brilliant one, the illuminator |
-| **शस्त (Śastā)** | Praised, Well-spoken-of | The one who is renowned, lauded |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **कटि-भूष (Kaṭibhūṣa)** = kaṭi + bhūṣa | Hip-ornament | Adorned at the waist | இடுப்பில் அணிகலன் அணிந்தவன் |
+| **हस्त (Hastā)** | Hand | In whose hands / by whose hand | யாருடைய கரங்கள் |
+| **खद्योत (Khadyōta)** | Lightning-bolt / Firefly | The brilliant one, the illuminator | ஆகாயத்தில் ஒளிர்பவன் — மின்னல் போல் அல்லது மின்மினி போல் |
+| **शस्त (Śastā)** | Praised, Well-spoken-of | The one who is renowned, lauded | புகழ்பெற்றவன்; போற்றப்படுபவன் |
 
 **Grammatical Explanation:**
 
@@ -410,12 +427,12 @@ Renowned as a companion, won through the seed-syllable! Attained by the one-poin
 
 **Gaṇarāja Sahajā Ghanasaukhya Bhāṇḍā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **गणराज (Gaṇarāja)** = gaṇa + rāja | King of the Gaṇas | Lord of Śiva's divine attendants |
-| **सहज (Sahajā)** | Born-together, Natural | The one born alongside / his natural companion |
-| **घन-सौख्य (Ghanasaukhya)** = ghana + saukhya | Dense/Intense happiness | Thick, concentrated, abundant joy |
-| **भाण्ड (Bhāṇḍā)** | Vessel, Treasure-store | The treasure-house / the vessel |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **गणराज (Gaṇarāja)** = gaṇa + rāja | King of the Gaṇas | Lord of Śiva's divine attendants | சிவகணங்களின் அரசன் |
+| **सहज (Sahajā)** | Born-together, Natural | The one born alongside / his natural companion | இயல்பிலேயே; பிறவியிலேயே அப்படிப்பட்டவன் |
+| **घन-सौख्य (Ghanasaukhya)** = ghana + saukhya | Dense/Intense happiness | Thick, concentrated, abundant joy | செறிவான, நிறைந்த மகிழ்ச்சியின் கருவூலம் |
+| **भाण्ड (Bhāṇḍā)** | Vessel, Treasure-store | The treasure-house / the vessel | கருவூலம்; கலம் |
 
 **Grammatical Explanation:**
 
@@ -427,12 +444,12 @@ Renowned as a companion, won through the seed-syllable! Attained by the one-poin
 
 **Cakrēśa Mātulā Chandōga Gānagā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **चक्रेश (Cakrēśa)** = cakra + īśa | Lord of the Wheel/Cycle | Master of the wheel of time and cosmos |
-| **मातुल (Mātulā)** | Uncle (maternal) | The beloved uncle — Viṣṇu's nephew |
-| **छन्दोग (Chandōga)** | Singer of the Chandas | He who sings the Vedic metres |
-| **गानग (Gānagā)** | Going in song / Moving as music | The one who moves as music |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **चक्रेश (Cakrēśa)** = cakra + īśa | Lord of the Wheel/Cycle | Master of the wheel of time and cosmos | சக்கரத்தின் — காலச் சக்கரத்தின் அதிபதி |
+| **मातुल (Mātulā)** | Uncle (maternal) | The beloved uncle — Viṣṇu's nephew | அன்னை வழி மாமா — விஷ்ணுவின் மருமகன் |
+| **छन्दोग (Chandōga)** | Singer of the Chandas | He who sings the Vedic metres | வேத சந்தங்களில் பாடுபவன் |
+| **गानग (Gānagā)** | Going in song / Moving as music | The one who moves as music | இசையாகவே நடமாடுபவன் |
 
 **Grammatical Explanation:**
 
@@ -446,18 +463,23 @@ Renowned as a companion, won through the seed-syllable! Attained by the one-poin
 
 **Jaḍa Tāpa Hārin Jharghara Prakṛtē**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **जड (Jaḍa)** | Inert, Dull, Unawakened | The spiritually torpid state |
-| **ताप (Tāpa)** | Heat, Suffering, Affliction | The threefold suffering of existence |
-| **हारिन् (Hārin)** | Remover, Destroyer | The one who takes away |
-| **झर्घर-प्रकृति (Jharghara Prakṛtē)** | Of the nature of flowing/cascading | Whose nature is like a waterfall |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **जड (Jaḍa)** | Inert, Dull, Unawakened | The spiritually torpid state | சோம்பல்; ஆன்மீக மழுங்கல் நிலை |
+| **ताप (Tāpa)** | Heat, Suffering, Affliction | The threefold suffering of existence | துன்பம்; மூவகை வேதனை |
+| **हारिन् (Hārin)** | Remover, Destroyer | The one who takes away | நீக்குபவன்; அகற்றுபவன் |
+| **झर्घर-प्रकृति (Jharghara Prakṛtē)** | Of the nature of flowing/cascading | Whose nature is like a waterfall | அருவி போல் அலைக்கழியும் இயல்புடையவன் — இடைவிடாமல் அருள் பொழிபவன் |
 
 **Grammatical Explanation:**
 
 - **जड-ताप-हारिन् (Jaḍa Tāpa Hārin)** — जड (jaḍa, "inert, dull, cold, unawakened — jaḍa is matter without consciousness, and by extension, the spiritual dullness that makes a person unable to perceive the divine") + ताप (tāpa, "heat — but specifically the suffering caused by the three afflictions: ādhyātmika [from within the self], ādhibhautika [from other beings], and ādhidaivika [from supernatural causes]") + हारिन् (hārin, "the remover, the one who takes away and bears off — from hṛ, 'to take, to seize, to remove, to carry away'"). Together: "the one who removes the inertia and suffering." As one divine name compounds, *jaḍa-tāpa-hārin* names precisely the devotee's predicament (spiritual dullness and suffering) and Skanda's function: he takes both away.
 
 - **झर्घर-प्रकृति (Jharghara Prakṛtē)** — झर्झर (jharjhara, an onomatopoeic word suggesting "flowing, falling, cascading" — the sound and motion of a waterfall, a fast-flowing stream; jhara means "a cascade, a waterfall" and jharjhara intensifies and redoubles it) + प्रकृति (prakṛti, "nature, essential character, the primordial substance — from pra + kṛ, 'the original making,' the foundational nature of a thing"). Together: "whose nature is [like] a cascading waterfall." The image is kinetic and purifying: a waterfall's nature is to flow without ceasing, to cleanse whatever it touches, to bring the high water to the parched earth below. Skanda's *prakṛti* is that of the waterfall — ceaselessly flowing grace.
+
+**தமிழ் மொழிபெயர்ப்பு:**
+இடுப்பில் அணிகலன் அணிந்தவனே, ஒளிரும் கரங்களுடையவனே! சிவகணங்களுக்கு இயல்பிலேயே அரசனே, மகிழ்ச்சியின் கருவூலமே! சக்கர நாயகனே, அன்னை வழி மாமன் விஷ்ணுவின் மருமகனே, வேத சந்தங்கள் பாடுபவனே, இசையாகவே நடமாடுபவனே! மழுங்கல் நிலையையும் துன்பங்களையும் நீக்குபவனே, அருவியைப் போல் இடைவிடாமல் அருள் பொழிபவனே!
+
+> *"ஜட தாப ஹாரின்" என்பது தமிழ் மக்களின் இதயத்தை நேரடியாக தொடும் திருப்பெயர். ஆன்மீக மழுங்கல் (ஜடம்) மற்றும் வாழ்க்கை துன்பங்கள் (தாபம்) — இரண்டையும் முருகன் நீக்குவான் என்ற உறுதியான நம்பிக்கை இதில் ஒளிர்கிறது.*
 
 **English Translation:**
 Adorned at the hip with hands ready, the brilliant illuminator! Born-king of the Gaṇas, treasure-vessel of dense joy! Lord of the wheel, nephew of Viṣṇu, singer of Vedic metres, moving as music! Remover of dullness and suffering, whose nature is a cascading waterfall!
@@ -468,12 +490,12 @@ Adorned at the hip with hands ready, the brilliant illuminator! Born-king of the
 
 **Ḍayanādi Vāhā Ḍhakkādhvanīhā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **डयन (Ḍayana)** | Flying, Soaring | The one who causes flight |
-| **आदि-वाह (Ādi Vāhā)** | Primordial carrier / vehicle | The first and foremost vehicle |
-| **ढक्का-ध्वनि (Ḍhakkā Dhvani)** | Sound of the war-drum | The resonance of the Ḍhakkā drum |
-| **हा (Hā)** | Resonant with | The one who is filled with |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **डयन (Ḍayana)** | Flying, Soaring | The one who causes flight | பறப்பவன்; ஆகாயத்தில் விரைவாகச் செல்பவன் |
+| **आदि-वाह (Ādi Vāhā)** | Primordial carrier / vehicle | The first and foremost vehicle | ஆதிவாகனம் — முதல்தரமான வாகனம் (மயில்) |
+| **ढक्का-ध्वनि (Ḍhakkā Dhvani)** | Sound of the war-drum | The resonance of the Ḍhakkā drum | போர் முரசின் ஒலி |
+| **हा (Hā)** | Resonant with | The one who is filled with | நிரம்பியவன்; ஒலியால் நிறைந்தவன் |
 
 **Grammatical Explanation:**
 
@@ -485,12 +507,12 @@ Adorned at the hip with hands ready, the brilliant illuminator! Born-king of the
 
 **Tattva Pradīpā Daśadikpratāpā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **तत्त्व (Tattva)** | Truth, Principle | The essential reality |
-| **प्रदीप (Pradīpa)** | Lamp, Light | The illuminating lamp |
-| **दशदिक् (Daśadik)** = daśa + dik | Ten directions | All of space, every direction |
-| **प्रताप (Pratāpa)** | Radiant power, Majesty | Blazing glory |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **तत्त्व (Tattva)** | Truth, Principle | The essential reality | தத்துவம் — உண்மையின் அடிப்படை நிலை |
+| **प्रदीप (Pradīpa)** | Lamp, Light | The illuminating lamp | விளக்கு — தத்துவங்களை ஒளிரச் செய்யும் விளக்கு |
+| **दशदिक् (Daśadik)** = daśa + dik | Ten directions | All of space, every direction | பத்து திசைகளும் — எல்லா இடங்களும் |
+| **प्रताप (Pratāpa)** | Radiant power, Majesty | Blazing glory | பிரதாபம் — எல்லா திசையிலும் ஒளிரும் மாட்சி |
 
 **Grammatical Explanation:**
 
@@ -502,12 +524,12 @@ Adorned at the hip with hands ready, the brilliant illuminator! Born-king of the
 
 **Dhanadādi Mitrā Nakṣatra Chatrā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **धनद (Dhanada)** | Giver of wealth | Kubera the wealth-god |
-| **आदि-मित्र (Ādi Mitrā)** | Friend of the primordial ones | Companion of the cosmic rulers |
-| **नक्षत्र (Nakṣatra)** | Stars, Lunar mansions | The twenty-seven lunar mansions |
-| **छत्र (Chatrā)** | Umbrella, Canopy | The royal canopy — sovereignty |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **धनद (Dhanada)** | Giver of wealth | Kubera the wealth-god | செல்வம் கொடுப்பவன் — குபேரன் |
+| **आदि-मित्र (Ādi Mitrā)** | Friend of the primordial ones | Companion of the cosmic rulers | பிரபஞ்ச அரசர்களின் தோழன் |
+| **नक्षत्र (Nakṣatra)** | Stars, Lunar mansions | The twenty-seven lunar mansions | நட்சத்திரங்கள் — 27 சந்திர நட்சத்திரங்கள் |
+| **छत्र (Chatrā)** | Umbrella, Canopy | The royal canopy — sovereignty | குடை — அரச குடை; நட்சத்திரங்களே குடையாக |
 
 **Grammatical Explanation:**
 
@@ -519,18 +541,23 @@ Adorned at the hip with hands ready, the brilliant illuminator! Born-king of the
 
 **Pazhaṇī Suvāsā Phaladāna Tōṣā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **पழ்நி / Pazhaṇī** | Pazhani (Tamil) | The sacred hill-temple of Tamil Nadu |
-| **सुवास (Suvāsā)** = su + vāsa | Dwelling beautifully | The one who dwells beautifully |
-| **फलदान (Phaladāna)** = phala + dāna | Giving of fruits/rewards | The bestower of results |
-| **तोष (Tōṣā)** | Delight, Satisfaction | One who delights in giving |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **பழ்நி / Pazhaṇī** | Pazhani (Tamil) | The sacred hill-temple of Tamil Nadu | பழனி — தமிழகத்தின் திருத்தலம்; ஆறுபடை வீடுகளில் ஒன்று |
+| **सुवास (Suvāsā)** = su + vāsa | Dwelling beautifully | The one who dwells beautifully | பழனியில் அழகாக வாழ்பவன் |
+| **फलदान (Phaladāna)** = phala + dāna | Giving of fruits/rewards | The bestower of results | பலன் கொடுப்பவன் — வேண்டியதை தருபவன் |
+| **तोष (Tōṣā)** | Delight, Satisfaction | One who delights in giving | கொடுப்பதில் மகிழ்ச்சி கொள்பவன் |
 
 **Grammatical Explanation:**
 
 - **पळणी-सुवास (Pazhaṇī Suvāsā)** — Pazhaṇī (the Tamil name for the famous Murugan temple hill in the Dindigul district of Tamil Nadu — one of the six *Āṟupadai Vīṭu* [six abodes of Murugan], the Pazhani Dhandayuthapani temple where the deity appears as a young ascetic) + सुवास (su-vāsa, "beautiful dwelling — su, 'well, beautifully' + vāsa, from vas, 'to dwell, to inhabit, to make one's home'"). Together: "the one who dwells beautifully at Pazhani." This is the hymn's most geographically anchored name — like Guruvāyurpate in the Krishna hymn, it grounds the cosmic deity in a specific, accessible, beloved place. Any devotee who has climbed the Pazhani hill knows that *suvāsa* is exactly right — his presence there is beautiful, gracious, welcoming.
 
 - **फल-दान-तोष (Phaladāna Tōṣā)** — फल (phala, "fruit — but in philosophical and devotional usage, the fruits of one's actions, the results of effort, the rewards of worship and practice") + दान (dāna, "the act of giving, gifting, generous bestowal") + तोष (toṣa, "satisfaction, delight, the inner pleasure of one who has given well — from tuṣ, 'to be satisfied, to be pleased'"). Together: "the one who delights in the giving of fruits/rewards." He is not a reluctant granter of boons but one who is *toṣa* — actively, genuinely delighted — when he bestows results upon devotees. The giving is his pleasure, not merely his duty.
+
+**தமிழ் மொழிபெயர்ப்பு:**
+பறக்கும் வாகனத்தின் (மயில்) நாயகனே, போர் முரசின் ஒலியால் நிறைந்தவனே! உண்மைகளை ஒளிரச் செய்யும் விளக்கே, பத்து திசைகளிலும் மாட்சி ஒளிரும் பெருமை படைத்தவனே! குபேரன் முதலான பிரபஞ்ச நாயகர்களின் தோழனே, நட்சத்திரங்களே குடையாக கவிழ்ந்திருக்கும் மன்னனே! பழனியில் அழகாக வாழும் பெருமானே, பக்தர்களுக்கு பலன் கொடுப்பதில் மகிழ்ச்சி கொள்பவனே!
+
+> *"பழனி சுவாஸா" என்ற திருப்பெயர் தமிழகத்தை நேரடியாக இந்தப் பாடலில் இணைக்கிறது. பழனி மலையில் வீற்றிருக்கும் தண்டாயுதபாணியை "அழகாக வாழ்பவன்" என்று அழைப்பது — எத்தனை மென்மையான, நேசமான வர்ணனை!*
 
 **English Translation:**
 The flying vehicle's lord, resonant with war-drum sound! The lamp of truth, whose majesty fills all ten directions! Friend of Kubera and the cosmic lords, with the stars as his canopy! Beautifully dwelling at Pazhani, delighting in the bestowal of rewards!
@@ -541,12 +568,12 @@ The flying vehicle's lord, resonant with war-drum sound! The lamp of truth, whos
 
 **Bahulā Mātṛkā Bhasmāṅga Mānyā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **बहुला (Bahulā)** | Many-sided, Abundant | The many-faced / multi-dimensional one |
-| **मातृका (Mātṛkā)** | Of the divine mothers | Son of the Mātṛkās |
-| **भस्माङ्ग (Bhasmāṅga)** = bhasma + aṅga | Ash-bodied | Adorned with sacred ash |
-| **मान्य (Mānyā)** | Honoured, Worthy of worship | The supremely venerable |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **बहुला (Bahulā)** | Many-sided, Abundant | The many-faced / multi-dimensional one | பலவிதமான; பல்வேறு தாய்மார்களுடையவன் |
+| **मातृका (Mātṛkā)** | Of the divine mothers | Son of the Mātṛkās | தெய்வீக அன்னையர்களின் மகன் |
+| **भस्माङ्ग (Bhasmāṅga)** = bhasma + aṅga | Ash-bodied | Adorned with sacred ash | திருவெண்ணீறு (விபூதி) பூசிய திருமேனி உடையவன் |
+| **मान्य (Mānyā)** | Honoured, Worthy of worship | The supremely venerable | மிகவும் போற்றுதலுக்கு உரியவன் |
 
 **Grammatical Explanation:**
 
@@ -558,12 +585,12 @@ The flying vehicle's lord, resonant with war-drum sound! The lamp of truth, whos
 
 **Mama Saṁśaraṇyā Yajamānagaṇyā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **मम (Mama)** | My | The devotee's personal possessive |
-| **संशरण्य (Saṁśaraṇyā)** | Worthy of total refuge | The one most fit to take shelter in |
-| **यजमान (Yajamāna)** | The sacrificer, The worshipper | The one who performs the yajña |
-| **गण्य (Gaṇyā)** | Counted, Reckoned | Reckoned among, esteemed by |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **मम (Mama)** | My | The devotee's personal possessive | என்னுடையவன் — பக்தனின் அன்பான உரிமைக் குரல் |
+| **संशरण्य (Saṁśaraṇyā)** | Worthy of total refuge | The one most fit to take shelter in | முழுமையாக சரண் புகுவதற்கு தகுந்தவன் |
+| **यजमान (Yajamāna)** | The sacrificer, The worshipper | The one who performs the yajña | யாகம் செய்பவர்கள்; வழிபடுபவர்கள் |
+| **गण्य (Gaṇyā)** | Counted, Reckoned | Reckoned among, esteemed by | கணக்கிடப்படுபவன்; மதிக்கப்படுபவன் |
 
 **Grammatical Explanation:**
 
@@ -575,12 +602,12 @@ The flying vehicle's lord, resonant with war-drum sound! The lamp of truth, whos
 
 **Rakṣō Vidāraṇā Lalitāṅka Bhūṣaṇā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **राक्षस (Rakṣō)** | Demon, Night-roamer | The forces of darkness |
-| **विदारण (Vidāraṇā)** | Tearer apart, Destroyer | The one who rips asunder |
-| **ललितांक (Lalitāṅka)** = lalita + aṅka | Graceful-limbed | Whose limbs move with grace |
-| **भूषण (Bhūṣaṇā)** | Ornament, Jewel | An ornament to the cosmos |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **राक्षस (Rakṣō)** | Demon, Night-roamer | The forces of darkness | இராக்கதர்கள் — இருளின் சக்திகள் |
+| **विदारण (Vidāraṇā)** | Tearer apart, Destroyer | The one who rips asunder | தீயவற்றை கிழித்தெறிபவன் |
+| **ललितांक (Lalitāṅka)** = lalita + aṅka | Graceful-limbed | Whose limbs move with grace | மென்மையான, நளினமான திருமேனியுடையவன் |
+| **भूषण (Bhūṣaṇā)** | Ornament, Jewel | An ornament to the cosmos | பிரபஞ்சத்திற்கே ஆபரணமாய் திகழ்பவன் |
 
 **Grammatical Explanation:**
 
@@ -592,19 +619,24 @@ The flying vehicle's lord, resonant with war-drum sound! The lamp of truth, whos
 
 **Vallīndra Putrikā Varamālikēśaṇā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **वल्ली (Vallī)** | Valli | The divine consort of Skanda |
-| **इन्द्र (Indra)** | Lord | The chief, the king |
-| **पुत्रिका (Putrikā)** | Daughter | The beloved daughter |
-| **वरमालिका (Varamālikā)** | Victory garland | The garland of the chosen one |
-| **ईशन (Īśana)** | The ruling one | Chosen by / ruling over |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **वल्ली (Vallī)** | Valli | The divine consort of Skanda | வள்ளி — முருகனின் திருமணமகள்; தமிழ்ப் பெண்மணி |
+| **इन्द्र (Indra)** | Lord | The chief, the king | தலைவன்; அரசன் |
+| **पुत्रिका (Putrikā)** | Daughter | The beloved daughter | செல்வமகள்; அன்பு புதல்வி |
+| **वरमालिका (Varamālikā)** | Victory garland | The garland of the chosen one | தேர்ந்தெடுக்கப்பட்டவன் அணியும் மாலை — வரமாலை |
+| **ईशन (Īśana)** | The ruling one | Chosen by / ruling over | ஆள்பவன்; தேர்ந்தெடுக்கப்பட்டவன் |
 
 **Grammatical Explanation:**
 
 - **वल्ली-इन्द्र-पुत्रिका (Vallīndra Putrikā)** — वल्ली (Vallī, the name of Skanda's beloved consort — Valli is the daughter of a mountain-tribe chieftain in Tamil mythology, the human girl whom Murugan/Skanda wooed in the beautiful love story celebrated in Arunagirinathar's *Tiruppugazh*) + इन्द्र (indra, "lord, chief — from ind, 'the highest, the powerful'") + पुत्रिका (putrikā, "daughter — from putra, 'child' + the feminine suffix + kā, the affectionate diminutive: 'dear daughter'"). Together: "the dear daughter of Valli's father/lord" — i.e., Valli as the beloved daughter of her tribal chief-father. The name honors Valli herself by naming Skanda in relation to her: he is the one who loves and chose this daughter.
 
 - **वरमालिका-ईशन (Varamālikēśaṇā)** — वर (vara, "the chosen one, the excellent one — also 'boon, blessing' — vara is what a devotee asks for from a deity") + माला (mālā, "garland, a string of flowers or beads — the *varamāla* is the garland a bride places around the groom she has chosen at the svayaṃvara ceremony, marking her choice") + ईशन (īśana, "the ruling, the directing, the one who is lord of"). Together: "the lord over/chosen by the victory-garland." Skanda is the one on whom the varamālā has been placed — chosen by Valli (and by Devasenā), the deity who was himself *chosen* by his divine consorts. The garland of choice adorns him.
+
+**தமிழ் மொழிபெயர்ப்பு:**
+பல்வேறு தெய்வீக தாய்மார்களுடையவனே, திருவெண்ணீறு அணிந்தவனே, போற்றுதலுக்கு உரியவனே! என்னுடைய முழு சரணாகதிக்கு தகுந்தவனே, வழிபாட்டாளர்களால் மதிக்கப்படுபவனே! இராக்கதர்களை கிழித்தெறிபவனே, நளினமான திருமேனியுடையவனே, பிரபஞ்சத்திற்கே ஆபரணமே! வள்ளியின் தந்தையின் செல்வமகளை மணந்தவனே, வரமாலை சூடியவனே!
+
+> *"மம சம்சரண்யா" என்பது இந்தப் பாடலின் மிகவும் நெகிழ்ச்சியான வரி. "மம" என்றால் "என்னுடையவன்". தன் இறைவனை "என்னுடையவன்" என்று கோருவது — இது வெறும் பக்தி மட்டுமல்ல, ஆழமான அன்பின் வெளிப்பாடு.*
 
 **English Translation:**
 The many-sided one of the divine mothers, adorned with sacred ash, supremely venerable! My most worthy refuge, esteemed by the worshippers! Destroyer of demons, graceful-limbed, himself an ornament! Lord of the dear daughter Valli, upon whom rests the garland of choice!
@@ -615,12 +647,12 @@ The many-sided one of the divine mothers, adorned with sacred ash, supremely ven
 
 **Śarajanma Śaṅkarā Ṣaḍvadana Bhāskarā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **शर-जन्म (Śarajanma)** = śara + janma | Born in the reeds | The one whose birth was in the sharavana |
-| **शंकर (Śaṅkarā)** | Auspiciousness-maker | He who creates auspiciousness — Śiva's quality |
-| **षड्वदन (Ṣaḍvadana)** = ṣaḍ + vadana | Six-faced | The one with six divine faces |
-| **भास्कर (Bhāskarā)** | Sun, Light-maker | The one who makes/manifests light |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **शर-जन्म (Śarajanma)** = śara + janma | Born in the reeds | The one whose birth was in the sharavana | சரவணப் பொய்கையில் (நாணல் காட்டில்) பிறந்தவன் |
+| **शंकर (Śaṅkarā)** | Auspiciousness-maker | He who creates auspiciousness — Śiva's quality | மங்களம் செய்பவன் — சிவனின் குணம் |
+| **षड्वदन (Ṣaḍvadana)** = ṣaḍ + vadana | Six-faced | The one with six divine faces | ஆறு திருமுகங்கள் உடையவன் — ஷண்முகன் |
+| **भास्कर (Bhāskarā)** | Sun, Light-maker | The one who makes/manifests light | ஒளி செய்பவன்; பாஸ்கரன் — சூரியன் போன்றவன் |
 
 **Grammatical Explanation:**
 
@@ -634,12 +666,12 @@ The many-sided one of the divine mothers, adorned with sacred ash, supremely ven
 
 **Saptarṣi Guruvarā Haṁsō Hamāntarā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **सप्तर्षि (Saptarṣi)** = sapta + ṛṣi | Seven Sages | The seven great seers of the Vedas |
-| **गुरुवर (Guruvarā)** = guru + vara | The excellent teacher | The best / chosen guru |
-| **हंस (Haṁsā)** | Swan, Haṁsa | The swan — and the Haṁsa mantra |
-| **हम् अन्तर (Hamāntarā)** = ham + antara | Within the "Ham" / Within all | Dwelling as "Ham" — within every breath |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **सप्तर्षि (Saptarṣi)** = sapta + ṛṣi | Seven Sages | The seven great seers of the Vedas | சப்தரிஷிகள் — ஏழு பெரிய வேத ஞானிகள் |
+| **गुरुवर (Guruvarā)** = guru + vara | The excellent teacher | The best / chosen guru | ஞானிகளுக்கெல்லாம் குருவான மகாகுரு |
+| **हंस (Haṁsā)** | Swan, Haṁsa | The swan — and the Haṁsa mantra | அன்னப் பறவை; "ஹம்ஸ" மந்திரம் — மூச்சின் ஒலி |
+| **हम् अन्तर (Hamāntarā)** = ham + antara | Within the "Ham" / Within all | Dwelling as "Ham" — within every breath | "ஹம்" என்ற மூச்சொலியில் உள்ளே வாழ்பவன் |
 
 **Grammatical Explanation:**
 
@@ -653,12 +685,12 @@ The many-sided one of the divine mothers, adorned with sacred ash, supremely ven
 
 **Kṣararahita Susthirā Paraśakti Bhūṣitā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **क्षर-रहित (Kṣararahita)** = kṣara + rahita | Without diminishment | The imperishable, the undecaying |
-| **सुस्थिर (Susthirā)** = su + sthira | Perfectly stable | Supremely, completely steady |
-| **पर-शक्ति (Paraśakti)** | Supreme Power | The transcendent divine energy |
-| **भूषित (Bhūṣitā)** | Adorned | Adorned by / wearing |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **क्षर-रहित (Kṣararahita)** = kṣara + rahita | Without diminishment | The imperishable, the undecaying | அழியாதவன்; குறையாதவன் — அக்ஷரம் |
+| **सुस्थिर (Susthirā)** = su + sthira | Perfectly stable | Supremely, completely steady | மிகவும் உறுதியானவன்; அசைவற்றவன் |
+| **पर-शक्ति (Paraśakti)** | Supreme Power | The transcendent divine energy | பரசக்தி — உயர்ந்த தெய்வீக ஆற்றல் |
+| **भूषित (Bhūṣitā)** | Adorned | Adorned by / wearing | அணிந்தவன்; பரசக்தியை ஆபரணமாக அணிந்தவன் |
 
 **Grammatical Explanation:**
 
@@ -672,12 +704,12 @@ The many-sided one of the divine mothers, adorned with sacred ash, supremely ven
 
 **Sēnēśa Saccidānandātma Bhāvitā**
 
-| Sanskrit | English | Meaning |
-|----------|---------|---------|
-| **सेनेश (Sēnēśa)** = senā + īśa | Lord of the divine army | The commander of the celestial hosts |
-| **सच्चिदानन्द (Saccidānanda)** = sat + cit + ānanda | Being-Consciousness-Bliss | The threefold nature of Brahman |
-| **आत्म (Ātma)** | Self, Soul | Whose very self is |
-| **भावित (Bhāvitā)** | Contemplated, Cultivated, Pervaded | Pervaded by / realized as |
+| Sanskrit | English | Meaning | Tamil (தமிழ் பொருள்) |
+|----------|---------|---------|----------------------|
+| **सेनेश (Sēnēśa)** = senā + īśa | Lord of the divine army | The commander of the celestial hosts | தேவ சேனைகளின் தளபதி; சேனாதிபதி |
+| **सच्चिदानन्द (Saccidānanda)** = sat + cit + ānanda | Being-Consciousness-Bliss | The threefold nature of Brahman | சத்-சித்-ஆனந்தம் — உள்ளது, அறிவது, ஆனந்தம் — பரம்பொருளின் மூன்று இயல்புகள் |
+| **आत्म (Ātma)** | Self, Soul | Whose very self is | யாருடைய ஆத்மாவே |
+| **भावित (Bhāvitā)** | Contemplated, Cultivated, Pervaded | Pervaded by / realized as | தியானத்தால் முற்றிலும் நிறைவுற்றது; ஊறிப்போனது |
 
 **Grammatical Explanation:**
 
@@ -687,8 +719,21 @@ The many-sided one of the divine mothers, adorned with sacred ash, supremely ven
 
 - **भावित (Bhāvitā)** — From bhū (to become, to exist) with the causative and passive: bhāvita means "caused to become, cultivated, pervaded, soaked through — the way a cloth is bhāvita [soaked] by a fragrance, or a mind is bhāvita [permeated] by a thought through repeated contemplation." The devotee who contemplates Skanda as Saccidānandātma becomes *bhāvita* — soaked through with that understanding. The composer Sri Sri Sri Ganapathi Sachidananda Swamy places *bhāvita* last of all — the final word of the hymn is the process of meditation, of becoming permeated. It is a closing instruction: contemplate him thus, until you are bhāvita.
 
+**தமிழ் மொழிபெயர்ப்பு:**
+சரவணப் பொய்கையில் பிறந்தவனே, மங்களம் செய்பவனே, ஆறு திருமுகங்கள் உடையவனே, ஒளி செய்பவனே! சப்தரிஷிகளுக்கும் குருவானவனே, அன்னமே, ஒவ்வொரு மூச்சிலும் உள்ளே வாழ்பவனே! அழியாதவனே, உறுதியில் சிறந்தவனே, பரசக்தியை ஆபரணமாய் அணிந்தவனே! சேனாதிபதியே, யாருடைய ஆத்மாவே சத்-சித்-ஆனந்தமோ — அவனில் என் உள்ளம் ஊறட்டும்!
+
+> *இந்தச் சரணத்தின் இறுதி வரியான "சேனேச சச்சிதானந்தாத்ம பாவிதா" என்பது பாடலின் உச்சகட்டம். இதில் "சச்சிதானந்த" என்பது அருளிய சுவாமிஜியின் திருப்பெயரும் ஆகும். ஆக, இந்த இறுதி வரியில் கவிஞரும் கடவுளும் ஒன்றாகி விடுகிறார்கள் — இதுவே பக்தியின் பரமோச்ச நிலை.*
+
 **English Translation:**
 Born in the reeds, the auspiciousness-maker, the six-faced illuminator! Guru of the seven sages, the Haṁsa, dwelling within every breath! The imperishable, supremely stable, adorned by the supreme power! Lord of the divine army, whose very self is Being-Consciousness-Bliss — may I be pervaded by this!
+
+---
+
+## முடிவுரை — கவிஞரின் கையொப்பமும் தரிசனமும்
+
+இறுதி வரியான **சேனேச சச்சிதானந்தாத்ம பாவிதா** — இது முருகனை விவரிக்கிறது மட்டுமல்ல; இதில் **சச்சிதானந்த** என்பது அருளிய **ஸ்ரீ கணபதி சச்சிதானந்த சுவாமிஜி** அவர்களின் திருப்பெயரே. கவிஞரின் பெயர் இறைவனில் கரைந்து போகிறது — "சச்சிதானந்தாத்ம" என்று முருகனைப் பற்றி சொல்லும்போதே, கவிஞரும் அந்த ஆனந்தத்தில் லயிக்கிறார். பாடியவரும் பாடப்பட்டவரும் ஒன்றாகி விடும் இந்த "பாவிதா" நிலையே — பக்தியின் இறுதி இலக்கு.
+
+> 🌺 *தமிழ் மக்களே — இந்தப் பாடல் சமஸ்கிருதத்தில் அமைந்திருந்தாலும், இது தமிழகத்தின் முருகனைப் பற்றியது. பழனி, கார்த்திகை நட்சத்திரம், வள்ளி — இவை எல்லாம் நம் தமிழ் பாரம்பரியத்தின் இதயம். இந்த ஆய்வை படிக்கும்போது, ஒவ்வொரு திருப்பெயரின் பின்னாலும் ஒரு தத்துவம் ஒளிர்கிறது என்பதை உணர்வீர்கள்.*
 
 ---
 
@@ -702,20 +747,20 @@ The final line — **Sēnēśa Saccidānandātma Bhāvitā** — is not only a d
 
 One of this stotra's most architecturally remarkable features is its journey through the Sanskrit phoneme system:
 
-| Caraṇam | Opening Sound | Key Theme |
-|---------|--------------|-----------|
-| Pallavi | Hē (vocative) | Invocation and surrender |
-| Caraṇam 1 | A, Ā, I, Ī, U, Ū, Ṛ | The long vowels — cosmic and maternal |
-| Caraṇam 2 | Ḷ, Ē, Ai, Ō, Au | The diphthongs — mantra and beauty |
-| Caraṇam 3 | Ka, Ga, Ca, Ja | The guttural/palatal — warrior and musician |
-| Caraṇam 4 | Ḍa, Ḍha, Ta, Da, Dha, Pa, Pha | Retroflex and dental — earthly and celestial |
-| Caraṇam 5 | Ba, Bha, Ma, Ya, Ra, La, Va | Labials — mother, refuge, grace |
-| Caraṇam 6 | Śa, Ṣa, Sa, Ha, Kṣa | Sibilants and culmination — the final truth |
+| Caraṇam | Opening Sound | Key Theme | தமிழ் சாரம் |
+|---------|--------------|-----------|-------------|
+| Pallavi | Hē (vocative) | Invocation and surrender | அழைத்தல் மற்றும் சரணாகதி |
+| Caraṇam 1 | A, Ā, I, Ī, U, Ū, Ṛ | The long vowels — cosmic and maternal | நீண்ட உயிரெழுத்துகள் — பிரபஞ்ச மற்றும் தாய்மை குணங்கள் |
+| Caraṇam 2 | Ḷ, Ē, Ai, Ō, Au | The diphthongs — mantra and beauty | இரட்டை உயிரெழுத்துகள் — மந்திரம் மற்றும் அழகு |
+| Caraṇam 3 | Ka, Ga, Ca, Ja | The guttural/palatal — warrior and musician | கண்டம்/அண்ணம் — வீரன் மற்றும் இசைஞன் |
+| Caraṇam 4 | Ḍa, Ḍha, Ta, Da, Dha, Pa, Pha | Retroflex and dental — earthly and celestial | மூர்த்தன்யம்/பல் — பூமி மற்றும் வான் |
+| Caraṇam 5 | Ba, Bha, Ma, Ya, Ra, La, Va | Labials — mother, refuge, grace | உதட்டெழுத்துகள் — அன்னை, சரணம், அருள் |
+| Caraṇam 6 | Śa, Ṣa, Sa, Ha, Kṣa | Sibilants and culmination — the final truth | சீறலெழுத்துகள் — இறுதி உண்மை: சத்-சித்-ஆனந்தம் |
 
 The hymn is thus itself a *mālā* — a garland — of sacred sound: moving from the pure open vowel of creation through every family of consonants until the hissing sibilants dissolve into the *kṣara-rahita* (the imperishable) and the final *bhāvitā* (the permeation). To sing it is to travel through the entire sound-body of Sanskrit.
 
 ---
 
-> 🙏 *Śaravaṇabhava! Śaravaṇabhava! Hē Skanda, Mām Pālayā!* 🦚
-
-*This grammatical and devotional commentary is offered with reverence to Sri Sri Sri Ganapathi Sachidananda Swamy, whose compositions make the ancient accessible and the divine intimate.*
+> **🦚 சரவணபவ! சரவணபவ! ஹே ஸ்கந்த, மாம் பாலய! 🦚**
+>
+> 🙏 *Śaravaṇabhava! Śaravaṇabhava! Hē Skanda, Mām Pālayā!* 🙏
