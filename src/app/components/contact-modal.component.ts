@@ -1,6 +1,8 @@
 import { CommonModule } from '@angular/common';
 import { Component, EventEmitter, Output, inject, signal } from '@angular/core';
 import { FormsModule, NgForm } from '@angular/forms';
+import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
+import { CROSS } from '../../data/svg/svg-images';
 import environment from '../../environments/environment';
 import { SnackbarService } from '../services/snackbar.service';
 
@@ -26,10 +28,7 @@ interface ContactFormData {
             <h2 id="contact-modal-title">Contact Me</h2>
           </div>
           <button class="close-button" type="button" (click)="onClose()" aria-label="Close">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-              <line x1="18" y1="6" x2="6" y2="18"></line>
-              <line x1="6" y1="6" x2="18" y2="18"></line>
-            </svg>
+            <span class="close-button__icon" [innerHTML]="crossIcon"></span>
           </button>
         </div>
 
@@ -208,10 +207,16 @@ interface ContactFormData {
       background: #e9ecef;
     }
 
-    .close-button svg {
+    .close-button__icon {
+      display: inline-flex;
       width: 22px;
       height: 22px;
-      stroke-width: 2;
+      color: currentColor;
+    }
+
+    .close-button__icon :where(svg) {
+      width: 22px;
+      height: 22px;
     }
 
     .contact-form {
@@ -392,6 +397,7 @@ interface ContactFormData {
 export class ContactModalComponent {
   @Output() close = new EventEmitter<void>();
 
+  protected readonly crossIcon: SafeHtml;
   protected readonly isSubmitting = signal(false);
   protected readonly inquiryPurposeOptions = [
     'Content-related question',
@@ -405,6 +411,7 @@ export class ContactModalComponent {
   protected formData: ContactFormData = this.createEmptyForm();
 
   private readonly snackbar = inject(SnackbarService);
+  private readonly sanitizer = inject(DomSanitizer);
   private readonly entryIds = {
     name: 'entry.2005620554',
     email: 'entry.1045781291',
@@ -413,6 +420,10 @@ export class ContactModalComponent {
     contentUrl: 'entry.779049869',
     message: 'entry.839337160',
   };
+
+  constructor() {
+    this.crossIcon = this.sanitizer.bypassSecurityTrustHtml(CROSS);
+  }
 
   onClose(): void {
     if (!this.isSubmitting()) {

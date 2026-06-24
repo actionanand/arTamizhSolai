@@ -1,5 +1,7 @@
 import { Component, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
+import { CROSS } from '../../data/svg/svg-images';
 import { SnackbarService } from '../services/snackbar.service';
 
 @Component({
@@ -41,10 +43,7 @@ import { SnackbarService } from '../services/snackbar.service';
         </span>
         <span class="snackbar__text">{{ message.text }}</span>
         <button class="snackbar__close" type="button" (click)="snackbar.dismiss()" aria-label="Dismiss message">
-          <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
-            <path d="M18 6 6 18" />
-            <path d="m6 6 12 12" />
-          </svg>
+          <span class="snackbar__close-icon" [innerHTML]="crossIcon"></span>
         </button>
       </div>
     }
@@ -89,13 +88,22 @@ import { SnackbarService } from '../services/snackbar.service';
     }
 
     .snackbar__icon svg,
-    .snackbar__close svg {
+    .snackbar__close-icon,
+    .snackbar__close-icon :where(svg) {
       width: 20px;
       height: 20px;
+    }
+
+    .snackbar__icon svg {
       stroke: currentColor;
       stroke-width: 2;
       stroke-linecap: round;
       stroke-linejoin: round;
+    }
+
+    .snackbar__close-icon {
+      display: inline-flex;
+      color: currentColor;
     }
 
     .snackbar__text {
@@ -141,4 +149,11 @@ import { SnackbarService } from '../services/snackbar.service';
 })
 export class SnackbarComponent {
   protected readonly snackbar = inject(SnackbarService);
+  protected readonly crossIcon: SafeHtml;
+
+  private readonly sanitizer = inject(DomSanitizer);
+
+  constructor() {
+    this.crossIcon = this.sanitizer.bypassSecurityTrustHtml(CROSS);
+  }
 }
