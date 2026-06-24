@@ -2,16 +2,18 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { NavbarComponent } from './components/navbar.component';
 import { FooterComponent } from './components/footer.component';
+import { SnackbarComponent } from './components/snackbar.component';
 
 @Component({
   selector: 'app-root',
-  imports: [NavbarComponent, RouterOutlet, FooterComponent],
+  imports: [NavbarComponent, RouterOutlet, FooterComponent, SnackbarComponent],
   template: `
     <app-navbar></app-navbar>
     <main class="main-container">
       <router-outlet />
     </main>
     <app-footer></app-footer>
+    <app-snackbar />
   `,
   styles: `
     :host {
