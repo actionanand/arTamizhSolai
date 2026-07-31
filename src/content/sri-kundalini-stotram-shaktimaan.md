@@ -388,7 +388,7 @@ O Lord! In this very world, he becomes Jivanmukta (liberated while living) and M
 
 ## வலையொளி இணைப்பு
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MbxcTm-vnDw?si=DzQtHBxmjcM4_Nyz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::embed[youtube]{MbxcTm-vnDw}
 
 :::explore
 [>] [मेरे विचार और मेरा अनुभव (My thoughts and My Experience)](https://arvindkumarofficial.blogspot.com/2021/01/shaktimaan.html)

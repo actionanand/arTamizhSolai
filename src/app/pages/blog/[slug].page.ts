@@ -5,9 +5,10 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { injectContent, injectContentFiles, MarkdownComponent } from '@analogjs/content';
 import { paginationConfig } from '../../config/pagination-config';
 
-import PostAttributes from '../../post-attributes';
+import PostAttributes, { MediaEmbedFrontmatter } from '../../post-attributes';
 import { createHeadingId, getUniqueHeadingId, HeadingLink } from '../../utilities/markdown-utils';
 import { getCoverImageSrc, getBackgroundImageSrc } from '../../utilities/cover-image-helper';
+import { renderEmbedGroup, isEmbedType, MediaEmbedItem, parseEmbedUrl } from '../../utilities/embed-render';
 import { TableOfContentsComponent } from '../../components/table-of-contents.component';
 import { PostNavigationComponent } from '../../components/post-navigation.component';
 import { AdmonitionTransformPipe } from '../../pipes/admonition-transform.pipe';
@@ -18,11 +19,11 @@ import { CardFormatPipe } from '../../pipes/card-format.pipe';
 import { TabsPipe } from '../../pipes/tabs.pipe';
 import { Base64ImagePipe } from '../../pipes/base64-image.pipe';
 import { FormatDatePipe } from '../../pipes/format-date.pipe';
+import { EmbedPipe } from '../../pipes/embed.pipe';
 import { PasswordModalComponent } from '../../components/password-modal.component';
 import { DonationComponent } from '../../components/donation.component';
 import { ScrollToTopComponent } from '../../components/scroll-to-top.component';
 import { AuthService } from '../../services/auth.service';
-
 @Component({
   selector: 'app-blog-post',
   imports: [
@@ -40,11 +41,11 @@ import { AuthService } from '../../services/auth.service';
     TabsPipe,
     Base64ImagePipe,
     FormatDatePipe,
+    EmbedPipe,
     PasswordModalComponent,
     DonationComponent,
     ScrollToTopComponent,
-  ],
-  template: `
+  ],  template: `
     <app-password-modal></app-password-modal>
     
     @if (post$ | async; as post) {
@@ -121,7 +122,7 @@ import { AuthService } from '../../services/auth.service';
 
         <div class="blog-post__content" #contentRef>
           @if (post.content) {
-          <analog-markdown [content]="(typeof post.content === 'string' ? post.content : '') | processFootnotes | processExplore | admonitionTransform | textFormat | cardFormat | base64Image | tabs" />
+          <analog-markdown [content]="(typeof post.content === 'string' ? post.content : '') | processFootnotes | processExplore | admonitionTransform | textFormat | cardFormat | base64Image | tabs | embed" />
           }
         </div>
       </div>
@@ -138,6 +139,10 @@ import { AuthService } from '../../services/auth.service';
         </div>
         <p>{{ disclaimerText }}</p>
       </section>
+      }
+
+      @if (getEmbedsHtml(post.attributes); as embedsHtml) {
+      <div class="blog-post__embeds" [innerHTML]="embedsHtml"></div>
       }
 
       <!-- Donation Section -->
@@ -715,11 +720,66 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
   private hasExtractedHeadings = false;
   private isBrowser: boolean;
 
+  private embedsCache = new Map<string, SafeHtml | null>();
+
+  /**
+   * Build the frontmatter `embeds` "Video Resources" section as trusted HTML.
+   * Cached per slug so the iframes are not rebuilt on every change detection.
+   */
+  getEmbedsHtml(attrs: PostAttributes | Record<string, never>): SafeHtml | null {
+    if (!attrs || !('embeds' in attrs) || !attrs.embeds?.length) {
+      return null;
+    }
+
+    const cacheKey = attrs.slug || JSON.stringify(attrs.embeds);
+    if (this.embedsCache.has(cacheKey)) {
+      return this.embedsCache.get(cacheKey) ?? null;
+    }
+
+    const items = attrs.embeds
+      .map((raw) => this.resolveEmbed(raw))
+      .filter((item): item is MediaEmbedItem => item !== null);
+
+    const html = items.length
+      ? this.sanitizer.bypassSecurityTrustHtml(renderEmbedGroup(items, attrs.embedsHeading))
+      : null;
+
+    this.embedsCache.set(cacheKey, html);
+    return html;
+  }
+
+  private resolveEmbed(raw: MediaEmbedFrontmatter): MediaEmbedItem | null {
+    if (raw.url) {
+      const parsed = parseEmbedUrl(raw.url);
+      if (!parsed) return null;
+      return {
+        type: parsed.type,
+        id: parsed.id,
+        title: raw.title,
+        startTime: raw.startTime ?? parsed.startTime,
+        username: raw.username ?? parsed.username,
+        align: raw.align,
+      };
+    }
+
+    if (raw.type && raw.id && isEmbedType(raw.type)) {
+      return {
+        type: raw.type,
+        id: raw.id,
+        title: raw.title,
+        startTime: raw.startTime,
+        username: raw.username,
+        align: raw.align,
+      };
+    }
+
+    return null;
+  }
+
   /**
    * Get background image style for the article
    */
-  getBackgroundStyle(attrs: PostAttributes | Record<string, never>): string | null {
-    const bgImageSrc = getBackgroundImageSrc(attrs);
+  getBackgroundStyle(attrs: PostAttributes | Record<string, never>): string | null {    const bgImageSrc = getBackgroundImageSrc(attrs);
     if (bgImageSrc) {
       return `url('${bgImageSrc}')`;
     }
@@ -755,7 +815,8 @@ export default class BlogPost implements OnInit, AfterViewInit, AfterViewChecked
     @Inject(PLATFORM_ID) platformId: object,
     private cdr: ChangeDetectorRef,
     private authService: AuthService,
-    private router: Router
+    private router: Router,
+    private sanitizer: DomSanitizer
   ) {
     this.isBrowser = isPlatformBrowser(platformId);
     

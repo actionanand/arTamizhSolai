@@ -237,7 +237,7 @@ font: "Chenet Classic Tamil"
 
 ## ::combo[color:#0066cc]{வலையொளி இணைப்பு}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v_vGTWdgR2g?si=gdfVVs5kXKSnrxKy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::embed[youtube]{v_vGTWdgR2g}
 
 ## ::combo[color:#0066cc]{ஒலிப் பாடல்கள்}
 

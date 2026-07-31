@@ -22,6 +22,9 @@
 /* Import base64 images styling */
 @import './styles/base64-images.css';
 
+/* Import media embeds styling */
+@import './styles/embeds.css';
+
 /* Global Styles */
 :root {
   font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
