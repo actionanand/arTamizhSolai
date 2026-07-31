@@ -32,4 +32,18 @@ export default interface PostAttributes {
   bgImgBrightness?: number; // 0-100, lower = darker (default: 100)
   bgImgGrayscale?: number; // 0-100, higher = more gray (default: 0)
   bgImgDisableOverlay?: boolean; // Disable white overlay for light backgrounds (default: false)
+  // Media embeds rendered as a "Video Resources" section (YouTube, Instagram,
+  // Facebook, TikTok, Dailymotion). See readme/MEDIA_EMBEDS.md.
+  embeds?: MediaEmbedFrontmatter[];
+  embedsHeading?: string; // Optional heading for the embeds section (default: "Video Resources")
+}
+
+export interface MediaEmbedFrontmatter {
+  type?: string; // Platform type; optional when `url` is a full source URL
+  url?: string; // Full source URL (type auto-detected)
+  id?: string; // Platform-specific id/shortcode (used with `type`)
+  title?: string;
+  startTime?: number; // YouTube only — start playback at N seconds
+  username?: string; // TikTok only — handle without `@`
+  align?: 'left' | 'center' | 'right';
 }

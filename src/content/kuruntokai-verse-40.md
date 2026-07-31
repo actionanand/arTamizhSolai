@@ -180,7 +180,7 @@ The poem celebrates love as a force beyond explanation, beyond family ties, beyo
 
 ### ::combo[color:#0066cc]{வலையொளி இணைப்பு}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UH0haOwkf3Q?si=-f6_ZbcPZ2F3hUbT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::embed[youtube]{UH0haOwkf3Q}
 
 :::footnotes
 [^1]: விக்கிப்பீடியா [செம்புலப்பெயல்நீரார்](https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%86%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%B2%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%86%E0%AE%AF%E0%AE%B2%E0%AF%8D%E0%AE%A8%E0%AF%80%E0%AE%B0%E0%AE%BE%E0%AE%B0%E0%AF%8D)

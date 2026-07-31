@@ -138,7 +138,7 @@ font: "Mukta Malar Tamil"
 
 ### ::combo[color:#0066cc]{வலையொளி இணைப்பு}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V8zXLMIjlcw?si=4FDBpGuv_8t5rWSR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::embed[youtube]{V8zXLMIjlcw}
 
 :::footnotes
 [^1]: **[பாசுரம்](https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%9A%E0%AF%81%E0%AE%B0%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D)** - வைணவ பக்தி இலக்கியத்தில் பயன்படும் சொல். ஆழ்வார்களால் பாடப்பட்ட பக்தி பாடல்களை குறிக்கும். ஒவ்வொரு பாசுரமும் ஆன்மீக உண்மைகளை இனிமையான தமிழில் வெளிப்படுத்துகிறது.

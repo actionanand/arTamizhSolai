@@ -3,5 +3,6 @@ import { bootstrapApplication } from '@angular/platform-browser';
 import { App } from './app/app';
 import { appConfig } from './app/app.config';
 import './app/utilities/tabs-helper';
+import './app/utilities/embed-helper';
 
 bootstrapApplication(App, appConfig);

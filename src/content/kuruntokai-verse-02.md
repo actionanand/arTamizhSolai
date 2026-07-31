@@ -115,7 +115,7 @@ The poem captures the romance of first encounter, where the maiden's modesty pre
 
 #### ::combo[color:#0066cc]{வலையொளி இணைப்பு}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Bd_9aan9_4?si=WW_Nvx4obhI5CX18&amp;start=282" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::embed[youtube]{_Bd_9aan9_4 | title=நக்கீரர், நெற்றிக்கண் திறப்பினும் குற்றம் குற்றமே, என சொல்லும் காட்சி | start=282}
 
 :::footnotes
 [^1]: Nandini Karky's – [Kurunthogai 2 – A drop of delicious honey](https://nandinikarky.com/2021/01/12/kurunthogai-2-a-drop-of-delicious-honey/)

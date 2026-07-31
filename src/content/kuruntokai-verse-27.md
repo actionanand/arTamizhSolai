@@ -188,7 +188,7 @@ The verse's profound sadness comes from this reversal: the beautiful marks of lo
 
 ### ::combo[color:#0066cc]{வலையொளி இணைப்பு}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g5tS0RcK4VY?si=icm5tCY_Odu3GxEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::embed[youtube]{g5tS0RcK4VY}
 
 :::footnotes
 [^1]: **கிழத்தி** (Kilathi) என்பது தமிழில் உரிமையுடையவள், தலைவி, அல்லது இல்லக்கிழத்தி (இல்லத்தின் தலைவி) எனப் பொருள்படும்; சங்க இலக்கியங்களில், இது தலைவனுடன் தொடர்புடைய, உரிமை கொண்டவள் (Lady-love, mistress) என்ற பொருளிலும் பயன்படுத்தப்படுகிறது. **இலக்கியத்தில்**: சங்க இலக்கியங்களில் தலைவி தன் தலைவனுடன் ஊடல் கொள்ளும் போது பயன்படுத்தும் சொல்லாக இது வருகிறது (எ.கா., கிழத்தி கூற்றுப் பத்து). **தொல்காப்பியத்தில்**: "காமக்கிழத்தியர்" என்ற தொடரில், தலைவனால் உரிமை கொண்டாடப்பட்ட பெண்கள் (concubines) என்ற பொருளிலும் வருகிறது.
